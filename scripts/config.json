@@ -1,0 +1,133 @@
+{
+  "project": "guida-ai",
+  "language": "it",
+  "translate_from": "en",
+  "daily_news_count": 8,
+  "daily_guides": 1,
+
+  "feeds": [
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "news",
+      "weight": 3
+    },
+    {
+      "name": "The Verge - AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "category": "news",
+      "weight": 3
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "category": "news",
+      "weight": 2
+    },
+    {
+      "name": "Ars Technica AI",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "category": "news",
+      "weight": 2
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "name": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/feed/",
+      "category": "analysis",
+      "weight": 3
+    },
+    {
+      "name": "Hacker News AI",
+      "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+%22artificial+intelligence%22&points=50",
+      "category": "community",
+      "weight": 1
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "category": "official",
+      "weight": 2
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news/rss.xml",
+      "category": "official",
+      "weight": 3
+    },
+    {
+      "name": "Ars Technica - AI",
+      "url": "https://feeds.arstechnica.com/arstechnica/features",
+      "category": "analysis",
+      "weight": 2
+    },
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "category": "opinion",
+      "weight": 2
+    }
+  ],
+
+  "guide_topics": [
+    {"title": "Cos'è un LLM e come funziona", "level": "principiante", "tag": "fondamenta"},
+    {"title": "Prompt Engineering: le tecniche che funzionano", "level": "principiante", "tag": "pratico"},
+    {"title": "RAG: quando l'AI usa i tuoi documenti", "level": "intermedio", "tag": "architettura"},
+    {"title": "Fine-tuning vs prompting: quando serve cosa", "level": "intermedio", "tag": "pratico"},
+    {"title": "Embeddings e vettori: la base della ricerca AI", "level": "intermedio", "tag": "fondamenta"},
+    {"title": "Agenti AI: come fanno le cose da soli", "level": "intermedio", "tag": "architettura"},
+    {"title": "MCP: il protocollo che connette l'AI agli strumenti", "level": "intermedio", "tag": "strumenti"},
+    {"title": "Allucinazioni: perché l'AI inventa e come ridurle", "level": "principiante", "tag": "fondamenta"},
+    {"title": "Token, contesto e finestra: come l'AI legge", "level": "principiante", "tag": "fondamenta"},
+    {"title": "Modelli locali: AI sul tuo computer con Ollama", "level": "intermedio", "tag": "pratico"},
+    {"title": "Function calling: l'AI che usa strumenti", "level": "avanzato", "tag": "architettura"},
+    {"title": "Chain-of-Thought: insegnare l'AI a ragionare", "level": "intermedio", "tag": "tecnica"},
+    {"title": "Vector DB: Pinecone, Weaviate, Chroma a confronto", "level": "avanzato", "tag": "strumenti"},
+    {"title": "AI Safety: allineamento e guardrails", "level": "intermedio", "tag": "fondamenta"},
+    {"title": "Multimodale: quando l'AI vede, ascolta e crea", "level": "principiante", "tag": "fondamenta"},
+    {"title": "Lo stack AI nel 2026: cosa usare per cosa", "level": "intermedio", "tag": "strumenti"},
+    {"title": "Costi API: quanto costa davvero usare l'AI", "level": "principiante", "tag": "pratico"},
+    {"title": "AI agents vs chatbot: qual è la differenza", "level": "principiante", "tag": "fondamenta"},
+    {"title": "Guardrails e sicurezza nelle app AI", "level": "avanzato", "tag": "sicurezza"},
+    {"title": "Evaluations: come testare se l'AI funziona", "level": "avanzato", "tag": "pratico"},
+    {"title": "Lo schema di un chatbot moderno", "level": "intermedio", "tag": "architettura"},
+    {"title": "Retrieval: come l'AI cerca informazioni", "level": "intermedio", "tag": "architettura"},
+    {"title": "LangChain vs LlamaIndex vs Semantic Kernel", "level": "avanzato", "tag": "strumenti"},
+    {"title": "Image generation: Stable Diffusion, Flux, DALL-E", "level": "principiante", "tag": "strumenti"},
+    {"title": "Voice AI: trascrizione e sintesi vocale", "level": "intermedio", "tag": "strumenti"},
+    {"title": "AI coding assistants: come usarli bene", "level": "principiante", "tag": "pratico"},
+    {"title": "Embeddings personalizzati: quando servono", "level": "avanzato", "tag": "architettura"},
+    {"title": "Streaming e real-time nelle applicazioni AI", "level": "intermedio", "tag": "architettura"},
+    {"title": "AI on the edge: modelli su mobile e IoT", "level": "avanzato", "tag": "architettura"},
+    {"title": "Il futuro degli agenti: cosa cambierà", "level": "principiante", "tag": "opinione"}
+  ],
+
+  "ai_keywords": [
+    "artificial intelligence", "AI", "LLM", "GPT", "Claude", "Gemini",
+    "machine learning", "deep learning", "neural network", "transformer",
+    "generative AI", "large language model", "chatbot", "AI agent",
+    "prompt engineering", "fine-tuning", "RAG", "embedding", "vector",
+    "OpenAI", "Anthropic", "Google AI", "Meta AI", "Mistral", "DeepSeek",
+    "Stable Diffusion", "Midjourney", "DALL-E", "Sora", "Flux",
+    "LangChain", "LlamaIndex", "Hugging Face", "Ollama",
+    "multimodal", "reasoning", "inference", "token", "context window"
+  ],
+
+  "exclude_keywords": [
+    "cryptocurrency price", "stock price prediction", "click here",
+    "buy now", "limited offer", "sponsored"
+  ],
+
+  "scoring": {
+    "source_weight_multiplier": 1.5,
+    "recency_hours": 48,
+    "recency_bonus": 2.0,
+    "keyword_match_bonus": 1.0,
+    "min_score": 2.0
+  }
+}
