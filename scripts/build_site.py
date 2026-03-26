@@ -381,6 +381,202 @@ def build_news_page(data: dict, guide: dict = None) -> str:
 </html>"""
 
 
+# ─── Tools Page ──────────────────────────────────────
+
+def stars(rating: int) -> str:
+    """Convert rating to stars."""
+    return "⭐" * rating + "☆" * (5 - rating)
+
+
+def build_tools_page(tools_data: dict) -> str:
+    """Build the tools HTML page."""
+    tools = tools_data.get("tools", [])
+    updated = tools_data.get("updated_at", "")
+
+    # Group by category
+    categories = {}
+    for t in tools:
+        cat = t.get("category", "uncategorized")
+        if cat not in categories:
+            categories[cat] = []
+        categories[cat].append(t)
+
+    cat_labels = {
+        "coding": "💻 Coding & Sviluppo",
+        "chat": "💬 Chatbot & Assistente",
+        "immagini": "🎨 Generazione Immagini",
+        "musica": "🎵 Generazione Musica",
+        "video": "🎬 Generazione Video",
+        "audio": "🎙️ Audio & Voce",
+        "ricerca": "🔍 Ricerca & Analisi",
+        "agent": "🤖 Agenti",
+        "produttività": "📊 Produttività",
+        "presentazioni": "📽️ Presentazioni",
+        "infrastruttura": "⚙️ Infrastruttura",
+        "framework": "🔧 Framework",
+        "modello": "🧠 Modelli",
+        "uncategorized": "📦 Scoperti di recente",
+    }
+
+    tools_html = ""
+    # Show featured first
+    featured = [t for t in tools if t.get("featured")]
+    if featured:
+        tools_html += '<div class="section-title">⭐ In Evidenza</div>\n'
+        for t in featured:
+            tools_html += tool_card_html(t)
+
+    # Then by category
+    for cat in ["coding", "chat", "immagini", "musica", "video", "audio",
+                 "ricerca", "agent", "produttività", "presentazioni",
+                 "infrastruttura", "framework", "modello", "uncategorized"]:
+        if cat not in categories:
+            continue
+        cat_tools = [t for t in categories[cat] if not t.get("featured")]
+        if not cat_tools:
+            continue
+        label = cat_labels.get(cat, cat)
+        tools_html += f'<div class="section-title">{label}</div>\n'
+        for t in cat_tools:
+            tools_html += tool_card_html(t)
+
+    date_str = format_time(updated) if updated else datetime.now().strftime("%d %B %Y")
+
+    return f"""<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🛠️ Tool AI — AI Hub Italia</title>
+<meta name="description" content="I migliori strumenti di intelligenza artificiale, catalogati e recensiti in italiano.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+<style>{CSS}
+/* ─── Extra Tool Styles ──────────────────────── */
+.tool-card-grid {{
+  display: grid;
+  gap: 12px;
+}}
+.tool-card {{
+  display: flex;
+  flex-direction: column;
+}}
+.tool-card .tool-top {{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}}
+.tool-card .tool-name {{
+  font-size: 16px;
+  font-weight: 700;
+}}
+.tool-card .tool-name a {{
+  color: var(--text);
+  text-decoration: none;
+}}
+.tool-card .tool-name a:hover {{
+  color: var(--accent);
+}}
+.tool-card .tool-cat {{
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(139,92,246,0.1);
+  color: var(--accent);
+}}
+.tool-card .tool-stars {{
+  font-size: 12px;
+  margin-left: auto;
+}}
+.tool-card .tool-desc {{
+  font-size: 13px;
+  color: var(--text2);
+  line-height: 1.6;
+  margin-bottom: 8px;
+}}
+.tool-card .tool-meta {{
+  display: flex;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--text3);
+  flex-wrap: wrap;
+}}
+.tool-card .tool-tags {{
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}}
+.tool-card .tag {{
+  font-size: 10px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--surface2);
+  color: var(--text3);
+}}
+.featured-badge {{
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: rgba(234,179,8,0.15);
+  color: var(--yellow);
+}}
+</style>
+</head>
+<body>
+{nav('tools')}
+<div class="page-header">
+  <h1>🛠️ <span class="gradient">Tool AI</span></h1>
+  <p>I migliori strumenti di intelligenza artificiale, catalogati e recensiti in italiano.</p>
+  <p class="date">Aggiornato: {date_str} · {len(tools)} strumenti</p>
+</div>
+<div class="content tool-card-grid">
+  {tools_html}
+</div>
+<footer>
+  <p>AI Hub Italia — <a href="../index.html">Guida completa</a> · <a href="../news/">📰 News</a></p>
+</footer>
+</body>
+</html>"""
+
+
+def tool_card_html(t: dict) -> str:
+    """Generate HTML for a single tool card."""
+    tags_html = ""
+    tags = t.get("tags", [])
+    if tags:
+        tags_html = '<div class="tool-tags">' + "".join(f'<span class="tag">{escape(tag)}</span>' for tag in tags[:5]) + '</div>'
+
+    featured = '<span class="featured-badge">⭐ In Evidenza</span>' if t.get("featured") else ""
+    rating = stars(t.get("rating", 0))
+    url = escape(t.get("url", "#"))
+    name = escape(t.get("name", ""))
+    desc = escape(t.get("description_it", ""))
+    pricing = escape(t.get("pricing", ""))
+
+    return f"""
+  <div class="news-card">
+    <div class="tool-top">
+      <span class="tool-name"><a href="{url}" target="_blank" rel="noopener">{name}</a></span>
+      <span class="tool-cat">{escape(t.get('category', ''))}</span>
+      {featured}
+      <span class="tool-stars">{rating}</span>
+    </div>
+    <p class="summary">{desc}</p>
+    <div class="tool-meta">
+      <span>💰 {pricing}</span>
+      <a href="{url}" class="link" target="_blank" rel="noopener">{url[:60]}</a>
+    </div>
+    {tags_html}
+  </div>"""
+
+
 # ─── Main ────────────────────────────────────────────
 
 def main():
@@ -413,6 +609,19 @@ def main():
     news_dir.mkdir(exist_ok=True)
     (news_dir / "index.html").write_text(news_html, encoding="utf-8")
     print(f"   ✅ news/index.html")
+
+    # Build tools page
+    tools_path = DATA_DIR / "tools_db.json"
+    if tools_path.exists():
+        with open(tools_path) as f:
+            tools_data = json.load(f)
+        tools_html = build_tools_page(tools_data)
+        tools_dir = BASE_DIR / "tools"
+        tools_dir.mkdir(exist_ok=True)
+        (tools_dir / "index.html").write_text(tools_html, encoding="utf-8")
+        print(f"   ✅ tools/index.html ({tools_data.get('total', 0)} tools)")
+    else:
+        print(f"   ⚠️  No tools_db.json — run tools_scanner.py first")
 
     print("\n🏗️  Site built successfully!")
 
