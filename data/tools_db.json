@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-27T00:04:56.420469+00:00",
-  "total": 45,
+  "updated_at": "2026-03-27T08:00:41.966638+00:00",
+  "total": 65,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,301 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "82156bd2d113",
+      "name": "Web Rewind",
+      "url": "https://www.producthunt.com/products/web-rewind",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An interactive journey through 30 years of the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.782917+00:00"
+    },
+    {
+      "id": "8a3039b38ff5",
+      "name": "Agentation",
+      "url": "https://www.producthunt.com/products/agentation",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The visual feedback tool for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783018+00:00"
+    },
+    {
+      "id": "061d213e6e9d",
+      "name": "Universal CLI by Composio",
+      "url": "https://www.producthunt.com/products/composio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "agent",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect AI agents to 1000+ apps directly from your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783100+00:00"
+    },
+    {
+      "id": "9be3c639011b",
+      "name": "Voxtral TTS by Mistral AI",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "mistral",
+        "speech",
+        "tts"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multilingual TTS model with realistic and expressive speech\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783178+00:00"
+    },
+    {
+      "id": "b020e0690ba0",
+      "name": "Codex Plugins",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Package Codex skills and app integrations as plugins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783249+00:00"
+    },
+    {
+      "id": "e44d95e86fef",
+      "name": "Google Gemini Memory Import",
+      "url": "https://www.producthunt.com/products/gemini-memory-import",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Switch to Gemini without losing your AI memories \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783325+00:00"
+    },
+    {
+      "id": "fd7398c4b1f6",
+      "name": "Benchspan",
+      "url": "https://www.producthunt.com/products/benchspan",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run agent benchmarks in minutes, not hours\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783398+00:00"
+    },
+    {
+      "id": "e43b018b89f5",
+      "name": "Cockpit AI",
+      "url": "https://www.producthunt.com/products/cockpit-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Run revenue agents across every channel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783469+00:00"
+    },
+    {
+      "id": "841d0512a445",
+      "name": "Desk",
+      "url": "https://www.producthunt.com/products/appdesk",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your App Store data, beautifully visualized on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783537+00:00"
+    },
+    {
+      "id": "2ee3b2360034",
+      "name": "Gemini Export Studio",
+      "url": "https://www.producthunt.com/products/gemini-export-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Export Gemini chats to PDF, Markdown, JSON, CSV\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783612+00:00"
+    },
+    {
+      "id": "ca65bab7f5a9",
+      "name": "1DevTool",
+      "url": "https://www.producthunt.com/products/1devtool",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "terminal",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multi-project IDE with persistent terminals and 9 dev tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783684+00:00"
+    },
+    {
+      "id": "522a5ed39e73",
+      "name": "Audos Publishing House",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Build an AI business, get up to $100K. No equity taken\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783745+00:00"
+    },
+    {
+      "id": "b4fa52395d0d",
+      "name": "Focus Flow 6.7",
+      "url": "https://www.producthunt.com/products/focus-flow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan vs reality and multi-team epic reviews in Jira\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783796+00:00"
+    },
+    {
+      "id": "bb4ce810c4df",
+      "name": "Oli",
+      "url": "https://www.producthunt.com/products/oli-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Scan any product to know it's safe during pregnancy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783841+00:00"
+    },
+    {
+      "id": "e1a4f7ac9ed6",
+      "name": "PickleMatch",
+      "url": "https://www.producthunt.com/products/picklematch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "the dating app where your first date is pickleball\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783888+00:00"
+    },
+    {
+      "id": "f92126f0f105",
+      "name": "Hunna",
+      "url": "https://www.producthunt.com/products/hunna",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your CFO in Google Sheets \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783930+00:00"
+    },
+    {
+      "id": "fcf3d4ccaf20",
+      "name": "Stakpak Autopilot",
+      "url": "https://www.producthunt.com/products/stakpak-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep Your Apps Running 24/7\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783973+00:00"
+    },
+    {
+      "id": "7c4805e3d1cf",
+      "name": "Supapin",
+      "url": "https://www.producthunt.com/products/supapin",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scans your site to create pins + SEO‑optimized descriptions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784070+00:00"
+    },
+    {
+      "id": "b05547739510",
+      "name": "DashPane",
+      "url": "https://www.producthunt.com/products/dashpane",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Switch apps at the speed of thought\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784113+00:00"
+    },
+    {
+      "id": "6bcfc49ba6ec",
+      "name": "Noctiluca",
+      "url": "https://www.producthunt.com/products/noctiluca",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A new remote desktop for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784156+00:00"
     },
     {
       "id": "3dc1b58cb46f",
