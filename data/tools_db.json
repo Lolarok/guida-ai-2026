@@ -1,0 +1,989 @@
+{
+  "updated_at": "2026-03-27T08:00:41.966638+00:00",
+  "total": 65,
+  "tools": [
+    {
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "coding",
+        "autocomplete",
+        "chat"
+      ],
+      "pricing": "Freemium ($20/mese Pro)",
+      "description_it": "IDE basato su VS Code con AI integrata. Autocomplete contestuale, chat inline, refactor con un click. Il 'vibe coding' fatto strumento.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "name": "Claude Code",
+      "url": "https://docs.anthropic.com/en/docs/claude-code",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent",
+        "coding",
+        "git"
+      ],
+      "pricing": "Piano Max",
+      "description_it": "Agente di coding nel terminale. Legge il progetto, modifica file, esegue comandi, gestisce git. Un collega che lavora al posto tuo.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://midjourney.com",
+      "category": "immagini",
+      "tags": [
+        "generazione",
+        "immagini",
+        "arte",
+        "v7"
+      ],
+      "pricing": "$10/mese Basic",
+      "description_it": "Generazione immagini AI di altissima qualità. La v7 ha un salto fotorealistico impressionante. Testo nelle immagini finalmente leggibile.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "name": "Suno",
+      "url": "https://suno.com",
+      "category": "musica",
+      "tags": [
+        "generazione",
+        "musica",
+        "audio",
+        "vocale"
+      ],
+      "pricing": "Free / $10/mese Pro",
+      "description_it": "Generazione musicale AI. Scrivi cosa vuoi e in 30 secondi hai una canzone completa: voce, testo, strumenti, mix.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com",
+      "category": "ricerca",
+      "tags": [
+        "ricerca",
+        "documenti",
+        "podcast",
+        "riassunti"
+      ],
+      "pricing": "Gratuito",
+      "description_it": "Carica documenti e l'AI li analizza, genera riassunti e produce podcast audio dove due 'host' discutono i tuoi contenuti. Non allucina.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://windsurf.com",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "coding",
+        "agent",
+        "multi-file"
+      ],
+      "pricing": "Freemium ($15/mese Pro)",
+      "description_it": "IDE AI con Cascade: analizza l'intero progetto e suggerisce modifiche multi-file. Ex Codeium.",
+      "rating": 4,
+      "featured": true
+    },
+    {
+      "name": "OpenClaw",
+      "url": "https://openclaw.ai",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "personale",
+        "open-source",
+        "mcp"
+      ],
+      "pricing": "Open source (MIT)",
+      "description_it": "Agente AI personale che gira sulla tua macchina. Gestisce email, calendario, codice, automazioni. Locale, privato, con MCP nativo.",
+      "rating": 4,
+      "featured": true
+    },
+    {
+      "name": "Flux",
+      "url": "https://blackforestlabs.ai",
+      "category": "immagini",
+      "tags": [
+        "generazione",
+        "immagini",
+        "open-source",
+        "locale"
+      ],
+      "pricing": "Open source / API",
+      "description_it": "Generazione immagini open-source di Black Forest Labs. Gira localmente con 12GB VRAM. L'alternativa a Midjourney per chi vuole controllo totale.",
+      "rating": 4,
+      "featured": true
+    },
+    {
+      "name": "Ollama",
+      "url": "https://ollama.com",
+      "category": "infrastruttura",
+      "tags": [
+        "locale",
+        "llm",
+        "open-source",
+        "self-hosted"
+      ],
+      "pricing": "Open source",
+      "description_it": "Esegui LLM locali in un comando. Llama, DeepSeek, Mistral — tutto sul tuo computer, senza costi, senza privacy concerns.",
+      "rating": 4,
+      "featured": true
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co",
+      "category": "infrastruttura",
+      "tags": [
+        "modelli",
+        "dataset",
+        "open-source",
+        "community"
+      ],
+      "pricing": "Free / Pro",
+      "description_it": "Il 'GitHub dell'AI'. Ospita modelli, dataset, e Spaces (app demo). Dove la community open-source condivide e collabora.",
+      "rating": 5,
+      "featured": false
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "category": "audio",
+      "tags": [
+        "voce",
+        "tts",
+        "clonazione",
+        "audio"
+      ],
+      "pricing": "Free / $5/mese Starter",
+      "description_it": "Sintesi vocale AI ultra-realistica. Clonazione voce, generazione audio in 29 lingue. Lo standard per TTS professionale.",
+      "rating": 5,
+      "featured": false
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "multimodale",
+        "ricerca",
+        "coding"
+      ],
+      "pricing": "Free / $20/mese Plus",
+      "description_it": "Il chatbot più famoso al mondo. GPT-4o con visione, browsing, code interpreter, DALL-E integrato.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "analisi",
+        "coding",
+        "documenti"
+      ],
+      "pricing": "Free / $20/mese Pro",
+      "description_it": "Chatbot di Anthropic. Eccelle in analisi di documenti, coding, e conversazioni articolate. 200K token di contesto.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Aider",
+      "url": "https://aider.chat",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "coding",
+        "open-source",
+        "git"
+      ],
+      "pricing": "Open source",
+      "description_it": "Coding agent open-source nel terminale. Modifica file, fa commit, funziona con qualsiasi LLM. Il favorito della community.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "LangChain",
+      "url": "https://langchain.com",
+      "category": "framework",
+      "tags": [
+        "framework",
+        "python",
+        "agent",
+        "rag"
+      ],
+      "pricing": "Open source / LangSmith ($)",
+      "description_it": "Framework per costruire applicazioni LLM. Chain, agenti, RAG, memory. Il più usato per app AI production-ready.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "ComfyUI",
+      "url": "https://github.com/comfyanonymous/ComfyUI",
+      "category": "immagini",
+      "tags": [
+        "generazione",
+        "immagini",
+        "workflow",
+        "open-source"
+      ],
+      "pricing": "Open source",
+      "description_it": "UI a nodi per generazione immagini AI. Flusso di lavoro visuale con Stable Diffusion, Flux, e altri modelli. Potente e flessibile.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://perplexity.ai",
+      "category": "ricerca",
+      "tags": [
+        "ricerca",
+        "web",
+        "citazioni",
+        "chat"
+      ],
+      "pricing": "Free / $20/mese Pro",
+      "description_it": "Motore di ricerca AI. Cerca il web, sintetizza risposte, cita le fonti. È Google se Google fosse un LLM.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "category": "video",
+      "tags": [
+        "video",
+        "generazione",
+        "editing",
+        "gen-3"
+      ],
+      "pricing": "$12/mese Standard",
+      "description_it": "Generazione e editing video AI. Gen-3 Alpha produce clip video da testo o immagini. Leader nel video AI.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "v0",
+      "url": "https://v0.dev",
+      "category": "coding",
+      "tags": [
+        "ui",
+        "frontend",
+        "generazione",
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Genera interfacce UI da una descrizione testuale. Produce React + Tailwind. Da Vercel — perfetto per prototipi veloci.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://deepseek.com",
+      "category": "modello",
+      "tags": [
+        "llm",
+        "reasoning",
+        "open-source",
+        "cinese"
+      ],
+      "pricing": "Open source / API economica",
+      "description_it": "Il laboratorio cinese che ha scosso l'industria. DeepSeek-R1: reasoning model open-source a una frazione del costo di GPT-4.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "category": "coding",
+      "tags": [
+        "autocomplete",
+        "coding",
+        "ide",
+        "github"
+      ],
+      "pricing": "$10/mese Individual",
+      "description_it": "Autocomplete AI per il codice. Integrazione nativa in VS Code, JetBrains, Neovim. Il coding assistant più diffuso.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Lovable",
+      "url": "https://lovable.dev",
+      "category": "coding",
+      "tags": [
+        "full-stack",
+        "app",
+        "generazione",
+        "web"
+      ],
+      "pricing": "Free tier / $20/mese Pro",
+      "description_it": "Crea app web full-stack da una descrizione. Frontend + backend + database. Ex GPT Engineer.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Bolt.new",
+      "url": "https://bolt.new",
+      "category": "coding",
+      "tags": [
+        "web",
+        "prototipo",
+        "generazione",
+        "browser"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Crea e deploya app web nel browser. Descrivi cosa vuoi, l'AI scrive il codice e lo esegue live. StackBlitz sotto il cofano.",
+      "rating": 4,
+      "featured": false
+    },
+    {
+      "name": "Notion AI",
+      "url": "https://notion.so/product/ai",
+      "category": "produttività",
+      "tags": [
+        "scrittura",
+        "note",
+        "database",
+        "workspace"
+      ],
+      "pricing": "$10/mese add-on",
+      "description_it": "AI integrata in Notion. Scrivi, riassumi, traduci, genera contenuti direttamente nelle tue pagine e database.",
+      "rating": 3,
+      "featured": false
+    },
+    {
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "category": "presentazioni",
+      "tags": [
+        "presentazioni",
+        "slides",
+        "design",
+        "generazione"
+      ],
+      "pricing": "Free / $8/mese Plus",
+      "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
+      "rating": 3,
+      "featured": false
+    },
+    {
+      "id": "82156bd2d113",
+      "name": "Web Rewind",
+      "url": "https://www.producthunt.com/products/web-rewind",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An interactive journey through 30 years of the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.782917+00:00"
+    },
+    {
+      "id": "8a3039b38ff5",
+      "name": "Agentation",
+      "url": "https://www.producthunt.com/products/agentation",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The visual feedback tool for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783018+00:00"
+    },
+    {
+      "id": "061d213e6e9d",
+      "name": "Universal CLI by Composio",
+      "url": "https://www.producthunt.com/products/composio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "agent",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect AI agents to 1000+ apps directly from your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783100+00:00"
+    },
+    {
+      "id": "9be3c639011b",
+      "name": "Voxtral TTS by Mistral AI",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "mistral",
+        "speech",
+        "tts"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multilingual TTS model with realistic and expressive speech\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783178+00:00"
+    },
+    {
+      "id": "b020e0690ba0",
+      "name": "Codex Plugins",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Package Codex skills and app integrations as plugins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783249+00:00"
+    },
+    {
+      "id": "e44d95e86fef",
+      "name": "Google Gemini Memory Import",
+      "url": "https://www.producthunt.com/products/gemini-memory-import",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Switch to Gemini without losing your AI memories \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783325+00:00"
+    },
+    {
+      "id": "fd7398c4b1f6",
+      "name": "Benchspan",
+      "url": "https://www.producthunt.com/products/benchspan",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run agent benchmarks in minutes, not hours\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783398+00:00"
+    },
+    {
+      "id": "e43b018b89f5",
+      "name": "Cockpit AI",
+      "url": "https://www.producthunt.com/products/cockpit-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Run revenue agents across every channel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783469+00:00"
+    },
+    {
+      "id": "841d0512a445",
+      "name": "Desk",
+      "url": "https://www.producthunt.com/products/appdesk",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your App Store data, beautifully visualized on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783537+00:00"
+    },
+    {
+      "id": "2ee3b2360034",
+      "name": "Gemini Export Studio",
+      "url": "https://www.producthunt.com/products/gemini-export-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Export Gemini chats to PDF, Markdown, JSON, CSV\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783612+00:00"
+    },
+    {
+      "id": "ca65bab7f5a9",
+      "name": "1DevTool",
+      "url": "https://www.producthunt.com/products/1devtool",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "terminal",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multi-project IDE with persistent terminals and 9 dev tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783684+00:00"
+    },
+    {
+      "id": "522a5ed39e73",
+      "name": "Audos Publishing House",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Build an AI business, get up to $100K. No equity taken\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783745+00:00"
+    },
+    {
+      "id": "b4fa52395d0d",
+      "name": "Focus Flow 6.7",
+      "url": "https://www.producthunt.com/products/focus-flow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan vs reality and multi-team epic reviews in Jira\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783796+00:00"
+    },
+    {
+      "id": "bb4ce810c4df",
+      "name": "Oli",
+      "url": "https://www.producthunt.com/products/oli-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Scan any product to know it's safe during pregnancy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783841+00:00"
+    },
+    {
+      "id": "e1a4f7ac9ed6",
+      "name": "PickleMatch",
+      "url": "https://www.producthunt.com/products/picklematch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "the dating app where your first date is pickleball\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783888+00:00"
+    },
+    {
+      "id": "f92126f0f105",
+      "name": "Hunna",
+      "url": "https://www.producthunt.com/products/hunna",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your CFO in Google Sheets \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783930+00:00"
+    },
+    {
+      "id": "fcf3d4ccaf20",
+      "name": "Stakpak Autopilot",
+      "url": "https://www.producthunt.com/products/stakpak-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep Your Apps Running 24/7\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.783973+00:00"
+    },
+    {
+      "id": "7c4805e3d1cf",
+      "name": "Supapin",
+      "url": "https://www.producthunt.com/products/supapin",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scans your site to create pins + SEO‑optimized descriptions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784070+00:00"
+    },
+    {
+      "id": "b05547739510",
+      "name": "DashPane",
+      "url": "https://www.producthunt.com/products/dashpane",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Switch apps at the speed of thought\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784113+00:00"
+    },
+    {
+      "id": "6bcfc49ba6ec",
+      "name": "Noctiluca",
+      "url": "https://www.producthunt.com/products/noctiluca",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A new remote desktop for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T08:00:41.784156+00:00"
+    },
+    {
+      "id": "3dc1b58cb46f",
+      "name": "Ikuna",
+      "url": "https://www.producthunt.com/products/ikuna",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A workspace memory for your Mac for focused work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075320+00:00"
+    },
+    {
+      "id": "9e67baae5358",
+      "name": "Claude Mobile: Work Tools",
+      "url": "https://www.producthunt.com/products/claude-mobile-work-tools",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Access Claude work tools on the go\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075435+00:00"
+    },
+    {
+      "id": "ddaf5e175326",
+      "name": "Trivia by Typito AI",
+      "url": "https://www.producthunt.com/products/trivia-by-typito-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create viral quiz & trivia videos with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075524+00:00"
+    },
+    {
+      "id": "18f12ec38614",
+      "name": "MacNotch",
+      "url": "https://www.producthunt.com/products/macnotch-the-notch-reimagined",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your MacBook notch into a modular dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075586+00:00"
+    },
+    {
+      "id": "d2f7ce758223",
+      "name": "Breadth Edits Beta v1.0",
+      "url": "https://www.producthunt.com/products/breadth-edits-beta-v1-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transforms prompts into professional, high-end motion edits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075680+00:00"
+    },
+    {
+      "id": "9d15d8e5ab88",
+      "name": "Eron",
+      "url": "https://www.producthunt.com/products/eron",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "llama"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Portable Ollama instance for working with your own Al\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075765+00:00"
+    },
+    {
+      "id": "88df7782773c",
+      "name": "Luzo",
+      "url": "https://www.producthunt.com/products/luzo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug",
+        "api",
+        "design",
+        "visual",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design and debug API workflows visually\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075847+00:00"
+    },
+    {
+      "id": "a30edc2828f7",
+      "name": "Listen To This",
+      "url": "https://www.producthunt.com/products/listen-to-this",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "podcast",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Paste an article to listen to it in your podcast app \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075966+00:00"
+    },
+    {
+      "id": "e229d75cfd93",
+      "name": "Zcode",
+      "url": "https://www.producthunt.com/products/zcode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build iPhone and Mac native apps with LLMs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076049+00:00"
+    },
+    {
+      "id": "d84abe367880",
+      "name": "Littlebird",
+      "url": "https://www.producthunt.com/products/littlebird",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI assistant that already knows your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076134+00:00"
+    },
+    {
+      "id": "25f0254ac9b8",
+      "name": "Arm AGI CPU",
+      "url": "https://www.producthunt.com/products/arm-agi-cpu",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world’s most efficient agentic CPU\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076234+00:00"
+    },
+    {
+      "id": "6e50c90bb09e",
+      "name": "Nebils",
+      "url": "https://www.producthunt.com/products/nebils",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI social network for humans, agents & models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076318+00:00"
+    },
+    {
+      "id": "d6048fa6ded1",
+      "name": "PinchBench",
+      "url": "https://www.producthunt.com/products/kiloclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the best AI model for your OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076411+00:00"
+    },
+    {
+      "id": "1bc2d861a68a",
+      "name": "Anvil",
+      "url": "https://www.producthunt.com/products/anvil-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run a fleet of parallel Claude Codes \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076492+00:00"
+    },
+    {
+      "id": "bda2450e6efe",
+      "name": "Jentic Mini",
+      "url": "https://www.producthunt.com/products/jentic-mini",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents safe access to 10,000+ APIs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076574+00:00"
+    },
+    {
+      "id": "5b95613027e0",
+      "name": "oval",
+      "url": "https://www.producthunt.com/products/appoval",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship to the App Store with confidence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076652+00:00"
+    },
+    {
+      "id": "8336d294f3e5",
+      "name": "slicer.dev",
+      "url": "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Copy interactive web components as AI prompts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076736+00:00"
+    },
+    {
+      "id": "6eac9293538b",
+      "name": "vit",
+      "url": "https://www.producthunt.com/products/vit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "git",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "git for video editing.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076811+00:00"
+    },
+    {
+      "id": "d114dd54ea3a",
+      "name": "YouTube Transcript Tool",
+      "url": "https://www.producthunt.com/products/youtube-transcript-tool-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "youtube",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert YouTube videos to text instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076904+00:00"
+    },
+    {
+      "id": "a99a746211d9",
+      "name": "Douzo",
+      "url": "https://www.producthunt.com/products/douzo",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Japanese typing practice organized by JLPT level\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.077077+00:00"
+    }
+  ]
+}

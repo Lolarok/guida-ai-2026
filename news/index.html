@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📰 News AI — AI Hub Italia</title>
+<meta name="description" content="Le ultime notizie sull'intelligenza artificiale, tradotte e curate in italiano.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap');
+:root {
+  --bg: #09090b;
+  --surface: #111113;
+  --surface2: #18181b;
+  --border: #27272a;
+  --text: #e4e4e7;
+  --text2: #a1a1aa;
+  --text3: #52525b;
+  --accent: #8b5cf6;
+  --accent2: #06b6d4;
+  --green: #22c55e;
+  --orange: #f97316;
+  --pink: #ec4899;
+  --yellow: #eab308;
+  --red: #ef4444;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', -apple-system, system-ui, sans-serif;
+  line-height: 1.8;
+}
+
+/* ─── Nav ──────────────────────────────────────── */
+nav {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+}
+nav .logo {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+nav .logo span { font-size: 22px; }
+nav .links {
+  display: flex;
+  gap: 20px;
+}
+nav .links a {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text2);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+nav .links a:hover, nav .links a.active {
+  color: var(--accent);
+}
+
+/* ─── Header ───────────────────────────────────── */
+.page-header {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 48px 24px 32px;
+}
+.page-header h1 {
+  font-size: clamp(24px, 4vw, 36px);
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+.page-header h1 .gradient {
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.page-header p {
+  font-size: 14px;
+  color: var(--text2);
+}
+.page-header .date {
+  font-size: 12px;
+  color: var(--text3);
+  margin-top: 4px;
+}
+
+/* ─── Content ──────────────────────────────────── */
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+/* ─── News Card ────────────────────────────────── */
+.news-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 12px;
+  transition: border-color 0.2s;
+  position: relative;
+}
+.news-card:hover {
+  border-color: var(--accent);
+}
+.news-card .card-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.news-card .source {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--accent);
+  background: rgba(139,92,246,0.1);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+.news-card .time {
+  font-size: 11px;
+  color: var(--text3);
+}
+.news-card .score {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--accent2);
+  margin-left: auto;
+}
+.news-card h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+.news-card h3 a {
+  color: var(--text);
+  text-decoration: none;
+}
+.news-card h3 a:hover {
+  color: var(--accent);
+}
+.news-card .summary {
+  font-size: 13px;
+  color: var(--text2);
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+.news-card .link {
+  font-size: 11px;
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--accent);
+  text-decoration: none;
+  word-break: break-all;
+}
+.news-card .link:hover { text-decoration: underline; }
+
+/* ─── Guide Card ───────────────────────────────── */
+.guide-card {
+  background: linear-gradient(135deg, rgba(139,92,246,0.06), rgba(6,182,212,0.06));
+  border: 1px solid rgba(139,92,246,0.2);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+}
+.guide-card .guide-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.guide-card h3 {
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.guide-card .guide-meta {
+  display: flex;
+  gap: 16px;
+  font-size: 11px;
+  color: var(--text3);
+  margin-bottom: 12px;
+}
+.guide-card .guide-body {
+  font-size: 14px;
+  color: var(--text2);
+  line-height: 1.8;
+}
+.guide-card .guide-body strong {
+  color: var(--text);
+}
+.guide-card .guide-body code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  background: var(--surface2);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--accent2);
+}
+.guide-card .guide-body ul {
+  padding-left: 18px;
+  margin: 10px 0;
+}
+.guide-card .guide-body li {
+  margin-bottom: 6px;
+}
+
+/* ─── Section Divider ──────────────────────────── */
+.section-title {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--text3);
+  margin: 40px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ─── Footer ───────────────────────────────────── */
+footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 24px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  font-size: 12px;
+  color: var(--text3);
+}
+footer a { color: var(--accent); text-decoration: none; }
+
+/* ─── Level badges ─────────────────────────────── */
+.level-badge {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+.level-principiante { background: rgba(34,197,94,0.15); color: var(--green); }
+.level-intermedio { background: rgba(234,179,8,0.15); color: var(--yellow); }
+.level-avanzato { background: rgba(239,68,68,0.15); color: var(--red); }
+</style>
+</head>
+<body>
+<nav>
+  <a href="../index.html" class="logo"><span>🧠</span> AI Hub Italia</a>
+  <div class="links">
+    <a href="../index.html">Home</a>
+    <a href="index.html" class="active">📰 News</a>
+    <a href="../tools/index.html">🛠️ Tool</a>
+  </div>
+</nav>
+<div class="page-header">
+  <h1>📰 <span class="gradient">News AI</span></h1>
+  <p>Le ultime notizie dall'AI, raccolte e tradotte ogni giorno.</p>
+  <p class="date">Aggiornato: 27 March 2026 · 43 articoli</p>
+</div>
+<div class="content">
+  
+  <div class="section-title">📖 Impara Oggi</div>
+  <div class="guide-card">
+    <div class="guide-label">Guida quotidiana</div>
+    <h3>Embeddings personalizzati: quando servono</h3>
+    <div class="guide-meta">
+      <span class="level-badge level-avanzato">avanzato</span>
+      <span>🏷️ architettura</span>
+      <span>📖 ~5 min di lettura</span>
+    </div>
+    <div class="guide-body">
+      <p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>
+    </div>
+  </div>
+  <div class="section-title">Ultime Notizie</div>
+  
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 17:31</span>
+      <span class="score">⭐ 11.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27" target="_blank" rel="noopener">Secondo quanto riferito, Apple consentirà ad altri chatbot AI di collegarsi a Siri</a></h3>
+    <p class="summary">L&#x27;aggiornamento iOS 27 di Apple consentirà agli utenti di scegliere il chatbot AI che desiderano collegare a Siri. Questo secondo un rapporto di Mark Gurman di Bloomberg, il quale afferma che i chatbot di terze parti scaricati dall&#x27;App Store, come Gemini di Google o Claude di Anthropic, saranno in grado di recuperare risposte per Siri, in modo simile a come […]</p>
+    <a href="https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27" class="link" target="_blank" rel="noopener">https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 17:44</span>
+      <span class="score">⭐ 10.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history" target="_blank" rel="noopener">Google sta semplificando l’importazione della memoria di un’altra intelligenza artificiale in Gemini</a></h3>
+    <p class="summary">Dopo che Anthropic ha aggiornato il suo strumento per copiare la memoria di un&#x27;altra intelligenza artificiale in Claude all&#x27;inizio di questo mese, Google Gemini sta lanciando nuove funzionalità &quot;Importa memoria&quot; e &quot;Importa cronologia chat&quot; sul desktop che possono aiutare gli utenti a copiare rapidamente tutto ciò che la loro attuale intelligenza artificiale già conosce su di loro. Per utilizzare lo strumento &quot;Importa memoria&quot;, gli utenti copiano e incollano […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 18:34</span>
+      <span class="score">⭐ 9.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/" target="_blank" rel="noopener">OpenAI abbandona ancora un&#x27;altra missione secondaria: la modalità erotica di ChatGPT</a></h3>
+    <p class="summary">È solo l&#x27;ultimo di numerosi progetti collaterali che la startup AI ha abbandonato la scorsa settimana.</p>
+    <a href="https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpt</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 11:30</span>
+      <span class="score">⭐ 9.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener">Mistral rilascia un nuovo modello open source per la generazione vocale</a></h3>
+    <p class="summary">Il modello, che consente alle aziende di creare agenti vocali per le vendite e il coinvolgimento dei clienti, mette Mistral in diretta concorrenza con aziende del calibro di ElevenLabs, Deepgram e OpenAI.</p>
+    <a href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-s</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 01:18</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/" target="_blank" rel="noopener">Anthropic vince un’ingiunzione contro l’amministrazione Trump per la saga del Dipartimento della Difesa</a></h3>
+    <p class="summary">Un giudice federale ha ordinato all’amministrazione Trump di revocare le recenti restrizioni imposte alla società di intelligenza artificiale.</p>
+    <a href="https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-admini</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 23:47</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/" target="_blank" rel="noopener">Ora puoi trasferire le tue chat e le informazioni personali da altri chatbot direttamente a Gemini</a></h3>
+    <p class="summary">Google sta lanciando &quot;strumenti di passaggio&quot; che, proprio come sembra, renderanno più semplice per gli utenti di altri chatbot passare a Gemini.</p>
+    <a href="https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-i</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 20:33</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction" target="_blank" rel="noopener">Il giudice si schiera con Anthropic per bloccare temporaneamente il divieto del Pentagono</a></h3>
+    <p class="summary">Dopo settimane di stallo tra Anthropic e il Pentagono, la società ha raggiunto un traguardo importante: un giudice ha concesso ad Anthropic un&#x27;ingiunzione preliminare nella sua causa, che cercava di invertire la sua lista nera del governo mentre il processo giudiziario si svolgeva. &quot;I registri del Dipartimento della Guerra mostrano che ha designato l&#x27;Anthropic come un rischio per la catena di approvvigionamento a causa del suo &#x27;atteggiamento ostile […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentago</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">oggi, 23:58</span>
+      <span class="score">⭐ 8.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything" target="_blank" rel="noopener">La mia risposta minuto per minuto all&#x27;attacco malware LiteLLM</a></h3>
+    <p class="summary">La mia risposta minuto per minuto all&#x27;attacco malware LiteLLM Callum McMahon ha segnalato l&#x27;attacco malware LiteLLM a PyPI. Qui condivide le trascrizioni di Claude che ha utilizzato per aiutarlo a confermare la vulnerabilità e decidere cosa fare al riguardo. Claude ha persino suggerito l&#x27;indirizzo del contatto di sicurezza PyPI dopo aver confermato il codice dannoso in un contenitore Docker: Confermato . Nuovo download da PyPI proprio ora in un contenitore Docker isolato: Ispezione: litellm-1.82.8-py3-none-any.whl TROVATO: litellm_init.pth...</p>
+    <a href="https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#at</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 21:50</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/" target="_blank" rel="noopener">Wikipedia reprime l’uso dell’intelligenza artificiale nella scrittura degli articoli</a></h3>
+    <p class="summary">Il sito, le cui politiche sono soggette a modifiche, ha lottato con il problema della scrittura generata dall’intelligenza artificiale.</p>
+    <a href="https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-arti</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 18:23</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/" target="_blank" rel="noopener">I data center si preparano: il Senato vuole vedere le tue bollette elettriche</a></h3>
+    <p class="summary">I senatori Josh Hawley ed Elizabeth Warren vogliono che l’Energy Information Administration raccolga maggiori dettagli su come i data center utilizzano l’energia e su come ciò influisce sulla rete.</p>
+    <a href="https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 15:25</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/" target="_blank" rel="noopener">Il nuovo modello di generazione video AI di ByteDance, Dreamina Seedance 2.0, arriva su CapCut</a></h3>
+    <p class="summary">Il nuovo modello di CapCut avrà protezioni integrate per realizzare video da volti reali o proprietà intellettuale non autorizzata.</p>
+    <a href="https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dream</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 19:40</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar" target="_blank" rel="noopener">David Sacks non è più l’intelligenza artificiale della Casa Bianca e lo zar delle criptovalute</a></h3>
+    <p class="summary">David Sacks, il venture capitalist e miliardario tecnologico che è diventato il principale sostenitore della Silicon Valley all&#x27;interno della Casa Bianca e uno dei principali artefici delle sue aggressive iniziative politiche sull&#x27;intelligenza artificiale, ha rivelato giovedì di non essere più un impiegato governativo speciale - e quindi non più il consigliere speciale del presidente Donald Trump su AI e criptovalute. Sacchi’ […]</p>
+    <a href="https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar" class="link" target="_blank" rel="noopener">https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 16:51</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music" target="_blank" rel="noopener">L&#x27;AI Playlist Playground di Apple è pessimo con la musica</a></h3>
+    <p class="summary">Apple Music: &quot;Cosa vuoi sentire?&quot; Io: &quot;Black metal strumentale atmosferico su cui scrivere.&quot; Apple Music: &quot;Ecco tre canzoni metal con voce, una registrazione sul campo, una traccia elettronica ambient e un pezzo di doom jazz.&quot; Sono scettico sulla capacità dell&#x27;intelligenza artificiale di fornire la musica con cui voglio cominciare, ma anche […]</p>
+    <a href="https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music" class="link" target="_blank" rel="noopener">https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 14:47</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion" target="_blank" rel="noopener">Il servizio &amp;#8216;live&amp;#8217; L&#x27;assistente di ricerca AI può gestire conversazioni in decine di altre lingue</a></h3>
+    <p class="summary">Google sta espandendo l&#x27;accesso a Search Live, una funzionalità che ti consente di cercare informazioni utilizzando la voce e la fotocamera. Secondo un annuncio di giovedì, l’assistente di ricerca AI è ora disponibile in più di 200 paesi e territori, oltre a dozzine di lingue. Search Live è stato ampiamente diffuso negli Stati Uniti lo scorso […]</p>
+    <a href="https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion" class="link" target="_blank" rel="noopener">https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 12:30</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses" target="_blank" rel="noopener">Meta si prepara a lanciare due nuovi occhiali Ray-Ban AI</a></h3>
+    <p class="summary">Questo è Lowpass di Janko Roettgers, una newsletter sull&#x27;intersezione in continua evoluzione tra tecnologia e intrattenimento, distribuita solo per gli abbonati di The Verge una volta alla settimana. Meta e il suo partner hardware per occhiali AI EssilorLuxottica si stanno preparando a lanciare la prossima generazione dei loro occhiali AI Ray-Ban. Questo secondo una serie di documenti depositati dalla FCC […]</p>
+    <a href="https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses" class="link" target="_blank" rel="noopener">https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 10:25</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers" target="_blank" rel="noopener">I senatori spingono per scoprire quanta elettricità effettivamente consumano i data center</a></h3>
+    <p class="summary">Giovedì, i senatori Elizabeth Warren (D-MA) e Josh Hawley (R-MO) hanno inviato una lettera all’Energy Information Administration (EIA) chiedendole di raccogliere “divulgazioni annuali complete sull’uso dell’energia” sui data center e di rendere tali informazioni pubblicamente disponibili, come riportato per la prima volta da Wired. Stanno esortando l&#x27;agenzia a &quot;stabilire un obbligo di rendicontazione annuale obbligatoria per i data center&quot;, […]</p>
+    <a href="https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers" class="link" target="_blank" rel="noopener">https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-ce</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 03:55</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://github.com/lightfeed/extractor" target="_blank" rel="noopener">Mostra HN: robusto estrattore LLM per siti Web in TypeScript</a></h3>
+    <p class="summary">È da un po&#x27; che costruiamo pipeline di dati che analizzano siti Web ed estraggono dati strutturati. Se lo hai fatto, conosci la procedura: scrivi selettori CSS, il sito cambia layout, tutto si rompe alle 2 del mattino e passi la mattinata a riscrivere i parser. Gli LLM sembravano la soluzione più ovvia: basta lanciare l&#x27;HTML su GPT e chiedere JSON. Tranne che in pratica è più doloroso di così: - L&#x27;HTML grezzo è pieno di barre di navigazione, piè di pagina e tracciamento di spazzatura che consuma il budget dei tuoi token. Un tipico pr...</p>
+    <a href="https://github.com/lightfeed/extractor" class="link" target="_blank" rel="noopener">https://github.com/lightfeed/extractor</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Google AI Blog</span>
+      <span class="time">oggi, 15:21</span>
+      <span class="score">⭐ 7.0</span>
+    </div>
+    <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/" target="_blank" rel="noopener">Gemini 3.1 Flash Live: rendere l&#x27;intelligenza artificiale audio più naturale e affidabile</a></h3>
+    <p class="summary">Gemini 3.1 Flash Live è ora disponibile su tutti i prodotti Google.</p>
+    <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">oggi, 00:35</span>
+      <span class="score">⭐ 7.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything" target="_blank" rel="noopener">Abbiamo riscritto JSONata con l&#x27;intelligenza artificiale in un giorno, risparmiando $ 500.000 all&#x27;anno</a></h3>
+    <p class="summary">Abbiamo riscritto JSONata con l&#x27;intelligenza artificiale in un giorno, risparmiando $ 500.000 all&#x27;anno di un framing iperbolico, ma questo sembra un altro caso di studio sul porting di vibrazioni, questa volta avviando una nuova implementazione Go personalizzata del linguaggio di espressione JSON JSONata, simile a jq e fortemente associato alla piattaforma Node-RED. Come per altri progetti di porting di Vibe, il fattore chiave è stata la suite di test esistente di JSONata, che ha contribuito a creare la prima versione Go funzionante in 7 ore e $ 400 di spesa in token. Il Rico...</p>
+    <a href="https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">oggi, 16:21</span>
+      <span class="score">⭐ 7.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything" target="_blank" rel="noopener">Quantizzazione da zero</a></h3>
+    <p class="summary">Quantizzazione da zero Sam Rose continua la sua serie di pubblicazioni di saggi interattivi straordinariamente informativi, questa volta spiegando come funziona la quantizzazione dei modelli linguistici di grandi dimensioni (che secondo lui potrebbe essere &quot;il miglior post che abbia mai fatto&quot;). È inclusa anche la migliore spiegazione visiva che abbia mai visto di come i numeri in virgola mobile vengono rappresentati utilizzando le cifre binarie. Non avevo sentito parlare di valori anomali nella quantizzazione: rari valori float che esistono al di fuori della normale distanza di valori minuscoli...</p>
+    <a href="https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-ever</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 22:41</span>
+      <span class="score">⭐ 6.5</span>
+    </div>
+    <h3><a href="https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/" target="_blank" rel="noopener">Mostra HN: ho inserito un agente AI su un VPS da $ 7 al mese con IRC come livello di trasporto</a></h3>
+    <p class="summary">Lo stack: due agenti su scatole separate. Quello pubblico (nullclaw) è un binario Zig da 678 KB che utilizza ~1 MB di RAM, connesso a un server Ergo IRC. I visitatori ci parlano tramite un client web gamja incorporato nel mio sito. Quello privato (Ironclaw) gestisce la posta elettronica e la pianificazione, raggiungibile solo tramite Tailscale tramite il protocollo A2A di Google. Inferenza a più livelli: Haiku 4.5 per la conversazione (meno di un secondo, economico), Sonetto 4.6 per l&#x27;uso degli strumenti (solo quando necessario). Tetto rigido a $ 2 al giorno. Passthrough A2A: l&#x27;agente lato privato prende in prestito...</p>
+    <a href="https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/" class="link" target="_blank" rel="noopener">https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 14:44</span>
+      <span class="score">⭐ 6.5</span>
+    </div>
+    <h3><a href="https://twitter.com/CodeByNZ/status/2036723050197012771" target="_blank" rel="noopener">L&#x27;ultimo repository di OpenAI vede Claude come il terzo contributore principale</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://twitter.com/CodeByNZ/status/2036723050197012771 URL dei commenti: https://news.ycombinator.com/item?id=47518001 Punti: 59 # Commenti: 25</p>
+    <a href="https://twitter.com/CodeByNZ/status/2036723050197012771" class="link" target="_blank" rel="noopener">https://twitter.com/CodeByNZ/status/2036723050197012771</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Google AI Blog</span>
+      <span class="time">oggi, 17:00</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/" target="_blank" rel="noopener">Guarda James Manyika parlare di intelligenza artificiale e creatività con LL COOL J.</a></h3>
+    <p class="summary">Nell&#x27;ultimo episodio della nostra serie Dialoghi su tecnologia e società, LL COOL J incontra James Manyika.</p>
+    <a href="https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Google AI Blog</span>
+      <span class="time">oggi, 15:00</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://blog.google/products-and-platforms/products/search/search-live-global-expansion/" target="_blank" rel="noopener">Search Live si sta espandendo a livello globale</a></h3>
+    <p class="summary">Stiamo espandendo la Ricerca in tempo reale a livello globale, in tutte le lingue e in tutte le località in cui è disponibile la modalità AI.</p>
+    <a href="https://blog.google/products-and-platforms/products/search/search-live-global-expansion/" class="link" target="_blank" rel="noopener">https://blog.google/products-and-platforms/products/search/search-live-global-ex</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica - AI</span>
+      <span class="time">oggi, 16:46</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/" target="_blank" rel="noopener">Recensione Intel Core Ultra 270K e 250K Plus: CPU condizionatamente ottime</a></h3>
+    <p class="summary">Molte delle nostre recensioni di schede grafiche all&#x27;inizio dello scorso anno e all&#x27;inizio degli anni 2020 si sono concentrate sulle difficoltà di rivedere e consigliare le schede grafiche quando i prezzi suggeriti dal produttore effettivamente non esistevano. Ora, le revisioni di qualsiasi nuovo componente per PC devono fare i conti con il mercato molto più ampio e terribile delle parti di PC di consumo poiché la domanda di RAM e chip di memoria flash alimentata dai data center AI fa aumentare i prezzi dei kit DDR5, SSD e GPU. Nella nostra guida di sistema di agosto 2025, 32 GB di DDR5 e un de...</p>
+    <a href="https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-revi</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 13:32</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion" target="_blank" rel="noopener">Utenti di intelligenza artificiale le cui vite sono state distrutte dall&#x27;illusione</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion URL dei commenti: https://news.ycombinator.com/item?id=47530264 Punti: 199 # Commenti: 248</p>
+    <a href="https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion" class="link" target="_blank" rel="noopener">https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrec</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 23:29</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://lab.puga.com.br/cog/" target="_blank" rel="noopener">Mostra HN: un&#x27;architettura cognitiva in testo semplice per Claude Code</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://lab.puga.com.br/cog/ URL dei commenti: https://news.ycombinator.com/item?id=47524704 Punti: 142 # Commenti: 47</p>
+    <a href="https://lab.puga.com.br/cog/" class="link" target="_blank" rel="noopener">https://lab.puga.com.br/cog/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 17:10</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://github.com/jonwiggins/optio" target="_blank" rel="noopener">Mostra HN: Optio: orchestra gli agenti di codifica AI nei K8 per passare dal ticket al PR</a></h3>
+    <p class="summary">Penso che, come molti di voi, ho saltato tra molte sessioni di codice/codice Claude alla volta, gestendo più linee di lavoro e alberi di lavoro in più repository. Volevo un modo per gestire facilmente più linee di lavoro e ridurre la quantità di input che devo fornire, consentendo agli agenti di rimuovermi come collo di bottiglia dalla maggior parte del processo. Quindi ho creato uno strumento di orchestrazione per agenti di codifica AI: Optio è un sistema di orchestrazione open source che trasforma i ticket in richieste pull unite utilizzando...</p>
+    <a href="https://github.com/jonwiggins/optio" class="link" target="_blank" rel="noopener">https://github.com/jonwiggins/optio</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">05 Mar 2026</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/vfl-wolfsburg" target="_blank" rel="noopener">Il VfL Wolfsburg trasforma ChatGPT in una funzionalità a livello di club</a></h3>
+    <p class="summary">Concentrandosi sulle persone, non sui piloti, il club della Bundesliga sta migliorando efficienza, creatività e conoscenza, senza perdere la propria identità calcistica.</p>
+    <a href="https://openai.com/index/vfl-wolfsburg" class="link" target="_blank" rel="noopener">https://openai.com/index/vfl-wolfsburg</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 22:36</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.reco.ai/blog/we-rewrote-jsonata-with-ai" target="_blank" rel="noopener">Abbiamo riscritto JSONata con l&#x27;intelligenza artificiale in un giorno, risparmiando $ 500.000 all&#x27;anno</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai URL dei commenti: https://news.ycombinator.com/item?id=47536712 Punti: 136 # Commenti: 123</p>
+    <a href="https://www.reco.ai/blog/we-rewrote-jsonata-with-ai" class="link" target="_blank" rel="noopener">https://www.reco.ai/blog/we-rewrote-jsonata-with-ai</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 20:35</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai" target="_blank" rel="noopener">Gli ospedali di New York abbandonano Palantir mentre la controversa azienda di intelligenza artificiale si espande nel Regno Unito</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai URL dei commenti: https://news.ycombinator.com/item?id=47535371 Punti: 286 # Commenti: 138</p>
+    <a href="https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai" class="link" target="_blank" rel="noopener">https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-a</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 17:31</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://github.com/itigges22/ATLAS" target="_blank" rel="noopener">La GPU da $ 500 supera Claude Sonnet nei benchmark di codifica</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://github.com/itigges22/ATLAS URL dei commenti: https://news.ycombinator.com/item?id=47533297 Punti: 200 # Commenti: 71</p>
+    <a href="https://github.com/itigges22/ATLAS" class="link" target="_blank" rel="noopener">https://github.com/itigges22/ATLAS</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 18:16</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.claudescode.dev/?window=since_launch" target="_blank" rel="noopener">Il 90% dell&#x27;output collegato a Claude va ai repository GitHub con &lt;2 stelle</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.claudescode.dev/?window=since_launch URL dei commenti: https://news.ycombinator.com/item?id=47521157 Punti: 333 # Commenti: 222</p>
+    <a href="https://www.claudescode.dev/?window=since_launch" class="link" target="_blank" rel="noopener">https://www.claudescode.dev/?window=since_launch</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 12:49</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://ente.com/blog/ensu/" target="_blank" rel="noopener">Ensu – App LLM locale dell’Ente</a></h3>
+    <p class="summary">URL articolo: https://ente.com/blog/ensu/ URL commenti: https://news.ycombinator.com/item?id=47516650 Punti: 358 # Commenti: 168</p>
+    <a href="https://ente.com/blog/ensu/" class="link" target="_blank" rel="noopener">https://ente.com/blog/ensu/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 10:28</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake" target="_blank" rel="noopener">Ho provato a dimostrare che non sono un&#x27;intelligenza artificiale. Mia zia non era convinta</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake URL dei commenti: https://news.ycombinator.com/item?id=47515502 Punti: 173 # Commenti: 195</p>
+    <a href="https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake" class="link" target="_blank" rel="noopener">https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfa</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/" target="_blank" rel="noopener">Disney esce dall&#x27;accordo OpenAI dopo che l&#x27;IA Giant ha chiuso Sora</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/ URL dei commenti: https://news.ycombinator.com/item?id=47509234 Punti: 206 # Commenti: 3</p>
+    <a href="https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/" class="link" target="_blank" rel="noopener">https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://github.com/t8/hypura" target="_blank" rel="noopener">Hypura: uno scheduler di inferenza LLM compatibile con il livello di storage per Apple Silicon</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://github.com/t8/hypura URL dei commenti: https://news.ycombinator.com/item?id=47504695 Punti: 220 # Commenti: 88</p>
+    <a href="https://github.com/t8/hypura" class="link" target="_blank" rel="noopener">https://github.com/t8/hypura</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">25 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" target="_blank" rel="noopener">TurboQuant: ridefinire l&#x27;efficienza dell&#x27;intelligenza artificiale con una compressione estrema</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ URL dei commenti: https://news.ycombinator.com/item?id=47513475 Punti: 544 # Commenti: 154</p>
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" class="link" target="_blank" rel="noopener">https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-co</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/" target="_blank" rel="noopener">Qualcun altro è stanco di parlare di intelligenza artificiale?</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ URL dei commenti: https://news.ycombinator.com/item?id=47508745 Punti: 739 # Commenti: 521</p>
+    <a href="https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/" class="link" target="_blank" rel="noopener">https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://opper.ai/ai-roundtable/" target="_blank" rel="noopener">Mostra HN: Tavola rotonda sull&#x27;intelligenza artificiale: lascia che 200 modelli discutano della tua domanda</a></h3>
+    <p class="summary">Ehi HN! Dopo che il post sul test dell&#x27;autolavaggio ha suscitato un&#x27;ampia discussione (oltre 400 commenti, https://news.ycombinator.com/item?id=47128138), ho trascorso le ultime settimane a creare uno strumento in modo che chiunque possa eseguire questo tipo di domande e ottenere risultati strutturati. Nessuna registrazione e utilizzo gratuito. Digiti una domanda, definisci le opzioni di risposta, scegli fino a 50 modelli alla volta da un pool di oltre 200 e tutti rispondono in modo indipendente in condizioni identiche. Nessun prompt di sistema, output strutturato, stessa configurazione per ogni modello...</p>
+    <a href="https://opper.ai/ai-roundtable/" class="link" target="_blank" rel="noopener">https://opper.ai/ai-roundtable/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/" target="_blank" rel="noopener">L’industria dell’intelligenza artificiale ti sta mentendo</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ URL dei commenti: https://news.ycombinator.com/item?id=47506259 Punti: 164 # Commenti: 130</p>
+    <a href="https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/" class="link" target="_blank" rel="noopener">https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://danielhomola.com/m%20&amp;%20e/ai/your-bridge-to-wealth-is-being-pulled-up/" target="_blank" rel="noopener">Il ponte verso la ricchezza viene costruito grazie all’intelligenza artificiale</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://danielhomola.com/m%20&amp;%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ URL dei commenti: https://news.ycombinator.com/item?id=47503296 Punti: 268 # Commenti: 402</p>
+    <a href="https://danielhomola.com/m%20&amp;%20e/ai/your-bridge-to-wealth-is-being-pulled-up/" class="link" target="_blank" rel="noopener">https://danielhomola.com/m%20&amp;%20e/ai/your-bridge-to-wealth-is-being-pulled-up/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">24 Mar 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html" target="_blank" rel="noopener">Allora dove sono tutte le app AI?</a></h3>
+    <p class="summary">URL dell&#x27;articolo: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html URL dei commenti: https://news.ycombinator.com/item?id=47503006 Punti: 447 # Commenti: 413</p>
+    <a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html" class="link" target="_blank" rel="noopener">https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html</a>
+  </div>
+</div>
+<footer>
+  <p>AI Hub Italia — <a href="../index.html">Guida completa</a></p>
+  <p style="margin-top:8px">Fonti: TechCrunch, The Verge, VentureBeat, Ars Technica, Hacker News e altre</p>
+</footer>
+</body>
+</html>
