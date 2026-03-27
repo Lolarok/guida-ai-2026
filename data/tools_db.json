@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T17:09:06.551177+00:00",
+  "updated_at": "2026-03-27T00:04:56.420469+00:00",
   "total": 45,
   "tools": [
     {
@@ -378,264 +378,317 @@
       "featured": false
     },
     {
-      "id": "d2f7ce758223",
-      "name": "Breadth Edits Beta v1.0",
-      "url": "https://www.producthunt.com/products/breadth-edits-beta-v1-0",
+      "id": "3dc1b58cb46f",
+      "name": "Ikuna",
+      "url": "https://www.producthunt.com/products/ikuna",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
+      "category": "altro",
       "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "pricing": "Free tier",
+      "description_it": "A workspace memory for your Mac for focused work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306734+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075320+00:00"
     },
     {
-      "id": "25f0254ac9b8",
-      "name": "Arm AGI CPU",
-      "url": "https://www.producthunt.com/products/arm-agi-cpu",
+      "id": "9e67baae5358",
+      "name": "Claude Mobile: Work Tools",
+      "url": "https://www.producthunt.com/products/claude-mobile-work-tools",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Access Claude work tools on the go\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306775+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075435+00:00"
     },
     {
-      "id": "e229d75cfd93",
-      "name": "Zcode",
-      "url": "https://www.producthunt.com/products/zcode",
+      "id": "ddaf5e175326",
+      "name": "Trivia by Typito AI",
+      "url": "https://www.producthunt.com/products/trivia-by-typito-ai",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create viral quiz & trivia videos with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306788+00:00"
-    },
-    {
-      "id": "188f57e46974",
-      "name": "Inspekt",
-      "url": "https://www.producthunt.com/products/inspekt",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306798+00:00"
-    },
-    {
-      "id": "5b95613027e0",
-      "name": "oval",
-      "url": "https://www.producthunt.com/products/appoval",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306810+00:00"
-    },
-    {
-      "id": "9d15d8e5ab88",
-      "name": "Eron",
-      "url": "https://www.producthunt.com/products/eron",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306822+00:00"
-    },
-    {
-      "id": "061028d23713",
-      "name": "Mokkit",
-      "url": "https://www.producthunt.com/products/mokkit-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306852+00:00"
-    },
-    {
-      "id": "88df7782773c",
-      "name": "Luzo",
-      "url": "https://www.producthunt.com/products/luzo",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306867+00:00"
-    },
-    {
-      "id": "6e50c90bb09e",
-      "name": "Nebils",
-      "url": "https://www.producthunt.com/products/nebils",
-      "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
-      "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306881+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075524+00:00"
     },
     {
       "id": "18f12ec38614",
       "name": "MacNotch",
       "url": "https://www.producthunt.com/products/macnotch-the-notch-reimagined",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
+      "category": "altro",
       "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "pricing": "Free tier",
+      "description_it": "Turn your MacBook notch into a modular dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306894+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075586+00:00"
     },
     {
-      "id": "133ef53157a7",
-      "name": "Spotify SongDNA",
-      "url": "https://www.producthunt.com/products/spotify",
+      "id": "d2f7ce758223",
+      "name": "Breadth Edits Beta v1.0",
+      "url": "https://www.producthunt.com/products/breadth-edits-beta-v1-0",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "video",
+      "tags": [
+        "motion",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transforms prompts into professional, high-end motion edits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306905+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075680+00:00"
     },
     {
-      "id": "a99a746211d9",
-      "name": "Douzo",
-      "url": "https://www.producthunt.com/products/douzo",
+      "id": "9d15d8e5ab88",
+      "name": "Eron",
+      "url": "https://www.producthunt.com/products/eron",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "chat",
+      "tags": [
+        "llama"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Portable Ollama instance for working with your own Al\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306914+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075765+00:00"
     },
     {
-      "id": "bda2450e6efe",
-      "name": "Jentic Mini",
-      "url": "https://www.producthunt.com/products/jentic-mini",
+      "id": "88df7782773c",
+      "name": "Luzo",
+      "url": "https://www.producthunt.com/products/luzo",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "debug",
+        "api",
+        "design",
+        "visual",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design and debug API workflows visually\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306925+00:00"
+      "discovered_at": "2026-03-27T00:04:56.075847+00:00"
+    },
+    {
+      "id": "a30edc2828f7",
+      "name": "Listen To This",
+      "url": "https://www.producthunt.com/products/listen-to-this",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "podcast",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Paste an article to listen to it in your podcast app \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.075966+00:00"
+    },
+    {
+      "id": "e229d75cfd93",
+      "name": "Zcode",
+      "url": "https://www.producthunt.com/products/zcode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build iPhone and Mac native apps with LLMs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076049+00:00"
     },
     {
       "id": "d84abe367880",
       "name": "Littlebird",
       "url": "https://www.producthunt.com/products/littlebird",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI assistant that already knows your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306935+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076134+00:00"
     },
     {
-      "id": "8f5312778af2",
-      "name": "Linear Agent",
-      "url": "https://www.producthunt.com/products/linear-agent",
+      "id": "25f0254ac9b8",
+      "name": "Arm AGI CPU",
+      "url": "https://www.producthunt.com/products/arm-agi-cpu",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world’s most efficient agentic CPU\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306945+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076234+00:00"
+    },
+    {
+      "id": "6e50c90bb09e",
+      "name": "Nebils",
+      "url": "https://www.producthunt.com/products/nebils",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI social network for humans, agents & models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076318+00:00"
+    },
+    {
+      "id": "d6048fa6ded1",
+      "name": "PinchBench",
+      "url": "https://www.producthunt.com/products/kiloclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the best AI model for your OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076411+00:00"
     },
     {
       "id": "1bc2d861a68a",
       "name": "Anvil",
       "url": "https://www.producthunt.com/products/anvil-5",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run a fleet of parallel Claude Codes \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306955+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076492+00:00"
     },
     {
-      "id": "b14ca07febef",
-      "name": "StreamPad",
-      "url": "https://www.producthunt.com/products/streampad",
+      "id": "bda2450e6efe",
+      "name": "Jentic Mini",
+      "url": "https://www.producthunt.com/products/jentic-mini",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents safe access to 10,000+ APIs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306972+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076574+00:00"
     },
     {
-      "id": "172dd06142c1",
-      "name": "Breadcrumb",
-      "url": "https://www.producthunt.com/products/breadcrumb-2",
+      "id": "5b95613027e0",
+      "name": "oval",
+      "url": "https://www.producthunt.com/products/appoval",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship to the App Store with confidence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306982+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076652+00:00"
     },
     {
-      "id": "3dc1b58cb46f",
-      "name": "Ikuna",
-      "url": "https://www.producthunt.com/products/ikuna",
+      "id": "8336d294f3e5",
+      "name": "slicer.dev",
+      "url": "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "dev",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Copy interactive web components as AI prompts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.306992+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076736+00:00"
     },
     {
-      "id": "899ddf5362f1",
-      "name": "Venn.ai",
-      "url": "https://www.producthunt.com/products/venn-ai-2",
+      "id": "6eac9293538b",
+      "name": "vit",
+      "url": "https://www.producthunt.com/products/vit",
       "source": "Product Hunt AI (feed)",
-      "category": "uncategorized",
-      "tags": [],
-      "pricing": "Unknown",
-      "description_it": "",
-      "rating": 0,
+      "category": "coding",
+      "tags": [
+        "ide",
+        "git",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "git for video editing.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
       "featured": false,
-      "discovered_at": "2026-03-26T17:09:06.307002+00:00"
+      "discovered_at": "2026-03-27T00:04:56.076811+00:00"
+    },
+    {
+      "id": "d114dd54ea3a",
+      "name": "YouTube Transcript Tool",
+      "url": "https://www.producthunt.com/products/youtube-transcript-tool-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "youtube",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert YouTube videos to text instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.076904+00:00"
+    },
+    {
+      "id": "a99a746211d9",
+      "name": "Douzo",
+      "url": "https://www.producthunt.com/products/douzo",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Japanese typing practice organized by JLPT level\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-27T00:04:56.077077+00:00"
     }
   ]
 }

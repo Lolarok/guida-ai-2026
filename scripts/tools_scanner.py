@@ -315,8 +315,125 @@ def tool_id(name: str, url: str) -> str:
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
 
+# ─── Auto-categorization ────────────────────────────
+
+CATEGORY_KEYWORDS = {
+    "coding": [
+        "code", "coding", "ide", "editor", "developer", "programming", "dev",
+        "copilot", "autocomplete", "debug", "git", "github", "deploy",
+        "compiler", "linter", "refactor", "api", "sdk", "cli", "terminal",
+        "full-stack", "frontend", "backend", "react", "vue", "node",
+        "python", "javascript", "typescript", "rust", "golang",
+    ],
+    "chat": [
+        "chat", "chatbot", "conversation", "assistant", "virtual assistant",
+        "gpt", "claude", "gemini", "llama", "mistral", "copilot",
+        "answer", "question", "ask", "talk",
+    ],
+    "immagini": [
+        "image", "photo", "picture", "art", "design", "illustration",
+        "logo", "icon", "graphic", "visual", "generate image", "dall-e",
+        "midjourney", "stable diffusion", "flux", "avatar", "background",
+        "screenshot", "mockup",
+    ],
+    "musica": [
+        "music", "song", "audio", "sound", "beat", "melody",
+        "compose", "instrument", "vocal", "singing", "playlist",
+    ],
+    "video": [
+        "video", "film", "movie", "clip", "animation", "motion",
+        "screen", "recording", "stream", "youtube", "tiktok",
+        "subtitle", "caption",
+    ],
+    "audio": [
+        "voice", "speech", "tts", "stt", "transcri", "podcast",
+        "microphone", "audio", "noise", "vocal", "dubbing", "clone voice",
+    ],
+    "ricerca": [
+        "search", "research", "find", "discover", "explore", "index",
+        "summarize", "summary", "analysis", "analyt", "insight", "data",
+        "perplexity", "notebook", "document",
+    ],
+    "agent": [
+        "agent", "automat", "workflow", "orchestrat", "bot",
+        "integration", "connect", "zapier", "action", "tool use",
+    ],
+    "produttività": [
+        "productivity", "note", "task", "project", "calendar", "email",
+        "writing", "document", "spreadsheet", "meeting", "schedule",
+        "crm", "erp", "organiz",
+    ],
+    "presentazioni": [
+        "presentation", "slide", "deck", "pitch", "powerpoint",
+        "keynote", "visual presentation",
+    ],
+    "marketing": [
+        "marketing", "seo", "content", "social media", "ad",
+        "campaign", "brand", "copywrit", "email marketing", "growth",
+    ],
+    "scrittura": [
+        "writing", "write", "essay", "blog", "article", "content generat",
+        "copy", "text generat", "story", "novel", "grammar",
+    ],
+}
+
+
+def infer_category(name: str, description: str = "") -> tuple:
+    """Infer category and tags from tool name and description."""
+    text = f"{name} {description}".lower()
+
+    scores = {}
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in text)
+        if score > 0:
+            scores[cat] = score
+
+    if not scores:
+        return "altro", []
+
+    # Best category
+    best_cat = max(scores, key=scores.get)
+
+    # Tags: which keywords matched
+    matched_tags = []
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in text and kw not in matched_tags:
+                matched_tags.append(kw)
+                if len(matched_tags) >= 5:
+                    break
+        if len(matched_tags) >= 5:
+            break
+
+    return best_cat, matched_tags
+
+
+def infer_pricing(text: str) -> str:
+    """Try to infer pricing from description/title."""
+    text = text.lower()
+    if any(w in text for w in ["free", "gratuito", "open source", "open-source", "oss"]):
+        if any(w in text for w in ["premium", "pro", "paid", "plan", "tier"]):
+            return "Freemium"
+        return "Free"
+    if any(w in text for w in ["$", "€", "/month", "/mese", "plan", "pricing"]):
+        return "Freemium"
+    return "Free tier"
+
+
+def clean_summary(raw: str) -> str:
+    """Strip HTML and clean RSS summary text."""
+    import re
+    text = re.sub(r"<[^>]+>", "", raw).strip()
+    # Remove common RSS artifacts
+    text = re.sub(r"\s*\(opens in new (tab|window)\)\s*", "", text, flags=re.I)
+    text = re.sub(r"\s*Read more\s*$", "", text, flags=re.I)
+    if len(text) > 300:
+        text = text[:297] + "..."
+    return text
+
+
 def scan_rss_tools(source: dict) -> list:
-    """Scan an RSS feed for tool mentions."""
+    """Scan an RSS feed for tool mentions with auto-categorization."""
     tools = []
     print(f"  📡 Scanning: {source['name']}...", end=" ", flush=True)
 
@@ -341,12 +458,20 @@ def scan_rss_tools(source: dict) -> list:
         if not title or not link:
             continue
 
-        # Extract tool name from title (common patterns: "New AI Tool: X" or "X - AI tool")
+        # Extract tool name from title
         name = re.sub(r"^(New |Top \d+ )?(AI )?(Tool|App|Platform|Software)[\s:]*", "", title, flags=re.I)
         name = re.sub(r"\s*[-–|].*$", "", name).strip()
 
         if len(name) < 3 or len(name) > 60:
             continue
+
+        # Get description from RSS
+        raw_desc = entry.get("summary", "") or entry.get("description", "")
+        description = clean_summary(raw_desc)
+
+        # Auto-categorize
+        category, tags = infer_category(name, description)
+        pricing = infer_pricing(f"{name} {description}")
 
         tid = tool_id(name, link)
 
@@ -355,11 +480,11 @@ def scan_rss_tools(source: dict) -> list:
             "name": name,
             "url": link,
             "source": source["name"],
-            "category": "uncategorized",
-            "tags": [],
-            "pricing": "Unknown",
-            "description_it": "",
-            "rating": 0,
+            "category": category,
+            "tags": tags,
+            "pricing": pricing,
+            "description_it": description,
+            "rating": 2,  # Default for discovered tools
             "featured": False,
             "discovered_at": datetime.now(timezone.utc).isoformat(),
         })

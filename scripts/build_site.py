@@ -409,12 +409,15 @@ def build_tools_page(tools_data: dict) -> str:
         "video": "🎬 Generazione Video",
         "audio": "🎙️ Audio & Voce",
         "ricerca": "🔍 Ricerca & Analisi",
-        "agent": "🤖 Agenti",
+        "agent": "🤖 Agenti & Automazione",
         "produttività": "📊 Produttività",
         "presentazioni": "📽️ Presentazioni",
+        "marketing": "📢 Marketing",
+        "scrittura": "✍️ Scrittura & Contenuti",
         "infrastruttura": "⚙️ Infrastruttura",
         "framework": "🔧 Framework",
         "modello": "🧠 Modelli",
+        "altro": "📦 Altri Strumenti",
         "uncategorized": "📦 Scoperti di recente",
     }
 
@@ -429,7 +432,8 @@ def build_tools_page(tools_data: dict) -> str:
     # Then by category
     for cat in ["coding", "chat", "immagini", "musica", "video", "audio",
                  "ricerca", "agent", "produttività", "presentazioni",
-                 "infrastruttura", "framework", "modello", "uncategorized"]:
+                 "marketing", "scrittura",
+                 "infrastruttura", "framework", "modello", "altro", "uncategorized"]:
         if cat not in categories:
             continue
         cat_tools = [t for t in categories[cat] if not t.get("featured")]
