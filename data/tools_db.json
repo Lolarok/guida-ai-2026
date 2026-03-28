@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-27T08:00:41.966638+00:00",
-  "total": 65,
+  "updated_at": "2026-03-28T07:44:56.275688+00:00",
+  "total": 84,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,319 @@
       "featured": false
     },
     {
+      "id": "7e3ade1c6419",
+      "name": "Bulk Exporter for Sora",
+      "url": "https://www.producthunt.com/products/bulk-exporter-for-sora",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "image",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "1-click backup for your Sora videos, images & prompts.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003590+00:00"
+    },
+    {
+      "id": "371c4bc5059e",
+      "name": "DwellRecord",
+      "url": "https://www.producthunt.com/products/dwellrecord",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep your home records all together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003668+00:00"
+    },
+    {
+      "id": "17c9afef2b4d",
+      "name": "Glance",
+      "url": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "screenshot",
+        "screen",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real browser for Claude Code Test, Screenshot, Automate     \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003744+00:00"
+    },
+    {
+      "id": "8d13e7fa4cfe",
+      "name": "Domscribe",
+      "url": "https://www.producthunt.com/products/domscribe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "frontend",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI coding agent eyes on your running frontend\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003818+00:00"
+    },
+    {
+      "id": "2fcd83b01417",
+      "name": "Aera Browser",
+      "url": "https://www.producthunt.com/products/aera-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The browser built for automation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003885+00:00"
+    },
+    {
+      "id": "5a983ce7a80c",
+      "name": "Crossnode",
+      "url": "https://www.producthunt.com/products/crossnode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "node",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Vibe code AI agents and put them behind a payment wall\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.003958+00:00"
+    },
+    {
+      "id": "713861d64bdc",
+      "name": "RepoLens",
+      "url": "https://www.producthunt.com/products/repolens",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free",
+      "description_it": "Know what changed and what matters across your codebase\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004036+00:00"
+    },
+    {
+      "id": "32046db8cf41",
+      "name": "Lexaclaw",
+      "url": "https://www.producthunt.com/products/lexaclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Startup legal compliance built on OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004154+00:00"
+    },
+    {
+      "id": "7c967ce8461a",
+      "name": "Able",
+      "url": "https://www.producthunt.com/products/able-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One-click WCAG & ADA accessibility audits for any webpage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004238+00:00"
+    },
+    {
+      "id": "95c9d88755b7",
+      "name": "Spokk",
+      "url": "https://www.producthunt.com/products/spokk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Feedback, reviews, loyalty & referrals for SMB\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004295+00:00"
+    },
+    {
+      "id": "e580dd24c92a",
+      "name": "BNA",
+      "url": "https://www.producthunt.com/products/bna-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "full-stack",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agent that builds full-stack iOS & Android apps with auth\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004367+00:00"
+    },
+    {
+      "id": "592894d35778",
+      "name": "SlapMac",
+      "url": "https://www.producthunt.com/products/slapmac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Slap your MacBook. It screams back. That's it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004423+00:00"
+    },
+    {
+      "id": "0eba9aced31d",
+      "name": "arent for Gmail",
+      "url": "https://www.producthunt.com/products/apparent-for-gmail",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make Gmail easier to read and manage.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004491+00:00"
+    },
+    {
+      "id": "b55134f6f8d8",
+      "name": "Expect",
+      "url": "https://www.producthunt.com/products/expect",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let agents test your code in a real browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004558+00:00"
+    },
+    {
+      "id": "22a31e64968c",
+      "name": "Cohere Transcribe",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "art",
+        "speech",
+        "transcri"
+      ],
+      "pricing": "Free",
+      "description_it": "New state-of-the-art in open source speech recognition\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004633+00:00"
+    },
+    {
+      "id": "4cc5032d2a8d",
+      "name": "CrabTalk",
+      "url": "https://www.producthunt.com/products/crabtalk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "talk",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The agent daemon that hides nothing. 8MB. Open Source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004703+00:00"
+    },
+    {
+      "id": "914a35919f2e",
+      "name": "Remodex",
+      "url": "https://www.producthunt.com/products/remodex",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Codex remote control  on iOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004766+00:00"
+    },
+    {
+      "id": "a323f0a013c0",
+      "name": "Santana",
+      "url": "https://www.producthunt.com/products/santana",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Realtime data viz in your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004829+00:00"
+    },
+    {
+      "id": "c4d9190e8c0d",
+      "name": "WordPress Studio CLI",
+      "url": "https://www.producthunt.com/products/wordpress-studio-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "WordPress Studio now has an independently installable CLI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004902+00:00"
+    },
+    {
+      "id": "e44d95e86fef",
+      "name": "Google Gemini Memory Import",
+      "url": "https://www.producthunt.com/products/gemini-memory-import",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Switch to Gemini without losing your AI memories \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-28T07:44:56.004976+00:00"
+    },
+    {
       "id": "82156bd2d113",
       "name": "Web Rewind",
       "url": "https://www.producthunt.com/products/web-rewind",
@@ -456,21 +769,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-03-27T08:00:41.783249+00:00"
-    },
-    {
-      "id": "e44d95e86fef",
-      "name": "Google Gemini Memory Import",
-      "url": "https://www.producthunt.com/products/gemini-memory-import",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gemini"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Switch to Gemini without losing your AI memories \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-27T08:00:41.783325+00:00"
     },
     {
       "id": "fd7398c4b1f6",
