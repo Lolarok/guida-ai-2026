@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T07:44:56.275688+00:00",
-  "total": 84,
+  "updated_at": "2026-03-29T07:51:59.621140+00:00",
+  "total": 96,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,319 @@
       "featured": false
     },
     {
+      "id": "30e484daba08",
+      "name": "Sheet Ninja",
+      "url": "https://www.producthunt.com/products/sheet-ninja-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship vibe-coded apps. Your data stays in Google Sheets.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.461866+00:00"
+    },
+    {
+      "id": "dce28a50084d",
+      "name": "Cline Kanban",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "cli",
+        "agent",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "CLI-agnostic kanban for multi-agent orchestration\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.461962+00:00"
+    },
+    {
+      "id": "992be9730caf",
+      "name": "Dipshot",
+      "url": "https://www.producthunt.com/products/dipshot",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Capture, Annotate & Export\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462017+00:00"
+    },
+    {
+      "id": "a4a8236fd39e",
+      "name": "Pensieve",
+      "url": "https://www.producthunt.com/products/pensieve-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full company context for every AI conversation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462089+00:00"
+    },
+    {
+      "id": "325aceb09fbb",
+      "name": "Peopling",
+      "url": "https://www.producthunt.com/products/peopling",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Practice difficult conversations before they happen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462161+00:00"
+    },
+    {
+      "id": "6d0f344e61d3",
+      "name": "Genzi",
+      "url": "https://www.producthunt.com/products/genzi",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The social app built around music\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462227+00:00"
+    },
+    {
+      "id": "5e97888801e1",
+      "name": "CodingPrep",
+      "url": "https://www.producthunt.com/products/codingprep",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free",
+      "description_it": "Open Source coding interview prep tool with AI interviewer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462307+00:00"
+    },
+    {
+      "id": "ea143558bdb6",
+      "name": "Parallel Code",
+      "url": "https://www.producthunt.com/products/parallel-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use Claude Code, Codex, and Gemini in parallel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462382+00:00"
+    },
+    {
+      "id": "6071809d20b4",
+      "name": "SUN (a16z Speedrun 006)",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Personalized AI audio lessons generated on demand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462456+00:00"
+    },
+    {
+      "id": "c6aa2cae87ab",
+      "name": "GuideYou",
+      "url": "https://www.producthunt.com/products/guideyou",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Guidance for everyday technology\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462534+00:00"
+    },
+    {
+      "id": "3e7b2914f1cd",
+      "name": "Clico",
+      "url": "https://www.producthunt.com/products/clico",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every textbox, supercharged\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462600+00:00"
+    },
+    {
+      "id": "906fbe41207d",
+      "name": "Google Search Live",
+      "url": "https://www.producthunt.com/products/google-search-live",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Interactive, multimodal conversation in AI Mode\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462671+00:00"
+    },
+    {
+      "id": "c4d9190e8c0d",
+      "name": "WordPress Studio CLI",
+      "url": "https://www.producthunt.com/products/wordpress-studio-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "WordPress Studio now has an independently installable CLI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462743+00:00"
+    },
+    {
+      "id": "b55134f6f8d8",
+      "name": "Expect",
+      "url": "https://www.producthunt.com/products/expect",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let agents test your code in a real browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462836+00:00"
+    },
+    {
+      "id": "e580dd24c92a",
+      "name": "BNA",
+      "url": "https://www.producthunt.com/products/bna-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "full-stack",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agent that builds full-stack iOS & Android apps with auth\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462917+00:00"
+    },
+    {
+      "id": "4cc5032d2a8d",
+      "name": "CrabTalk",
+      "url": "https://www.producthunt.com/products/crabtalk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "talk",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The agent daemon that hides nothing. 8MB. Open Source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.462990+00:00"
+    },
+    {
+      "id": "8d13e7fa4cfe",
+      "name": "Domscribe",
+      "url": "https://www.producthunt.com/products/domscribe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "frontend",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI coding agent eyes on your running frontend\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.463064+00:00"
+    },
+    {
+      "id": "5a983ce7a80c",
+      "name": "Crossnode",
+      "url": "https://www.producthunt.com/products/crossnode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "node",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Vibe code AI agents and put them behind a payment wall\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.463136+00:00"
+    },
+    {
+      "id": "2fcd83b01417",
+      "name": "Aera Browser",
+      "url": "https://www.producthunt.com/products/aera-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The browser built for automation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.463203+00:00"
+    },
+    {
+      "id": "7c967ce8461a",
+      "name": "Able",
+      "url": "https://www.producthunt.com/products/able-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One-click WCAG & ADA accessibility audits for any webpage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-29T07:51:59.463275+00:00"
+    },
+    {
       "id": "7e3ade1c6419",
       "name": "Bulk Exporter for Sora",
       "url": "https://www.producthunt.com/products/bulk-exporter-for-sora",
@@ -428,55 +741,6 @@
       "discovered_at": "2026-03-28T07:44:56.003744+00:00"
     },
     {
-      "id": "8d13e7fa4cfe",
-      "name": "Domscribe",
-      "url": "https://www.producthunt.com/products/domscribe",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "frontend",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Give your AI coding agent eyes on your running frontend\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.003818+00:00"
-    },
-    {
-      "id": "2fcd83b01417",
-      "name": "Aera Browser",
-      "url": "https://www.producthunt.com/products/aera-browser",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "automat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The browser built for automation\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.003885+00:00"
-    },
-    {
-      "id": "5a983ce7a80c",
-      "name": "Crossnode",
-      "url": "https://www.producthunt.com/products/crossnode",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "node",
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "Vibe code AI agents and put them behind a payment wall\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.003958+00:00"
-    },
-    {
       "id": "713861d64bdc",
       "name": "RepoLens",
       "url": "https://www.producthunt.com/products/repolens",
@@ -507,22 +771,6 @@
       "discovered_at": "2026-03-28T07:44:56.004154+00:00"
     },
     {
-      "id": "7c967ce8461a",
-      "name": "Able",
-      "url": "https://www.producthunt.com/products/able-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "One-click WCAG & ADA accessibility audits for any webpage\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.004238+00:00"
-    },
-    {
       "id": "95c9d88755b7",
       "name": "Spokk",
       "url": "https://www.producthunt.com/products/spokk",
@@ -534,22 +782,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-03-28T07:44:56.004295+00:00"
-    },
-    {
-      "id": "e580dd24c92a",
-      "name": "BNA",
-      "url": "https://www.producthunt.com/products/bna-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "full-stack",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI agent that builds full-stack iOS & Android apps with auth\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.004367+00:00"
     },
     {
       "id": "592894d35778",
@@ -580,22 +812,6 @@
       "discovered_at": "2026-03-28T07:44:56.004491+00:00"
     },
     {
-      "id": "b55134f6f8d8",
-      "name": "Expect",
-      "url": "https://www.producthunt.com/products/expect",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Let agents test your code in a real browser\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.004558+00:00"
-    },
-    {
       "id": "22a31e64968c",
       "name": "Cohere Transcribe",
       "url": "https://www.producthunt.com/products/cohere-2",
@@ -611,23 +827,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-03-28T07:44:56.004633+00:00"
-    },
-    {
-      "id": "4cc5032d2a8d",
-      "name": "CrabTalk",
-      "url": "https://www.producthunt.com/products/crabtalk",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "talk",
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "The agent daemon that hides nothing. 8MB. Open Source\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.004703+00:00"
     },
     {
       "id": "914a35919f2e",
@@ -659,21 +858,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-03-28T07:44:56.004829+00:00"
-    },
-    {
-      "id": "c4d9190e8c0d",
-      "name": "WordPress Studio CLI",
-      "url": "https://www.producthunt.com/products/wordpress-studio-cli",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli"
-      ],
-      "pricing": "Free tier",
-      "description_it": "WordPress Studio now has an independently installable CLI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-03-28T07:44:56.004902+00:00"
     },
     {
       "id": "e44d95e86fef",
