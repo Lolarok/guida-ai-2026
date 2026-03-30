@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-29T07:51:59.621140+00:00",
-  "total": 96,
+  "updated_at": "2026-03-30T08:27:45.114421+00:00",
+  "total": 116,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "de5f9c68fdac",
+      "name": "Latchkey",
+      "url": "https://www.producthunt.com/products/imbue-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Credential layer for local AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910074+00:00"
+    },
+    {
+      "id": "40feeedcec80",
+      "name": "Ollang DX",
+      "url": "https://www.producthunt.com/products/ollang-mcp-skills-sdk-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI Language Execution Layer for Enterprise\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910171+00:00"
+    },
+    {
+      "id": "196d1f3f006e",
+      "name": "PopTask",
+      "url": "https://www.producthunt.com/products/poptask-menu-bar-task-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Light menu bar task manager for quickly capturing tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910247+00:00"
+    },
+    {
+      "id": "750b5d3014e7",
+      "name": "Diploi",
+      "url": "https://www.producthunt.com/products/diploi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "full-stack"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Go from zero to a live full-stack app with 3 clicks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910316+00:00"
+    },
+    {
+      "id": "6da8e7a208f9",
+      "name": "Notion MCP",
+      "url": "https://www.producthunt.com/products/notion-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Notion workspace, inside every AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910384+00:00"
+    },
+    {
+      "id": "0b1c1d66b788",
+      "name": "Halo Vision Headphones",
+      "url": "https://www.producthunt.com/products/halo-headphones",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Headphones with a camera to capture moments as you jam\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910460+00:00"
+    },
+    {
+      "id": "3c0b71cdc952",
+      "name": "Blood Sugar Journal",
+      "url": "https://www.producthunt.com/products/blood-sugar-journal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI-powered diabetes tracking for the modern era. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910522+00:00"
+    },
+    {
+      "id": "df45163c73aa",
+      "name": "ClawKing",
+      "url": "https://www.producthunt.com/products/clawking",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "On-chain AI battle royale where 8 lobsters fight\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910579+00:00"
+    },
+    {
+      "id": "f76a635ee8bb",
+      "name": "Neuralingo Language Learning",
+      "url": "https://www.producthunt.com/products/neuralingo-language-learning",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "slowly inch your way to mastery: try, fail, learn, get good\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910637+00:00"
+    },
+    {
+      "id": "58c427aea252",
+      "name": "dictate.",
+      "url": "https://www.producthunt.com/products/dictate",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Replace your iPhone keyboard with AI voice typing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910712+00:00"
+    },
+    {
+      "id": "fecb31a170ed",
+      "name": "Streva",
+      "url": "https://www.producthunt.com/products/streva",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Instant Translation, Anywhere you type\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910763+00:00"
+    },
+    {
+      "id": "4fd071f60baf",
+      "name": "nCompass AI Assistant",
+      "url": "https://www.producthunt.com/products/ncompass-tech",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Enabling everyone to write GPU kernels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910835+00:00"
+    },
+    {
+      "id": "703b47edbb8c",
+      "name": "Git Blog",
+      "url": "https://www.producthunt.com/products/git-blog",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "blog"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Publish sites using Markdown & GitHub from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910903+00:00"
+    },
+    {
+      "id": "0e78176ceba0",
+      "name": "VibeTalent",
+      "url": "https://www.producthunt.com/products/vibetalent",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find vibe coders who actually ship\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.910970+00:00"
+    },
+    {
+      "id": "92db1ff5a1e3",
+      "name": "MulmoChat",
+      "url": "https://www.producthunt.com/products/mulmochat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Modular Interface for visually interactive AI responses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911040+00:00"
+    },
+    {
+      "id": "92b314abad25",
+      "name": "AISpace",
+      "url": "https://www.producthunt.com/products/aispace",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "All frontier AI models in one space \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911110+00:00"
+    },
+    {
+      "id": "02110f681960",
+      "name": "FreeCAD 1.1",
+      "url": "https://www.producthunt.com/products/freecad-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Extremely powerful, completely free 3D CAD modeling\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911185+00:00"
+    },
+    {
+      "id": "17dfc1b9fe3e",
+      "name": "Letterbook",
+      "url": "https://www.producthunt.com/products/letterbook",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI support platform built for founders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911238+00:00"
+    },
+    {
+      "id": "d86ce08db58e",
+      "name": "Invoke",
+      "url": "https://www.producthunt.com/products/invoke-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "visual",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Agentic coding IDE with visual planning boards and canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911313+00:00"
+    },
+    {
+      "id": "aa848722e1e9",
+      "name": "Goals",
+      "url": "https://www.producthunt.com/products/goals",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI turns your goal into one daily action.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-30T08:27:44.911383+00:00"
     },
     {
       "id": "30e484daba08",
