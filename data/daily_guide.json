@@ -1,9 +1,9 @@
 {
-  "title": "Il futuro degli agenti: cosa cambierà",
+  "title": "Cos'è un LLM e come funziona",
   "level": "principiante",
-  "tag": "opinione",
-  "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-03-30T08:27:45.172404+00:00",
-  "day_of_year": 89,
-  "topic_index": 29
+  "tag": "fondamenta",
+  "content_html": "\n<p>Un <strong>LLM</strong> (Large Language Model) è un'intelligenza artificiale addestrata su enormi quantità di testo per imparare a prevedere la parola successiva in una frase.</p>\n<p><strong>Il concetto chiave:</strong> Quando scrivi \"Il gatto è salito sul...\" l'LLM calcola la probabilità di ogni parola possibile. \"Tavolo\" ha alta probabilità, \"giraffa\" ha bassa probabilità. Non \"pensa\" — calcola statistiche.</p>\n<ul>\n  <li><strong>Training:</strong> L'LLM legge miliardi di pagine web, libri, articoli — e impara schemi linguistici</li>\n  <li><strong>Parametri:</strong> GPT-4 ha ~1.8 trilioni di parametri — numeri che rappresentano la \"conoscenza\"</li>\n  <li><strong>Contesto:</strong> L'LLM \"ricorda\" solo le ultime migliaia di token (parole) della conversazione</li>\n  <li><strong>Token:</strong> L'unità base — \"intelligenza\" potrebbe essere 2-3 token, non una parola intera</li>\n</ul>\n<p><strong>Perché è importante:</strong> Capire che l'LLM è un predittore statistico, non un essere pensante, ti aiuta a usarlo meglio. Sapevi che non \"sa\" nulla — associa pattern.</p>\n",
+  "selected_at": "2026-03-31T08:09:11.677146+00:00",
+  "day_of_year": 90,
+  "topic_index": 0
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T08:27:45.114421+00:00",
-  "total": 116,
+  "updated_at": "2026-03-31T08:09:11.619823+00:00",
+  "total": 136,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "88943015886d",
+      "name": "Reframe",
+      "url": "https://www.producthunt.com/products/reframe-carousel-designer-for-creators",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turns your voice notes into professional social posts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.470676+00:00"
+    },
+    {
+      "id": "1ca34a778b5e",
+      "name": "Relacan",
+      "url": "https://www.producthunt.com/products/relacan",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your canvas becomes a website. Think, arrange, publish.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.470754+00:00"
+    },
+    {
+      "id": "f5768d3d009e",
+      "name": "Metabase Data Studio",
+      "url": "https://www.producthunt.com/products/metabase",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "rust",
+        "analyt",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build the semantic layer that makes AI analytics trustworthy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.470837+00:00"
+    },
+    {
+      "id": "f83eb65d1156",
+      "name": "Mux: Auto Network Switch",
+      "url": "https://www.producthunt.com/products/mux-auto-network-switch",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automatic priority-based network switching for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.470914+00:00"
+    },
+    {
+      "id": "307ccd57261b",
+      "name": "Computer Use in Claude Code",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let Claude use your computer from the CLI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.470990+00:00"
+    },
+    {
+      "id": "7dec77f292f3",
+      "name": "Unify",
+      "url": "https://www.producthunt.com/products/unify-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hire AI colleagues you onboard just like real people \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471046+00:00"
+    },
+    {
+      "id": "aa018a819954",
+      "name": "JobFlow",
+      "url": "https://www.producthunt.com/products/jobflow-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI co-pilot for job hunting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471106+00:00"
+    },
+    {
+      "id": "d56183e6c85d",
+      "name": "HoneyComb",
+      "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Predication market for job impacted by AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471165+00:00"
+    },
+    {
+      "id": "218dae427701",
+      "name": "UNCHIKUN",
+      "url": "https://www.producthunt.com/products/unchikun-poop-tracker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track your poops with friends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471241+00:00"
+    },
+    {
+      "id": "50f8966feda0",
+      "name": "Qwen3.5",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native omni model for voice, video, and tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471332+00:00"
+    },
+    {
+      "id": "08f61d354e1a",
+      "name": "Solvea",
+      "url": "https://www.producthunt.com/products/solvea",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create your AI receptionist that answers, books, and sells\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471412+00:00"
+    },
+    {
+      "id": "3e82c31f7a73",
+      "name": "Viktor for Media Buyers",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manages your Meta and Google Ads from Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471487+00:00"
+    },
+    {
+      "id": "41dacf2b23c0",
+      "name": "Jupid",
+      "url": "https://www.producthunt.com/products/jupid",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "File your taxes with Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471554+00:00"
+    },
+    {
+      "id": "b54fb8293270",
+      "name": "layer",
+      "url": "https://www.producthunt.com/products/layer-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep local repo files out of git without changing .gitignore\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471627+00:00"
+    },
+    {
+      "id": "83c50bec5163",
+      "name": "Planana AI",
+      "url": "https://www.producthunt.com/products/planana-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Break any skill into a plan you can actually follow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471683+00:00"
+    },
+    {
+      "id": "986b3114ae1c",
+      "name": "Arlopass",
+      "url": "https://www.producthunt.com/products/arlopass",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI wallet that lets web apps use your models, not your keys\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471738+00:00"
+    },
+    {
+      "id": "723d074914cc",
+      "name": "FireAPI",
+      "url": "https://www.producthunt.com/products/fireapi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover, consume, and monetize APIs in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471809+00:00"
+    },
+    {
+      "id": "b0d3532d7e29",
+      "name": "LobeHub IM Integration",
+      "url": "https://www.producthunt.com/products/lobehub",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "chat",
+        "agent",
+        "integration",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your AI agent right where your team already works\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471887+00:00"
+    },
+    {
+      "id": "9ee6fc0dfda0",
+      "name": "Pixero AI",
+      "url": "https://www.producthunt.com/products/pixero-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenClaw for AI Ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.471952+00:00"
+    },
+    {
+      "id": "564d63ccb237",
+      "name": "Codync",
+      "url": "https://www.producthunt.com/products/codync",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Monitor Claude Code sessions in real-time, from anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-03-31T08:09:11.472028+00:00"
     },
     {
       "id": "de5f9c68fdac",
