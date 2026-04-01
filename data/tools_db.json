@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T08:09:11.619823+00:00",
-  "total": 136,
+  "updated_at": "2026-04-01T08:17:58.024886+00:00",
+  "total": 156,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,309 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1163d2a21aea",
+      "name": "IdeaBoard95",
+      "url": "https://www.producthunt.com/products/ideaboard95",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A community idea board that looks like Windows 95\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831426+00:00"
+    },
+    {
+      "id": "e2e69efb25ac",
+      "name": "SubscriptionFlow IQ",
+      "url": "https://www.producthunt.com/products/subscriptionflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn Website Visitors into Customers with AI Conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831523+00:00"
+    },
+    {
+      "id": "93b691ac103c",
+      "name": "Snapstick: Photos to Stickers",
+      "url": "https://www.producthunt.com/products/snapstick-photos-to-stickers",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your camera roll into group chat chaos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831598+00:00"
+    },
+    {
+      "id": "b134210555d1",
+      "name": "CapyCursor",
+      "url": "https://www.producthunt.com/products/capycursor",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cursor highlight, screen draw, zoom & spotlight\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831665+00:00"
+    },
+    {
+      "id": "d11d26b52fd5",
+      "name": "Claras",
+      "url": "https://www.producthunt.com/products/claras",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "chat",
+        "video",
+        "youtube",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Skip ahead & chat with any YouTube video using AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831731+00:00"
+    },
+    {
+      "id": "740cd5a921a9",
+      "name": "GeoPreview",
+      "url": "https://www.producthunt.com/products/geopreview",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Preview GIS files directly in Finder (GeoJSON, SHP, GPKG)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831806+00:00"
+    },
+    {
+      "id": "8cd37b999c94",
+      "name": "Elephant Folio",
+      "url": "https://www.producthunt.com/products/elephant-folio",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The PDF Library that automatically organizes itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831883+00:00"
+    },
+    {
+      "id": "d2c2214c4f57",
+      "name": "zero",
+      "url": "https://www.producthunt.com/products/zero-deploy-apps-to-your-own-server",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One command to deploy Docker containers to your own server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.831959+00:00"
+    },
+    {
+      "id": "f6096ba48a81",
+      "name": "Zzzappy",
+      "url": "https://www.producthunt.com/products/zzzappy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Science-backed breaks to protect your vision & prevent RSI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832011+00:00"
+    },
+    {
+      "id": "7c1978f4902a",
+      "name": "Wispli",
+      "url": "https://www.producthunt.com/products/wispli",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "productivity"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI voice-to-text productivity app with multilingual support\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832079+00:00"
+    },
+    {
+      "id": "019292f2ac3d",
+      "name": "VoiceZeroAI",
+      "url": "https://www.producthunt.com/products/voicezeroai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI voice feedback that catches complaints before bad reviews\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832149+00:00"
+    },
+    {
+      "id": "1c0ddbd5216c",
+      "name": "Stiinks.co",
+      "url": "https://www.producthunt.com/products/liinks",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Link-in-bio, but worse.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832191+00:00"
+    },
+    {
+      "id": "28deca8ebc8c",
+      "name": "Netwoke",
+      "url": "https://www.producthunt.com/products/netwoke",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Monitor network connections to protect from unknown networks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832259+00:00"
+    },
+    {
+      "id": "9b0872291b9d",
+      "name": "ClawMetry for NVIDIA NemoClaw",
+      "url": "https://www.producthunt.com/products/clawmetry",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know what's happening inside your NemoClaw sandboxes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832339+00:00"
+    },
+    {
+      "id": "15bf8fdeb44f",
+      "name": "flock",
+      "url": "https://www.producthunt.com/products/flock-let-your-agents-loose",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run a flock of Claude Code (or other agents) in one window.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832405+00:00"
+    },
+    {
+      "id": "15aea7ad1fc6",
+      "name": "Tictable",
+      "url": "https://www.producthunt.com/products/tictable",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "spreadsheet",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The spreadsheet rebuilt for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832466+00:00"
+    },
+    {
+      "id": "54b6677b3194",
+      "name": "Noiz Easter Voice",
+      "url": "https://www.producthunt.com/products/noiz-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Crack an Easter egg to generate an AI voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832535+00:00"
+    },
+    {
+      "id": "8b51df86ad9b",
+      "name": "Remodex",
+      "url": "https://www.producthunt.com/products/remodex-codex-remote-control",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control Codex on your iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832599+00:00"
+    },
+    {
+      "id": "2436fc1ed519",
+      "name": "Ray",
+      "url": "https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Meta's first AI glasses built for prescriptions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832647+00:00"
+    },
+    {
+      "id": "25def4cf13c2",
+      "name": "traceAI",
+      "url": "https://www.producthunt.com/products/future-agi",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source LLM tracing that speaks GenAI, not HTTP.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-01T08:17:57.832698+00:00"
     },
     {
       "id": "88943015886d",
