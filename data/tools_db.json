@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T08:17:58.024886+00:00",
-  "total": 156,
+  "updated_at": "2026-04-02T08:07:37.756561+00:00",
+  "total": 176,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,300 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "edf16d4e235a",
+      "name": "Cushion",
+      "url": "https://www.producthunt.com/products/cushion-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Opensource AI note taking app \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534147+00:00"
+    },
+    {
+      "id": "d5bd45da5235",
+      "name": "Wan 2.7",
+      "url": "https://www.producthunt.com/products/wan-2-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Interactive pixel-level editing and consistent storyboards\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534245+00:00"
+    },
+    {
+      "id": "e49d1a51daa5",
+      "name": "Mngr",
+      "url": "https://www.producthunt.com/products/imbue-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run 100s of Claude agents in parallel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534316+00:00"
+    },
+    {
+      "id": "aead888f4f33",
+      "name": "Raise Your Vibe: Daily Wisdom",
+      "url": "https://www.producthunt.com/products/daily-wisdom-raise-your-vibe",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "5-minute philosophy audio lessons to elevate your spirit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534393+00:00"
+    },
+    {
+      "id": "d337c0e6142e",
+      "name": "SampleStack",
+      "url": "https://www.producthunt.com/products/samplestack",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "instrument"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The native macOS sample manager built for every instrument\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534468+00:00"
+    },
+    {
+      "id": "4a8a5bd009cc",
+      "name": "KanbanTab",
+      "url": "https://www.producthunt.com/products/kanbantab",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your New Tab into a fast & private Kanban board\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534522+00:00"
+    },
+    {
+      "id": "715d2a337aa5",
+      "name": "Mode AI",
+      "url": "https://www.producthunt.com/products/mode-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Assistant in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534591+00:00"
+    },
+    {
+      "id": "67ee8027ad24",
+      "name": "CAPTCHA Royale",
+      "url": "https://www.producthunt.com/products/captcha-royale",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Race to solve CAPTCHAs, last player standing wins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534653+00:00"
+    },
+    {
+      "id": "cb1a84d162c6",
+      "name": "Create Mappins",
+      "url": "https://www.producthunt.com/products/create-mappins",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Create custom map pins and embed anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534705+00:00"
+    },
+    {
+      "id": "000a43d74c43",
+      "name": "Cosyra",
+      "url": "https://www.producthunt.com/products/cosyra",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run AI coding agents from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534768+00:00"
+    },
+    {
+      "id": "8964d10bff75",
+      "name": "Gyuni Player",
+      "url": "https://www.producthunt.com/products/gyuni-player",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A more refined video player for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534834+00:00"
+    },
+    {
+      "id": "6b4931014e54",
+      "name": "Flowith Canvas",
+      "url": "https://www.producthunt.com/products/flowith",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A new way to interact with AI beyond traditional chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534905+00:00"
+    },
+    {
+      "id": "97a3eb560080",
+      "name": "Protocol: Survival",
+      "url": "https://www.producthunt.com/products/protocol-survival",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know your gaps. Close them. Before it matters.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.534956+00:00"
+    },
+    {
+      "id": "be380871d96a",
+      "name": "GitCity",
+      "url": "https://www.producthunt.com/products/gitcity",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your GitHub contributions as 3D city you can drive through\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535024+00:00"
+    },
+    {
+      "id": "575d25ebebea",
+      "name": "DealForge",
+      "url": "https://www.producthunt.com/products/dealforge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Analyze real estate deals in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535095+00:00"
+    },
+    {
+      "id": "1da693540375",
+      "name": "Mac Pet",
+      "url": "https://www.producthunt.com/products/mac-pet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A pixel pet for your menu bar or MacBook notch w/ Pomodoro \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535151+00:00"
+    },
+    {
+      "id": "04af10a777c9",
+      "name": "Grok 4.2 Beta 2",
+      "url": "https://www.producthunt.com/products/grok-4-2-beta-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time multi-agent AI that debates itself to find truth.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535224+00:00"
+    },
+    {
+      "id": "65d36a319b0e",
+      "name": "Jetson",
+      "url": "https://www.producthunt.com/products/jetson-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automatically turn support messages into product updates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535296+00:00"
+    },
+    {
+      "id": "d6e5ecdd2123",
+      "name": "Chunk",
+      "url": "https://www.producthunt.com/products/chunk-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual timeblocking app for MacOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535358+00:00"
+    },
+    {
+      "id": "99658f5764c3",
+      "name": "DemoVeil",
+      "url": "https://www.producthunt.com/products/demoveil",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Prepare your Mac screen for calls, demos, and captures\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-02T08:07:37.535427+00:00"
     },
     {
       "id": "1163d2a21aea",
