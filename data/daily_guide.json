@@ -1,9 +1,9 @@
 {
-  "title": "Prompt Engineering: le tecniche che funzionano",
-  "level": "principiante",
-  "tag": "pratico",
-  "content_html": "\n<p>Il <strong>prompt engineering</strong> è l'arte di scrivere istruzioni efficaci per un'AI. La stessa richiesta formulata in modo diverso può dare risultati completamente diversi.</p>\n<p><strong>3 tecniche che funzionano davvero:</strong></p>\n<ul>\n  <li><strong>1. Sii specifico:</strong> Non \"scrivi un articolo\" ma \"scrivi un articolo di 500 parole per un blog tech, tono informale, pubblico principiante, sul tema RAG\"</li>\n  <li><strong>2. Dai un ruolo:</strong> \"Agisci come un senior developer con 10 anni di esperienza in Python\" — il contesto cambia completamente la risposta</li>\n  <li><strong>3. Esempi (few-shot):</strong> Mostra 2-3 esempi di cosa vuoi. L'LLM impara dal pattern meglio che dalle istruzioni</li>\n</ul>\n<p><strong>Chain-of-Thought:</strong> Aggiungi \"Pensa passo dopo passo\" per problemi complessi. L'LLM dividerà il ragionamento in fasi, riducendo gli errori.</p>\n<p><strong>Il segreto:</strong> Tratta l'AI come un neo-assunto brillante ma letterale. Più contesto e chiarezza dai, meglio lavora.</p>\n",
-  "selected_at": "2026-04-01T08:17:58.077395+00:00",
-  "day_of_year": 91,
-  "topic_index": 1
+  "title": "RAG: quando l'AI usa i tuoi documenti",
+  "level": "intermedio",
+  "tag": "architettura",
+  "content_html": "\n<p><strong>RAG</strong> (Retrieval-Augmented Generation) è la tecnica che permette a un'AI di rispondere usando i TUOI documenti, non solo quello che ha imparato durante il training.</p>\n<p><strong>Come funziona:</strong></p>\n<ul>\n  <li><strong>1. Indicizzazione:</strong> I tuoi documenti vengono divisi in pezzi e trasformati in vettori numerici (embeddings)</li>\n  <li><strong>2. Ricerca:</strong> Quando fai una domanda, viene anch'essa trasformata in vettore e confrontata con i documenti</li>\n  <li><strong>3. Recupero:</strong> I pezzi più simili alla tua domanda vengono selezionati</li>\n  <li><strong>4. Generazione:</strong> L'LLM riceve i pezzi rilevanti + la tua domanda e genera una risposta basata su di essi</li>\n</ul>\n<p><strong>Perché è importante:</strong> Senza RAG, l'AI inventa risposte basandosi su pattern generici. Con RAG, risponde basandosi sui fatti contenuti nei tuoi documenti. È la differenza tra un consulente generico e uno che ha letto il tuo caso specifico.</p>\n<p><strong>Tool:</strong> LangChain, LlamaIndex, e vector DB come Chroma, Pinecone, o Weaviate.</p>\n",
+  "selected_at": "2026-04-02T08:07:37.814327+00:00",
+  "day_of_year": 92,
+  "topic_index": 2
 }
