@@ -1,9 +1,9 @@
 {
-  "title": "RAG: quando l'AI usa i tuoi documenti",
+  "title": "Fine-tuning vs prompting: quando serve cosa",
   "level": "intermedio",
-  "tag": "architettura",
-  "content_html": "\n<p><strong>RAG</strong> (Retrieval-Augmented Generation) è la tecnica che permette a un'AI di rispondere usando i TUOI documenti, non solo quello che ha imparato durante il training.</p>\n<p><strong>Come funziona:</strong></p>\n<ul>\n  <li><strong>1. Indicizzazione:</strong> I tuoi documenti vengono divisi in pezzi e trasformati in vettori numerici (embeddings)</li>\n  <li><strong>2. Ricerca:</strong> Quando fai una domanda, viene anch'essa trasformata in vettore e confrontata con i documenti</li>\n  <li><strong>3. Recupero:</strong> I pezzi più simili alla tua domanda vengono selezionati</li>\n  <li><strong>4. Generazione:</strong> L'LLM riceve i pezzi rilevanti + la tua domanda e genera una risposta basata su di essi</li>\n</ul>\n<p><strong>Perché è importante:</strong> Senza RAG, l'AI inventa risposte basandosi su pattern generici. Con RAG, risponde basandosi sui fatti contenuti nei tuoi documenti. È la differenza tra un consulente generico e uno che ha letto il tuo caso specifico.</p>\n<p><strong>Tool:</strong> LangChain, LlamaIndex, e vector DB come Chroma, Pinecone, o Weaviate.</p>\n",
-  "selected_at": "2026-04-02T08:07:37.814327+00:00",
-  "day_of_year": 92,
-  "topic_index": 2
+  "tag": "pratico",
+  "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
+  "selected_at": "2026-04-03T08:06:50.462273+00:00",
+  "day_of_year": 93,
+  "topic_index": 3
 }

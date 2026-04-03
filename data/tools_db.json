@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02T08:07:37.756561+00:00",
-  "total": 176,
+  "updated_at": "2026-04-03T08:06:50.404497+00:00",
+  "total": 196,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,293 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1b37082efc6c",
+      "name": "Gerri",
+      "url": "https://www.producthunt.com/products/gerri",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Put your contract redlines on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300167+00:00"
+    },
+    {
+      "id": "401500bd144a",
+      "name": "ZooClaw",
+      "url": "https://www.producthunt.com/products/zooclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your proactive team of AI specialists in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300242+00:00"
+    },
+    {
+      "id": "869184e57eec",
+      "name": "Trinity",
+      "url": "https://www.producthunt.com/products/trinity-large-thinking-by-arcee-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The first open model as performant as Opus 4.6, 96% cheaper\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300300+00:00"
+    },
+    {
+      "id": "ec395f0135c0",
+      "name": "Mesh LLM",
+      "url": "https://www.producthunt.com/products/mesh-llm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Pool compute to run powerful open models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300352+00:00"
+    },
+    {
+      "id": "0c05273f9c1d",
+      "name": "Codictate",
+      "url": "https://www.producthunt.com/products/codictate",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free dictation for Any language and any application\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300406+00:00"
+    },
+    {
+      "id": "ba0673e4e2dc",
+      "name": "Google Vids 2.0",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create, edit and share videos at no cost w/ new AI features\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300483+00:00"
+    },
+    {
+      "id": "60224f0c746a",
+      "name": "MAI",
+      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Production ASR for noisy multilingual audio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300559+00:00"
+    },
+    {
+      "id": "9549e1170cd3",
+      "name": "Google Gemma 4",
+      "url": "https://www.producthunt.com/products/google-gemma",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Google's most intelligent open models to date\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300621+00:00"
+    },
+    {
+      "id": "18404faefd6f",
+      "name": "Straude",
+      "url": "https://www.producthunt.com/products/straude",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Strava for Claude Code / Global Tokenmaxxing Leaderboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300695+00:00"
+    },
+    {
+      "id": "23e3d4632fd4",
+      "name": "Package Mate",
+      "url": "https://www.producthunt.com/products/package-mate-open-source-cli-for-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Master your macOS dev environment from the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300767+00:00"
+    },
+    {
+      "id": "e3fc915c3a33",
+      "name": "Turn It Gen Z",
+      "url": "https://www.producthunt.com/products/turn-it-gen-z",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any text into Gen Z slang instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300825+00:00"
+    },
+    {
+      "id": "bcb52779032b",
+      "name": "ChatGPT on CarPlay",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "voice"
+      ],
+      "pricing": "Free",
+      "description_it": "ChatGPT voice in CarPlay for hands-free driving AI on the go\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300898+00:00"
+    },
+    {
+      "id": "7e1ff6f95639",
+      "name": "HoloTutor by VictoryXR",
+      "url": "https://www.producthunt.com/products/holotutor-by-victoryxr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The immersive AI tutor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.300947+00:00"
+    },
+    {
+      "id": "df1f9cf198e6",
+      "name": "EmDash CMS",
+      "url": "https://www.producthunt.com/products/emdash-cms",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "EmDash is a new open-source CMS from Cloudflare\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301028+00:00"
+    },
+    {
+      "id": "c8f0833423bf",
+      "name": "StampCut",
+      "url": "https://www.producthunt.com/products/stampcut",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stamp the world around you!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301081+00:00"
+    },
+    {
+      "id": "6acd4979dc9f",
+      "name": "Cursor 3",
+      "url": "https://www.producthunt.com/products/cursor-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Unified workspace for parallel local/cloud agents and MCPs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301152+00:00"
+    },
+    {
+      "id": "158dd02822ad",
+      "name": "VoiceOS",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Say it and it's done. Work 10x faster with your voice.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301219+00:00"
+    },
+    {
+      "id": "21bc9757813e",
+      "name": "GeneratePPT",
+      "url": "https://www.producthunt.com/products/generateppt",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instantly generated simple, design-forward slides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301293+00:00"
+    },
+    {
+      "id": "e74a09df1623",
+      "name": "Qwen3.6",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multimodal AI optimized for real-world coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301361+00:00"
+    },
+    {
+      "id": "b99d94f39bef",
+      "name": "Otto by Audos.com",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI co-founder that builds, launches, and sells for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-03T08:06:50.301414+00:00"
     },
     {
       "id": "edf16d4e235a",
