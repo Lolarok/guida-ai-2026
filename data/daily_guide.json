@@ -1,9 +1,9 @@
 {
-  "title": "Embeddings e vettori: la base della ricerca AI",
+  "title": "Agenti AI: come fanno le cose da soli",
   "level": "intermedio",
-  "tag": "fondamenta",
-  "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-04-04T07:50:12.623883+00:00",
-  "day_of_year": 94,
-  "topic_index": 4
+  "tag": "architettura",
+  "content_html": "\n<p>Un <strong>agente AI</strong> è un'AI che non solo risponde a domande, ma <em>fa cose</em> — legge file, esegue comandi, naviga il web, scrive codice.</p>\n<p><strong>La differenza con un chatbot:</strong></p>\n<ul>\n  <li><strong>Chatbot:</strong> Tu chiedi → Lui risponde. Loop singolo.</li>\n  <li><strong>Agente:</strong> Tu dai un obiettivo → Lui pianifica → Esegue → Osserva il risultato → Riprova se necessario. Loop continuo.</li>\n</ul>\n<p><strong>Come funzionano:</strong></p>\n<ul>\n  <li><strong>Obiettivo:</strong> \"Risolvi questo bug nel codice\" — l'agente ha un goal chiaro</li>\n  <li><strong>Strumenti:</strong> L'agente può usare tool (filesystem, browser, API) tramite function calling o MCP</li>\n  <li><strong>Loop ReAct:</strong> Reason → Act → Observe → Repeat</li>\n  <li><strong>Memoria:</strong> Ricorda cosa ha fatto nei passi precedenti</li>\n</ul>\n<p><strong>Esempi reali:</strong> Claude Code, Cursor Composer, OpenClaw, Devin. Tutti agenti con diversi livelli di autonomia.</p>\n",
+  "selected_at": "2026-04-05T07:55:15.054390+00:00",
+  "day_of_year": 95,
+  "topic_index": 5
 }
