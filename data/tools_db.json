@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-04T07:50:12.560636+00:00",
-  "total": 209,
+  "updated_at": "2026-04-05T07:55:14.996902+00:00",
+  "total": 216,
   "tools": [
     {
       "name": "Cursor",
@@ -378,34 +378,111 @@
       "featured": false
     },
     {
-      "id": "60d5850cba8b",
-      "name": "Open Claude in Chrome",
-      "url": "https://www.producthunt.com/products/open-claude-in-chrome",
+      "id": "663304fcea36",
+      "name": "Panorama",
+      "url": "https://www.producthunt.com/products/panorama",
       "source": "Product Hunt AI (feed)",
-      "category": "chat",
+      "category": "ricerca",
       "tags": [
-        "claude"
+        "find",
+        "workflow"
       ],
       "pricing": "Free tier",
-      "description_it": "Claude in Chrome, reverse-engineered, Jailbroken\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI that finds your team’s workflows and hidden structures\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.427987+00:00"
+      "discovered_at": "2026-04-05T07:55:14.618534+00:00"
     },
     {
-      "id": "3383aedb996d",
-      "name": "Vista",
-      "url": "https://www.producthunt.com/products/vista-4",
+      "id": "c2d958655907",
+      "name": "Handle Extension",
+      "url": "https://www.producthunt.com/products/tonkotsu",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Refine UI in the browser, feed changes to your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.618630+00:00"
+    },
+    {
+      "id": "1353dd8968c0",
+      "name": "Influcio",
+      "url": "https://www.producthunt.com/products/influcio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "agent",
+        "marketing",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI marketing Agent for result-driven influencer campaign\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.618707+00:00"
+    },
+    {
+      "id": "467751def69b",
+      "name": "Shotwell",
+      "url": "https://www.producthunt.com/products/shotwell",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The screenshot editor for iPhone.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.618774+00:00"
+    },
+    {
+      "id": "6dbaaa1bd5bf",
+      "name": "Tiny Aya",
+      "url": "https://www.producthunt.com/products/cohere-2",
       "source": "Product Hunt AI (feed)",
       "category": "immagini",
       "tags": [
-        "image"
+        "design"
       ],
       "pricing": "Free tier",
-      "description_it": "The image viewer macOS should have built.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Local, open-weight AI designed for real-world languages\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428080+00:00"
+      "discovered_at": "2026-04-05T07:55:14.618845+00:00"
+    },
+    {
+      "id": "e4a6134d26f7",
+      "name": "Ember",
+      "url": "https://www.producthunt.com/products/ember-104",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Meal scan, macros & AI coach\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.618893+00:00"
+    },
+    {
+      "id": "2a70b7602b2b",
+      "name": "CatBar",
+      "url": "https://www.producthunt.com/products/catbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "RevenueCat stats in your macOS menu bar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.618949+00:00"
     },
     {
       "id": "3a81297e5825",
@@ -421,113 +498,37 @@
       "description_it": "Turn CLI / AI agents into McGyver\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428152+00:00"
+      "discovered_at": "2026-04-05T07:55:14.619022+00:00"
     },
     {
-      "id": "eefcbf231839",
-      "name": "APImage",
-      "url": "https://www.producthunt.com/products/apimage",
+      "id": "3383aedb996d",
+      "name": "Vista",
+      "url": "https://www.producthunt.com/products/vista-4",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "immagini",
       "tags": [
-        "api",
         "image"
       ],
       "pricing": "Free tier",
-      "description_it": "Create Images that Amaze\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The image viewer macOS should have built.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428219+00:00"
+      "discovered_at": "2026-04-05T07:55:14.619087+00:00"
     },
     {
-      "id": "84582340e872",
-      "name": "Surf Social Websites",
-      "url": "https://www.producthunt.com/products/flipboard-surf",
+      "id": "c6c26d41bf5d",
+      "name": "Klick AI Camera Assistant",
+      "url": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
       "source": "Product Hunt AI (feed)",
-      "category": "marketing",
+      "category": "chat",
       "tags": [
-        "content"
+        "assistant"
       ],
       "pricing": "Free tier",
-      "description_it": "Bring together people and content on the social web\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Real-time AI camera that teaches you composition live\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428295+00:00"
-    },
-    {
-      "id": "2bc8b3d8a4bb",
-      "name": "OpenRouter Model Fusion",
-      "url": "https://www.producthunt.com/products/openrouter",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "answer"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Run many models side by side and fuse the best answer\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428372+00:00"
-    },
-    {
-      "id": "b5d1c781e0ce",
-      "name": "Sleek Analytics",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "analyt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "See who's on your site. Right now.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428448+00:00"
-    },
-    {
-      "id": "9b5121ecb4c1",
-      "name": "Fluently",
-      "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "youtube",
-        "subtitle"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI subtitles & translations for YouTube. 20+ Languages. \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428532+00:00"
-    },
-    {
-      "id": "ee3df92364a4",
-      "name": "Donut Browser",
-      "url": "https://www.producthunt.com/products/donut-browser",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Open Source Anti-Detect Browser with Unlimited Profiles\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428594+00:00"
-    },
-    {
-      "id": "8a1e5054e976",
-      "name": "Faahh",
-      "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "action"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Slap your desk. Unplug distractions. Get back to focus.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428666+00:00"
+      "discovered_at": "2026-04-05T07:55:14.619160+00:00"
     },
     {
       "id": "ba0673e4e2dc",
@@ -543,22 +544,7 @@
       "description_it": "Create, edit and share videos at no cost w/ new AI features\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428740+00:00"
-    },
-    {
-      "id": "c6c26d41bf5d",
-      "name": "Klick AI Camera Assistant",
-      "url": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "assistant"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Real-time AI camera that teaches you composition live\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428816+00:00"
+      "discovered_at": "2026-04-05T07:55:14.619231+00:00"
     },
     {
       "id": "592afd23a50d",
@@ -573,7 +559,128 @@
       "description_it": "Ultra-fast next-edit prediction for coding\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.428908+00:00"
+      "discovered_at": "2026-04-05T07:55:14.619297+00:00"
+    },
+    {
+      "id": "ee3df92364a4",
+      "name": "Donut Browser",
+      "url": "https://www.producthunt.com/products/donut-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Open Source Anti-Detect Browser with Unlimited Profiles\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619381+00:00"
+    },
+    {
+      "id": "2bc8b3d8a4bb",
+      "name": "OpenRouter Model Fusion",
+      "url": "https://www.producthunt.com/products/openrouter",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run many models side by side and fuse the best answer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619467+00:00"
+    },
+    {
+      "id": "eefcbf231839",
+      "name": "APImage",
+      "url": "https://www.producthunt.com/products/apimage",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create Images that Amaze\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619532+00:00"
+    },
+    {
+      "id": "9b5121ecb4c1",
+      "name": "Fluently",
+      "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "subtitle"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI subtitles & translations for YouTube. 20+ Languages. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619602+00:00"
+    },
+    {
+      "id": "8a1e5054e976",
+      "name": "Faahh",
+      "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Slap your desk. Unplug distractions. Get back to focus.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619670+00:00"
+    },
+    {
+      "id": "84582340e872",
+      "name": "Surf Social Websites",
+      "url": "https://www.producthunt.com/products/flipboard-surf",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring together people and content on the social web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619745+00:00"
+    },
+    {
+      "id": "b5d1c781e0ce",
+      "name": "Sleek Analytics",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See who's on your site. Right now.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619811+00:00"
+    },
+    {
+      "id": "60d5850cba8b",
+      "name": "Open Claude in Chrome",
+      "url": "https://www.producthunt.com/products/open-claude-in-chrome",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude in Chrome, reverse-engineered, Jailbroken\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-05T07:55:14.619881+00:00"
     },
     {
       "id": "bcb52779032b",
