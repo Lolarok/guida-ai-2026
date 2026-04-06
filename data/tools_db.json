@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-05T07:55:14.996902+00:00",
-  "total": 216,
+  "updated_at": "2026-04-06T08:24:15.619267+00:00",
+  "total": 231,
   "tools": [
     {
       "name": "Cursor",
@@ -378,36 +378,230 @@
       "featured": false
     },
     {
-      "id": "663304fcea36",
-      "name": "Panorama",
-      "url": "https://www.producthunt.com/products/panorama",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "find",
-        "workflow"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI that finds your team’s workflows and hidden structures\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618534+00:00"
-    },
-    {
-      "id": "c2d958655907",
-      "name": "Handle Extension",
-      "url": "https://www.producthunt.com/products/tonkotsu",
+      "id": "0073ded6d07b",
+      "name": "PixVerse V6",
+      "url": "https://www.producthunt.com/products/pixverse",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "coding",
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI video model that actually feels alive.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443168+00:00"
+    },
+    {
+      "id": "30c72fbc3069",
+      "name": "HyperCap",
+      "url": "https://www.producthunt.com/products/hypercap-reclaim-your-keyboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Remap Caps Lock to a hyperkey, just hold it + any key\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443245+00:00"
+    },
+    {
+      "id": "fb144659d437",
+      "name": "Ogoron",
+      "url": "https://www.producthunt.com/products/ogoron",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your best QA team — 9x faster, 20х cheaper\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443321+00:00"
+    },
+    {
+      "id": "393d6fc5c7b3",
+      "name": "AgentPulse by Rectify",
+      "url": "https://www.producthunt.com/products/rectify",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Refine UI in the browser, feed changes to your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "All of OpenClaw, visually. For teams and agencies.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618630+00:00"
+      "discovered_at": "2026-04-06T08:24:15.443398+00:00"
+    },
+    {
+      "id": "06601bcaf1dd",
+      "name": "Epismo Context Pack",
+      "url": "https://www.producthunt.com/products/epismo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Portable memory for agent workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443493+00:00"
+    },
+    {
+      "id": "270a781c4f43",
+      "name": "Predflow AI",
+      "url": "https://www.producthunt.com/products/predflow-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI agent for ad performance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443568+00:00"
+    },
+    {
+      "id": "5e6999e78c9d",
+      "name": "DebtMeltPro",
+      "url": "https://www.producthunt.com/products/debtmeltpro",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Compare debt payoff strategies and become debt-free faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443634+00:00"
+    },
+    {
+      "id": "bf7250e4f481",
+      "name": "Adapted",
+      "url": "https://www.producthunt.com/products/adapted-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Physical Therapy for Athletes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443726+00:00"
+    },
+    {
+      "id": "473a142a8e96",
+      "name": "Glassbrain",
+      "url": "https://www.producthunt.com/products/glassbrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual trace replay for AI apps to fix bugs in one click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443801+00:00"
+    },
+    {
+      "id": "e8f3e6b459a0",
+      "name": "Metoro",
+      "url": "https://www.producthunt.com/products/metoro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI SRE that detects, root causes & auto-fixes K8s incidents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443875+00:00"
+    },
+    {
+      "id": "409af8862481",
+      "name": "KREV",
+      "url": "https://www.producthunt.com/products/krev",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI creative agents for ecommerce brands\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.443943+00:00"
+    },
+    {
+      "id": "5757ca4af15e",
+      "name": "Deploy Hermes",
+      "url": "https://www.producthunt.com/products/deployhermes",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private Telegram AI agents, live in under a minute\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444016+00:00"
+    },
+    {
+      "id": "e0c771a5f4f3",
+      "name": "Moonshot",
+      "url": "https://www.producthunt.com/products/moonshot-13",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track the Artemis II mission from your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444085+00:00"
+    },
+    {
+      "id": "663c9cb1dbbf",
+      "name": "Walkie",
+      "url": "https://www.producthunt.com/products/b150",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free",
+      "description_it": "Free local speech-to-text tool\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444151+00:00"
+    },
+    {
+      "id": "aa5c9d6bd4d9",
+      "name": "Mailero",
+      "url": "https://www.producthunt.com/products/mailero",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn support emails into tickets \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444220+00:00"
     },
     {
       "id": "1353dd8968c0",
@@ -424,7 +618,51 @@
       "description_it": "AI marketing Agent for result-driven influencer campaign\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618707+00:00"
+      "discovered_at": "2026-04-06T08:24:15.444294+00:00"
+    },
+    {
+      "id": "e4a6134d26f7",
+      "name": "Ember",
+      "url": "https://www.producthunt.com/products/ember-104",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Meal scan, macros & AI coach\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444343+00:00"
+    },
+    {
+      "id": "6dbaaa1bd5bf",
+      "name": "Tiny Aya",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local, open-weight AI designed for real-world languages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444418+00:00"
+    },
+    {
+      "id": "663304fcea36",
+      "name": "Panorama",
+      "url": "https://www.producthunt.com/products/panorama",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that finds your team’s workflows and hidden structures\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-06T08:24:15.444528+00:00"
     },
     {
       "id": "467751def69b",
@@ -441,35 +679,23 @@
       "description_it": "The screenshot editor for iPhone.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618774+00:00"
+      "discovered_at": "2026-04-06T08:24:15.444599+00:00"
     },
     {
-      "id": "6dbaaa1bd5bf",
-      "name": "Tiny Aya",
-      "url": "https://www.producthunt.com/products/cohere-2",
+      "id": "c2d958655907",
+      "name": "Handle Extension",
+      "url": "https://www.producthunt.com/products/tonkotsu",
       "source": "Product Hunt AI (feed)",
-      "category": "immagini",
+      "category": "coding",
       "tags": [
-        "design"
+        "coding",
+        "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Local, open-weight AI designed for real-world languages\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Refine UI in the browser, feed changes to your coding agent\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618845+00:00"
-    },
-    {
-      "id": "e4a6134d26f7",
-      "name": "Ember",
-      "url": "https://www.producthunt.com/products/ember-104",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Meal scan, macros & AI coach\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.618893+00:00"
+      "discovered_at": "2026-04-05T07:55:14.618630+00:00"
     },
     {
       "id": "2a70b7602b2b",
