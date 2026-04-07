@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T08:24:15.619267+00:00",
-  "total": 231,
+  "updated_at": "2026-04-07T08:16:34.628768+00:00",
+  "total": 251,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "b78cc8c43896",
+      "name": "MBCompass",
+      "url": "https://www.producthunt.com/products/mbcompass",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A full navigation utility in ~2MB\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.294974+00:00"
+    },
+    {
+      "id": "5c26a1fd434e",
+      "name": "Flight Viz",
+      "url": "https://www.producthunt.com/products/flight-viz",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Watch 10K+ live flights move on a 3D globe in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295050+00:00"
+    },
+    {
+      "id": "f7ae40ec1cab",
+      "name": "Stated",
+      "url": "https://www.producthunt.com/products/stated-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Privacy-first AI finance tracker \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295104+00:00"
+    },
+    {
+      "id": "6eb74734d343",
+      "name": "folio",
+      "url": "https://www.producthunt.com/products/folio-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "code",
+        "claude",
+        "analysis",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "data analysis workspace for Claude Code/Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295176+00:00"
+    },
+    {
+      "id": "c95e217a1f08",
+      "name": "Jotform ChatGPT App",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create forms and manage submissions inside ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295250+00:00"
+    },
+    {
+      "id": "1b6271b411ed",
+      "name": "Letterbox",
+      "url": "https://www.producthunt.com/products/letterbox-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Letters made of letters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295316+00:00"
+    },
+    {
+      "id": "992cd23b84a7",
+      "name": "Video Commander",
+      "url": "https://www.producthunt.com/products/video-commander",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The IDE for video engineers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295389+00:00"
+    },
+    {
+      "id": "d6fa0b03b90a",
+      "name": "FlowPulse",
+      "url": "https://www.producthunt.com/products/flowpulse",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know when your automations run, fail, or go quiet.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295468+00:00"
+    },
+    {
+      "id": "8f0806bd5e09",
+      "name": "VoxTori",
+      "url": "https://www.producthunt.com/products/voxtori",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "subtitle"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time subtitles, translation, and dictation for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295541+00:00"
+    },
+    {
+      "id": "6e17942bbeeb",
+      "name": "FITYCAL",
+      "url": "https://www.producthunt.com/products/fitycal-3d-body-scan-tracker-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track body measurements, fat%, lean Mass, progress & more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295614+00:00"
+    },
+    {
+      "id": "c5ca36564c3c",
+      "name": "Wordie",
+      "url": "https://www.producthunt.com/products/wordie",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Grow your vocabulary while you browse the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295668+00:00"
+    },
+    {
+      "id": "1b456f8cef61",
+      "name": "Marmot",
+      "url": "https://www.producthunt.com/products/marmot",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native data catalog with search, lineage and MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295737+00:00"
+    },
+    {
+      "id": "7ca63eade163",
+      "name": "NovaVoice",
+      "url": "https://www.producthunt.com/products/novavoice",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "art",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smart dictation, AI assistant, + app control via voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295807+00:00"
+    },
+    {
+      "id": "2ea548eca5c2",
+      "name": "Cheese! OCR",
+      "url": "https://www.producthunt.com/products/cheese-ocr",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Select any screen area, get text instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295873+00:00"
+    },
+    {
+      "id": "cb9f1f5aefb5",
+      "name": "Lessie AI",
+      "url": "https://www.producthunt.com/products/lessie-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "find",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search, Reach and Connect - Find the perfect fit, 10x faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295943+00:00"
+    },
+    {
+      "id": "161aeb6a29b9",
+      "name": "SuperShrimp",
+      "url": "https://www.producthunt.com/products/supershrimp",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Fix your terrible posture\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.295995+00:00"
+    },
+    {
+      "id": "c27185553d43",
+      "name": "Dynamic Notch 2.0",
+      "url": "https://www.producthunt.com/products/dynamic-notch-2-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac notch into a native 6-in-1 command center\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.296048+00:00"
+    },
+    {
+      "id": "2bccc3bae573",
+      "name": "Netflix Playground",
+      "url": "https://www.producthunt.com/products/netflix",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "explore"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A world for kids to explore along their favorite characters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.296121+00:00"
+    },
+    {
+      "id": "bdb8b68dca3c",
+      "name": "Gaia",
+      "url": "https://www.producthunt.com/products/gaia-ai-architecture-software",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI architectural renders and interior design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.296188+00:00"
+    },
+    {
+      "id": "f19c08de9c0c",
+      "name": "Couch",
+      "url": "https://www.producthunt.com/products/couch",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "movie"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your online couch for movies, games, and good times\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-07T08:16:34.296253+00:00"
     },
     {
       "id": "0073ded6d07b",
