@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-07T08:16:34.628768+00:00",
-  "total": 251,
+  "updated_at": "2026-04-08T08:13:51.630446+00:00",
+  "total": 270,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,281 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "89bd67348184",
+      "name": "StatusStats",
+      "url": "https://www.producthunt.com/products/statusstats",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mac Metrics In Your Menu Bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.521796+00:00"
+    },
+    {
+      "id": "c3583b201931",
+      "name": "LookAway 2",
+      "url": "https://www.producthunt.com/products/lookaway",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Mac app your body thanks you for\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.521873+00:00"
+    },
+    {
+      "id": "f94264959ddb",
+      "name": "RoomieU",
+      "url": "https://www.producthunt.com/products/roomieu",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The roommate matching app built for college students\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.521931+00:00"
+    },
+    {
+      "id": "ee6a18db477f",
+      "name": "PassportReader",
+      "url": "https://www.producthunt.com/products/iris-id-by-passportreader",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "api",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Verify passports, ID cards, and digital credentials via API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522011+00:00"
+    },
+    {
+      "id": "3739d44f6982",
+      "name": "PawseKeys",
+      "url": "https://www.producthunt.com/products/pawsekeys-remote-keyboard-locker-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Shield your keyboard from kids and pets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522065+00:00"
+    },
+    {
+      "id": "9f5d274be067",
+      "name": "Flint",
+      "url": "https://www.producthunt.com/products/flint-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "campaign",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch on-brand pages for every campaign, ad, and prospect.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522142+00:00"
+    },
+    {
+      "id": "86049c88e4ea",
+      "name": "Timeliner.io",
+      "url": "https://www.producthunt.com/products/timeliner-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The all-in-one workspace for content agencies & editors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522219+00:00"
+    },
+    {
+      "id": "c20e4f3da7bd",
+      "name": "Keeby",
+      "url": "https://www.producthunt.com/products/keeby",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mechanical keyboard sounds for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522295+00:00"
+    },
+    {
+      "id": "53936d0dc514",
+      "name": "Brieflee",
+      "url": "https://www.producthunt.com/products/brieflee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spell check for video - catch quality issues before you post\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522367+00:00"
+    },
+    {
+      "id": "b0a095b304df",
+      "name": "Browser Arena",
+      "url": "https://www.producthunt.com/products/notte",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source benchmarks for cloud browser infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522446+00:00"
+    },
+    {
+      "id": "c97a9ff23fae",
+      "name": "FeatDrop",
+      "url": "https://www.producthunt.com/products/featdrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Public changelog for builders to share product updates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522505+00:00"
+    },
+    {
+      "id": "295a45e64457",
+      "name": "Zoho Projects Infinity.ai",
+      "url": "https://www.producthunt.com/products/zoho-projects",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your projects. Your way. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522574+00:00"
+    },
+    {
+      "id": "e2865393f927",
+      "name": "MindsDB Anton",
+      "url": "https://www.producthunt.com/products/mindsdb",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Business intelligence that doesn't just answer — it acts.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522675+00:00"
+    },
+    {
+      "id": "49346cc2ae66",
+      "name": "Google Chrome Vertical Tabs",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chrome now supports vertical tabs and immersive reading mode\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522753+00:00"
+    },
+    {
+      "id": "09b146d2c332",
+      "name": "Marble 1.1",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Better lighting and larger scales for 3D world generation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522810+00:00"
+    },
+    {
+      "id": "856a2bc5e88a",
+      "name": "Hire Roger",
+      "url": "https://www.producthunt.com/products/hire-roger",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hire an AI outbound sales rep as your next coworker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522865+00:00"
+    },
+    {
+      "id": "d43e11ae095d",
+      "name": "VibeSonic",
+      "url": "https://www.producthunt.com/products/vibesonic",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Not just dictation and private AI voice toolkit \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.522937+00:00"
+    },
+    {
+      "id": "a1e41e032997",
+      "name": "Dadroit V Web",
+      "url": "https://www.producthunt.com/products/dadroit-v-web",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "View large JSON files in your browser. Nothing uploaded.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.523015+00:00"
+    },
+    {
+      "id": "b932694dd022",
+      "name": "AriaType v0.1",
+      "url": "https://www.producthunt.com/products/ariatype-v0-1",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source AI voice input\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-08T08:13:51.523083+00:00"
     },
     {
       "id": "b78cc8c43896",

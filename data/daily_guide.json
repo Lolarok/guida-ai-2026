@@ -1,9 +1,9 @@
 {
-  "title": "Allucinazioni: perché l'AI inventa e come ridurle",
+  "title": "Token, contesto e finestra: come l'AI legge",
   "level": "principiante",
   "tag": "fondamenta",
-  "content_html": "\n<p>Le <strong>allucinazioni</strong> sono il problema più conosciuto degli LLM: l'AI genera informazioni false con totale sicurezza.</p>\n<p><strong>Perché succede:</strong></p>\n<ul>\n  <li>L'LLM è un predittore statistico — non \"sa\" cosa è vero, sa solo cosa <em>sembra</em> vero linguisticamente</li>\n  <li>Se la probabilità di \"Il presidente dell'Italia è Mario Rossi\" è alta nel training, l'LLM lo dirà — anche se falso</li>\n  <li>L'LLM non ha un meccanismo interno per verificare i fatti</li>\n</ul>\n<p><strong>Come ridurle:</strong></p>\n<ul>\n  <li><strong>RAG:</strong> Dai all'AI documenti verificati da cui attingere</li>\n  <li><strong>Temperature bassa:</strong> Un valore vicino a 0 rende l'AI più \"cautiosa\" e fattuale</li>\n  <li><strong>Chiedi fonti:</strong> \"Cita la fonte\" spesso smaschera le invenzioni</li>\n  <li><strong>Verifica incrociata:</strong> Mai prendere per oro colato le risposte su fatti concreti</li>\n</ul>\n<p><strong>Regola d'oro:</strong> L'AI è ottima per generare e organizzare idee. È pericolosa come fonte primaria di fatti.</p>\n",
-  "selected_at": "2026-04-07T08:16:34.686631+00:00",
-  "day_of_year": 97,
-  "topic_index": 7
+  "content_html": "\n<p>Per usare bene un'AI, devi capire tre concetti fondamentali: <strong>token</strong>, <strong>contesto</strong>, e <strong>finestra</strong>.</p>\n<p><strong>Token:</strong> L'unità di testo che l'AI processa. Non sono parole esatte:</p>\n<ul>\n  <li>\"gatto\" = 1 token</li>\n  <li>\"intelligenza\" = 2-3 token</li>\n  <li>\"Supercalifragilistiche\" = 4-5 token</li>\n  <li>In media: 1 token ≈ 0.75 parole inglesi, ~0.5 parole italiane</li>\n</ul>\n<p><strong>Contesto (context):</strong> Tutto ciò che l'AI \"vede\" — il tuo prompt + la sua risposta precedente + eventuali documenti. Più contesto = più memoria nella conversazione.</p>\n<p><strong>Finestra (context window):</strong> Il limite massimo di token. Oltre questo limite, l'AI \"dimentica\" le prime parti:</p>\n<ul>\n  <li>GPT-4: 128K token (~100K parole)</li>\n  <li>Claude 3.5: 200K token (~150K parole)</li>\n  <li>Gemini 1.5: 1M token (~750K parole)</li>\n</ul>\n<p><strong>Perché conta:</strong> Se stai usando RAG o analizzando documenti lunghi, la finestra determina quanti documenti puoi dare all'AI. Un paper di 50 pagiene rientra in una finestra 128K, ma un intero libro no.</p>\n",
+  "selected_at": "2026-04-08T08:13:51.693854+00:00",
+  "day_of_year": 98,
+  "topic_index": 8
 }
