@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-08T08:13:51.630446+00:00",
-  "total": 270,
+  "updated_at": "2026-04-09T08:24:12.936237+00:00",
+  "total": 290,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9eabc5ed9e96",
+      "name": "Refaire",
+      "url": "https://www.producthunt.com/products/refaire",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Technicians for the Physical World\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830576+00:00"
+    },
+    {
+      "id": "c14a3eaf2312",
+      "name": "Morsel",
+      "url": "https://www.producthunt.com/products/morsel-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Strava for cooking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830646+00:00"
+    },
+    {
+      "id": "291aa20eaaf8",
+      "name": "Awshar AI",
+      "url": "https://www.producthunt.com/products/awshar-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Understands India's nuanced digital conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830726+00:00"
+    },
+    {
+      "id": "783cc299afb8",
+      "name": "ReminderOS",
+      "url": "https://www.producthunt.com/products/reminderos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Reminders that keep up with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830779+00:00"
+    },
+    {
+      "id": "445524d4da79",
+      "name": "ScreenSmooth",
+      "url": "https://www.producthunt.com/products/screensmooth",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Beautiful Screen Recordings in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830849+00:00"
+    },
+    {
+      "id": "2b5b04acb0cb",
+      "name": "Slm",
+      "url": "https://www.producthunt.com/products/slm-mesh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI coding sessions can finally talk to each other\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830925+00:00"
+    },
+    {
+      "id": "d870a69e20a2",
+      "name": "Smuggl",
+      "url": "https://www.producthunt.com/products/smuggl",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Share your localhost as an invite only link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.830984+00:00"
+    },
+    {
+      "id": "eeb1e0f4009d",
+      "name": "Claude Managed Agents",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pre-built agent harness on managed infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831067+00:00"
+    },
+    {
+      "id": "f218866ac043",
+      "name": "Bouncer",
+      "url": "https://www.producthunt.com/products/imbue-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Filter (and heal) your Twitter feed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831119+00:00"
+    },
+    {
+      "id": "934305cfd4b4",
+      "name": "ConceptSeek",
+      "url": "https://www.producthunt.com/products/conceptseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "find"
+      ],
+      "pricing": "Free",
+      "description_it": "Find concepts across videos and text instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831211+00:00"
+    },
+    {
+      "id": "bd1664d65d64",
+      "name": "SuperCmd",
+      "url": "https://www.producthunt.com/products/supercmd-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Open source alternative to Raycast Pro\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831266+00:00"
+    },
+    {
+      "id": "c2f161c047a6",
+      "name": "Clickport",
+      "url": "https://www.producthunt.com/products/clickport-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The modern, powerful Google Analytics alternative \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831337+00:00"
+    },
+    {
+      "id": "b6e93aa90970",
+      "name": "Startups.RIP",
+      "url": "https://www.producthunt.com/products/startups-rip",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rebuild 1,738+ dead YC startups with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831407+00:00"
+    },
+    {
+      "id": "5b380770f42a",
+      "name": "Task Bert",
+      "url": "https://www.producthunt.com/products/task-bert-inbox-zero-for-imessage",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free",
+      "description_it": "Fully local open-source agent for managing your texts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831480+00:00"
+    },
+    {
+      "id": "f6dceec9ab14",
+      "name": "Goose",
+      "url": "https://www.producthunt.com/products/goose-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI coworker for GTM teams with its own computer & memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831533+00:00"
+    },
+    {
+      "id": "9d6abd2e366b",
+      "name": "Brila",
+      "url": "https://www.producthunt.com/products/brila-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One-page websites from real Google Maps reviews\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831584+00:00"
+    },
+    {
+      "id": "b6b99bf20647",
+      "name": "PillFloat",
+      "url": "https://www.producthunt.com/products/pillfloat",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Move the Wispr Flow pill anywhere on your screen   \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831656+00:00"
+    },
+    {
+      "id": "f0a8d30744c9",
+      "name": "BeMorphy",
+      "url": "https://www.producthunt.com/products/bemorphy",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your landing page, rewritten for every ad you run\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831727+00:00"
+    },
+    {
+      "id": "452dce5fad45",
+      "name": "Cutsio",
+      "url": "https://www.producthunt.com/products/cutsio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your entire video library, now searchable and editable by AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831799+00:00"
+    },
+    {
+      "id": "c2270c275f68",
+      "name": "Doing",
+      "url": "https://www.producthunt.com/products/doing",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice and visual context for AI builders. No subscription.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-09T08:24:12.831869+00:00"
     },
     {
       "id": "89bd67348184",
