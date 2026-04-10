@@ -1,9 +1,9 @@
 {
-  "title": "Modelli locali: AI sul tuo computer con Ollama",
-  "level": "intermedio",
-  "tag": "pratico",
+  "title": "Function calling: l'AI che usa strumenti",
+  "level": "avanzato",
+  "tag": "architettura",
   "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-04-09T08:24:12.997486+00:00",
-  "day_of_year": 99,
-  "topic_index": 9
+  "selected_at": "2026-04-10T08:22:15.072332+00:00",
+  "day_of_year": 100,
+  "topic_index": 10
 }
