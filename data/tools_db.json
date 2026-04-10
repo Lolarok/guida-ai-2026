@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-09T08:24:12.936237+00:00",
-  "total": 290,
+  "updated_at": "2026-04-10T08:22:15.007076+00:00",
+  "total": 310,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "ff28f4edc63a",
+      "name": "Inbox Autopilot by Dimension",
+      "url": "https://www.producthunt.com/products/dimension-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your inbox, handled\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909074+00:00"
+    },
+    {
+      "id": "e0564a9b95be",
+      "name": "Perplexity Finance",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "perplexity",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your full financial life, bank to brokerage in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909183+00:00"
+    },
+    {
+      "id": "5def22cd6b28",
+      "name": "Drift",
+      "url": "https://www.producthunt.com/products/drift-journal-that-lets-go",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "For people who want less\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909238+00:00"
+    },
+    {
+      "id": "06f0a591ca11",
+      "name": "Orbit Money",
+      "url": "https://www.producthunt.com/products/orbit-money",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track every API and tool you pay for in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909312+00:00"
+    },
+    {
+      "id": "3e2874e1d2e6",
+      "name": "Audos 2.0",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run 10 AI businesses at once\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909364+00:00"
+    },
+    {
+      "id": "403d73533562",
+      "name": "Minty",
+      "url": "https://www.producthunt.com/products/outtalent",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI companion for building a clear career path\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909418+00:00"
+    },
+    {
+      "id": "18ddd6b27115",
+      "name": "Konfide",
+      "url": "https://www.producthunt.com/products/konfide",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Agents with a human expert for hire\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909493+00:00"
+    },
+    {
+      "id": "89dff8a8673b",
+      "name": "Google Finance",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "question",
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask complex finance questions, get AI-grounded answers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909578+00:00"
+    },
+    {
+      "id": "5626f322cb49",
+      "name": "GhostlyX",
+      "url": "https://www.producthunt.com/products/ghostlyx",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Privacy-first analytics without cookies or clutter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909652+00:00"
+    },
+    {
+      "id": "df8b4ec42a3c",
+      "name": "Manus Skills",
+      "url": "https://www.producthunt.com/products/manus-skills",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Package Manus workflows into reusable agent Skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909739+00:00"
+    },
+    {
+      "id": "f02aa19696b2",
+      "name": "Viktor Skills Marketplace",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Expert Google Ads and Meta Ads skills for Viktor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909816+00:00"
+    },
+    {
+      "id": "ddc89d0cf3d4",
+      "name": "Matcha",
+      "url": "https://www.producthunt.com/products/matcha-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Open Source IPad Note Taking App\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909889+00:00"
+    },
+    {
+      "id": "93f2cb0b4034",
+      "name": "Claude Advisor tool",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pair Opus as advisor with Sonnet or Haiku as executor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.909964+00:00"
+    },
+    {
+      "id": "35508fe7ee54",
+      "name": "MiniMax CLI",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents native multimodal capabilities\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910035+00:00"
+    },
+    {
+      "id": "4a60721157c4",
+      "name": "Nocta Pro",
+      "url": "https://www.producthunt.com/products/nocta-pro-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "screenshot",
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn raw screenshots into launch-ready visuals in seconds.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910109+00:00"
+    },
+    {
+      "id": "394645ca2e79",
+      "name": "Codentis",
+      "url": "https://www.producthunt.com/products/codentis",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "terminal",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run intelligent workflows directly in your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910183+00:00"
+    },
+    {
+      "id": "404f25f69dde",
+      "name": "Complexity Indicator",
+      "url": "https://www.producthunt.com/products/complexity-indicator",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know when your code becomes unmaintainable\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910255+00:00"
+    },
+    {
+      "id": "2796ae4c859a",
+      "name": "Airlinkee",
+      "url": "https://www.producthunt.com/products/airlinkee-your-professional-link-page",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share all your services and get discovered by clients\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910332+00:00"
+    },
+    {
+      "id": "3c5fb6c0ee86",
+      "name": "Waypoint",
+      "url": "https://www.producthunt.com/products/waypoint-1-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real-time generative worlds on everyday GPUs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910387+00:00"
+    },
+    {
+      "id": "814145b53734",
+      "name": "Vaultr",
+      "url": "https://www.producthunt.com/products/vaultr-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Personal finance app built for young professionals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-10T08:22:14.910440+00:00"
     },
     {
       "id": "9eabc5ed9e96",
