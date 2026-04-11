@@ -1,9 +1,9 @@
 {
-  "title": "Function calling: l'AI che usa strumenti",
-  "level": "avanzato",
-  "tag": "architettura",
+  "title": "Chain-of-Thought: insegnare l'AI a ragionare",
+  "level": "intermedio",
+  "tag": "tecnica",
   "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-04-10T08:22:15.072332+00:00",
-  "day_of_year": 100,
-  "topic_index": 10
+  "selected_at": "2026-04-11T07:52:35.214555+00:00",
+  "day_of_year": 101,
+  "topic_index": 11
 }
