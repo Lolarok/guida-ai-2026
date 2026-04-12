@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-11T07:52:35.158039+00:00",
-  "total": 330,
+  "updated_at": "2026-04-12T08:03:27.782318+00:00",
+  "total": 338,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,305 @@
       "featured": false
     },
     {
+      "id": "96060dd5d851",
+      "name": "Edgee Codex Compressor",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use Codex at 35.6% lower costs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456491+00:00"
+    },
+    {
+      "id": "250f4e3fe0c6",
+      "name": "Music Marketplace by Eleven Labs",
+      "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create a track. Publish it. Earn when it is used.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456609+00:00"
+    },
+    {
+      "id": "c7697d839aaf",
+      "name": "ClarifierAI for IOS",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use AI for writing & translating your messages 10x faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456697+00:00"
+    },
+    {
+      "id": "566a041e3857",
+      "name": "Nicelydone MCP",
+      "url": "https://www.producthunt.com/products/nicely-done",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design context for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456767+00:00"
+    },
+    {
+      "id": "ff5535c37e15",
+      "name": "R0Y",
+      "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Natural language to Investing dashboards in seconds.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456822+00:00"
+    },
+    {
+      "id": "fcfa41d4125b",
+      "name": "Ray",
+      "url": "https://www.producthunt.com/products/ray-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal CFO in the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456887+00:00"
+    },
+    {
+      "id": "eab5b1692184",
+      "name": "Layered",
+      "url": "https://www.producthunt.com/products/layered-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your selfies into a personal AI stylist\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.456944+00:00"
+    },
+    {
+      "id": "ea4bcd958921",
+      "name": "Interactive Simulations in Gemini",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gemini now lets you play with the concepts you ask about\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457028+00:00"
+    },
+    {
+      "id": "e03c67a1d82a",
+      "name": "Voicr for Mac",
+      "url": "https://www.producthunt.com/products/voicr-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dictate and get improved or translated text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457083+00:00"
+    },
+    {
+      "id": "6a5c5b239636",
+      "name": "MolmoWeb",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Open web agents from data to deployment\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457150+00:00"
+    },
+    {
+      "id": "01e92a631b2e",
+      "name": "Tidy for Group Chats",
+      "url": "https://www.producthunt.com/products/tidy-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share personal assistant w/ friends in iMessage group chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457224+00:00"
+    },
+    {
+      "id": "f0a6a80f1edc",
+      "name": "Claude Code ultraplan",
+      "url": "https://www.producthunt.com/products/claude-code-ultraplan",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Claude Code command that plans your codebase in the cloud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457298+00:00"
+    },
+    {
+      "id": "6ad6cf53f5bb",
+      "name": "Clicky",
+      "url": "https://www.producthunt.com/products/clicky-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI buddy next to your cursor on Mac—sees, guides, helps you!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457393+00:00"
+    },
+    {
+      "id": "6d6f4afee375",
+      "name": "1% Better",
+      "url": "https://www.producthunt.com/products/1-better-habit-tracker",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visualise the compounding effect of your daily habits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457463+00:00"
+    },
+    {
+      "id": "640cdb948361",
+      "name": "Claude for Word",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring Claude natively into your Microsoft Word workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457535+00:00"
+    },
+    {
+      "id": "df6d5d4f884a",
+      "name": "aperture",
+      "url": "https://www.producthunt.com/products/aperture-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "hiring is broken. we're building the fix.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457586+00:00"
+    },
+    {
+      "id": "58898a571c06",
+      "name": "Tech Marketing Framework",
+      "url": "https://www.producthunt.com/products/tech-marketing-framework",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "marketing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Forkable GTM system for builders struggling with marketing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457680+00:00"
+    },
+    {
+      "id": "994d77017fc7",
+      "name": "LaReview",
+      "url": "https://www.producthunt.com/products/lareview",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source free next-generation code review\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457756+00:00"
+    },
+    {
+      "id": "4cd2b2537c66",
+      "name": "Capso",
+      "url": "https://www.producthunt.com/products/capso",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free",
+      "description_it": "Free open-source screenshot & screen recorder for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457825+00:00"
+    },
+    {
+      "id": "1be92b2650fb",
+      "name": "Upvotics",
+      "url": "https://www.producthunt.com/products/upvotics",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI-Powered Competitive Intelligence and Tracker on Autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-12T08:03:27.457882+00:00"
+    },
+    {
       "id": "a1e2b499c9ec",
       "name": "Osintir",
       "url": "https://www.producthunt.com/products/osintir",
@@ -408,38 +707,6 @@
       "discovered_at": "2026-04-11T07:52:34.919546+00:00"
     },
     {
-      "id": "6a5c5b239636",
-      "name": "MolmoWeb",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "deploy",
-        "data",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Open web agents from data to deployment\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.919622+00:00"
-    },
-    {
-      "id": "58898a571c06",
-      "name": "Tech Marketing Framework",
-      "url": "https://www.producthunt.com/products/tech-marketing-framework",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "marketing"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Forkable GTM system for builders struggling with marketing\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.919700+00:00"
-    },
-    {
       "id": "6457efd3fec5",
       "name": "LinkShell",
       "url": "https://www.producthunt.com/products/linkshell",
@@ -453,35 +720,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-11T07:52:34.919773+00:00"
-    },
-    {
-      "id": "df6d5d4f884a",
-      "name": "aperture",
-      "url": "https://www.producthunt.com/products/aperture-4",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "hiring is broken. we're building the fix.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.919827+00:00"
-    },
-    {
-      "id": "640cdb948361",
-      "name": "Claude for Word",
-      "url": "https://www.producthunt.com/products/claude",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "claude",
-        "workflow"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Bring Claude natively into your Microsoft Word workflow\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.919909+00:00"
     },
     {
       "id": "d3479dbced03",
@@ -498,53 +736,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-11T07:52:34.919992+00:00"
-    },
-    {
-      "id": "01e92a631b2e",
-      "name": "Tidy for Group Chats",
-      "url": "https://www.producthunt.com/products/tidy-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "assistant"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Share personal assistant w/ friends in iMessage group chats\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920072+00:00"
-    },
-    {
-      "id": "4cd2b2537c66",
-      "name": "Capso",
-      "url": "https://www.producthunt.com/products/capso",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "screenshot",
-        "screen"
-      ],
-      "pricing": "Free",
-      "description_it": "Free open-source screenshot & screen recorder for Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920146+00:00"
-    },
-    {
-      "id": "6d6f4afee375",
-      "name": "1% Better",
-      "url": "https://www.producthunt.com/products/1-better-habit-tracker",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "visual"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Visualise the compounding effect of your daily habits\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920220+00:00"
     },
     {
       "id": "75ef1ccf044d",
@@ -577,34 +768,6 @@
       "discovered_at": "2026-04-11T07:52:34.920392+00:00"
     },
     {
-      "id": "e03c67a1d82a",
-      "name": "Voicr for Mac",
-      "url": "https://www.producthunt.com/products/voicr-for-mac",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Dictate and get improved or translated text\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920448+00:00"
-    },
-    {
-      "id": "6ad6cf53f5bb",
-      "name": "Clicky",
-      "url": "https://www.producthunt.com/products/clicky-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli"
-      ],
-      "pricing": "Free tier",
-      "description_it": "An AI buddy that lives on your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920513+00:00"
-    },
-    {
       "id": "ad716e796a0b",
       "name": "InboxJoy",
       "url": "https://www.producthunt.com/products/inboxjoy",
@@ -618,19 +781,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-11T07:52:34.920579+00:00"
-    },
-    {
-      "id": "1be92b2650fb",
-      "name": "Upvotics",
-      "url": "https://www.producthunt.com/products/upvotics",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI-Powered Competitive Intelligence and Tracker on Autopilot\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920635+00:00"
     },
     {
       "id": "1128d07e4d3e",
@@ -648,37 +798,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-11T07:52:34.920719+00:00"
-    },
-    {
-      "id": "994d77017fc7",
-      "name": "LaReview",
-      "url": "https://www.producthunt.com/products/lareview",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code"
-      ],
-      "pricing": "Free",
-      "description_it": "Open-source free next-generation code review\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920790+00:00"
-    },
-    {
-      "id": "f0a6a80f1edc",
-      "name": "Claude Code ultraplan",
-      "url": "https://www.producthunt.com/products/claude-code-ultraplan",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Freemium",
-      "description_it": "Claude Code command that plans your codebase in the cloud\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-11T07:52:34.920866+00:00"
     },
     {
       "id": "ff28f4edc63a",
