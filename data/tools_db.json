@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-12T08:03:27.782318+00:00",
-  "total": 338,
+  "updated_at": "2026-04-13T09:04:44.330503+00:00",
+  "total": 358,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,322 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a5ba2c3c9fc5",
+      "name": "SuperHQ",
+      "url": "https://www.producthunt.com/products/superhq",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run AI coding agents in real microVM sandboxes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126421+00:00"
+    },
+    {
+      "id": "139d2e28b9df",
+      "name": "deckpipe.dev",
+      "url": "https://www.producthunt.com/products/deckpipe-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "agent",
+        "slide",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "agent-first slide renderer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126516+00:00"
+    },
+    {
+      "id": "ccb4ebb7e704",
+      "name": "Libertify.com",
+      "url": "https://www.producthunt.com/products/libertify-com",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any document into an interactive video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126595+00:00"
+    },
+    {
+      "id": "d38ea2b6ba1b",
+      "name": "Deconflict",
+      "url": "https://www.producthunt.com/products/deconflict",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan your WiFi and see through walls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126671+00:00"
+    },
+    {
+      "id": "a87c9cfdefd9",
+      "name": "WinScript",
+      "url": "https://www.producthunt.com/products/winscript",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AppleScript for Windows for AI desktop control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126733+00:00"
+    },
+    {
+      "id": "f04518c6b656",
+      "name": "CatchAll Web Search API",
+      "url": "https://www.producthunt.com/products/catchall-web-search-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "api",
+        "search",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Access and analyze global news data in real time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126810+00:00"
+    },
+    {
+      "id": "79469c39a282",
+      "name": "Krisp Accent Converter for YouTube",
+      "url": "https://www.producthunt.com/products/krisp",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "YouTube, but you clearly understand everyone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126893+00:00"
+    },
+    {
+      "id": "b9313c5ce3a7",
+      "name": "VoxCPM2",
+      "url": "https://www.producthunt.com/products/minicpm-4-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "design",
+        "voice",
+        "tts"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source 48kHz TTS with voice design and cloning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.126977+00:00"
+    },
+    {
+      "id": "1e8120c31246",
+      "name": "showmd",
+      "url": "https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Markdown was never meant to be previewed plain text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127036+00:00"
+    },
+    {
+      "id": "d9a4e5bde6d9",
+      "name": "Revenue by Sleek Analytics",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your revenue alongside your traffic. In real time.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127114+00:00"
+    },
+    {
+      "id": "65d752ec5aeb",
+      "name": "GhostDesk",
+      "url": "https://www.producthunt.com/products/ghostdesk-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your invisible AI co-pilot for interviews & meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127185+00:00"
+    },
+    {
+      "id": "6c3e59a2ca93",
+      "name": "Open Comet",
+      "url": "https://www.producthunt.com/products/open-comet",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ask",
+        "search",
+        "research",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The autonomous AI browser agent for deep research & tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127256+00:00"
+    },
+    {
+      "id": "61eb5ffa0110",
+      "name": "ContextPool",
+      "url": "https://www.producthunt.com/products/contextpool",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Persistent memory for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127326+00:00"
+    },
+    {
+      "id": "514e0cf58e34",
+      "name": "Skills Janitor",
+      "url": "https://www.producthunt.com/products/skills-janitor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find which Claude Code skills you actually use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127396+00:00"
+    },
+    {
+      "id": "62c5c0eba1b7",
+      "name": "Claunnector",
+      "url": "https://www.producthunt.com/products/claunnector",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect your Mac's Mail, Calendar, and more to AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127466+00:00"
+    },
+    {
+      "id": "1ecb4c76fc39",
+      "name": "SigmaMind MCP",
+      "url": "https://www.producthunt.com/products/sigma-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and control voice AI agents via MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127533+00:00"
+    },
+    {
+      "id": "16ebe0b4e565",
+      "name": "Clarm",
+      "url": "https://www.producthunt.com/products/clarm-ai-technical-support",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI inbound layer to capture, qualify, and route leads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127602+00:00"
+    },
+    {
+      "id": "072f23edc418",
+      "name": "Ably Chat",
+      "url": "https://www.producthunt.com/products/ably-realtime",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Chat API built for serious scale\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127690+00:00"
+    },
+    {
+      "id": "4ef0cb36edc1",
+      "name": "Luma Agents",
+      "url": "https://www.producthunt.com/products/luma-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Agents that plan, iterate, + refine w/ full creative context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127768+00:00"
+    },
+    {
+      "id": "98f2418bb18b",
+      "name": "Legitify",
+      "url": "https://www.producthunt.com/products/legitify",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free",
+      "description_it": "Digital notarization across 50+ jurisdictions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-13T09:04:44.127837+00:00"
     },
     {
       "id": "96060dd5d851",
