@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-13T09:04:44.330503+00:00",
-  "total": 358,
+  "updated_at": "2026-04-14T08:26:53.064849+00:00",
+  "total": 378,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9f71e0eed2bc",
+      "name": "Barometric Pressure Offline",
+      "url": "https://www.producthunt.com/products/barometric-pressure-offline",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track barometric pressure and altitude without internet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.762765+00:00"
+    },
+    {
+      "id": "57c362c98c93",
+      "name": "shutup",
+      "url": "https://www.producthunt.com/products/shutup-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Zero-config MCP proxy that hides 99% of tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.762860+00:00"
+    },
+    {
+      "id": "5969a375c212",
+      "name": "Cascode",
+      "url": "https://www.producthunt.com/products/cascode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build. Break. Brainstorm.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.762931+00:00"
+    },
+    {
+      "id": "6568b033f664",
+      "name": "MarketRecon",
+      "url": "https://www.producthunt.com/products/marketrecon",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "search",
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate competitive intel with agentic AI deep search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763010+00:00"
+    },
+    {
+      "id": "9275f93e7293",
+      "name": "GitHub Stacked PRs",
+      "url": "https://www.producthunt.com/products/github",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Break big changes into small reviewable PRs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763082+00:00"
+    },
+    {
+      "id": "f9874c9f9c0f",
+      "name": "Google's Nest Doorbell",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "art",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smart, battery-powered video doorbell to detect what matters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763162+00:00"
+    },
+    {
+      "id": "e5b4676c440a",
+      "name": "Vector",
+      "url": "https://www.producthunt.com/products/vector-41",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The shortest distance between idea and revenue\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763240+00:00"
+    },
+    {
+      "id": "400f95f9114e",
+      "name": "HeyGen CLI",
+      "url": "https://www.producthunt.com/products/heygen-cli-dev-platform",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "terminal",
+        "avatar",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make videos, translate content + create avatars in terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763318+00:00"
+    },
+    {
+      "id": "a9b2d9cc8c75",
+      "name": "Ghost Pepper 🌶️",
+      "url": "https://www.producthunt.com/products/ghost-pepper",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "speech",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "100% local private AI for text-to-speech & meeting notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763416+00:00"
+    },
+    {
+      "id": "1249beec75de",
+      "name": "FlutterAIDev",
+      "url": "https://www.producthunt.com/products/flutteraidev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate flutter app using AI for Android and iOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763491+00:00"
+    },
+    {
+      "id": "ecfe561b7ec3",
+      "name": "SQL Gnome",
+      "url": "https://www.producthunt.com/products/sql-gnome",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A lightweight MySQL client for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763560+00:00"
+    },
+    {
+      "id": "4a1ed41f877b",
+      "name": "PixDone",
+      "url": "https://www.producthunt.com/products/pixdone-todo-app-with-pixel-effects",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Earn random pixel rewards every time you smash a task\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763656+00:00"
+    },
+    {
+      "id": "e8ce217c23c2",
+      "name": "ElevenAgents Guardrails 2.0",
+      "url": "https://www.producthunt.com/products/elevenagents-guardrails-2-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Configurable safety control for enterprise agent deployment.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763739+00:00"
+    },
+    {
+      "id": "ad948b63ecd1",
+      "name": "Recall 2.0",
+      "url": "https://www.producthunt.com/products/recall-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Curate an AI that knows what you know. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763796+00:00"
+    },
+    {
+      "id": "9c516315fb40",
+      "name": "SecuSpark",
+      "url": "https://www.producthunt.com/products/secuspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Turn boring cert exams into a MMORPG with boss fights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763852+00:00"
+    },
+    {
+      "id": "d6bb1ff0044f",
+      "name": "Shuffle AI Redesign Extension",
+      "url": "https://www.producthunt.com/products/ai-website-redesign",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Redesign any site using leading AI models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.763926+00:00"
+    },
+    {
+      "id": "db4112937d17",
+      "name": "Creativly",
+      "url": "https://www.producthunt.com/products/creativly",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Community-powered AI visual platform with unique generators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.764002+00:00"
+    },
+    {
+      "id": "e82b07c663b3",
+      "name": "Amadeus",
+      "url": "https://www.producthunt.com/products/amadeus-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "song",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn Any Piano Song\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.764069+00:00"
+    },
+    {
+      "id": "837c7ce3e5d8",
+      "name": "Caveman",
+      "url": "https://www.producthunt.com/products/caveman-claude-code-skill-plugin",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Why use so many token when few do trick?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.764119+00:00"
+    },
+    {
+      "id": "46099f558296",
+      "name": "Anamap",
+      "url": "https://www.producthunt.com/products/anamap",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Finally, an AI that actually understands your analytics.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-14T08:26:52.764190+00:00"
     },
     {
       "id": "a5ba2c3c9fc5",
