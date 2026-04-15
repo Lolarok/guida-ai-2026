@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T08:26:53.064849+00:00",
-  "total": 378,
+  "updated_at": "2026-04-15T08:30:26.820841+00:00",
+  "total": 397,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,297 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "55a7d798582a",
+      "name": "Intent",
+      "url": "https://www.producthunt.com/products/augment-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe a feature. AI agents build, verify, and ship it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575055+00:00"
+    },
+    {
+      "id": "97ae3343d890",
+      "name": "Google app for desktop",
+      "url": "https://www.producthunt.com/products/the-google-app-for-desktop",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask anything with the Google app for desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575187+00:00"
+    },
+    {
+      "id": "629afb726a91",
+      "name": "Clide",
+      "url": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grid-layout terminal with an AI that drives your shells.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575270+00:00"
+    },
+    {
+      "id": "6ce33d8ba52a",
+      "name": "Roll",
+      "url": "https://www.producthunt.com/products/roll-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The disposable camera for your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575326+00:00"
+    },
+    {
+      "id": "bd46dc9ee6c1",
+      "name": "Collabute",
+      "url": "https://www.producthunt.com/products/collabute",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your team's context, turned into action\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575396+00:00"
+    },
+    {
+      "id": "a8defa209d5a",
+      "name": "Wafer Pass",
+      "url": "https://www.producthunt.com/products/wafer",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Flat rate to the best LLMs for OpenClaw, Hermes Agent, etc.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575470+00:00"
+    },
+    {
+      "id": "7e89942838e1",
+      "name": "Doz",
+      "url": "https://www.producthunt.com/products/doz-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Medication reminders and tracker based on prescriptions \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575536+00:00"
+    },
+    {
+      "id": "254d62877079",
+      "name": "Playbook Intelligence",
+      "url": "https://www.producthunt.com/products/playbook-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk directly to your files to bulk edit, organize, & share\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575624+00:00"
+    },
+    {
+      "id": "097fec883ff6",
+      "name": "My!hū",
+      "url": "https://www.producthunt.com/products/myhu",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See global climate disaster data into one real-time platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575723+00:00"
+    },
+    {
+      "id": "f8ada4c5f750",
+      "name": "OneInbox",
+      "url": "https://www.producthunt.com/products/oneinbox-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build your own voice AI SDR\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575792+00:00"
+    },
+    {
+      "id": "6667f28df837",
+      "name": "LayerGen AI",
+      "url": "https://www.producthunt.com/products/layergen-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate print-ready D&amp;D miniatures from text or image\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575870+00:00"
+    },
+    {
+      "id": "3080c165e930",
+      "name": "MiniAi",
+      "url": "https://www.producthunt.com/products/miniai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Select text, hit (⌥ space), get AI explanations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.575944+00:00"
+    },
+    {
+      "id": "d20fe0d2d6d1",
+      "name": "Fathom 3.0",
+      "url": "https://www.producthunt.com/products/fathom",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude",
+        "bot",
+        "note"
+      ],
+      "pricing": "Free",
+      "description_it": "AI meeting notes: now bot-free, in ChatGPT & Claude + more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576020+00:00"
+    },
+    {
+      "id": "5ea6e8f5ee30",
+      "name": "Astra",
+      "url": "https://www.producthunt.com/products/astra-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make AI agents that never see your data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576090+00:00"
+    },
+    {
+      "id": "67b7489e40b0",
+      "name": "Carousels Generator",
+      "url": "https://www.producthunt.com/products/carousels-generator",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From prompt to branded LinkedIn carousel powered by AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576188+00:00"
+    },
+    {
+      "id": "80c5aa04bca8",
+      "name": "Gemini Robotics ER 1.6",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "visual",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google's SOTA robotics model for visual & spatial reasoning!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576268+00:00"
+    },
+    {
+      "id": "b8b06691d853",
+      "name": "Crazzy",
+      "url": "https://www.producthunt.com/products/crazzy-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your GitHub into a living 3D portfolio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576338+00:00"
+    },
+    {
+      "id": "b25eb96ebcd7",
+      "name": "Defter Notes 2.0.",
+      "url": "https://www.producthunt.com/products/defter-notes-2-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spatial thinking with handwriting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576414+00:00"
+    },
+    {
+      "id": "6d5e847b6ae0",
+      "name": "Pane Studio (Beta)",
+      "url": "https://www.producthunt.com/products/pane-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Produce polished product demos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-15T08:30:26.576468+00:00"
     },
     {
       "id": "9f71e0eed2bc",
