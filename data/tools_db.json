@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T08:30:26.820841+00:00",
-  "total": 397,
+  "updated_at": "2026-04-16T08:29:08.752772+00:00",
+  "total": 416,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "592259fd639c",
+      "name": "Splitt",
+      "url": "https://www.producthunt.com/products/splitt-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track your workout from your lock screen and Dynamic Island\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588581+00:00"
+    },
+    {
+      "id": "f17a5bb496fb",
+      "name": "Bitcoin",
+      "url": "https://www.producthunt.com/products/bitcoin-safe-desktop-wallet-foss",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free & OpenSource software for managing cold storage wallets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588664+00:00"
+    },
+    {
+      "id": "096dafc4d90b",
+      "name": "Subagents in Gemini CLI",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "gemini",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gemini CLI now runs specialist subagents in your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588750+00:00"
+    },
+    {
+      "id": "76fae63b732c",
+      "name": "Askiva AI",
+      "url": "https://www.producthunt.com/products/askiva-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ask",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your autonomous AI user researcher\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588823+00:00"
+    },
+    {
+      "id": "f1778b9385c5",
+      "name": "Chinilla",
+      "url": "https://www.producthunt.com/products/chinilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design systems, simulate them and watch where they break\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588899+00:00"
+    },
+    {
+      "id": "197acbc900ec",
+      "name": "Pilot5.ai",
+      "url": "https://www.producthunt.com/products/pilot5-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "question"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your question, deliberated by 5 frontier AI models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.588976+00:00"
+    },
+    {
+      "id": "3301466c1c25",
+      "name": "Spark 2.0",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A streaming engine for huge 3D Gaussian worlds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589059+00:00"
+    },
+    {
+      "id": "d1ced202219c",
+      "name": "Kampala by Zatanna",
+      "url": "https://www.producthunt.com/products/kampala-by-zatanna",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Reverse engineer websites, mobile, or desktop apps instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589127+00:00"
+    },
+    {
+      "id": "accf8c65e8a4",
+      "name": "Baremetrics for HubSpot",
+      "url": "https://www.producthunt.com/products/baremetrics",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your Stripe revenue data inside every HubSpot contact\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589208+00:00"
+    },
+    {
+      "id": "41287f4833ba",
+      "name": "ClawTab",
+      "url": "https://www.producthunt.com/products/clawtab",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "macOS desktop app to manage 20+ AI coding agents at once\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589282+00:00"
+    },
+    {
+      "id": "3b987e4dd7b5",
+      "name": "Incoclyse",
+      "url": "https://www.producthunt.com/products/incoclyse",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that reads your invoice and picks the right Incoterms®\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589364+00:00"
+    },
+    {
+      "id": "05f3eec33df1",
+      "name": "Windsurf 2.0",
+      "url": "https://www.producthunt.com/products/windsurf",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Introducing the Agent Command Center and Devin in Windsurf\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589455+00:00"
+    },
+    {
+      "id": "9bdfc997ba3d",
+      "name": "Agent Card",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Prepaid virtual Visa cards for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589527+00:00"
+    },
+    {
+      "id": "5a0537b08da7",
+      "name": "Google Chrome Skills",
+      "url": "https://www.producthunt.com/products/google-chrome-skills",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your best AI prompts into one-click tools in Chrome\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589604+00:00"
+    },
+    {
+      "id": "cb0624423b49",
+      "name": "HiveTerm",
+      "url": "https://www.producthunt.com/products/hiveterm",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One workspace for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589672+00:00"
+    },
+    {
+      "id": "8dc83a46ce6c",
+      "name": "Fellow for iOS",
+      "url": "https://www.producthunt.com/products/fellow-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your secure AI meeting assistant, always within reach.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589747+00:00"
+    },
+    {
+      "id": "f424c4f6b6cc",
+      "name": "TaskShell",
+      "url": "https://www.producthunt.com/products/taskshell",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "terminal",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A terminal/IDE-inspired task manager that does't suck\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589821+00:00"
+    },
+    {
+      "id": "2942eaca7df6",
+      "name": "Flixier Edit by Transcript",
+      "url": "https://www.producthunt.com/products/flixier",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Delete words and the video edits itself \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589905+00:00"
+    },
+    {
+      "id": "f3ebb2a7aee6",
+      "name": "stagewise",
+      "url": "https://www.producthunt.com/products/stagewise-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The coding agent for the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-16T08:29:08.589980+00:00"
     },
     {
       "id": "55a7d798582a",
