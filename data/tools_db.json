@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T08:29:08.752772+00:00",
-  "total": 416,
+  "updated_at": "2026-04-17T08:30:37.335627+00:00",
+  "total": 435,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,318 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "405cb3a89142",
+      "name": "Athena",
+      "url": "https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code for Product Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198085+00:00"
+    },
+    {
+      "id": "e588ad59a4e1",
+      "name": "CoAgentor",
+      "url": "https://www.producthunt.com/products/coagentor",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Agents that participate live in meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198182+00:00"
+    },
+    {
+      "id": "4a39405168af",
+      "name": "AgenticLens",
+      "url": "https://www.producthunt.com/products/agenticlens",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "debug",
+        "visual",
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual debugging, tracing, and replay for agent workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198260+00:00"
+    },
+    {
+      "id": "ed0ba7bca4d2",
+      "name": "Prio",
+      "url": "https://www.producthunt.com/products/prio-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "task",
+        "calendar",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI chief of staff for email, calendar, and tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198332+00:00"
+    },
+    {
+      "id": "26b38f30675e",
+      "name": "Ichiba AI",
+      "url": "https://www.producthunt.com/products/ichiba-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI to AI influence, scored. See what moves the models.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198389+00:00"
+    },
+    {
+      "id": "202547a1fb55",
+      "name": "Studio",
+      "url": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Organize, tag and edit thousands of photos at once with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198488+00:00"
+    },
+    {
+      "id": "63ab95947476",
+      "name": "DB Explorer",
+      "url": "https://www.producthunt.com/products/sourceforge",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "cli",
+        "explore",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Modern AI‑first database client\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198593+00:00"
+    },
+    {
+      "id": "5c1dc730112e",
+      "name": "LIVE: wtf are agents buying?",
+      "url": "https://www.producthunt.com/products/live-wtf-are-agents-buying",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Watch agents spend money in real time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198676+00:00"
+    },
+    {
+      "id": "3e2551f43fe8",
+      "name": "Macaly 4.0",
+      "url": "https://www.producthunt.com/products/macaly",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "I ship complete websites and apps from a chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198747+00:00"
+    },
+    {
+      "id": "15afe26bbda2",
+      "name": "SpeechPal",
+      "url": "https://www.producthunt.com/products/speechpal-speak-intent-not-anxiety",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The practice room for real life conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198816+00:00"
+    },
+    {
+      "id": "6b52a8c6c4b7",
+      "name": "Trackables",
+      "url": "https://www.producthunt.com/products/trackables-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open source telemetry solved\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198868+00:00"
+    },
+    {
+      "id": "5c4be24363d9",
+      "name": "The Factory Desktop App",
+      "url": "https://www.producthunt.com/products/factory-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent-native software dev that works alongside you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.198941+00:00"
+    },
+    {
+      "id": "c592c859b9ba",
+      "name": "Geekflare Scraping API v2",
+      "url": "https://www.producthunt.com/products/geekflare-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "RAG-ready web scraping that cuts your LLM token costs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199012+00:00"
+    },
+    {
+      "id": "817e5c1fcba8",
+      "name": "BARKOD studio",
+      "url": "https://www.producthunt.com/products/barkod-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transform boring barcodes into beautiful brand assets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199082+00:00"
+    },
+    {
+      "id": "ff19f27de7fd",
+      "name": "Melo",
+      "url": "https://www.producthunt.com/products/melo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One canvas for all your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199128+00:00"
+    },
+    {
+      "id": "6c2f40002a54",
+      "name": "Elvan",
+      "url": "https://www.producthunt.com/products/elvan-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn customer feedback into decisions with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199180+00:00"
+    },
+    {
+      "id": "e74a09df1623",
+      "name": "Qwen3.6",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The open sparse MoE model for agentic coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199246+00:00"
+    },
+    {
+      "id": "274f428f9a1b",
+      "name": "Cloudflare Email Service",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any email inbox into a native interface for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199323+00:00"
+    },
+    {
+      "id": "03039a41a96f",
+      "name": "SFX Stacks",
+      "url": "https://www.producthunt.com/products/sfx-stacks",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find sounds in local SFX libraries with plain words\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199392+00:00"
+    },
+    {
+      "id": "d04627fabdb6",
+      "name": "Themery",
+      "url": "https://www.producthunt.com/products/themery",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build beautiful themes for your IDE\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-17T08:30:37.199473+00:00"
     },
     {
       "id": "592259fd639c",
@@ -3743,22 +4055,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-04T07:50:12.429044+00:00"
-    },
-    {
-      "id": "e74a09df1623",
-      "name": "Qwen3.6",
-      "url": "https://www.producthunt.com/products/qwen3",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Multimodal AI optimized for real-world coding agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.429115+00:00"
     },
     {
       "id": "23e3d4632fd4",
