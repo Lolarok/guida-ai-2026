@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T08:30:37.335627+00:00",
-  "total": 435,
+  "updated_at": "2026-04-18T08:00:18.472448+00:00",
+  "total": 451,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,319 @@
       "featured": false
     },
     {
+      "id": "efcd281b7e03",
+      "name": "Claude Design by Anthropic Labs",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "claude",
+        "talk",
+        "design",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make prototypes, slides & one-pagers by talking to Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189361+00:00"
+    },
+    {
+      "id": "ca2ef8bcd857",
+      "name": "Android CLI",
+      "url": "https://www.producthunt.com/products/android-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build high quality Android apps 3x faster using any agent \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189455+00:00"
+    },
+    {
+      "id": "f1055ef78a59",
+      "name": "Vercel Flags",
+      "url": "https://www.producthunt.com/products/vercel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Feature flags, targeting rules, rollouts. All from Vercel.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189515+00:00"
+    },
+    {
+      "id": "1763b1738b76",
+      "name": "ChatGPT Shopping",
+      "url": "https://www.producthunt.com/products/chatgpt-shopping",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Richer, more visually immersive shopping experiences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189589+00:00"
+    },
+    {
+      "id": "2ccf9956c913",
+      "name": "Grok Voice API",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "api",
+        "voice",
+        "tts",
+        "stt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast, accurate STT and TTS APIs at the best price\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189683+00:00"
+    },
+    {
+      "id": "92eff4e6dc98",
+      "name": "CapyPlan",
+      "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task",
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Your no stress chearleader for tiny tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189758+00:00"
+    },
+    {
+      "id": "fbf78f4eab78",
+      "name": "Claude Code NO_FLICKER Mode",
+      "url": "https://www.producthunt.com/products/claude-code-no_flicker-mode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Mouse support and flicker-free rendering for Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189842+00:00"
+    },
+    {
+      "id": "4052cdf960c3",
+      "name": "Notebooks in Gemini",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gemini",
+        "notebook",
+        "note",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep every project, chat, and file in one focused space.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189922+00:00"
+    },
+    {
+      "id": "230ebb7c65fd",
+      "name": "CraftBot",
+      "url": "https://www.producthunt.com/products/craftbot",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A proactive AI Assistant that actually work WELL.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.189992+00:00"
+    },
+    {
+      "id": "d3a2a43dbb0a",
+      "name": "Is Your Site Agent",
+      "url": "https://www.producthunt.com/products/is-your-site-agent-ready",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scan your website to see how ready it is for AI agents. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190066+00:00"
+    },
+    {
+      "id": "38191a05768b",
+      "name": "React Email 6.0 by Resend",
+      "url": "https://www.producthunt.com/products/react-email-6-0-resend",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, customize, and ship emails — all from your own app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190166+00:00"
+    },
+    {
+      "id": "ab4229cf2019",
+      "name": "Noa",
+      "url": "https://www.producthunt.com/products/noa-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your life admin for quick availability and scheduling\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190234+00:00"
+    },
+    {
+      "id": "6c2f40002a54",
+      "name": "Elvan",
+      "url": "https://www.producthunt.com/products/elvan-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn customer feedback into decisions with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190285+00:00"
+    },
+    {
+      "id": "f879cdf66059",
+      "name": "AI Mode in Chrome",
+      "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Browse and search side-by-side, without switching tabs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190355+00:00"
+    },
+    {
+      "id": "a56372f3ba15",
+      "name": "Visual PR Testing with AI",
+      "url": "https://www.producthunt.com/products/qa-tech",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Validate every PR with AI that runs tests for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190426+00:00"
+    },
+    {
+      "id": "202547a1fb55",
+      "name": "Studio",
+      "url": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Organize, tag and edit thousands of photos at once with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190496+00:00"
+    },
+    {
+      "id": "ff19f27de7fd",
+      "name": "Melo",
+      "url": "https://www.producthunt.com/products/melo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One canvas for all your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190544+00:00"
+    },
+    {
+      "id": "26b38f30675e",
+      "name": "Ichiba AI",
+      "url": "https://www.producthunt.com/products/ichiba-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI to AI influence, scored. See what moves the models.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190603+00:00"
+    },
+    {
+      "id": "718a1ad12a2b",
+      "name": "Hacktron",
+      "url": "https://www.producthunt.com/products/hacktron",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI security engineer. Ship fast while staying secure.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190674+00:00"
+    },
+    {
+      "id": "d37135866abe",
+      "name": "VideoToFlip.com",
+      "url": "https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create beautiful flipbooks with your video moments\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-18T08:00:18.190749+00:00"
+    },
+    {
       "id": "405cb3a89142",
       "name": "Athena",
       "url": "https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47",
@@ -445,35 +758,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-17T08:30:37.198332+00:00"
-    },
-    {
-      "id": "26b38f30675e",
-      "name": "Ichiba AI",
-      "url": "https://www.producthunt.com/products/ichiba-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI to AI influence, scored. See what moves the models.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-17T08:30:37.198389+00:00"
-    },
-    {
-      "id": "202547a1fb55",
-      "name": "Studio",
-      "url": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "photo",
-        "organiz"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Organize, tag and edit thousands of photos at once with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-17T08:30:37.198488+00:00"
     },
     {
       "id": "63ab95947476",
@@ -599,32 +883,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-17T08:30:37.199082+00:00"
-    },
-    {
-      "id": "ff19f27de7fd",
-      "name": "Melo",
-      "url": "https://www.producthunt.com/products/melo-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "One canvas for all your work\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-17T08:30:37.199128+00:00"
-    },
-    {
-      "id": "6c2f40002a54",
-      "name": "Elvan",
-      "url": "https://www.producthunt.com/products/elvan-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Turn customer feedback into decisions with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-17T08:30:37.199180+00:00"
     },
     {
       "id": "e74a09df1623",
