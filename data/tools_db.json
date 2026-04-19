@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-18T08:00:18.472448+00:00",
-  "total": 451,
+  "updated_at": "2026-04-19T08:10:29.293892+00:00",
+  "total": 468,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,312 @@
       "featured": false
     },
     {
+      "id": "99071f75ad92",
+      "name": "Fixa.dev",
+      "url": "https://www.producthunt.com/products/fixa-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A cloud-native AI agent that can build literally anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051551+00:00"
+    },
+    {
+      "id": "dfeb82e991c2",
+      "name": "Gemini app for Mac",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Option + Space and Gemini is right there\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051626+00:00"
+    },
+    {
+      "id": "117adee155b9",
+      "name": "AGG Loop",
+      "url": "https://www.producthunt.com/products/agg-loop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Secure, forever-free localhost tunnels (ex-Deposure).\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051675+00:00"
+    },
+    {
+      "id": "30aa168aa5c6",
+      "name": "Avina",
+      "url": "https://www.producthunt.com/products/avina-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GTM Agents to Find and Reach Your Next Customer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051733+00:00"
+    },
+    {
+      "id": "bf03a77ef7b2",
+      "name": "Perplexity Personal Computer",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "perplexity",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local files. Native apps. Voice control. Always on.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051796+00:00"
+    },
+    {
+      "id": "d0ca14a18cd5",
+      "name": "Wyndo",
+      "url": "https://www.producthunt.com/products/wyndo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Weather app that tells you when to walk, bike or eat outside\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051855+00:00"
+    },
+    {
+      "id": "78cc0e1f1c37",
+      "name": "Paperweight",
+      "url": "https://www.producthunt.com/products/paperweight",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cleanup your email and manage your digital footprint\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051918+00:00"
+    },
+    {
+      "id": "5845dfbaec2e",
+      "name": "Nibbo",
+      "url": "https://www.producthunt.com/products/nibbo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Family hub with a 3D pet that grows as you get things done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.051967+00:00"
+    },
+    {
+      "id": "7e7f39f57d00",
+      "name": "Tell",
+      "url": "https://www.producthunt.com/products/tell-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac widgets, made fun. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052018+00:00"
+    },
+    {
+      "id": "1e4cfe8b766f",
+      "name": "Vantage in Google Labs",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Practice & assess future-ready skills with AI-simulated team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052079+00:00"
+    },
+    {
+      "id": "502312effcf4",
+      "name": "Assemble",
+      "url": "https://www.producthunt.com/products/assemble-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One /go command for AI work that remembers — zero runtime\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052141+00:00"
+    },
+    {
+      "id": "2fc49324ee6d",
+      "name": "Verdent 2.0",
+      "url": "https://www.producthunt.com/products/verdent-deck",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI Technical Cofounder\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052182+00:00"
+    },
+    {
+      "id": "03cffa66a290",
+      "name": "Lounge",
+      "url": "https://www.producthunt.com/products/lounge-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "icon"
+      ],
+      "pricing": "Free tier",
+      "description_it": "macOS Tahoe menu bar manager with notch-aware icon control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052239+00:00"
+    },
+    {
+      "id": "9e0d7fca8e55",
+      "name": "GPT‑Rosalind",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "gpt",
+        "search",
+        "research",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Purpose-built model for scientific research & drug discovery\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052312+00:00"
+    },
+    {
+      "id": "1763b1738b76",
+      "name": "ChatGPT Shopping",
+      "url": "https://www.producthunt.com/products/chatgpt-shopping",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Richer, more visually immersive shopping experiences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052370+00:00"
+    },
+    {
+      "id": "92eff4e6dc98",
+      "name": "CapyPlan",
+      "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task",
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Your no stress chearleader for tiny tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052436+00:00"
+    },
+    {
+      "id": "79643b8ee499",
+      "name": "Claude Code Rendering",
+      "url": "https://www.producthunt.com/products/claude-code-no_flicker-mode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Mouse support and flicker-free rendering for Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052498+00:00"
+    },
+    {
+      "id": "45b8dc71ba4c",
+      "name": ".MD This Page",
+      "url": "https://www.producthunt.com/products/md-this-page",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Convert any page to clean Markdown instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052543+00:00"
+    },
+    {
+      "id": "b2d77908b289",
+      "name": "Hipocampus",
+      "url": "https://www.producthunt.com/products/hipocampus",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI operators that own team workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052601+00:00"
+    },
+    {
+      "id": "2ccf9956c913",
+      "name": "Grok Voice API",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "api",
+        "voice",
+        "tts",
+        "stt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast, accurate STT and TTS APIs at the best price\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-19T08:10:29.052657+00:00"
+    },
+    {
       "id": "efcd281b7e03",
       "name": "Claude Design by Anthropic Labs",
       "url": "https://www.producthunt.com/products/claude",
@@ -424,58 +730,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-18T08:00:18.189515+00:00"
-    },
-    {
-      "id": "1763b1738b76",
-      "name": "ChatGPT Shopping",
-      "url": "https://www.producthunt.com/products/chatgpt-shopping",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "gpt",
-        "visual"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Richer, more visually immersive shopping experiences\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-18T08:00:18.189589+00:00"
-    },
-    {
-      "id": "2ccf9956c913",
-      "name": "Grok Voice API",
-      "url": "https://www.producthunt.com/products/grok",
-      "source": "Product Hunt AI (feed)",
-      "category": "audio",
-      "tags": [
-        "api",
-        "voice",
-        "tts",
-        "stt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Fast, accurate STT and TTS APIs at the best price\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-18T08:00:18.189683+00:00"
-    },
-    {
-      "id": "92eff4e6dc98",
-      "name": "CapyPlan",
-      "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "ask",
-        "task",
-        "ad"
-      ],
-      "pricing": "Freemium",
-      "description_it": "Your no stress chearleader for tiny tasks\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-18T08:00:18.189758+00:00"
     },
     {
       "id": "fbf78f4eab78",
