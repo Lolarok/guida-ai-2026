@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T08:10:29.293892+00:00",
-  "total": 468,
+  "updated_at": "2026-04-20T09:08:18.847455+00:00",
+  "total": 488,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,287 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "acc141003219",
+      "name": "The New Waydev",
+      "url": "https://www.producthunt.com/products/waydev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Measure the full AI SDLC. From token to production.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.712856+00:00"
+    },
+    {
+      "id": "73b7b3044d2c",
+      "name": "In Parallel",
+      "url": "https://www.producthunt.com/products/in-parallel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Operating System for Execution\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.712955+00:00"
+    },
+    {
+      "id": "2d793e451ea2",
+      "name": "QA Crow",
+      "url": "https://www.producthunt.com/products/qa-crow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A murder of crows for your bug backlog\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713009+00:00"
+    },
+    {
+      "id": "851fba465bc6",
+      "name": "Cubik.one",
+      "url": "https://www.producthunt.com/products/cubik-one",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Tool-free modular 3D cubes to build anything in real life\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713066+00:00"
+    },
+    {
+      "id": "27087b7b4ce3",
+      "name": "nooxit",
+      "url": "https://www.producthunt.com/products/nooxit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI workers for the procurement back office saving 90% costs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713119+00:00"
+    },
+    {
+      "id": "926460872123",
+      "name": "MaxHermes",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "World's first cloud sandbox Hermes Agent from MiniMax\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713190+00:00"
+    },
+    {
+      "id": "003a36acbb47",
+      "name": "Sirputis",
+      "url": "https://www.producthunt.com/products/sirputis",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Where engineering meets seaweed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713246+00:00"
+    },
+    {
+      "id": "acb0d3a07cff",
+      "name": "Knowzilla",
+      "url": "https://www.producthunt.com/products/knowzilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time AI for sales that guides every deal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713322+00:00"
+    },
+    {
+      "id": "1b6125decae5",
+      "name": "CryptoMate",
+      "url": "https://www.producthunt.com/products/cryptomate",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Global financial infrastructure for LatAm businesses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713377+00:00"
+    },
+    {
+      "id": "4331d74080e6",
+      "name": "CONA",
+      "url": "https://www.producthunt.com/products/cona",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "E-commerce accounting that runs itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713426+00:00"
+    },
+    {
+      "id": "8b0168efa06a",
+      "name": "Let's Barter",
+      "url": "https://www.producthunt.com/products/let-s-barter",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Why buy when you can Barter?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713488+00:00"
+    },
+    {
+      "id": "e4e3789b2c1e",
+      "name": "Tinkery",
+      "url": "https://www.producthunt.com/products/tinkery",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Revenue clarity for growing businesses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713537+00:00"
+    },
+    {
+      "id": "a5720dc3ffe3",
+      "name": "kaizen",
+      "url": "https://www.producthunt.com/products/kaizen-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run training that adapts based on the running you do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713605+00:00"
+    },
+    {
+      "id": "bef627febbda",
+      "name": "Embedist",
+      "url": "https://www.producthunt.com/products/embedist",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Opensource AI-native embedded development environment \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713676+00:00"
+    },
+    {
+      "id": "dd3c3c6b8182",
+      "name": "Granter",
+      "url": "https://www.producthunt.com/products/granter-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your company's AI Grant Consultant \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713725+00:00"
+    },
+    {
+      "id": "8bdc6baee357",
+      "name": "Ona AI: Learning Assistive Technology",
+      "url": "https://www.producthunt.com/products/dumbail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "avatar",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Building digital sign language avatars & inclusive datasets.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713802+00:00"
+    },
+    {
+      "id": "9ad876cf92b0",
+      "name": "GRANDMAMA",
+      "url": "https://www.producthunt.com/products/grandmama",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Transforming Homecare, Everywhere!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713851+00:00"
+    },
+    {
+      "id": "c3489082003f",
+      "name": "Elytro Agent Wallet",
+      "url": "https://www.producthunt.com/products/elytro-agent-wallet",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-custodial wallet built for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713940+00:00"
+    },
+    {
+      "id": "7af9a8b31946",
+      "name": "Vertai Technology",
+      "url": "https://www.producthunt.com/products/vertai-technology",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "(site is a launching-soon placeholder)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.713995+00:00"
+    },
+    {
+      "id": "4f50bc7661a0",
+      "name": "Auxilius.ai",
+      "url": "https://www.producthunt.com/products/auxilius-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn compliance into code with agentic AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-20T09:08:18.714066+00:00"
     },
     {
       "id": "99071f75ad92",
