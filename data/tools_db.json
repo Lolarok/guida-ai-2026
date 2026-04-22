@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T08:56:35.428704+00:00",
-  "total": 508,
+  "updated_at": "2026-04-22T08:31:06.116969+00:00",
+  "total": 527,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,321 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9d8bc016243b",
+      "name": "Iris Studio",
+      "url": "https://www.producthunt.com/products/iris-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Swiss Army Knife for AI & Video Creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877494+00:00"
+    },
+    {
+      "id": "1bfb37f969c2",
+      "name": "sneo.ai",
+      "url": "https://www.producthunt.com/products/sneo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "data",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your SEO data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877577+00:00"
+    },
+    {
+      "id": "a17c56594e13",
+      "name": "EOL Dataset",
+      "url": "https://www.producthunt.com/products/eol-dataset",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "data"
+      ],
+      "pricing": "Free",
+      "description_it": "Find every EOL dependency in your stack. Free. In 5 minutes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877656+00:00"
+    },
+    {
+      "id": "e74a09df1623",
+      "name": "Qwen3.6",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The flagship Qwen for agentic coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877725+00:00"
+    },
+    {
+      "id": "9592a6b26b24",
+      "name": "DecisionBox Enterprise",
+      "url": "https://www.producthunt.com/products/decisionbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight",
+        "data",
+        "agent",
+        "erp",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent that writes SQL for you to validate database insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877803+00:00"
+    },
+    {
+      "id": "e94d44e97300",
+      "name": "Cavalry Studio",
+      "url": "https://www.producthunt.com/products/cavalry-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "motion"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Motion Design tool by Canva\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877871+00:00"
+    },
+    {
+      "id": "e1e7e530b1b3",
+      "name": "Trail",
+      "url": "https://www.producthunt.com/products/trail-visualize-your-chrome-browsing",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "turn your browsing into a private and local knowledge graph \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877937+00:00"
+    },
+    {
+      "id": "a941a422af5c",
+      "name": "ConsoleMini",
+      "url": "https://www.producthunt.com/products/consolemini",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn a Mac mini into a living-room retro/PS console\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.877996+00:00"
+    },
+    {
+      "id": "89f967a4b14a",
+      "name": "ProDocktive",
+      "url": "https://www.producthunt.com/products/prodocktive",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The ultimate desktop experience, powered by your iPhone. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878053+00:00"
+    },
+    {
+      "id": "ec107e957ce4",
+      "name": "Loomal",
+      "url": "https://www.producthunt.com/products/loomal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Identity infrastructure for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878121+00:00"
+    },
+    {
+      "id": "2ce23a3441f7",
+      "name": "Cai",
+      "url": "https://www.producthunt.com/products/cai-layer",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Press ⌥C on anything to run smart actions, locally\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878235+00:00"
+    },
+    {
+      "id": "c548c465ebc9",
+      "name": "Nova Recruiter",
+      "url": "https://www.producthunt.com/products/nova-recruiter",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic platform to find, contact and recruit top talent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878316+00:00"
+    },
+    {
+      "id": "c8486fcbdd02",
+      "name": "ChatGPT Images 2.0",
+      "url": "https://www.producthunt.com/products/chatgpt-images-2-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "First image model with thinking capabilities\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878389+00:00"
+    },
+    {
+      "id": "d61031b15bcb",
+      "name": "SpeakON",
+      "url": "https://www.producthunt.com/products/speakon",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A MagSafe AI device for a post-keyboard world\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878456+00:00"
+    },
+    {
+      "id": "f74f8159f02b",
+      "name": "Stanley For 𝕏",
+      "url": "https://www.producthunt.com/products/stanley-for-x",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The World's First AI Head of Content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878538+00:00"
+    },
+    {
+      "id": "59747ee0aa49",
+      "name": "InstantDB",
+      "url": "https://www.producthunt.com/products/instant-db",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "backend"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Complete backend with auth and storage in one prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878610+00:00"
+    },
+    {
+      "id": "13ba159f1eb9",
+      "name": "VibeAround",
+      "url": "https://www.producthunt.com/products/vibearound",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your local AI coding agent from any IM or browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878687+00:00"
+    },
+    {
+      "id": "3f050ad65199",
+      "name": "Cut/Storm",
+      "url": "https://www.producthunt.com/products/cut-storm",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Paste video from anywhere, burn-in subs, cut, crop, share\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878758+00:00"
+    },
+    {
+      "id": "97059027cfe7",
+      "name": "Reference Board",
+      "url": "https://www.producthunt.com/products/reference-board",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Infinite Canvas for your ideas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878825+00:00"
+    },
+    {
+      "id": "b86b74662e37",
+      "name": "Entendo",
+      "url": "https://www.producthunt.com/products/entendo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "question",
+        "art",
+        "analysis"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn plain-language questions into live chart & analysis\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-22T08:31:05.878894+00:00"
     },
     {
       "id": "f11d80eaf86e",
@@ -1720,22 +2035,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-17T08:30:37.199082+00:00"
-    },
-    {
-      "id": "e74a09df1623",
-      "name": "Qwen3.6",
-      "url": "https://www.producthunt.com/products/qwen3",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The open sparse MoE model for agentic coding\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-17T08:30:37.199246+00:00"
     },
     {
       "id": "274f428f9a1b",
