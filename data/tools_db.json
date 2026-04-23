@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T08:31:06.116969+00:00",
-  "total": 527,
+  "updated_at": "2026-04-23T08:55:58.510646+00:00",
+  "total": 547,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,318 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "4211b262353a",
+      "name": "Typewise AI Customer Service",
+      "url": "https://www.producthunt.com/products/typewise",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free",
+      "description_it": "Automate customer support across systems with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335269+00:00"
+    },
+    {
+      "id": "62a0a007d9a9",
+      "name": "Public Pages for Confluence",
+      "url": "https://www.producthunt.com/products/atlassian",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn Confluence pages into public SEO-friendly websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335367+00:00"
+    },
+    {
+      "id": "0e9d8a128952",
+      "name": "PopTask v2.0",
+      "url": "https://www.producthunt.com/products/poptask",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "3 seconds from thought to task. No clicks, no app switching\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335444+00:00"
+    },
+    {
+      "id": "29e9303df989",
+      "name": "FocuSee 2.0",
+      "url": "https://www.producthunt.com/products/focusee",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record screen to get polished demos & tutorials\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335517+00:00"
+    },
+    {
+      "id": "3e73afe10710",
+      "name": "octoscope",
+      "url": "https://www.producthunt.com/products/octoscope",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your GitHub profile as a live terminal dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335588+00:00"
+    },
+    {
+      "id": "8e7c3b311d25",
+      "name": "Workspace agents in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "chat",
+        "gpt",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Codex-powered agents for teams.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335660+00:00"
+    },
+    {
+      "id": "9de882e369f7",
+      "name": "Reloop Animation Studio",
+      "url": "https://www.producthunt.com/products/reloop",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "animation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any video idea into Pixar, Clay or Manga\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335746+00:00"
+    },
+    {
+      "id": "00ba8b142269",
+      "name": "ASI:One",
+      "url": "https://www.producthunt.com/products/asi",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "A personal AI with memory that plans and acts for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335804+00:00"
+    },
+    {
+      "id": "80e5425c7556",
+      "name": "Vector by zauth",
+      "url": "https://www.producthunt.com/products/vector-by-zauth",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Accessible AI security for your web app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335857+00:00"
+    },
+    {
+      "id": "04d8524a3f0a",
+      "name": "Gemini Enterprise Agent Platform",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google's platform to run AI agents at enterprise scale\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335933+00:00"
+    },
+    {
+      "id": "d58c96c40b80",
+      "name": "MindFort",
+      "url": "https://www.producthunt.com/products/mindfort",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Recursively learning security agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.335998+00:00"
+    },
+    {
+      "id": "68a3f0f6caa0",
+      "name": "MailerLogic",
+      "url": "https://www.producthunt.com/products/mailerlogic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email API with built-in deliverability intelligence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336089+00:00"
+    },
+    {
+      "id": "f891bfe4ece8",
+      "name": "Instamor",
+      "url": "https://www.producthunt.com/products/instamor-short-video-dating",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "art",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Video-first partner matching per your personal vibe \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336162+00:00"
+    },
+    {
+      "id": "f36efe923167",
+      "name": "Agent Context",
+      "url": "https://www.producthunt.com/products/agent-context",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Attach reference projects for AI coding tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336234+00:00"
+    },
+    {
+      "id": "1e251ec6ae61",
+      "name": "MiMo",
+      "url": "https://www.producthunt.com/products/mimo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Frontier agent capability with better token efficiency\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336304+00:00"
+    },
+    {
+      "id": "0fac555635a1",
+      "name": "Kollab",
+      "url": "https://www.producthunt.com/products/kollab-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared workspace where teams work with agents together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336373+00:00"
+    },
+    {
+      "id": "735c9d0a71ed",
+      "name": "Vora Health",
+      "url": "https://www.producthunt.com/products/vora-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One AI-powered health app for every health metric & wearable\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336434+00:00"
+    },
+    {
+      "id": "43bc68b1ea76",
+      "name": "Blink AI CFO",
+      "url": "https://www.producthunt.com/products/blink-21",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI CFO that autonomously trades stocks and options via Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336506+00:00"
+    },
+    {
+      "id": "2da81cd22d2b",
+      "name": "Figma For AI Agents",
+      "url": "https://www.producthunt.com/products/figma-for-ai-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drop-in design systems your AI coding agent can read\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336580+00:00"
+    },
+    {
+      "id": "e8a0fa9e8481",
+      "name": "FloMCP",
+      "url": "https://www.producthunt.com/products/flomcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ship MCP servers with 32 security checks in under 5 minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-23T08:55:58.336636+00:00"
     },
     {
       "id": "9d8bc016243b",
