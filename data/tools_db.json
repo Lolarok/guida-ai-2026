@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T08:55:58.510646+00:00",
-  "total": 547,
+  "updated_at": "2026-04-24T09:01:46.656763+00:00",
+  "total": 567,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,306 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "733e2f6fca5c",
+      "name": "Yutori Delegate",
+      "url": "https://www.producthunt.com/products/scouts-by-yutori",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Why cowork when you can delegate?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.429966+00:00"
+    },
+    {
+      "id": "df5075c0b96d",
+      "name": "Google Workspace Intelligence",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI that understands and powers your Workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430036+00:00"
+    },
+    {
+      "id": "14f0b3b001a6",
+      "name": "Haiker",
+      "url": "https://www.producthunt.com/products/haiker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hacker News App for non-native english speaker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430083+00:00"
+    },
+    {
+      "id": "e7b2936001c7",
+      "name": "Bansi AI by Writesonic",
+      "url": "https://www.producthunt.com/products/bansi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "talk",
+        "video",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI video editor for long-form talking head videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430146+00:00"
+    },
+    {
+      "id": "c8d7de238690",
+      "name": "Beezi AI",
+      "url": "https://www.producthunt.com/products/beezi-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make AI development structured, secure, and cost-efficient.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430208+00:00"
+    },
+    {
+      "id": "ad0cfeef8697",
+      "name": "MailCue",
+      "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run as a fully hardened production email server.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430267+00:00"
+    },
+    {
+      "id": "3caa3d39a8f8",
+      "name": "Emotional intelligence AI for live calls",
+      "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Emotional intelligence AI for live sales calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430340+00:00"
+    },
+    {
+      "id": "5281f6dfc70c",
+      "name": "SaveForm.io",
+      "url": "https://www.producthunt.com/products/saveform-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automated form tracking and e-mail notifications & webhooks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430403+00:00"
+    },
+    {
+      "id": "1e6cf8c62706",
+      "name": "Spira AI",
+      "url": "https://www.producthunt.com/products/spira-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Influencer that always on trend, create & grow your brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430463+00:00"
+    },
+    {
+      "id": "fa9fd2392184",
+      "name": "NotchNest AI",
+      "url": "https://www.producthunt.com/products/notchnest-quick-access-hub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI powered by Apple Intelligence now in your Notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430507+00:00"
+    },
+    {
+      "id": "f33050a36586",
+      "name": "Tyndale",
+      "url": "https://www.producthunt.com/products/tyndale",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate your app with the AI you already pay for\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430563+00:00"
+    },
+    {
+      "id": "8bd27a532c8d",
+      "name": "Mozart Studio 1.0",
+      "url": "https://www.producthunt.com/products/mozart-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Generative Audio Workstation with VSTs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430618+00:00"
+    },
+    {
+      "id": "2e94bc50ace3",
+      "name": "boots.list",
+      "url": "https://www.producthunt.com/products/boots-list",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "playlist",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From Rekordbox collection to set-ready playlist\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430675+00:00"
+    },
+    {
+      "id": "25662e33f262",
+      "name": "DeepSeek",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "The open-source era of 1M context intelligence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430720+00:00"
+    },
+    {
+      "id": "19aa306cef56",
+      "name": "Your Name in Landsat 🛰️",
+      "url": "https://www.producthunt.com/products/your-name-in-landsat",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "The planet can spell your name – literally!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430788+00:00"
+    },
+    {
+      "id": "63fc755b325c",
+      "name": "TuneJourney.com",
+      "url": "https://www.producthunt.com/products/tunejourney-com",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI learns your listening habits and curates your live radio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430849+00:00"
+    },
+    {
+      "id": "b1f978d93fb0",
+      "name": "Ask Product Hunt AI",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the right product, just ask\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430917+00:00"
+    },
+    {
+      "id": "221fb5fecca4",
+      "name": "Nordcraft 2.0",
+      "url": "https://www.producthunt.com/products/toddle",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "2.0 adds a new AI Agent. Up to 6x faster than Claude Code.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.430979+00:00"
+    },
+    {
+      "id": "83dd80bc30fd",
+      "name": "BAND",
+      "url": "https://www.producthunt.com/products/band",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Coordinate and govern multi-agent work in a single chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.431035+00:00"
+    },
+    {
+      "id": "1c1be17e4085",
+      "name": "Codex 3.0 by OpenAI",
+      "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "debug"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Codex can now build, test & debug on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-24T09:01:46.431091+00:00"
     },
     {
       "id": "4211b262353a",
