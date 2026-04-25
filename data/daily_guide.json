@@ -1,9 +1,9 @@
 {
-  "title": "Voice AI: trascrizione e sintesi vocale",
-  "level": "intermedio",
-  "tag": "strumenti",
-  "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-04-24T09:01:46.709224+00:00",
-  "day_of_year": 114,
-  "topic_index": 24
+  "title": "AI coding assistants: come usarli bene",
+  "level": "principiante",
+  "tag": "pratico",
+  "content_html": "\n<p>I <strong>coding assistant AI</strong> sono strumenti che ti aiutano a scrivere, leggere e debuggare codice. Ma usarli bene non è banale — la differenza tra un principiante e un pro sta tutto nel <em>come</em> gli poni il problema.</p>\n<p><strong>I 3 livelli di coding assist:</strong></p>\n<ul>\n  <li><strong>Autocomplete:</strong> Ti suggerisce la prossima riga mentre scrivi. Veloce, locale, zero frizione. (GitHub Copilot, Cursor Tab)</li>\n  <li><strong>Chat inline:</strong> Chiedi \"così fa questo codice?\" o \"refactora questa funzione\". Risposte contestuali sul tuo progetto. (Cursor Chat, VS Code Copilot Chat)</li>\n  <li><strong>Agent mode:</strong> Dai un obiettivo e l'AI modifica più file, esegue test, fixa errori. Autonomo ma supervisionabile. (Claude Code, Cursor Composer, Kilo Code)</li>\n</ul>\n<p><strong>3 regole d'oro:</strong></p>\n<ul>\n  <li><strong>1. Dai contesto:</strong> Non dire \"scrivi una funzione\" — di \"scrivi una funzione Python che prende una lista di dict con chiavi 'name' e 'score', filtra quelli con score > 50, e ritorna ordinati per score descrescente\". Più contesto = meno allucinazioni.</li>\n  <li><strong>2. Leggi prima di accettare:</strong> L'AI scrive codice che <em>sembra</em> giusto. Sempre. Non significa che lo sia. Leggi, capisci, poi accetta.</li>\n  <li><strong>3. Itera, non perfeziona:</strong> Chiedi una prima bozza, poi migliora con prompt mirati. \"Ora aggiungi gestione errori\", \"Ora rendilo type-safe\". Meglio 3 iterazioni veloci che un prompt monstre.</li>\n</ul>\n<p><strong>Il segreto dei pro:</strong> Usano l'AI per il codice boilerplate (CRUD, test, config) e scrivono a mano la logica critica. È come avere un tirocinante velocissimo — perfetto per il lavoro ripetitivo, da supervisionare per le decisioni importanti.</p>\n",
+  "selected_at": "2026-04-25T08:08:01.824219+00:00",
+  "day_of_year": 115,
+  "topic_index": 25
 }
