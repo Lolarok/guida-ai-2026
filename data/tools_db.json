@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T08:08:01.760585+00:00",
-  "total": 581,
+  "updated_at": "2026-04-26T08:17:21.995076+00:00",
+  "total": 588,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,112 @@
       "featured": false
     },
     {
+      "id": "995e71eb2328",
+      "name": "Edgee Team",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Strava for your coding assistants\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410333+00:00"
+    },
+    {
+      "id": "cef638b9c2ed",
+      "name": "QuickCompare by Trismik",
+      "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compare LLMs on your data, measure, and pick the best.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410458+00:00"
+    },
+    {
+      "id": "31d23650ff05",
+      "name": "GPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenAI's smartest and most intuitive to use model yet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410543+00:00"
+    },
+    {
+      "id": "73be4fbc817b",
+      "name": "Claude Connectors",
+      "url": "https://www.producthunt.com/products/claude-connectors",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "New connectors in Claude for everyday life\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410619+00:00"
+    },
+    {
+      "id": "36d67b99a51f",
+      "name": "Free chart generator by Embedful",
+      "url": "https://www.producthunt.com/products/embedful",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free",
+      "description_it": "Turn CSV & Excel files into charts in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410698+00:00"
+    },
+    {
+      "id": "43ccd79c0f61",
+      "name": "Happenstance",
+      "url": "https://www.producthunt.com/products/happenstance-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search your network with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410767+00:00"
+    },
+    {
+      "id": "8d3b3ad37608",
+      "name": "Pica",
+      "url": "https://www.producthunt.com/products/pica",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Fully native app for managing your fonts on MacOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.410832+00:00"
+    },
+    {
       "id": "5563eac87a08",
       "name": "Clawdi",
       "url": "https://www.producthunt.com/products/clawdi",
@@ -390,120 +496,7 @@
       "description_it": "Best home for all AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585220+00:00"
-    },
-    {
-      "id": "d56204e225af",
-      "name": "ZeroHuman.",
-      "url": "https://www.producthunt.com/products/zerohuman",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "clip"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your AI Co-Founder: OpenClaw x Paperclip x Spud\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585315+00:00"
-    },
-    {
-      "id": "bc73800439c7",
-      "name": "MiMo",
-      "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "song"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Bilingual ASR for dialects, code-switching, and songs\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585394+00:00"
-    },
-    {
-      "id": "6577b3141f38",
-      "name": "PromptPaste",
-      "url": "https://www.producthunt.com/products/promptpaste",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your private AI prompt library on Mac, iPhone, and iPad\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585471+00:00"
-    },
-    {
-      "id": "02798fce9df7",
-      "name": "Genspark for Excel",
-      "url": "https://www.producthunt.com/products/genspark-for-excel",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "assistant",
-        "art",
-        "insight"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI assistant for Excel formulas, charts, insights.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585550+00:00"
-    },
-    {
-      "id": "09b2a502766e",
-      "name": "Gemini Personal Intelligence",
-      "url": "https://www.producthunt.com/products/gemini-personal-intelligence",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gemini",
-        "answer"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Gemini answers with context from your Google apps\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585627+00:00"
-    },
-    {
-      "id": "9ec3250d8f1a",
-      "name": "Grok Voice Think Fast 1.0",
-      "url": "https://www.producthunt.com/products/grok-voice-think-fast-1-0",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api",
-        "voice",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Our most capable voice agent is now available via API\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585715+00:00"
-    },
-    {
-      "id": "ee6c0af9a62e",
-      "name": "Architecto",
-      "url": "https://www.producthunt.com/products/architecto",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "design",
-        "document"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Design, review, and document cloud architecture with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585809+00:00"
+      "discovered_at": "2026-04-26T08:17:21.410900+00:00"
     },
     {
       "id": "1b168df51bc0",
@@ -519,22 +512,54 @@
       "description_it": "Your AI Agent for Instagram Marketing\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585896+00:00"
+      "discovered_at": "2026-04-26T08:17:21.410989+00:00"
     },
     {
-      "id": "9ff3d3473e5f",
-      "name": "XChat",
-      "url": "https://www.producthunt.com/products/chat-by-x",
+      "id": "6577b3141f38",
+      "name": "PromptPaste",
+      "url": "https://www.producthunt.com/products/promptpaste",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private AI prompt library on Mac, iPhone, and iPad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411066+00:00"
+    },
+    {
+      "id": "09b2a502766e",
+      "name": "Gemini Personal Intelligence",
+      "url": "https://www.producthunt.com/products/gemini-personal-intelligence",
       "source": "Product Hunt AI (feed)",
       "category": "chat",
       "tags": [
-        "chat"
+        "gemini",
+        "answer"
       ],
       "pricing": "Free tier",
-      "description_it": "The standalone, encrypted messaging app from X\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Gemini answers with context from your Google apps\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.585969+00:00"
+      "discovered_at": "2026-04-26T08:17:21.411144+00:00"
+    },
+    {
+      "id": "d56204e225af",
+      "name": "ZeroHuman.",
+      "url": "https://www.producthunt.com/products/zerohuman",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI Co-Founder: OpenClaw x Paperclip x Spud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411214+00:00"
     },
     {
       "id": "03641b9a87d6",
@@ -551,20 +576,104 @@
       "description_it": "Render AI chat data and Codex logs into browsable views\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.586043+00:00"
+      "discovered_at": "2026-04-26T08:17:21.411286+00:00"
     },
     {
-      "id": "14f0b3b001a6",
-      "name": "Haiker",
-      "url": "https://www.producthunt.com/products/haiker",
+      "id": "9ec3250d8f1a",
+      "name": "Grok Voice Think Fast 1.0",
+      "url": "https://www.producthunt.com/products/grok-voice-think-fast-1-0",
       "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
+      "category": "coding",
+      "tags": [
+        "api",
+        "voice",
+        "agent"
+      ],
       "pricing": "Free tier",
-      "description_it": "Hacker News App for non-native english speaker\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Our most capable voice agent is now available via API\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.586096+00:00"
+      "discovered_at": "2026-04-26T08:17:21.411361+00:00"
+    },
+    {
+      "id": "02798fce9df7",
+      "name": "Genspark for Excel",
+      "url": "https://www.producthunt.com/products/genspark-for-excel",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "art",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI assistant for Excel formulas, charts, insights.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411452+00:00"
+    },
+    {
+      "id": "bc73800439c7",
+      "name": "MiMo",
+      "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "song"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bilingual ASR for dialects, code-switching, and songs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411527+00:00"
+    },
+    {
+      "id": "9ff3d3473e5f",
+      "name": "XChat",
+      "url": "https://www.producthunt.com/products/chat-by-x",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The standalone, encrypted messaging app from X\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411601+00:00"
+    },
+    {
+      "id": "ee6c0af9a62e",
+      "name": "Architecto",
+      "url": "https://www.producthunt.com/products/architecto",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design, review, and document cloud architecture with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411675+00:00"
+    },
+    {
+      "id": "221fb5fecca4",
+      "name": "Nordcraft 2.0",
+      "url": "https://www.producthunt.com/products/toddle",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "I design agent with full HTML/CSS control and SSR\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-26T08:17:21.411746+00:00"
     },
     {
       "id": "420e4a124fec",
@@ -579,7 +688,20 @@
       "description_it": "Route Actions, Not Liquidity\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.586165+00:00"
+      "discovered_at": "2026-04-26T08:17:21.411816+00:00"
+    },
+    {
+      "id": "14f0b3b001a6",
+      "name": "Haiker",
+      "url": "https://www.producthunt.com/products/haiker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hacker News App for non-native english speaker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-25T08:08:01.586096+00:00"
     },
     {
       "id": "580ba42a1bf7",
@@ -611,22 +733,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-25T08:08:01.586302+00:00"
-    },
-    {
-      "id": "221fb5fecca4",
-      "name": "Nordcraft 2.0",
-      "url": "https://www.producthunt.com/products/toddle",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "design",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "I design agent with full HTML/CSS control and SSR\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-25T08:08:01.586374+00:00"
     },
     {
       "id": "83dd80bc30fd",
