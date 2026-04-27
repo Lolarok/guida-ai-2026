@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T08:17:21.995076+00:00",
-  "total": 588,
+  "updated_at": "2026-04-27T09:19:47.988963+00:00",
+  "total": 604,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,297 @@
       "featured": false
     },
     {
+      "id": "131344f260e4",
+      "name": "Epismo Agent Package",
+      "url": "https://www.producthunt.com/products/epismo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run agent workflows the community already built\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743406+00:00"
+    },
+    {
+      "id": "f77050828c19",
+      "name": "Odyssey",
+      "url": "https://www.producthunt.com/products/odyssey-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Physical accuracy takes a leap in world models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743488+00:00"
+    },
+    {
+      "id": "b96e337627c7",
+      "name": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "sound",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create videos with AI actors that sound and look real\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743570+00:00"
+    },
+    {
+      "id": "50c239936a7a",
+      "name": "PlayJoob",
+      "url": "https://www.producthunt.com/products/playjoob",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "turns dead task boards into a shared strategy map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743646+00:00"
+    },
+    {
+      "id": "da841a52e929",
+      "name": "SNEWPapers",
+      "url": "https://www.producthunt.com/products/snewpapers",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The World's First AI Newspaper Archive\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743700+00:00"
+    },
+    {
+      "id": "d856f972a99e",
+      "name": "Vouch API",
+      "url": "https://www.producthunt.com/products/vouch-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "api",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI equity research that proves it isn't lying\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743773+00:00"
+    },
+    {
+      "id": "717376a551e6",
+      "name": "GitBar",
+      "url": "https://www.producthunt.com/products/gitbar-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every pull request, one menubar. GitHub, GitLab & Azure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743896+00:00"
+    },
+    {
+      "id": "e37ef4d8bf33",
+      "name": "Jet AI Agents",
+      "url": "https://www.producthunt.com/products/jet-admin",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build business AI agents in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.743973+00:00"
+    },
+    {
+      "id": "9a4b6e2539ad",
+      "name": "Atech",
+      "url": "https://www.producthunt.com/products/atech",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Snap-together electronics built from a chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744045+00:00"
+    },
+    {
+      "id": "2020c1477783",
+      "name": "Wafaa.io",
+      "url": "https://www.producthunt.com/products/wafaa-io-beta",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create secure digital contracts in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744118+00:00"
+    },
+    {
+      "id": "03383b4ceb96",
+      "name": "Logic",
+      "url": "https://www.producthunt.com/products/logic-ship-an-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and operate fleets of agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744186+00:00"
+    },
+    {
+      "id": "551ffa7da0d6",
+      "name": "Waitlister",
+      "url": "https://www.producthunt.com/products/waitlister",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The waitlist software to launch your product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744240+00:00"
+    },
+    {
+      "id": "2a27e6417b1a",
+      "name": "Replyless",
+      "url": "https://www.producthunt.com/products/replylessai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Email app that sends daily email briefs on Telegram\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744314+00:00"
+    },
+    {
+      "id": "4bf2e0352757",
+      "name": "Subgrapher",
+      "url": "https://www.producthunt.com/products/subgrapher",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "P2P desktop app for building, browsing, & sharing knowledge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744369+00:00"
+    },
+    {
+      "id": "d95dfffb150d",
+      "name": "Orange Slice",
+      "url": "https://www.producthunt.com/products/orange-slice",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "automat",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate any sales task with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744436+00:00"
+    },
+    {
+      "id": "ab6ab5797b6d",
+      "name": "Brew Finder",
+      "url": "https://www.producthunt.com/products/brew-finder",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover the best coffee shops to work at around you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744506+00:00"
+    },
+    {
+      "id": "73be4fbc817b",
+      "name": "Claude Connectors",
+      "url": "https://www.producthunt.com/products/claude-connectors",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "New connectors in Claude for everyday life\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744581+00:00"
+    },
+    {
+      "id": "43ccd79c0f61",
+      "name": "Happenstance",
+      "url": "https://www.producthunt.com/products/happenstance-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search your network with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744648+00:00"
+    },
+    {
+      "id": "31d23650ff05",
+      "name": "GPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenAI's smartest and most intuitive to use model yet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-27T09:19:47.744720+00:00"
+    },
+    {
       "id": "995e71eb2328",
       "name": "Edgee Team",
       "url": "https://www.producthunt.com/products/edgee",
@@ -391,7 +682,7 @@
       "description_it": "Strava for your coding assistants\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-04-26T08:17:21.410333+00:00"
+      "discovered_at": "2026-04-27T09:19:47.744787+00:00"
     },
     {
       "id": "cef638b9c2ed",
@@ -409,38 +700,6 @@
       "discovered_at": "2026-04-26T08:17:21.410458+00:00"
     },
     {
-      "id": "31d23650ff05",
-      "name": "GPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gpt",
-        "art"
-      ],
-      "pricing": "Free tier",
-      "description_it": "OpenAI's smartest and most intuitive to use model yet\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-26T08:17:21.410543+00:00"
-    },
-    {
-      "id": "73be4fbc817b",
-      "name": "Claude Connectors",
-      "url": "https://www.producthunt.com/products/claude-connectors",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "claude",
-        "connect"
-      ],
-      "pricing": "Free tier",
-      "description_it": "New connectors in Claude for everyday life\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-26T08:17:21.410619+00:00"
-    },
-    {
       "id": "36d67b99a51f",
       "name": "Free chart generator by Embedful",
       "url": "https://www.producthunt.com/products/embedful",
@@ -454,21 +713,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-26T08:17:21.410698+00:00"
-    },
-    {
-      "id": "43ccd79c0f61",
-      "name": "Happenstance",
-      "url": "https://www.producthunt.com/products/happenstance-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "search"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Search your network with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-26T08:17:21.410767+00:00"
     },
     {
       "id": "8d3b3ad37608",
