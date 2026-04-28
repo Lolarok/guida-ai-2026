@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T09:19:47.988963+00:00",
-  "total": 604,
+  "updated_at": "2026-04-28T09:22:39.507434+00:00",
+  "total": 624,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,306 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "fdc571d47c61",
+      "name": "Clera",
+      "url": "https://www.producthunt.com/products/clera",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI agent matching candidates to the right roles.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334328+00:00"
+    },
+    {
+      "id": "e6c898daea3e",
+      "name": "Git Pitcher",
+      "url": "https://www.producthunt.com/products/git-pitcher",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "agent",
+        "pitch",
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Reverse engineer any GitHub repo into an agent-ready plan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334422+00:00"
+    },
+    {
+      "id": "46e662e0f658",
+      "name": "Doza Assist",
+      "url": "https://www.producthunt.com/products/doza-assist",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Opne-source local AI that learns how you edit video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334498+00:00"
+    },
+    {
+      "id": "e318a5ebd852",
+      "name": "MaxHermes by Minimax",
+      "url": "https://www.producthunt.com/products/maxhermes-by-minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agent that builds skills from every task you give it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334573+00:00"
+    },
+    {
+      "id": "034604ecfd19",
+      "name": "MintLocke",
+      "url": "https://www.producthunt.com/products/mintlocke",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Autopilot for your crypto and tokenized portfolio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334627+00:00"
+    },
+    {
+      "id": "9f9a4e374079",
+      "name": "Kōan",
+      "url": "https://www.producthunt.com/products/koan-agentic-observability-platform",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your AI agents think. Reasoning, tool calls & decisions \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334720+00:00"
+    },
+    {
+      "id": "3b77a6c56ede",
+      "name": "Happy Horse",
+      "url": "https://www.producthunt.com/products/happyhorse-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Top-tier AI video generation and editing from Alibaba ATH\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334805+00:00"
+    },
+    {
+      "id": "47e77a316e05",
+      "name": "Thoth",
+      "url": "https://www.producthunt.com/products/thoth-your-private-ai-scribe",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private, local AI transcription for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334896+00:00"
+    },
+    {
+      "id": "0f5ffccf59b6",
+      "name": "Monet",
+      "url": "https://www.producthunt.com/products/monet-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude",
+        "image",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit Videos and Design Images with Claude Code and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.334961+00:00"
+    },
+    {
+      "id": "5e600427bc1b",
+      "name": "AISA AI Skills Test",
+      "url": "https://www.producthunt.com/products/aisa-ai-skills-test-ai-leaderboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "World's first conversational AI fluency and know-how test\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335034+00:00"
+    },
+    {
+      "id": "ae5d56a636ee",
+      "name": "Curflow",
+      "url": "https://www.producthunt.com/products/curflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Draw a gesture for your Mac to execute\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335084+00:00"
+    },
+    {
+      "id": "77b379f07cee",
+      "name": "SureThing.io",
+      "url": "https://www.producthunt.com/products/surething-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Autonomous agent that communicates results like a human\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335154+00:00"
+    },
+    {
+      "id": "837c473cfe1f",
+      "name": "Lovable mobile app",
+      "url": "https://www.producthunt.com/products/lovable-for-ios",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ideas don't wait for you to sit down at a desk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335223+00:00"
+    },
+    {
+      "id": "1f1091b76089",
+      "name": "TraceCode",
+      "url": "https://www.producthunt.com/products/tracecode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn algorithms by watching them run\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335288+00:00"
+    },
+    {
+      "id": "951a0535617c",
+      "name": "Pure Prophet",
+      "url": "https://www.producthunt.com/products/pure-prophet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make guaranteed money from prediction markets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335341+00:00"
+    },
+    {
+      "id": "2777f96eac37",
+      "name": "Sillage",
+      "url": "https://www.producthunt.com/products/sillage",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grow your revenue faster with signal agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335407+00:00"
+    },
+    {
+      "id": "bb4235b902a5",
+      "name": "runprompt",
+      "url": "https://www.producthunt.com/products/runprompt",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Heroku for AI prompts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335459+00:00"
+    },
+    {
+      "id": "584c71711ea3",
+      "name": "Markdown Editor For Notion Lovers",
+      "url": "https://www.producthunt.com/products/markdown-editor-for-notion-lovers",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A clean Markdown editor with a smooth, block-based UX\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335533+00:00"
+    },
+    {
+      "id": "8bed52cedef0",
+      "name": "Couch Critic",
+      "url": "https://www.producthunt.com/products/couch-critic",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Netflix killed comments. We brought them back.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335587+00:00"
+    },
+    {
+      "id": "407ab71b661e",
+      "name": "Not Pink",
+      "url": "https://www.producthunt.com/products/not-pink",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "A shared bucket list with active scheduling and planning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-28T09:22:39.335641+00:00"
     },
     {
       "id": "131344f260e4",
