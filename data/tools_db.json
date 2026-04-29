@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T09:22:39.507434+00:00",
-  "total": 624,
+  "updated_at": "2026-04-29T09:11:47.636457+00:00",
+  "total": 644,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9d648f26def8",
+      "name": "Gro v2",
+      "url": "https://www.producthunt.com/products/gro-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Spot signals, trigger outreach - turn posts into pipeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.499610+00:00"
+    },
+    {
+      "id": "c6d08cbb8da0",
+      "name": "Open Wearables",
+      "url": "https://www.producthunt.com/products/open-wearables",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Open infrastructure for wearable-powered health products.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.499691+00:00"
+    },
+    {
+      "id": "6a6dd6042728",
+      "name": "Redesign by Nodewave",
+      "url": "https://www.producthunt.com/products/redesign-by-nodewave",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node",
+        "design"
+      ],
+      "pricing": "Free",
+      "description_it": "Free and open‑source, stop designing. Describe.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.499801+00:00"
+    },
+    {
+      "id": "a092b378a6c5",
+      "name": "Compact Message Composer by CometChat",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "compose"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Everything users expect from modern chat. Out of the box. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.499908+00:00"
+    },
+    {
+      "id": "ba4b50ec53f2",
+      "name": "ZenTrack: Finances, Streaks, Health",
+      "url": "https://www.producthunt.com/products/zentrack-finances-streaks-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes, money, and health. Sorted.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.499988+00:00"
+    },
+    {
+      "id": "63b37c04b95c",
+      "name": "CodeScene: CodeHealth MCP Server",
+      "url": "https://www.producthunt.com/products/codescene-codehealth-mcp-server",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep AI-generated code healthy and maintainable\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500066+00:00"
+    },
+    {
+      "id": "b7adc80a2113",
+      "name": "`pm init`",
+      "url": "https://www.producthunt.com/products/pm-init",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "terminal based product manager\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500146+00:00"
+    },
+    {
+      "id": "2710b27609a1",
+      "name": "Dreambase Data Agent Skills",
+      "url": "https://www.producthunt.com/products/dreambase-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Analytical skills for data agents running on Supabase\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500226+00:00"
+    },
+    {
+      "id": "e384a4066cde",
+      "name": "Venture Factory AI",
+      "url": "https://www.producthunt.com/products/venture-factory-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your full venture strategy, built in minutes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500282+00:00"
+    },
+    {
+      "id": "3c95bf812cd3",
+      "name": "Snapr",
+      "url": "https://www.producthunt.com/products/snapr-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "screenshot",
+        "video",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screenshot, record, annotate & edit video in on app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500351+00:00"
+    },
+    {
+      "id": "cc3e8ea925a2",
+      "name": "KarmaBox",
+      "url": "https://www.producthunt.com/products/karmabox-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your own Claude Code in your pocket.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500417+00:00"
+    },
+    {
+      "id": "f70403bb6983",
+      "name": "Picsart CLI",
+      "url": "https://www.producthunt.com/products/picsart",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "chat",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Picsart's power right from your AI chat box\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500484+00:00"
+    },
+    {
+      "id": "d1505191e5db",
+      "name": "Plannotator",
+      "url": "https://www.producthunt.com/products/plannotator",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Annotate any doc, URL, or folder - send feedback to agents \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500557+00:00"
+    },
+    {
+      "id": "f724ada994ca",
+      "name": "Netlify Database",
+      "url": "https://www.producthunt.com/products/netlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship data-driven apps without breaking flow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500625+00:00"
+    },
+    {
+      "id": "b6dd9ec9848b",
+      "name": "noirdoc",
+      "url": "https://www.producthunt.com/products/noirdoc",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "PII guard for Claude Code to keep client data out of context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500696+00:00"
+    },
+    {
+      "id": "2fd0daf97ae9",
+      "name": "Plurai",
+      "url": "https://www.producthunt.com/products/plurai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Vibe-train evals and guardrails tailored to your use case\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500747+00:00"
+    },
+    {
+      "id": "4f04300973c8",
+      "name": "Devin for Terminal",
+      "url": "https://www.producthunt.com/products/devin-by-cognition",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev",
+        "cli",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local CLI  coding agent with deep Devin Cloud integration\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500818+00:00"
+    },
+    {
+      "id": "abc12caeb5d7",
+      "name": "UXPin Forge",
+      "url": "https://www.producthunt.com/products/uxpin",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate UI from your design system, not around it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500904+00:00"
+    },
+    {
+      "id": "62e7698809fc",
+      "name": "Jitera",
+      "url": "https://www.producthunt.com/products/jitera",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Shared context that turns AI into your teammate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.500958+00:00"
+    },
+    {
+      "id": "8289880bf3c8",
+      "name": "Social Fetch",
+      "url": "https://www.producthunt.com/products/social-fetch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pull real-time data from any social platform via API.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-29T09:11:47.501030+00:00"
     },
     {
       "id": "fdc571d47c61",
