@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T09:11:47.636457+00:00",
-  "total": 644,
+  "updated_at": "2026-04-30T09:13:19.478883+00:00",
+  "total": 664,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "acad45a28c1c",
+      "name": "Mistral Medium 3.5",
+      "url": "https://www.producthunt.com/products/mistral-medium-3-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "coding",
+        "mistral",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A 128B model for coding, reasoning, and long tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296298+00:00"
+    },
+    {
+      "id": "ab032732711e",
+      "name": "Tabstack",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Extract web data and automate browsers, no scraper required.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296405+00:00"
+    },
+    {
+      "id": "3581653d2bd7",
+      "name": "Quarkdown",
+      "url": "https://www.producthunt.com/products/quarkdown",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Markdown wit LaTeX in a modern typesetting system\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296465+00:00"
+    },
+    {
+      "id": "efafc19f7d73",
+      "name": "Sync",
+      "url": "https://www.producthunt.com/products/sync-in",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source file storage, sharing, collaboration & syncing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296524+00:00"
+    },
+    {
+      "id": "69f0bf0039c0",
+      "name": "WooTrack",
+      "url": "https://www.producthunt.com/products/wootrack-poas-plugin-for-woocommerce",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real profit tracking for WooCommerce + Google Ads.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296598+00:00"
+    },
+    {
+      "id": "f0c03a026e83",
+      "name": "doola MCP for US LLC Formation",
+      "url": "https://www.producthunt.com/products/doola-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Start your business using AI in Claude and Replit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296675+00:00"
+    },
+    {
+      "id": "757bdcf87984",
+      "name": "VideoOS by Jupitrr AI",
+      "url": "https://www.producthunt.com/products/jupitrr",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your all-in-one video workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296758+00:00"
+    },
+    {
+      "id": "06771b582367",
+      "name": "Wonder",
+      "url": "https://www.producthunt.com/products/wonder-public-alpha",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI design agent that works on your canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296831+00:00"
+    },
+    {
+      "id": "7bf8d54ba2cb",
+      "name": "Tinfoil",
+      "url": "https://www.producthunt.com/products/tinfoil-private-ai-chat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "api",
+        "chat",
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI chat and API that keeps your conversations fully private\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296905+00:00"
+    },
+    {
+      "id": "e4f398495b51",
+      "name": "AstroGrid",
+      "url": "https://www.producthunt.com/products/astrogrid",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "explore"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Explore the entire universe in your browser, in real 3D\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.296977+00:00"
+    },
+    {
+      "id": "a53c580e7462",
+      "name": "Docky",
+      "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Pin, group, and remove apps easily from your dock\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297029+00:00"
+    },
+    {
+      "id": "524dbacffd79",
+      "name": "Basedash Dashboard Agent",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Builds entire dashboards from a single prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297100+00:00"
+    },
+    {
+      "id": "dd8033edbd8f",
+      "name": "KushoAI for Playwright",
+      "url": "https://www.producthunt.com/products/kushoai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source Terminal UI, just record & get exhaustive tests\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297175+00:00"
+    },
+    {
+      "id": "7544b8e0aff2",
+      "name": "Motorola Razr Fold",
+      "url": "https://www.producthunt.com/products/motorola-g7",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "productivity"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A foldable phone built for pen-first productivity\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297265+00:00"
+    },
+    {
+      "id": "54bf7ab70124",
+      "name": "Hera Launch",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create studio-quality launch videos with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297337+00:00"
+    },
+    {
+      "id": "5123c81de942",
+      "name": "SuperMind",
+      "url": "https://www.producthunt.com/products/supermind-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Business that Runs Itself \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297388+00:00"
+    },
+    {
+      "id": "6c4c8f16cd61",
+      "name": "StarMesh",
+      "url": "https://www.producthunt.com/products/starmesh",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn members into a living relationship graph\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297442+00:00"
+    },
+    {
+      "id": "1577bec426e6",
+      "name": "Crin AI",
+      "url": "https://www.producthunt.com/products/crin-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn about AI & watch text become tokens in a node graph\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297512+00:00"
+    },
+    {
+      "id": "d25a9762e09b",
+      "name": "Invite Only",
+      "url": "https://www.producthunt.com/products/invite-only",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The event invite that actually gets people to show up\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297564+00:00"
+    },
+    {
+      "id": "295429d51e74",
+      "name": "Mintlify Editor",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native collaborative editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-04-30T09:13:19.297629+00:00"
     },
     {
       "id": "9d648f26def8",
