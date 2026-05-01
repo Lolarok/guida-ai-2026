@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T09:13:19.478883+00:00",
-  "total": 664,
+  "updated_at": "2026-05-01T09:02:35.068298+00:00",
+  "total": 683,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,311 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "3530ba3962a4",
+      "name": "Zed 1.0",
+      "url": "https://www.producthunt.com/products/zed",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor"
+      ],
+      "pricing": "Free",
+      "description_it": "High-performance, open source, multiplayer code editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856555+00:00"
+    },
+    {
+      "id": "cb0624423b49",
+      "name": "HiveTerm",
+      "url": "https://www.producthunt.com/products/hiveterm",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One workspace for Claude, Codex, Gemini and your stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856653+00:00"
+    },
+    {
+      "id": "4042b2fde22b",
+      "name": "Postiz",
+      "url": "https://www.producthunt.com/products/postiz",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "schedule",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic social media scheduler for agents like OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856731+00:00"
+    },
+    {
+      "id": "493bcabbbb57",
+      "name": "Bitgrain",
+      "url": "https://www.producthunt.com/products/bitgrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design studio lighter than Figma & more flexible than Canva\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856808+00:00"
+    },
+    {
+      "id": "010538d67cb3",
+      "name": "MUSIXQUARE",
+      "url": "https://www.producthunt.com/products/musixquare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any room into a surround system with your devices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856883+00:00"
+    },
+    {
+      "id": "adf2973c6d60",
+      "name": "PeekFocus",
+      "url": "https://www.producthunt.com/products/peekfocus",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One keystroke blurs everything behind your active window\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856939+00:00"
+    },
+    {
+      "id": "373dee62e870",
+      "name": "Montage",
+      "url": "https://www.producthunt.com/products/montage-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "UI Agentic framework for quicker output & less token usage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857023+00:00"
+    },
+    {
+      "id": "e3df76c1cc4b",
+      "name": "LaunchCut",
+      "url": "https://www.producthunt.com/products/launchcut-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Interactive iOS Demo Builder\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857079+00:00"
+    },
+    {
+      "id": "3719fc84f954",
+      "name": "Buda",
+      "url": "https://www.producthunt.com/products/buda-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Recruit agents to run your company as a synchronous team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857152+00:00"
+    },
+    {
+      "id": "401cc7107408",
+      "name": "nudge",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "task",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drop your tasks. AI auto-schedules your whole week.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857221+00:00"
+    },
+    {
+      "id": "8c3d79e37884",
+      "name": "TrafficClaw",
+      "url": "https://www.producthunt.com/products/trafficclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "conversation",
+        "analyt",
+        "data",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Have a conversation with your SEO & analytics data \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857294+00:00"
+    },
+    {
+      "id": "5d50f9dbc60f",
+      "name": "Ghosted: Smart Presence",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pause media or lock your screen when you step away\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857382+00:00"
+    },
+    {
+      "id": "6ef38c70ffdf",
+      "name": "AnyDrop",
+      "url": "https://www.producthunt.com/products/anydrop-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AirDrop for the browser: share files, chat and sync notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857454+00:00"
+    },
+    {
+      "id": "dab5c9126caf",
+      "name": "Genspark for Word",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ide",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Draft, edit, and research inside Microsoft Word with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857528+00:00"
+    },
+    {
+      "id": "17fd80831d66",
+      "name": "Marx Finance",
+      "url": "https://www.producthunt.com/products/marx-finance",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents debate the markets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857594+00:00"
+    },
+    {
+      "id": "c58cbd529f52",
+      "name": "CipherLock",
+      "url": "https://www.producthunt.com/products/cipherlock",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn ciphers by breaking them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857644+00:00"
+    },
+    {
+      "id": "0a1aac54b238",
+      "name": "ScreenVeil",
+      "url": "https://www.producthunt.com/products/screenveil",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hide what shouldn’t be seen on your computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857744+00:00"
+    },
+    {
+      "id": "d87751ac9b94",
+      "name": "Zush: AI File Renamer",
+      "url": "https://www.producthunt.com/products/zush",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "llama"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Updated: docs support, BYOK, Local AI (Ollama), Windows App\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857820+00:00"
+    },
+    {
+      "id": "bc7eda8fe447",
+      "name": "Beauty Diagram",
+      "url": "https://www.producthunt.com/products/beauty-diagram",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Diagrams that don't look like they were auto-generated\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857875+00:00"
+    },
+    {
+      "id": "428d76505128",
+      "name": "Miaw AI secretary",
+      "url": "https://www.producthunt.com/products/miaw-ai-secretary",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Non-invasive AI secretary to help without context switching\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.857941+00:00"
     },
     {
       "id": "acad45a28c1c",
@@ -4386,21 +4691,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-16T08:29:08.589604+00:00"
-    },
-    {
-      "id": "cb0624423b49",
-      "name": "HiveTerm",
-      "url": "https://www.producthunt.com/products/hiveterm",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "One workspace for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-16T08:29:08.589672+00:00"
     },
     {
       "id": "8dc83a46ce6c",
