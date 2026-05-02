@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T09:02:35.068298+00:00",
-  "total": 683,
+  "updated_at": "2026-05-02T08:22:08.669549+00:00",
+  "total": 693,
   "tools": [
     {
       "name": "Cursor",
@@ -378,20 +378,138 @@
       "featured": false
     },
     {
-      "id": "3530ba3962a4",
-      "name": "Zed 1.0",
-      "url": "https://www.producthunt.com/products/zed",
+      "id": "f84b0cff8e01",
+      "name": "Feather",
+      "url": "https://www.producthunt.com/products/feather-18",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "code",
-        "editor"
+        "editor",
+        "photo"
       ],
-      "pricing": "Free",
-      "description_it": "High-performance, open source, multiplayer code editor\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "Photo editor with local AI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.856555+00:00"
+      "discovered_at": "2026-05-02T08:22:08.363588+00:00"
+    },
+    {
+      "id": "8a9922f4086e",
+      "name": "Microsoft Copilot Health",
+      "url": "https://www.producthunt.com/products/copilot-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dedicated space to bring your personal health data together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.363700+00:00"
+    },
+    {
+      "id": "61ae3a491b84",
+      "name": "Cloud Computer by Manus",
+      "url": "https://www.producthunt.com/products/manus",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A dedicated cloud machine for bots and software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.363784+00:00"
+    },
+    {
+      "id": "1d1db47e1d66",
+      "name": "Scholé",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn everyday work into personalized AI learning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.363849+00:00"
+    },
+    {
+      "id": "861cadc0666e",
+      "name": "Filect",
+      "url": "https://www.producthunt.com/products/filect",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Organize Your Files With AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.363918+00:00"
+    },
+    {
+      "id": "4dcbc1ebd9b2",
+      "name": "DESIGN.md by Google Stitch",
+      "url": "https://www.producthunt.com/products/design-md-by-google-stitch",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Store your design system in a file AI agents can read\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364000+00:00"
+    },
+    {
+      "id": "a4dccded1a31",
+      "name": "Breaks",
+      "url": "https://www.producthunt.com/products/breaks",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A quiet Pomodoro that lives in your menu bar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364068+00:00"
+    },
+    {
+      "id": "fbb90405a288",
+      "name": "YouTube TV Custom Multiview",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream",
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mix and match up to 4 live streams at once\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364148+00:00"
+    },
+    {
+      "id": "20074adef3d4",
+      "name": "Ara",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build an entire business by texting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364202+00:00"
     },
     {
       "id": "cb0624423b49",
@@ -408,7 +526,147 @@
       "description_it": "One workspace for Claude, Codex, Gemini and your stack\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.856653+00:00"
+      "discovered_at": "2026-05-02T08:22:08.364275+00:00"
+    },
+    {
+      "id": "e3df76c1cc4b",
+      "name": "LaunchCut",
+      "url": "https://www.producthunt.com/products/launchcut-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Interactive iOS Demo Builder\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364327+00:00"
+    },
+    {
+      "id": "17fd80831d66",
+      "name": "Marx Finance",
+      "url": "https://www.producthunt.com/products/marx-finance",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents debate the markets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364393+00:00"
+    },
+    {
+      "id": "84cb65f84f2c",
+      "name": "Ghosted",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pause media or lock your screen when you step away\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364464+00:00"
+    },
+    {
+      "id": "8c3d79e37884",
+      "name": "TrafficClaw",
+      "url": "https://www.producthunt.com/products/trafficclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "conversation",
+        "analyt",
+        "data",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Have a conversation with your SEO & analytics data \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364553+00:00"
+    },
+    {
+      "id": "0a1aac54b238",
+      "name": "ScreenVeil",
+      "url": "https://www.producthunt.com/products/screenveil",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hide what shouldn’t be seen on your computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364651+00:00"
+    },
+    {
+      "id": "dab5c9126caf",
+      "name": "Genspark for Word",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ide",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Draft, edit, and research inside Microsoft Word with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364727+00:00"
+    },
+    {
+      "id": "6ef38c70ffdf",
+      "name": "AnyDrop",
+      "url": "https://www.producthunt.com/products/anydrop-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AirDrop for the browser: share files, chat and sync notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364804+00:00"
+    },
+    {
+      "id": "adf2973c6d60",
+      "name": "PeekFocus",
+      "url": "https://www.producthunt.com/products/peekfocus",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One keystroke blurs everything behind your active window\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364859+00:00"
+    },
+    {
+      "id": "401cc7107408",
+      "name": "nudge",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "task",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drop your tasks. AI auto-schedules your whole week.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-02T08:22:08.364932+00:00"
     },
     {
       "id": "4042b2fde22b",
@@ -425,7 +683,23 @@
       "description_it": "Agentic social media scheduler for agents like OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.856731+00:00"
+      "discovered_at": "2026-05-02T08:22:08.365006+00:00"
+    },
+    {
+      "id": "3530ba3962a4",
+      "name": "Zed 1.0",
+      "url": "https://www.producthunt.com/products/zed",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor"
+      ],
+      "pricing": "Free",
+      "description_it": "High-performance, open source, multiplayer code editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-01T09:02:34.856555+00:00"
     },
     {
       "id": "493bcabbbb57",
@@ -458,19 +732,6 @@
       "discovered_at": "2026-05-01T09:02:34.856883+00:00"
     },
     {
-      "id": "adf2973c6d60",
-      "name": "PeekFocus",
-      "url": "https://www.producthunt.com/products/peekfocus",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "One keystroke blurs everything behind your active window\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.856939+00:00"
-    },
-    {
       "id": "373dee62e870",
       "name": "Montage",
       "url": "https://www.producthunt.com/products/montage-3",
@@ -486,19 +747,6 @@
       "discovered_at": "2026-05-01T09:02:34.857023+00:00"
     },
     {
-      "id": "e3df76c1cc4b",
-      "name": "LaunchCut",
-      "url": "https://www.producthunt.com/products/launchcut-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Interactive iOS Demo Builder\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857079+00:00"
-    },
-    {
       "id": "3719fc84f954",
       "name": "Buda",
       "url": "https://www.producthunt.com/products/buda-2",
@@ -512,41 +760,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-01T09:02:34.857152+00:00"
-    },
-    {
-      "id": "401cc7107408",
-      "name": "nudge",
-      "url": "https://www.producthunt.com/products/nudge-26",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "ask",
-        "task",
-        "schedule"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Drop your tasks. AI auto-schedules your whole week.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857221+00:00"
-    },
-    {
-      "id": "8c3d79e37884",
-      "name": "TrafficClaw",
-      "url": "https://www.producthunt.com/products/trafficclaw",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "conversation",
-        "analyt",
-        "data",
-        "seo"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Have a conversation with your SEO & analytics data \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857294+00:00"
     },
     {
       "id": "5d50f9dbc60f",
@@ -565,54 +778,6 @@
       "discovered_at": "2026-05-01T09:02:34.857382+00:00"
     },
     {
-      "id": "6ef38c70ffdf",
-      "name": "AnyDrop",
-      "url": "https://www.producthunt.com/products/anydrop-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "note"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AirDrop for the browser: share files, chat and sync notes\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857454+00:00"
-    },
-    {
-      "id": "dab5c9126caf",
-      "name": "Genspark for Word",
-      "url": "https://www.producthunt.com/products/genspark",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "ide",
-        "search",
-        "research"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Draft, edit, and research inside Microsoft Word with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857528+00:00"
-    },
-    {
-      "id": "17fd80831d66",
-      "name": "Marx Finance",
-      "url": "https://www.producthunt.com/products/marx-finance",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI agents debate the markets\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857594+00:00"
-    },
-    {
       "id": "c58cbd529f52",
       "name": "CipherLock",
       "url": "https://www.producthunt.com/products/cipherlock",
@@ -624,22 +789,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-01T09:02:34.857644+00:00"
-    },
-    {
-      "id": "0a1aac54b238",
-      "name": "ScreenVeil",
-      "url": "https://www.producthunt.com/products/screenveil",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Hide what shouldn’t be seen on your computer\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-01T09:02:34.857744+00:00"
     },
     {
       "id": "d87751ac9b94",
