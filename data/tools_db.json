@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T08:46:07.537516+00:00",
-  "total": 699,
+  "updated_at": "2026-05-04T09:19:16.562435+00:00",
+  "total": 711,
   "tools": [
     {
       "name": "Cursor",
@@ -378,19 +378,191 @@
       "featured": false
     },
     {
-      "id": "f7fa6127eebd",
-      "name": "Huddle01 VMs",
-      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+      "id": "7bc96932c633",
+      "name": "Replyke V7",
+      "url": "https://www.producthunt.com/products/replyke",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk",
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pre-Modeled Infra & Client SDKs for User-Powered Products.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.428704+00:00"
+    },
+    {
+      "id": "5a48741fbbdc",
+      "name": "Manex",
+      "url": "https://www.producthunt.com/products/manex",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Preserve useful answers, corrections, and context as memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.428808+00:00"
+    },
+    {
+      "id": "ccfc49e17c1d",
+      "name": "Claude Code & Codex Usage Trading Cards by Rudel",
+      "url": "https://www.producthunt.com/products/rudel",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get your trading card based on your CC & codex usage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.428895+00:00"
+    },
+    {
+      "id": "f7f1dbaef663",
+      "name": "Visitor Profiles and Timeline by Croct",
+      "url": "https://www.producthunt.com/products/croct",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Uncover the story behind every click to optimize your site\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.428980+00:00"
+    },
+    {
+      "id": "c06f7c1e6b71",
+      "name": "Sleek Analytics for iOS",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your website analytics in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429055+00:00"
+    },
+    {
+      "id": "a62331a7efcb",
+      "name": "Regulus by Cumbuca",
+      "url": "https://www.producthunt.com/products/cumbuca",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "chatbot",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI chatbot trained on Brazil's Central Bank regulations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429134+00:00"
+    },
+    {
+      "id": "83d5e6259ec5",
+      "name": "Mindra",
+      "url": "https://www.producthunt.com/products/mindra",
       "source": "Product Hunt AI (feed)",
       "category": "agent",
       "tags": [
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Virtual Machines for Your Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Agent Teams You Can Actually Delegate To\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382365+00:00"
+      "discovered_at": "2026-05-04T09:19:16.429214+00:00"
+    },
+    {
+      "id": "7af2d4db6eea",
+      "name": "Panels Store",
+      "url": "https://www.producthunt.com/products/panels-store",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Buy DRM-free comics and read them instantly in Panels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429297+00:00"
+    },
+    {
+      "id": "4440afde091a",
+      "name": "Dropy",
+      "url": "https://www.producthunt.com/products/dropy-price-tracker-price-history",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track prices on stores like Amazon, eBay, & AliExpress\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429356+00:00"
+    },
+    {
+      "id": "58965bc33193",
+      "name": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal AI assistant, native to your desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429428+00:00"
+    },
+    {
+      "id": "cf5c4a7e6d00",
+      "name": "Aaavatar",
+      "url": "https://www.producthunt.com/products/aaavatar",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "avatar",
+        "ad",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Branded team headshots in one drop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429498+00:00"
+    },
+    {
+      "id": "73923769cf35",
+      "name": "Codex Pets",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Animated companions for your Codex workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429569+00:00"
     },
     {
       "id": "9de262aa33ef",
@@ -405,7 +577,22 @@
       "description_it": "The missing open-source Kubernetes UI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382461+00:00"
+      "discovered_at": "2026-05-04T09:19:16.429649+00:00"
+    },
+    {
+      "id": "f7fa6127eebd",
+      "name": "Huddle01 VMs",
+      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Virtual Machines for Your Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429717+00:00"
     },
     {
       "id": "9ff0dcd238e8",
@@ -420,35 +607,7 @@
       "description_it": "Ultimate career toolkit for UX/UI & Product designers\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382543+00:00"
-    },
-    {
-      "id": "6031f2de2205",
-      "name": "Aximote In",
-      "url": "https://www.producthunt.com/products/aximote-in-car-app",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The fitness tracker for your car\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382598+00:00"
-    },
-    {
-      "id": "57cfeb8d057d",
-      "name": "PandaProbe",
-      "url": "https://www.producthunt.com/products/pandaprobe",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Freemium",
-      "description_it": "open source agent engineering platform\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382675+00:00"
+      "discovered_at": "2026-05-04T09:19:16.429790+00:00"
     },
     {
       "id": "0ad079d1a79b",
@@ -464,7 +623,48 @@
       "description_it": "Catch when coding agents break each other before merge\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382750+00:00"
+      "discovered_at": "2026-05-04T09:19:16.429863+00:00"
+    },
+    {
+      "id": "57cfeb8d057d",
+      "name": "PandaProbe",
+      "url": "https://www.producthunt.com/products/pandaprobe",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "open source agent engineering platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429936+00:00"
+    },
+    {
+      "id": "6031f2de2205",
+      "name": "Aximote In",
+      "url": "https://www.producthunt.com/products/aximote-in-car-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The fitness tracker for your car\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.429988+00:00"
+    },
+    {
+      "id": "20074adef3d4",
+      "name": "Ara",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build an entire business by texting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-04T09:19:16.430038+00:00"
     },
     {
       "id": "f84b0cff8e01",
@@ -480,7 +680,7 @@
       "description_it": "Photo editor with local AI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.382829+00:00"
+      "discovered_at": "2026-05-04T09:19:16.430101+00:00"
     },
     {
       "id": "fbb90405a288",
@@ -569,19 +769,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-03T08:46:07.383255+00:00"
-    },
-    {
-      "id": "20074adef3d4",
-      "name": "Ara",
-      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Build an entire business by texting\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-03T08:46:07.383305+00:00"
     },
     {
       "id": "17fd80831d66",
