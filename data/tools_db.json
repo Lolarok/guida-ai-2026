@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T09:19:16.562435+00:00",
-  "total": 711,
+  "updated_at": "2026-05-05T09:10:18.520747+00:00",
+  "total": 731,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "eac55ed1d96f",
+      "name": "Openclick",
+      "url": "https://www.producthunt.com/products/openclick",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "cli",
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "macOS agent that turns prompts into automated clicks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.363833+00:00"
+    },
+    {
+      "id": "c2f2182add3e",
+      "name": "Unity AI",
+      "url": "https://www.producthunt.com/products/unity",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents built directly into Unity workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.363925+00:00"
+    },
+    {
+      "id": "5066f34a89b2",
+      "name": "Dina",
+      "url": "https://www.producthunt.com/products/dina",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From screen to polished video in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.363993+00:00"
+    },
+    {
+      "id": "11d5b64fdef6",
+      "name": "PanicMode",
+      "url": "https://www.producthunt.com/products/panicmode",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Protect your screen in public with one shortcut\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364063+00:00"
+    },
+    {
+      "id": "e359a1ca530d",
+      "name": "Blaze",
+      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Freemium",
+      "description_it": "The AI-powered calendar that plans your day for you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364131+00:00"
+    },
+    {
+      "id": "c33e5d330166",
+      "name": "Kilo Code for VS Code 7",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Parallel agents, diff reviewer, and multi-model comparisons\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364227+00:00"
+    },
+    {
+      "id": "989e44cfd615",
+      "name": "Breathwrk",
+      "url": "https://www.producthunt.com/products/breathwrk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn and master breathwork with guided breathing exercises\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364312+00:00"
+    },
+    {
+      "id": "8dc29017f561",
+      "name": "Airbyte Agents",
+      "url": "https://www.producthunt.com/products/airbyte-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The context layer for production-grade AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364385+00:00"
+    },
+    {
+      "id": "9e18601db6e2",
+      "name": "Tollecode",
+      "url": "https://www.producthunt.com/products/tollecode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "assistant",
+        "ask",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local AI coding assistant to delegate tasks to AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364453+00:00"
+    },
+    {
+      "id": "46e3e763cd4e",
+      "name": "PaceBar",
+      "url": "https://www.producthunt.com/products/pacebar",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "instrument"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A quiet pace instrument for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364515+00:00"
+    },
+    {
+      "id": "0dc3317aedcb",
+      "name": "Flowstep 1.0",
+      "url": "https://www.producthunt.com/products/flowstep",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI design engineer. Design & ship real UI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364580+00:00"
+    },
+    {
+      "id": "02287d8e5947",
+      "name": "Steam Controller",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Steam Input, now in controller form\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364627+00:00"
+    },
+    {
+      "id": "627eb874a8e8",
+      "name": "Velo 2.0",
+      "url": "https://www.producthunt.com/products/velo-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "screen",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your voice and screen into shareable videos instantly.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364695+00:00"
+    },
+    {
+      "id": "c37976835c80",
+      "name": "Facts",
+      "url": "https://www.producthunt.com/products/facts-fc3505e0-6206-4a1b-b6b4-01b7ffbb7783",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The antidote to fluffy specs.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364737+00:00"
+    },
+    {
+      "id": "7ddb6f163a63",
+      "name": "Ghostwriter",
+      "url": "https://www.producthunt.com/products/ghostwriter-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write and publish posts on LinkedIn & X\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364799+00:00"
+    },
+    {
+      "id": "9c2ecc784c94",
+      "name": "Intuned Agent",
+      "url": "https://www.producthunt.com/products/intuned",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Production browser automation, built and maintained by AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364868+00:00"
+    },
+    {
+      "id": "5877bc009da4",
+      "name": "Agentic API Grader by SaaStr.ai",
+      "url": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your #1 new customer is an AI agent. Are they getting an A?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.364950+00:00"
+    },
+    {
+      "id": "71b8c9d7dfed",
+      "name": "Hutsy",
+      "url": "https://www.producthunt.com/products/hutsy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop guessing where your money goes — Hutsy tells you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.365019+00:00"
+    },
+    {
+      "id": "140fb0b70c44",
+      "name": "Kodezi",
+      "url": "https://www.producthunt.com/products/kodezi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI CTO for codebases\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.365079+00:00"
+    },
+    {
+      "id": "4f6a44f56470",
+      "name": "Slice Technologies",
+      "url": "https://www.producthunt.com/products/slice-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Home-buying software for first-time buyers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-05T09:10:18.365127+00:00"
     },
     {
       "id": "7bc96932c633",
