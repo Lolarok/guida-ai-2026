@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T09:24:49.167523+00:00",
-  "total": 751,
+  "updated_at": "2026-05-07T09:33:39.112250+00:00",
+  "total": 771,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,322 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5541443d177d",
+      "name": "Askmeety",
+      "url": "https://www.producthunt.com/products/askmeety",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The best meeting notes you never wrote and 100% on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.910765+00:00"
+    },
+    {
+      "id": "9d8f33dd0301",
+      "name": "Google Pomelli Catalog",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "campaign",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn a product catalog into branded campaign assets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.910866+00:00"
+    },
+    {
+      "id": "708c0fb44cf6",
+      "name": "Forge",
+      "url": "https://www.producthunt.com/products/forge-20",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A complete React toolkit made for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.910939+00:00"
+    },
+    {
+      "id": "eac2b3349ed1",
+      "name": "Lovie",
+      "url": "https://www.producthunt.com/products/lovie-the-ai-native-formation-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Incorporate your next company in 20 minutes for 20 bucks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.910995+00:00"
+    },
+    {
+      "id": "e13558a948e0",
+      "name": "Hachigo",
+      "url": "https://www.producthunt.com/products/hachigo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn repetitive AI tasks into apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911062+00:00"
+    },
+    {
+      "id": "468f258ce36e",
+      "name": "Saydi",
+      "url": "https://www.producthunt.com/products/saydi",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live voice translation to hear the conversation instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911137+00:00"
+    },
+    {
+      "id": "1d94c5ba3888",
+      "name": "Basedash MCP server",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your data analyst, in every AI tool you already use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911223+00:00"
+    },
+    {
+      "id": "aae8fec10f06",
+      "name": "Phrony",
+      "url": "https://www.producthunt.com/products/phrony",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship AI agents without the operational burden\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911319+00:00"
+    },
+    {
+      "id": "6c7007bb38d9",
+      "name": "Contextual Moderation for Chat",
+      "url": "https://www.producthunt.com/products/moderation-malware-virus-scanner",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered moderation for safer chat experiences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911405+00:00"
+    },
+    {
+      "id": "62a9d818cbbc",
+      "name": "GetThis",
+      "url": "https://www.producthunt.com/products/getthis",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "screenshot",
+        "screen",
+        "voice",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn voice, text, or screenshots into tasks.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911474+00:00"
+    },
+    {
+      "id": "d6c95e2ba94a",
+      "name": "ClearMesh",
+      "url": "https://www.producthunt.com/products/clearmesh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Git-like platform for datasets, models, and binary folders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911550+00:00"
+    },
+    {
+      "id": "e1ffc7307946",
+      "name": "DevPass by LLM Gateway",
+      "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One key to access every coding model in 3 flat prices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911626+00:00"
+    },
+    {
+      "id": "51a0aeff0e04",
+      "name": "GPT‑5.5 Instant",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "answer",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smarter, more personal answers as ChatGPT's new default\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911725+00:00"
+    },
+    {
+      "id": "f3e88b65b909",
+      "name": "LikeTony.ai",
+      "url": "https://www.producthunt.com/products/liketony-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make your landing sound like Elon, Jobs or Yoda\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911797+00:00"
+    },
+    {
+      "id": "5ee02cf6f69a",
+      "name": "Claude Agents for Financial Services",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "agent",
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Finance agent templates for pitches, KYC, and closing books\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911877+00:00"
+    },
+    {
+      "id": "8490806f027d",
+      "name": "Neo by Amp",
+      "url": "https://www.producthunt.com/products/amp-free",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Amp CLI has been rebuilt from the ground up\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.911945+00:00"
+    },
+    {
+      "id": "402181ec56de",
+      "name": "Memory Tags",
+      "url": "https://www.producthunt.com/products/memory-tags",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Scan text to make flashcards and improve your memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.912004+00:00"
+    },
+    {
+      "id": "2e29788b831e",
+      "name": "MultiChat",
+      "url": "https://www.producthunt.com/products/multichat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The only messaging app you'll ever need.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.912073+00:00"
+    },
+    {
+      "id": "4b0ed8741fcc",
+      "name": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "art",
+        "explore",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your data layer for Y Combinator's startup ecosystem\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.912144+00:00"
+    },
+    {
+      "id": "f57d66f71090",
+      "name": "MESA",
+      "url": "https://www.producthunt.com/products/mesa",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe your Shopify workflow. MESA builds it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-07T09:33:38.912211+00:00"
     },
     {
       "id": "b108b35b7734",
