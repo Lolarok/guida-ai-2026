@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T09:33:39.112250+00:00",
-  "total": 771,
+  "updated_at": "2026-05-08T08:23:43.424294+00:00",
+  "total": 791,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,309 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "c085647fc5ef",
+      "name": "Bitfield",
+      "url": "https://www.producthunt.com/products/bitfield",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fastest database in the world. 0.69ns/read 0.58ns/write\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317507+00:00"
+    },
+    {
+      "id": "7f556ecf453c",
+      "name": "Operations",
+      "url": "https://www.producthunt.com/products/operations",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn every new tab into your personal dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317583+00:00"
+    },
+    {
+      "id": "8b1eab47da33",
+      "name": "Benchmark",
+      "url": "https://www.producthunt.com/products/are-you-beeing-spreaded",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Upload a fintech proposal & see if the price is fair\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317660+00:00"
+    },
+    {
+      "id": "710374b991ca",
+      "name": "Sutra",
+      "url": "https://www.producthunt.com/products/sutra-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Decision Intelligence for hardware teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317714+00:00"
+    },
+    {
+      "id": "2be0e334dcbb",
+      "name": "Radiq",
+      "url": "https://www.producthunt.com/products/radiq",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Product intelligence for the autonomous coding era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317808+00:00"
+    },
+    {
+      "id": "39fc72cebbcc",
+      "name": "cursor party",
+      "url": "https://www.producthunt.com/products/cursor-party",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live multiplayer cursors & chat on any URL\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317882+00:00"
+    },
+    {
+      "id": "bc2292c8f284",
+      "name": "iOrchestra AI Hardware Engineers",
+      "url": "https://www.producthunt.com/products/vibe-engineer-by-iorchestra",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Prompt to production-ready Hardware designs for manufacture\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.317975+00:00"
+    },
+    {
+      "id": "bb09ef0437e5",
+      "name": "Kuku: open source",
+      "url": "https://www.producthunt.com/products/kuku",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Your open-source, local second brain for every AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318037+00:00"
+    },
+    {
+      "id": "45e041d7dd6c",
+      "name": "Tracea",
+      "url": "https://www.producthunt.com/products/tracea",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Datadog for AI agents - traces, RCA, and team memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318117+00:00"
+    },
+    {
+      "id": "2b200d3ee525",
+      "name": "Espa",
+      "url": "https://www.producthunt.com/products/espa",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI executive assistant for your to-do's, scheduling, & email\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318191+00:00"
+    },
+    {
+      "id": "dc329989d971",
+      "name": "Cardamom",
+      "url": "https://www.producthunt.com/products/cardamom-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI phone ordering for takeout-heavy restaurants\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318244+00:00"
+    },
+    {
+      "id": "e15f708471a2",
+      "name": "Fabraix",
+      "url": "https://www.producthunt.com/products/nyx-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find gaps in your AI agents before users do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318310+00:00"
+    },
+    {
+      "id": "ddc34dff9d38",
+      "name": "Donely Knowledge Layer",
+      "url": "https://www.producthunt.com/products/donely",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Host & manage OpenClaw powered AI employees\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318363+00:00"
+    },
+    {
+      "id": "e3c066b6972a",
+      "name": "Sound Warden",
+      "url": "https://www.producthunt.com/products/sound-warden",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "dev",
+        "audio",
+        "sound",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automatically routes each app to the audio device you want\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318436+00:00"
+    },
+    {
+      "id": "b86ccb10f8e5",
+      "name": "MediaOptim",
+      "url": "https://www.producthunt.com/products/compress-anything-upload-nothing",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "image",
+        "audio",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compress images, video & audio locally and save storage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318507+00:00"
+    },
+    {
+      "id": "95f124bb9895",
+      "name": "Photobomb",
+      "url": "https://www.producthunt.com/products/photobomb",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Card against humanity but for your camera roll\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318576+00:00"
+    },
+    {
+      "id": "6f89a035c9e0",
+      "name": "Socrati",
+      "url": "https://www.producthunt.com/products/socrati-learn-with-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "podcast"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal knowledge podcast from any source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318649+00:00"
+    },
+    {
+      "id": "4585966e4683",
+      "name": "ElevenCreative Flows",
+      "url": "https://www.producthunt.com/products/elevencreative-flows",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Node-based creative pipelines, now with real-time collab \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318724+00:00"
+    },
+    {
+      "id": "45083dc0984c",
+      "name": "Reefy",
+      "url": "https://www.producthunt.com/products/reefy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any PC into a private AI machine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318796+00:00"
+    },
+    {
+      "id": "3adf3276f2f6",
+      "name": "Flare",
+      "url": "https://www.producthunt.com/products/flare-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-Native Voice-First Social App for GenZ\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-08T08:23:43.318866+00:00"
     },
     {
       "id": "5541443d177d",
