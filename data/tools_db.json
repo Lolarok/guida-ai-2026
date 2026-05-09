@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T08:23:43.424294+00:00",
-  "total": 791,
+  "updated_at": "2026-05-09T08:27:23.156523+00:00",
+  "total": 810,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,311 @@
       "featured": false
     },
     {
+      "id": "c5e4fd30d632",
+      "name": "Zappy by ZapDigits",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI reporting analyst\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.979664+00:00"
+    },
+    {
+      "id": "1d3b88a6b61f",
+      "name": "Glowix",
+      "url": "https://www.producthunt.com/products/glowix",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep your Mac display awake exactly when you need it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.979738+00:00"
+    },
+    {
+      "id": "7d9cca2af95b",
+      "name": "Prism",
+      "url": "https://www.producthunt.com/products/prism-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hire the best candidates, not just the available\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.979794+00:00"
+    },
+    {
+      "id": "c2acb5472e8b",
+      "name": "MolmoAct 2",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Open robotics model that reasons in 3D before acting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.979893+00:00"
+    },
+    {
+      "id": "91311848a16d",
+      "name": "nocal 4",
+      "url": "https://www.producthunt.com/products/nocal",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The calendar that thinks like a workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.979964+00:00"
+    },
+    {
+      "id": "a379c63e6a7e",
+      "name": "Pop",
+      "url": "https://www.producthunt.com/products/pop-13",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Everyday messaging, voice first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980031+00:00"
+    },
+    {
+      "id": "c9d596589e70",
+      "name": "Omi A11Y",
+      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Web Accessibility Scanner Extension\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980099+00:00"
+    },
+    {
+      "id": "a1bae353e9bd",
+      "name": "Manuscripts.app",
+      "url": "https://www.producthunt.com/products/manuscripts-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "spreadsheet",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "For academics who have outgrown the spreadsheet tracker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980180+00:00"
+    },
+    {
+      "id": "fb4276199ebb",
+      "name": "Staff.rip",
+      "url": "https://www.producthunt.com/products/staff-rip",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe a code change in plain language and ship it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980252+00:00"
+    },
+    {
+      "id": "13b7377f0e84",
+      "name": "BugDrop",
+      "url": "https://www.producthunt.com/products/bugdrop-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "In-app feedback that creates GitHub Issues with screenshots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980327+00:00"
+    },
+    {
+      "id": "5b4efd55ef94",
+      "name": "ClawTick",
+      "url": "https://www.producthunt.com/products/clawtick",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cron jobs for AI agents w/ one command, zero infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980399+00:00"
+    },
+    {
+      "id": "7a8f98e568e6",
+      "name": "Ghost",
+      "url": "https://www.producthunt.com/products/ghost-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source, self-hosted game servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980454+00:00"
+    },
+    {
+      "id": "8a1c8478218f",
+      "name": "Codex in Chrome",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ask",
+        "automat",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let Codex navigate and automate tasks in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980528+00:00"
+    },
+    {
+      "id": "ee57a9d05101",
+      "name": "Nylas CLI",
+      "url": "https://www.producthunt.com/products/nylas",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "cli",
+        "agent",
+        "calendar",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email, calendar, and contacts for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980598+00:00"
+    },
+    {
+      "id": "c60a06ae6a4a",
+      "name": "How AI",
+      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Curious how AI-fluent your organization is?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980666+00:00"
+    },
+    {
+      "id": "aa9a2eb70b73",
+      "name": "MiniMax Hub",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Desktop AI workstation with agent-driven visual canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980737+00:00"
+    },
+    {
+      "id": "ca8c747f9dcc",
+      "name": "MarkUp",
+      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit websites through AI with visual prompts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980825+00:00"
+    },
+    {
+      "id": "b6c919c797d5",
+      "name": "SecureLend Agents",
+      "url": "https://www.producthunt.com/products/securelend-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI underwriting agents for VCs, lenders and insurers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980906+00:00"
+    },
+    {
+      "id": "eaca2331732b",
+      "name": "SuperIsland",
+      "url": "https://www.producthunt.com/products/superisland",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dynamic Island for macOS with Extensions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.980961+00:00"
+    },
+    {
+      "id": "e3c066b6972a",
+      "name": "Sound Warden",
+      "url": "https://www.producthunt.com/products/sound-warden",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "dev",
+        "audio",
+        "sound",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automatically routes each app to the audio device you want\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-09T08:27:22.981035+00:00"
+    },
+    {
       "id": "c085647fc5ef",
       "name": "Bitfield",
       "url": "https://www.producthunt.com/products/bitfield",
@@ -570,24 +875,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-08T08:23:43.318363+00:00"
-    },
-    {
-      "id": "e3c066b6972a",
-      "name": "Sound Warden",
-      "url": "https://www.producthunt.com/products/sound-warden",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "dev",
-        "audio",
-        "sound",
-        "automat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Automatically routes each app to the audio device you want\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-08T08:23:43.318436+00:00"
     },
     {
       "id": "b86ccb10f8e5",
