@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T08:54:17.427379+00:00",
-  "total": 818,
+  "updated_at": "2026-05-11T10:40:56.988751+00:00",
+  "total": 838,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,317 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "e0c58f1dd016",
+      "name": "Graphbit PRFlow",
+      "url": "https://www.producthunt.com/products/graphbit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI code reviewer that catches what others miss\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823054+00:00"
+    },
+    {
+      "id": "431bddd47543",
+      "name": "Genpire",
+      "url": "https://www.producthunt.com/products/genpire-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make Real Products with AI, literally.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823129+00:00"
+    },
+    {
+      "id": "67e737940a10",
+      "name": "Suprbox",
+      "url": "https://www.producthunt.com/products/suprbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Box for AI agents to secure enterprise data storage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823204+00:00"
+    },
+    {
+      "id": "9e580b46cebd",
+      "name": "ChatGPT for Google Sheets",
+      "url": "https://www.producthunt.com/products/chatgpt-for-google-sheets",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "spreadsheet",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your spreadsheet, edit cell with natural language\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823282+00:00"
+    },
+    {
+      "id": "daa2140633fb",
+      "name": "CacheTray",
+      "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "cli",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture anything & send it to Claude or ChatGPT in one click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823357+00:00"
+    },
+    {
+      "id": "336ccbbe0c74",
+      "name": "Weavable",
+      "url": "https://www.producthunt.com/products/weavable",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give every AI agent persistent work context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823497+00:00"
+    },
+    {
+      "id": "3300d1053b96",
+      "name": "Kofe Flow",
+      "url": "https://www.producthunt.com/products/kofe-flow-pomodoro-timer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Calm focus from the menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823569+00:00"
+    },
+    {
+      "id": "a090f3827213",
+      "name": "RPCForge",
+      "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multi-chain Ethereum RPC you own and control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823626+00:00"
+    },
+    {
+      "id": "0433afdbb2ca",
+      "name": "Warp Open",
+      "url": "https://www.producthunt.com/products/warp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic development environment built with the community\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823700+00:00"
+    },
+    {
+      "id": "e1355d94d1fc",
+      "name": "Known Agents",
+      "url": "https://www.producthunt.com/products/known-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track the bots and AI agents crawling your website\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823770+00:00"
+    },
+    {
+      "id": "4cc7a8c61f97",
+      "name": "Web Speed",
+      "url": "https://www.producthunt.com/products/web-speed",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Kill the 'Token Tax.' 90% cheaper agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823837+00:00"
+    },
+    {
+      "id": "fd7846f9986e",
+      "name": "Connector.wtf",
+      "url": "https://www.producthunt.com/products/connector-wtf",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "connect",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Plug Google Ads, Meta & LinkedIn into your AI chat. Free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823909+00:00"
+    },
+    {
+      "id": "a6153da87e81",
+      "name": "Bruin",
+      "url": "https://www.producthunt.com/products/bruin",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI data agent that collaborates with your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.823977+00:00"
+    },
+    {
+      "id": "4746df21ae60",
+      "name": "articuler.ai",
+      "url": "https://www.producthunt.com/products/articuler-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe your goal. Meet the right professional.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824046+00:00"
+    },
+    {
+      "id": "e296a578f4d0",
+      "name": "MiroMiro v2",
+      "url": "https://www.producthunt.com/products/miromiro",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Inspect, edit, and export any website's design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824113+00:00"
+    },
+    {
+      "id": "d3f53df9405d",
+      "name": "LinCal",
+      "url": "https://www.producthunt.com/products/lincal",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your team's work on a Linear-like calendar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824178+00:00"
+    },
+    {
+      "id": "1b1718edaed7",
+      "name": "Snapseed 4.0",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google’s best photo editor just got seriously better\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824276+00:00"
+    },
+    {
+      "id": "aa8195ac2e14",
+      "name": "Grok Connectors",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring your daily apps into Grok\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824344+00:00"
+    },
+    {
+      "id": "373d8c9e63eb",
+      "name": "Scroll Launch",
+      "url": "https://www.producthunt.com/products/scroll-launch",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch your product and get discovered by other makers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824414+00:00"
+    },
+    {
+      "id": "dbaec3e9200b",
+      "name": "Yeta AI / YouTube Translator",
+      "url": "https://www.producthunt.com/products/yeta-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "youtube",
+        "dubbing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time AI dubbing for any YouTube video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-11T10:40:56.824502+00:00"
     },
     {
       "id": "4d9f37879834",
