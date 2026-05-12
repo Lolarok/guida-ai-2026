@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T10:40:56.988751+00:00",
-  "total": 838,
+  "updated_at": "2026-05-12T09:39:34.840917+00:00",
+  "total": 858,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "892e0dbf5ab5",
+      "name": "Hopper",
+      "url": "https://www.producthunt.com/products/hopper-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "First agentic development environment for mainframe/COBOL\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450480+00:00"
+    },
+    {
+      "id": "ea1e71de3fcb",
+      "name": "Pixcode",
+      "url": "https://www.producthunt.com/products/pixcode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A self-hosted control room for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450584+00:00"
+    },
+    {
+      "id": "706dc3b8fb5f",
+      "name": "zubhai",
+      "url": "https://www.producthunt.com/products/zubhai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "LeetCode for AI Skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450676+00:00"
+    },
+    {
+      "id": "180ce5a9d1ff",
+      "name": "Klyxshot",
+      "url": "https://www.producthunt.com/products/klyxshot",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The screenshot tool that thinks with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450749+00:00"
+    },
+    {
+      "id": "5d92a1155d81",
+      "name": "Keeby for Windows",
+      "url": "https://www.producthunt.com/products/keeby",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Satisfying mechanical keyboard sounds, now on Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450822+00:00"
+    },
+    {
+      "id": "73a723a4c983",
+      "name": "Whirr",
+      "url": "https://www.producthunt.com/products/whirr-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ambient agent activity in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450889+00:00"
+    },
+    {
+      "id": "f5013fc5e1fc",
+      "name": "Devkat",
+      "url": "https://www.producthunt.com/products/devkat",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "shareaura/strava overlays for ai coding sessions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.450965+00:00"
+    },
+    {
+      "id": "910b9181361c",
+      "name": "DeepFrame",
+      "url": "https://www.producthunt.com/products/deepframe",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Serious security before public exposure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451021+00:00"
+    },
+    {
+      "id": "428a1b2a80c8",
+      "name": "FileFlan",
+      "url": "https://www.producthunt.com/products/fileflan",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Instant private universal file sharing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451073+00:00"
+    },
+    {
+      "id": "5b59febb40e9",
+      "name": "EmailTemple",
+      "url": "https://www.producthunt.com/products/emailtemple",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI studio for creating high conversion, on-brand emails\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451146+00:00"
+    },
+    {
+      "id": "aa3551d503bf",
+      "name": "Auvylo",
+      "url": "https://www.producthunt.com/products/auvylo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn astrology and Four Pillars into AI personas you talk to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451217+00:00"
+    },
+    {
+      "id": "8bb7736f9c64",
+      "name": "MiniCPM",
+      "url": "https://www.producthunt.com/products/minicpm-4-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ultra-efficient 1.3B vision-language model for mobile\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451275+00:00"
+    },
+    {
+      "id": "6c3275d863b9",
+      "name": "VKO1",
+      "url": "https://www.producthunt.com/products/vko1-for-ios-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "instrument",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A pad-based visual performance instrument for Apple products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451346+00:00"
+    },
+    {
+      "id": "ee4ac479443c",
+      "name": "Open Vibe",
+      "url": "https://www.producthunt.com/products/open-vibe",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ship your SaaS with AI, without getting stuck\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451396+00:00"
+    },
+    {
+      "id": "8ec55e8ae12a",
+      "name": "Jotform Claude App",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, edit, and analyze forms directly in Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451464+00:00"
+    },
+    {
+      "id": "a91da367cff4",
+      "name": "Whisper Island by Coddo",
+      "url": "https://www.producthunt.com/products/coddo",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice transcription lives in the Mac notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451533+00:00"
+    },
+    {
+      "id": "6f03b8fb5407",
+      "name": "Vexilo",
+      "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Claude Code planner w/ 31 agents, 92 commands, + 121 skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451621+00:00"
+    },
+    {
+      "id": "de6aee19c87a",
+      "name": "Seer Platform",
+      "url": "https://www.producthunt.com/products/seer-platform",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fastest way to go from idea to physical product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451698+00:00"
+    },
+    {
+      "id": "a2d57932d6c4",
+      "name": "knooth",
+      "url": "https://www.producthunt.com/products/knooth",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recording with AI-powered editing for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451767+00:00"
+    },
+    {
+      "id": "9fab34f7cd00",
+      "name": "TrackTalent",
+      "url": "https://www.producthunt.com/products/outtalent",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track jobs, get matched, and land offers faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-12T09:39:34.451819+00:00"
     },
     {
       "id": "e0c58f1dd016",

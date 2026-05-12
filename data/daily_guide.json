@@ -1,9 +1,9 @@
 {
-  "title": "Chain-of-Thought: insegnare l'AI a ragionare",
-  "level": "intermedio",
-  "tag": "tecnica",
+  "title": "Vector DB: Pinecone, Weaviate, Chroma a confronto",
+  "level": "avanzato",
+  "tag": "strumenti",
   "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-05-11T10:40:57.052842+00:00",
-  "day_of_year": 131,
-  "topic_index": 11
+  "selected_at": "2026-05-12T09:39:34.913708+00:00",
+  "day_of_year": 132,
+  "topic_index": 12
 }
