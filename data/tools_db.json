@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T09:39:34.840917+00:00",
-  "total": 858,
+  "updated_at": "2026-05-13T09:44:25.820524+00:00",
+  "total": 878,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,318 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "01365449708a",
+      "name": "Ota",
+      "url": "https://www.producthunt.com/products/ota",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Contract-first repo-readiness infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.638616+00:00"
+    },
+    {
+      "id": "1f437258c5bf",
+      "name": "Glosso",
+      "url": "https://www.producthunt.com/products/glosso",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "social media"
+      ],
+      "pricing": "Free",
+      "description_it": "Learn a language to unlock social media\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.638715+00:00"
+    },
+    {
+      "id": "d382c4c84115",
+      "name": "tapcut",
+      "url": "https://www.producthunt.com/products/tapcut-the-analogue-shortcut",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The analogue shortcut\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.638776+00:00"
+    },
+    {
+      "id": "398407826e13",
+      "name": "claude",
+      "url": "https://www.producthunt.com/products/claude-share",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Securely share your Claude Code with your friends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.638870+00:00"
+    },
+    {
+      "id": "f349027b118d",
+      "name": "WhoAmILookingFor",
+      "url": "https://www.producthunt.com/products/whoamilookingfor",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the right person in your LinkedIn network\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.638947+00:00"
+    },
+    {
+      "id": "16cec621b055",
+      "name": "Blaze 2.0",
+      "url": "https://www.producthunt.com/products/blaze-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI marketer for SMBs complete w/ strategy, content, and ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639025+00:00"
+    },
+    {
+      "id": "1491756a3fbb",
+      "name": "RescueTime for iOS & Android",
+      "url": "https://www.producthunt.com/products/rescuetime",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automatic time tracking, now better than ever in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639115+00:00"
+    },
+    {
+      "id": "532acf47d75b",
+      "name": "BossHogg",
+      "url": "https://www.producthunt.com/products/bosshogg",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "analyt",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Agent-first CLI for PostHog analytics and feature flags\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639195+00:00"
+    },
+    {
+      "id": "d09a20dfc8a1",
+      "name": "Plate",
+      "url": "https://www.producthunt.com/products/plate-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Minimal project management for small teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639268+00:00"
+    },
+    {
+      "id": "480863edf1e2",
+      "name": "Mycelis",
+      "url": "https://www.producthunt.com/products/mycelis",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Serverless AI workspace with smart routing & MCP agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639342+00:00"
+    },
+    {
+      "id": "767e96ee25d1",
+      "name": "Blurto",
+      "url": "https://www.producthunt.com/products/blurto",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ide",
+        "ask",
+        "note",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sorts your thoughts into tasks, notes, ideas, etc\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639416+00:00"
+    },
+    {
+      "id": "b3db707d169b",
+      "name": "LayerProof Matte 2.0",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create high-quality social content at the speed of trends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639495+00:00"
+    },
+    {
+      "id": "c626bef68e1a",
+      "name": "Polygram",
+      "url": "https://www.producthunt.com/products/polygram-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native design and coding app to build mobile & web apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639572+00:00"
+    },
+    {
+      "id": "4ace8589c8db",
+      "name": "Jootle",
+      "url": "https://www.producthunt.com/products/jootle",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private, always-on AI assistant for teams and families\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639649+00:00"
+    },
+    {
+      "id": "b20c0019735a",
+      "name": "Liminary",
+      "url": "https://www.producthunt.com/products/liminary",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ground your AI in saved knowledge as you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639702+00:00"
+    },
+    {
+      "id": "3438f7f52388",
+      "name": "Linchpin",
+      "url": "https://www.producthunt.com/products/linchpin-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source, self-hostable runtime for managed AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639776+00:00"
+    },
+    {
+      "id": "4333af6002b1",
+      "name": "SideNotes",
+      "url": "https://www.producthunt.com/products/sidenotes-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "screen",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take notes on your screen side\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639854+00:00"
+    },
+    {
+      "id": "57c7d85bd5ef",
+      "name": "Apideck MCP Server",
+      "url": "https://www.producthunt.com/products/apideck",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "api",
+        "data",
+        "agent",
+        "deck"
+      ],
+      "pricing": "Free",
+      "description_it": "Give AI agents access to real-time data across 200+ apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.639928+00:00"
+    },
+    {
+      "id": "93691979cf0f",
+      "name": "ScoutFox",
+      "url": "https://www.producthunt.com/products/scoutfox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tracks company behavior to find early signals and outliers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.640000+00:00"
+    },
+    {
+      "id": "470ac9b55a2f",
+      "name": "Fileloom",
+      "url": "https://www.producthunt.com/products/fileloom-file-viewer",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "A free, ad-free Android viewer for all your files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-13T09:44:25.640071+00:00"
     },
     {
       "id": "892e0dbf5ab5",
