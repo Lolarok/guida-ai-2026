@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T09:44:25.820524+00:00",
-  "total": 878,
+  "updated_at": "2026-05-14T09:34:08.863707+00:00",
+  "total": 898,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "7b928cfc2fbf",
+      "name": "Lumox",
+      "url": "https://www.producthunt.com/products/lumox-mirror-ios-to-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mirror iOS to Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641612+00:00"
+    },
+    {
+      "id": "0c3a967fdfb6",
+      "name": "PTOFlow",
+      "url": "https://www.producthunt.com/products/ptoflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage PTO in Slack and Google Calendar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641708+00:00"
+    },
+    {
+      "id": "0bade076b712",
+      "name": "Storecraft",
+      "url": "https://www.producthunt.com/products/storecraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "backend",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rapidly build AI-powered, Headless e-commerce backends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641792+00:00"
+    },
+    {
+      "id": "9a774ae8e1b9",
+      "name": "Resend Automations",
+      "url": "https://www.producthunt.com/products/resend",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build event-driven email flows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641864+00:00"
+    },
+    {
+      "id": "553999dc6f29",
+      "name": "Slop Goggles",
+      "url": "https://www.producthunt.com/products/slop-goggles",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Detect AI-generated comments and posts on Reddit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641921+00:00"
+    },
+    {
+      "id": "c8a03481f565",
+      "name": "Ansvisor",
+      "url": "https://www.producthunt.com/products/ansvisor",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "brand"
+      ],
+      "pricing": "Free",
+      "description_it": "Scale your brand visibility across AI answer engines\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.641994+00:00"
+    },
+    {
+      "id": "18243f4774dd",
+      "name": "Sherloq",
+      "url": "https://www.producthunt.com/products/sherloq-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know which LinkedIn prospect is warm - right now\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642055+00:00"
+    },
+    {
+      "id": "e25f1e4d4da0",
+      "name": "Tendem by Toloka",
+      "url": "https://www.producthunt.com/products/tendem-by-toloka",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Behind every AI: a human expert\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642129+00:00"
+    },
+    {
+      "id": "1dd6f577b49f",
+      "name": "DesignMD",
+      "url": "https://www.producthunt.com/products/designmd-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any website into an AI-ready design system\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642205+00:00"
+    },
+    {
+      "id": "db08fd56314a",
+      "name": "Raindrop Workshop",
+      "url": "https://www.producthunt.com/products/raindrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source, free, local debugger for AI agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642279+00:00"
+    },
+    {
+      "id": "0ec6166ee3c3",
+      "name": "Causo for Fundraising",
+      "url": "https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pitch the right VCs, skip the grind\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642348+00:00"
+    },
+    {
+      "id": "0f1382b50a7d",
+      "name": "PiP Cue",
+      "url": "https://www.producthunt.com/products/pip-cue",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "caption"
+      ],
+      "pricing": "Free tier",
+      "description_it": "PIP video controls and captions for any site\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642417+00:00"
+    },
+    {
+      "id": "bd4075a9eb2a",
+      "name": "Spellar 3.0",
+      "url": "https://www.producthunt.com/products/spellar",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free",
+      "description_it": "AI Meeting companion with cross-meeting memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642492+00:00"
+    },
+    {
+      "id": "26d377079db2",
+      "name": "Chronicle",
+      "url": "https://www.producthunt.com/products/chronicle-ai-voice-memory",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create your personal memex through voice for total recall\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642564+00:00"
+    },
+    {
+      "id": "dd9f8d7783ff",
+      "name": "Tenure",
+      "url": "https://www.producthunt.com/products/tenure",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Local AI memory that knows what you chose and why\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642613+00:00"
+    },
+    {
+      "id": "42eb8d0f943f",
+      "name": "Write Lint",
+      "url": "https://www.producthunt.com/products/write-lint",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac's built-in proofreader, summoned by ⌘⇧L.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642713+00:00"
+    },
+    {
+      "id": "f512a70e47a4",
+      "name": "Stagent",
+      "url": "https://www.producthunt.com/products/stagent",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drive Claude Code through long tasks it would otherwise drop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642783+00:00"
+    },
+    {
+      "id": "e2486682c84e",
+      "name": "Naptick AI",
+      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Al sleep companion that helps fall asleep without struggle\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642837+00:00"
+    },
+    {
+      "id": "00cb5600dbeb",
+      "name": "Open Computer Use",
+      "url": "https://www.producthunt.com/products/open-computer-use",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source Computer Use MCP for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642906+00:00"
+    },
+    {
+      "id": "66aef09a653d",
+      "name": "Fei Design Mode",
+      "url": "https://www.producthunt.com/products/autonomyai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Directly edit and tweak UI pixels live with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-14T09:34:08.642978+00:00"
     },
     {
       "id": "01365449708a",
