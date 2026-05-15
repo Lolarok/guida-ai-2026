@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T09:34:08.863707+00:00",
-  "total": 898,
+  "updated_at": "2026-05-15T09:50:23.065021+00:00",
+  "total": 918,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "0bc15eb9230f",
+      "name": "Autograph.video Beta",
+      "url": "https://www.producthunt.com/products/autograph-video-beta",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "design",
+        "video",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A drag and drop Motion Design tool to swap creatives quickly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.900955+00:00"
+    },
+    {
+      "id": "b0343c0b1162",
+      "name": "DevRecorder",
+      "url": "https://www.producthunt.com/products/devrecorder",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recorder with console, network, errors & annotations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901058+00:00"
+    },
+    {
+      "id": "9c411a541ebd",
+      "name": "Relay",
+      "url": "https://www.producthunt.com/products/relay-15",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop repeating yourself to every AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901121+00:00"
+    },
+    {
+      "id": "ec1891d5729b",
+      "name": "Gluten App",
+      "url": "https://www.producthunt.com/products/gluten-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free",
+      "description_it": "Find gluten-free places by city and travel destination\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901199+00:00"
+    },
+    {
+      "id": "c775f8b258f8",
+      "name": "Agentic Website Builder 2.0 by Lokuma",
+      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design, build, and run your site with a design agent harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901282+00:00"
+    },
+    {
+      "id": "e0d00101907c",
+      "name": "Lensmor",
+      "url": "https://www.producthunt.com/products/lensmor-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn exhibitor data into pre-booked sales meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901357+00:00"
+    },
+    {
+      "id": "9a2f025aeb66",
+      "name": "AgentRail",
+      "url": "https://www.producthunt.com/products/agentrail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "A local control plane for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901435+00:00"
+    },
+    {
+      "id": "02d89a1a837a",
+      "name": "Gradient Bang",
+      "url": "https://www.producthunt.com/products/gradient-bang",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Massively multi-player game played by talking to an LLM\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901513+00:00"
+    },
+    {
+      "id": "c6b149684ad2",
+      "name": "Whiteout",
+      "url": "https://www.producthunt.com/products/whiteout",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Auto-redact sensitive info from Mac screenshots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901588+00:00"
+    },
+    {
+      "id": "73f10cdb9803",
+      "name": "Basedash MCP Connectors",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect any app. Take action anywhere.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901666+00:00"
+    },
+    {
+      "id": "4ff2389e6a48",
+      "name": "HasData",
+      "url": "https://www.producthunt.com/products/hasdata",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The scraping service AI agents run on\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901752+00:00"
+    },
+    {
+      "id": "e1a7c7e300f0",
+      "name": "Sleek Analytics v3",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track flows, Telegram pings, and global traffic in realtime\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901829+00:00"
+    },
+    {
+      "id": "0b2214e7bebf",
+      "name": "Crustimate",
+      "url": "https://www.producthunt.com/products/findable-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fix your LinkedIn to get found by AI recruiters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901908+00:00"
+    },
+    {
+      "id": "c4345b58d029",
+      "name": "Mobius",
+      "url": "https://www.producthunt.com/products/mobius-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe a trade and Mobius builds, backtests, and runs it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.901982+00:00"
+    },
+    {
+      "id": "a39aad864ccc",
+      "name": "PHBench",
+      "url": "https://www.producthunt.com/products/vela-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Predict the next Series A from a ProductHunt launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902033+00:00"
+    },
+    {
+      "id": "25e44cfb651d",
+      "name": "Cleo AI",
+      "url": "https://www.producthunt.com/products/cleo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Product Operator for AI-native teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902082+00:00"
+    },
+    {
+      "id": "51ab8d1ffe43",
+      "name": "OpenHuman",
+      "url": "https://www.producthunt.com/products/openhuman",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "An open source AI harness built with the human in mind\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902134+00:00"
+    },
+    {
+      "id": "34d6e6dec348",
+      "name": "Agent",
+      "url": "https://www.producthunt.com/products/agent-sin",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agent that handles repeated tasks through reusable skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902205+00:00"
+    },
+    {
+      "id": "42f407277b31",
+      "name": "SpotFetch by DocentPro",
+      "url": "https://www.producthunt.com/products/docentpro",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn the posts you save into an organized list of places\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902278+00:00"
+    },
+    {
+      "id": "e0a52b75ecb1",
+      "name": "Glance",
+      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Preview .md files instantly with quick look\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-15T09:50:22.902327+00:00"
     },
     {
       "id": "7b928cfc2fbf",
