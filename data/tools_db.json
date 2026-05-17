@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T08:49:10.475212+00:00",
-  "total": 930,
+  "updated_at": "2026-05-17T09:04:31.759821+00:00",
+  "total": 936,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,83 @@
       "featured": false
     },
     {
+      "id": "3563b3a2da25",
+      "name": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that turn signals into crypto + Polymarket trades\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613368+00:00"
+    },
+    {
+      "id": "d16d5f47757f",
+      "name": "Files SDK",
+      "url": "https://www.producthunt.com/products/files-sdk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk",
+        "backend"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A unified storage SDK for object and blob backends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613468+00:00"
+    },
+    {
+      "id": "65f1fadcad62",
+      "name": "Vivago Video Agent",
+      "url": "https://www.producthunt.com/products/viva",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Skip the prompting. Produce consistently compelling videos. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613562+00:00"
+    },
+    {
+      "id": "5e367d57b81a",
+      "name": "Kirki",
+      "url": "https://www.producthunt.com/products/kirki",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "WordPress finally has a freeform canvas website builder.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613624+00:00"
+    },
+    {
+      "id": "c7c62bac88d2",
+      "name": "SUN",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate audio with SUN and send it to your Spotify library\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613703+00:00"
+    },
+    {
       "id": "9d14c62dbdc2",
       "name": "ChatGPT for Personal Finance",
       "url": "https://www.producthunt.com/products/openai",
@@ -391,38 +468,7 @@
       "description_it": "Personal finance guidance powered by ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293366+00:00"
-    },
-    {
-      "id": "2949dea2a98e",
-      "name": "Gemini 3.1 Flash",
-      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gemini"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Lightweight Gemini model for high-volume AI pipelines \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293470+00:00"
-    },
-    {
-      "id": "ed9cf114c23b",
-      "name": "M5Stack PaperColor",
-      "url": "https://www.producthunt.com/products/m5stack",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "dev",
-        "audio"
-      ],
-      "pricing": "Free tier",
-      "description_it": "4-inch color E-ink dev board with ESP32 and audio I/O\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293555+00:00"
+      "discovered_at": "2026-05-17T09:04:31.613784+00:00"
     },
     {
       "id": "b1c5dd157fdf",
@@ -440,7 +486,7 @@
       "description_it": "Persistent memory for Claude Code, Codex & coding agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293632+00:00"
+      "discovered_at": "2026-05-17T09:04:31.613868+00:00"
     },
     {
       "id": "178e8a11a2bc",
@@ -457,7 +503,7 @@
       "description_it": "Your AI director for creating cinematic videos with ease\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293708+00:00"
+      "discovered_at": "2026-05-17T09:04:31.613951+00:00"
     },
     {
       "id": "708c624e58e5",
@@ -474,7 +520,7 @@
       "description_it": "Developer tools, one menu click away.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293779+00:00"
+      "discovered_at": "2026-05-17T09:04:31.614025+00:00"
     },
     {
       "id": "d9cdd272d56e",
@@ -489,7 +535,98 @@
       "description_it": "A better way to screen share on macOS\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293854+00:00"
+      "discovered_at": "2026-05-17T09:04:31.614095+00:00"
+    },
+    {
+      "id": "2949dea2a98e",
+      "name": "Gemini 3.1 Flash",
+      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lightweight Gemini model for high-volume AI pipelines \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614189+00:00"
+    },
+    {
+      "id": "ed9cf114c23b",
+      "name": "M5Stack PaperColor",
+      "url": "https://www.producthunt.com/products/m5stack",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "4-inch color E-ink dev board with ESP32 and audio I/O\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614267+00:00"
+    },
+    {
+      "id": "a39aad864ccc",
+      "name": "PHBench",
+      "url": "https://www.producthunt.com/products/vela-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Predict the next Series A from a ProductHunt launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614329+00:00"
+    },
+    {
+      "id": "8592e196ae68",
+      "name": "Nimbus",
+      "url": "https://www.producthunt.com/products/nimbus-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic Browser with Claude Code UX\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614397+00:00"
+    },
+    {
+      "id": "f4fbad2cad89",
+      "name": "Standboy",
+      "url": "https://www.producthunt.com/products/standboy",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Game Boy that wakes up while your agent works\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614467+00:00"
+    },
+    {
+      "id": "ec1891d5729b",
+      "name": "Gluten App",
+      "url": "https://www.producthunt.com/products/gluten-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free",
+      "description_it": "Find gluten-free places by city and travel destination\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614541+00:00"
     },
     {
       "id": "0bc15eb9230f",
@@ -507,7 +644,48 @@
       "description_it": "A drag and drop Motion Design tool to swap creatives quickly\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.293937+00:00"
+      "discovered_at": "2026-05-17T09:04:31.614620+00:00"
+    },
+    {
+      "id": "25e44cfb651d",
+      "name": "Cleo AI",
+      "url": "https://www.producthunt.com/products/cleo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Product Operator for AI-native teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614673+00:00"
+    },
+    {
+      "id": "fc4078f86b01",
+      "name": "Wowable",
+      "url": "https://www.producthunt.com/products/wowable",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Paste a link and get a live website\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614723+00:00"
+    },
+    {
+      "id": "0b2214e7bebf",
+      "name": "Crustimate",
+      "url": "https://www.producthunt.com/products/findable-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free",
+      "description_it": "Free tool to fix your LinkedIn to get found by AI recruiters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.614798+00:00"
     },
     {
       "id": "31d4514fd1ae",
@@ -554,19 +732,6 @@
       "discovered_at": "2026-05-16T08:49:10.294131+00:00"
     },
     {
-      "id": "fc4078f86b01",
-      "name": "Wowable",
-      "url": "https://www.producthunt.com/products/wowable",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Paste a link and get a live website\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.294182+00:00"
-    },
-    {
       "id": "bc60419a3359",
       "name": "Magic Notebook",
       "url": "https://www.producthunt.com/products/magic-notebook",
@@ -582,21 +747,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-16T08:49:10.294257+00:00"
-    },
-    {
-      "id": "ec1891d5729b",
-      "name": "Gluten App",
-      "url": "https://www.producthunt.com/products/gluten-app",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "find"
-      ],
-      "pricing": "Free",
-      "description_it": "Find gluten-free places by city and travel destination\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.294332+00:00"
     },
     {
       "id": "c775f8b258f8",
@@ -615,19 +765,6 @@
       "discovered_at": "2026-05-16T08:49:10.294430+00:00"
     },
     {
-      "id": "a39aad864ccc",
-      "name": "PHBench",
-      "url": "https://www.producthunt.com/products/vela-terminal",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Predict the next Series A from a ProductHunt launch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.294492+00:00"
-    },
-    {
       "id": "4ff2389e6a48",
       "name": "HasData",
       "url": "https://www.producthunt.com/products/hasdata",
@@ -643,38 +780,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-16T08:49:10.294560+00:00"
-    },
-    {
-      "id": "0b2214e7bebf",
-      "name": "Crustimate",
-      "url": "https://www.producthunt.com/products/findable-4",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "rust"
-      ],
-      "pricing": "Free",
-      "description_it": "Free tool to fix your LinkedIn to get found by AI recruiters\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.294633+00:00"
-    },
-    {
-      "id": "8592e196ae68",
-      "name": "Nimbus",
-      "url": "https://www.producthunt.com/products/nimbus-10",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Agentic Browser with Claude Code UX\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-16T08:49:10.294700+00:00"
     },
     {
       "id": "a0b7ffa3e1d7",
@@ -803,19 +908,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-15T09:50:22.901982+00:00"
-    },
-    {
-      "id": "25e44cfb651d",
-      "name": "Cleo AI",
-      "url": "https://www.producthunt.com/products/cleo-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI Product Operator for AI-native teams\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-15T09:50:22.902082+00:00"
     },
     {
       "id": "51ab8d1ffe43",
