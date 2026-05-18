@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T09:04:31.759821+00:00",
-  "total": 936,
+  "updated_at": "2026-05-18T11:08:47.602590+00:00",
+  "total": 955,
   "tools": [
     {
       "name": "Cursor",
@@ -378,20 +378,298 @@
       "featured": false
     },
     {
-      "id": "3563b3a2da25",
-      "name": "Fere AI",
-      "url": "https://www.producthunt.com/products/fere-ai",
+      "id": "66583f6deefc",
+      "name": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic UI that scales on demand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409579+00:00"
+    },
+    {
+      "id": "fb655b6d6ac7",
+      "name": "Voiser AI",
+      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Human-like AI voiceovers in 140+ languages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409673+00:00"
+    },
+    {
+      "id": "ca49ac5ab5b6",
+      "name": "Shadow",
+      "url": "https://www.producthunt.com/products/shadow-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "voice",
+        "automat",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI computer screen and voice control with custom automation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409759+00:00"
+    },
+    {
+      "id": "e157a3f4726b",
+      "name": "LandingHero AI",
+      "url": "https://www.producthunt.com/products/landinghero-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "24/7 Salesperson on Your Website\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409814+00:00"
+    },
+    {
+      "id": "490cc5e56289",
+      "name": "ReactVision Studio",
+      "url": "https://www.producthunt.com/products/reactvision-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build AR/VR Apps in React Native + ship directly to devices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409890+00:00"
+    },
+    {
+      "id": "d656c68826ff",
+      "name": "LobeHub",
+      "url": "https://www.producthunt.com/products/lobehub",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Chief Agent Operator for multi-agent work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.409961+00:00"
+    },
+    {
+      "id": "0af80ab2829f",
+      "name": "QuickRight",
+      "url": "https://www.producthunt.com/products/capture-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The missing right-click features for macOS Finder\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410039+00:00"
+    },
+    {
+      "id": "59719e1d469c",
+      "name": "AnyFrame",
+      "url": "https://www.producthunt.com/products/anyframe-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sandboxes for your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410109+00:00"
+    },
+    {
+      "id": "70bb2150fc1b",
+      "name": "Searchad.ai",
+      "url": "https://www.producthunt.com/products/searchad-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "search",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Apple Search Ads by Chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410181+00:00"
+    },
+    {
+      "id": "5ed2e5ea4402",
+      "name": "Draft",
+      "url": "https://www.producthunt.com/products/draft-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture AI chats into your knowledge base\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410249+00:00"
+    },
+    {
+      "id": "88dff8e14e4b",
+      "name": "Agentspan",
+      "url": "https://www.producthunt.com/products/agentspan",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source runtime for durable AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410320+00:00"
+    },
+    {
+      "id": "4779ef31dd2f",
+      "name": "Triggered Agents by Adaptive",
+      "url": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
       "source": "Product Hunt AI (feed)",
       "category": "agent",
       "tags": [
         "agent",
+        "automat",
         "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "AI agents that turn signals into crypto + Polymarket trades\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI agents that run automatically on business events\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-17T09:04:31.613368+00:00"
+      "discovered_at": "2026-05-18T11:08:47.410417+00:00"
+    },
+    {
+      "id": "de34ccaff291",
+      "name": "Krea 2",
+      "url": "https://www.producthunt.com/products/krea",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An image model built for style control and moodboards\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410500+00:00"
+    },
+    {
+      "id": "44aff6df2094",
+      "name": "pixserp",
+      "url": "https://www.producthunt.com/products/pixserp",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your LLM on the live web. One endpoint, ten answer shapes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410574+00:00"
+    },
+    {
+      "id": "b6944f9af413",
+      "name": "Origio",
+      "url": "https://www.producthunt.com/products/origio",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A personalized way to discover where to live\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410642+00:00"
+    },
+    {
+      "id": "4c0747b933dd",
+      "name": "SizzleAir",
+      "url": "https://www.producthunt.com/products/sizzleair",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Thermal assistant for fanless MacBook Airs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410712+00:00"
+    },
+    {
+      "id": "3fcbbd78a1b5",
+      "name": "Polarity",
+      "url": "https://www.producthunt.com/products/polarity-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Self-Improvement Stack For agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410779+00:00"
+    },
+    {
+      "id": "05c1fe685727",
+      "name": "Moody",
+      "url": "https://www.producthunt.com/products/moody-music-synced-album-wallpaper",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac wallpaper that listens to your music & weather\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410850+00:00"
+    },
+    {
+      "id": "2e4718981aaa",
+      "name": "SocLeads 3.0",
+      "url": "https://www.producthunt.com/products/socleads",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scrape emails from socials and maps by location\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-18T11:08:47.410921+00:00"
     },
     {
       "id": "d16d5f47757f",
@@ -407,7 +685,23 @@
       "description_it": "A unified storage SDK for object and blob backends\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-17T09:04:31.613468+00:00"
+      "discovered_at": "2026-05-18T11:08:47.410991+00:00"
+    },
+    {
+      "id": "3563b3a2da25",
+      "name": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that turn signals into crypto + Polymarket trades\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-17T09:04:31.613368+00:00"
     },
     {
       "id": "65f1fadcad62",
