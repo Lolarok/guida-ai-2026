@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T11:08:47.602590+00:00",
-  "total": 955,
+  "updated_at": "2026-05-19T10:39:52.508248+00:00",
+  "total": 975,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "780f1e4c466d",
+      "name": "CLI Market",
+      "url": "https://www.producthunt.com/products/cli-market",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "3,760 retailers, one API for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259221+00:00"
+    },
+    {
+      "id": "6beb746311f2",
+      "name": "ShioriCode",
+      "url": "https://www.producthunt.com/products/shioricode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source alternative to Codex & Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259317+00:00"
+    },
+    {
+      "id": "ecff60cdfe06",
+      "name": "Insights by Omnia",
+      "url": "https://www.producthunt.com/products/omnia-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight",
+        "action"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Step-by-step action plans to improve your AI visibility.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259401+00:00"
+    },
+    {
+      "id": "65cea826386f",
+      "name": "Papr Graph",
+      "url": "https://www.producthunt.com/products/papr-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Upgrade to graph-native vector embeddings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259471+00:00"
+    },
+    {
+      "id": "558345ea18ff",
+      "name": "Agora",
+      "url": "https://www.producthunt.com/products/odyssey-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A multi-agent world model you can play\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259538+00:00"
+    },
+    {
+      "id": "9d2de1442e06",
+      "name": "AutoShelf",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Auto-organize files on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259604+00:00"
+    },
+    {
+      "id": "618cbf7a3303",
+      "name": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "compose"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cursor’s most powerful model yet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259702+00:00"
+    },
+    {
+      "id": "abf1f9890275",
+      "name": "imgproxy v4",
+      "url": "https://www.producthunt.com/products/imgproxy",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fast and secure self-hosted image processing server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259778+00:00"
+    },
+    {
+      "id": "32b104643f14",
+      "name": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your agent a real number and voice to make calls.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259849+00:00"
+    },
+    {
+      "id": "c287c380f69a",
+      "name": "Drizz",
+      "url": "https://www.producthunt.com/products/drizz-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mobile tests that write, run, and fix themselves\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.259936+00:00"
+    },
+    {
+      "id": "69c02aa8e040",
+      "name": "Monocle 3.5 for macOS",
+      "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "noise"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Noise-cancelling for your  screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260029+00:00"
+    },
+    {
+      "id": "64e83c261ded",
+      "name": "CtrlOps",
+      "url": "https://www.producthunt.com/products/ctrlops",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug",
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Deploy, Debug & Manage Linux Servers with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260096+00:00"
+    },
+    {
+      "id": "843d615bf231",
+      "name": "Vocabi",
+      "url": "https://www.producthunt.com/products/vocabi",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate, save & memorize words while you read\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260167+00:00"
+    },
+    {
+      "id": "827db780ba66",
+      "name": "LearnHouse",
+      "url": "https://www.producthunt.com/products/learnhouse",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The modern way to teach what you build\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260216+00:00"
+    },
+    {
+      "id": "3e08d771e03f",
+      "name": "Cosmic Insights",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cookieless web analytics built into your CMS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260283+00:00"
+    },
+    {
+      "id": "1e8e51362660",
+      "name": "calog.cc",
+      "url": "https://www.producthunt.com/products/calog-cc",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat-based calorie tracker that actually knows desi food\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260350+00:00"
+    },
+    {
+      "id": "e00b86c47733",
+      "name": "Trainer",
+      "url": "https://www.producthunt.com/products/trainer-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Train AI agents by recording your screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260415+00:00"
+    },
+    {
+      "id": "4b582fc22fa1",
+      "name": "VWFNDR™ + MBL",
+      "url": "https://www.producthunt.com/products/vwfndr-mbl",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take raw photos with proof they're real, not AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260499+00:00"
+    },
+    {
+      "id": "a61e30a57a83",
+      "name": "CaseGap AI",
+      "url": "https://www.producthunt.com/products/casegap-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find law firm revenue leaks, then fix them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260565+00:00"
+    },
+    {
+      "id": "041c157c3b4b",
+      "name": "Hanami",
+      "url": "https://www.producthunt.com/products/hanami-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A daily meditation with Japanese art\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-19T10:39:52.260629+00:00"
     },
     {
       "id": "66583f6deefc",
