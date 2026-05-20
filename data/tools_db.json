@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T10:39:52.508248+00:00",
-  "total": 975,
+  "updated_at": "2026-05-20T10:27:43.652363+00:00",
+  "total": 995,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,318 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "101ec51b1f3a",
+      "name": "Re_gent",
+      "url": "https://www.producthunt.com/products/re_gent",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Version Control for AI agent Activity\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.368712+00:00"
+    },
+    {
+      "id": "d180b4c900c0",
+      "name": "StoreClaw",
+      "url": "https://www.producthunt.com/products/storeclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grow your store profits with agents that know how to sell\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.368803+00:00"
+    },
+    {
+      "id": "10136f8f6e07",
+      "name": "Manus Scheduled Tasks 2.0",
+      "url": "https://www.producthunt.com/products/manus",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ide",
+        "ask",
+        "task",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run recurring Manus work inside the same task context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.368890+00:00"
+    },
+    {
+      "id": "003830e30b77",
+      "name": "GhostSnap",
+      "url": "https://www.producthunt.com/products/ghostsnap",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take multiple screenshots that are auto compressed for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.368967+00:00"
+    },
+    {
+      "id": "fbca6f8dc245",
+      "name": "Owlish",
+      "url": "https://www.producthunt.com/products/owlish",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Reduce support volume with AI agents trained on your docs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369040+00:00"
+    },
+    {
+      "id": "8789d4f6749d",
+      "name": "Retina",
+      "url": "https://www.producthunt.com/products/retina-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "graphic",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recorder w/ auto-zoom, smooth cursors, + AI graphics\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369112+00:00"
+    },
+    {
+      "id": "146555cbc3e6",
+      "name": "Skilled",
+      "url": "https://www.producthunt.com/products/skilled-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dashboard to find agent skills you no longer need\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369188+00:00"
+    },
+    {
+      "id": "154f57976ed7",
+      "name": "Invenio",
+      "url": "https://www.producthunt.com/products/invenio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "photo",
+        "video",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI search for Mac video & photo libraries\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369260+00:00"
+    },
+    {
+      "id": "d7dcc108186e",
+      "name": "Chromtuner",
+      "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A chromatic tuner for macOS. ±1¢ accuracy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369320+00:00"
+    },
+    {
+      "id": "eff69b8e2759",
+      "name": "Gemini Omni",
+      "url": "https://www.producthunt.com/products/gemini-omni-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "gemini",
+        "art",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create anything from any input – starting with video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369441+00:00"
+    },
+    {
+      "id": "ddcdbbffe697",
+      "name": "Viberia",
+      "url": "https://www.producthunt.com/products/viberia",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Command AI agents like you're playing Civilization\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369519+00:00"
+    },
+    {
+      "id": "4f31d09d2881",
+      "name": "Runtime",
+      "url": "https://www.producthunt.com/products/runtime",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sandboxed coding agents for everyone on your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369590+00:00"
+    },
+    {
+      "id": "2f18c08b6e40",
+      "name": "Tophat by Shopify",
+      "url": "https://www.producthunt.com/products/tophat",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Test mobile CI builds on any device without building locally\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369669+00:00"
+    },
+    {
+      "id": "2460fa59923f",
+      "name": "LayerProof Kraft",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight",
+        "erp",
+        "content",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Co-write insightful long form content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369743+00:00"
+    },
+    {
+      "id": "458e0005a95c",
+      "name": "Glia",
+      "url": "https://www.producthunt.com/products/glia-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local-first AI memory bridge between browser chats and IDEs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369816+00:00"
+    },
+    {
+      "id": "d53c7e995108",
+      "name": "Insta360 Mic Pro",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pro audio with a customizable color E-Ink face\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.369886+00:00"
+    },
+    {
+      "id": "bb889feb9233",
+      "name": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your work into AI agent memory, served over MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.370001+00:00"
+    },
+    {
+      "id": "3d4d5c688c99",
+      "name": "mailX by mailwarm (YC S20)",
+      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email deliverability toolkit for humans and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.370100+00:00"
+    },
+    {
+      "id": "e6cbf9e3810f",
+      "name": "Type Switch 3.0 for macOS",
+      "url": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Instant language switching for multilingual Mac users\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.370161+00:00"
+    },
+    {
+      "id": "097f29e250f5",
+      "name": "Tether",
+      "url": "https://www.producthunt.com/products/tether-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The companion who comes to life in your messages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-20T10:27:43.370214+00:00"
     },
     {
       "id": "780f1e4c466d",
