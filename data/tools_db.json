@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T10:27:43.652363+00:00",
-  "total": 995,
+  "updated_at": "2026-05-21T10:42:33.025070+00:00",
+  "total": 1014,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,315 @@
       "featured": false
     },
     {
+      "id": "1c7039b38a1b",
+      "name": "Framed",
+      "url": "https://www.producthunt.com/products/framed-mockup-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "visual",
+        "screenshot",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn screenshots, videos, and code into polished visuals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780336+00:00"
+    },
+    {
+      "id": "81eae9f999a0",
+      "name": "WeWeb 3.0",
+      "url": "https://www.producthunt.com/products/weweb-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Vibe-code apps with the safety net of a no-code editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780430+00:00"
+    },
+    {
+      "id": "747d571cee97",
+      "name": "AutoSubtitles 2.0",
+      "url": "https://www.producthunt.com/products/autosubtitles",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "subtitle",
+        "caption"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI subtitles & animated captions with faster editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780518+00:00"
+    },
+    {
+      "id": "0505fa5e4f69",
+      "name": "Basedash Skills",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Reusable AI instructions for every Basedash surface.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780585+00:00"
+    },
+    {
+      "id": "800e0111720c",
+      "name": "Novi Notes 1.1",
+      "url": "https://www.producthunt.com/products/novi-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local AI memory layer for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780656+00:00"
+    },
+    {
+      "id": "d2250b09d32f",
+      "name": "Tacet",
+      "url": "https://www.producthunt.com/products/tacet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The brain monitor for cognitive health scores\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780711+00:00"
+    },
+    {
+      "id": "96aefc666369",
+      "name": "TongueType for macOS",
+      "url": "https://www.producthunt.com/products/tonguetype",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Local dictation for macOS without the subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780773+00:00"
+    },
+    {
+      "id": "9cab3e810495",
+      "name": "Tycoon AI",
+      "url": "https://www.producthunt.com/products/tycoon-us",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run one-person companies entirely with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780847+00:00"
+    },
+    {
+      "id": "0f9463b94986",
+      "name": "WarmIntro",
+      "url": "https://www.producthunt.com/products/warmintro",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free",
+      "description_it": "Free tool to find your warmest path into any company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780921+00:00"
+    },
+    {
+      "id": "11de3d330ab6",
+      "name": "Vivaldi 8.0",
+      "url": "https://www.producthunt.com/products/vivaldi",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A bold new look for the browser that's all yours\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.780995+00:00"
+    },
+    {
+      "id": "c7d674b3345e",
+      "name": "CatchAll by NewsCatcher",
+      "url": "https://www.producthunt.com/products/catchall",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build any dataset from the web. Filtered to your criteria.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781074+00:00"
+    },
+    {
+      "id": "c8272660f746",
+      "name": "Ente Locker",
+      "url": "https://www.producthunt.com/products/ente-locker",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared vault for your most important documents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781147+00:00"
+    },
+    {
+      "id": "3e20f1950c2b",
+      "name": "Mixpanel Headless",
+      "url": "https://www.producthunt.com/products/mixpanel",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "analyt",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Programmatic access to product analytics for agents and devs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781228+00:00"
+    },
+    {
+      "id": "e71d04533128",
+      "name": "Mintlify Workflows",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-updating knowledge bases\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781296+00:00"
+    },
+    {
+      "id": "a68f106db7bc",
+      "name": "InstaVM",
+      "url": "https://www.producthunt.com/products/instavm",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instant computers in isolated environments for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781372+00:00"
+    },
+    {
+      "id": "1b8ce91ce060",
+      "name": "Slideshot",
+      "url": "https://www.producthunt.com/products/slideshot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "agent",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Product demo videos, recorded by your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781444+00:00"
+    },
+    {
+      "id": "fa4426470650",
+      "name": "Google Antigravity 2.0",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Orchestrate multi-agent workflows from a desktop app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781518+00:00"
+    },
+    {
+      "id": "d69306bc6159",
+      "name": "Visual Usability Checker",
+      "url": "https://www.producthunt.com/products/attention-insight",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "visual",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Validate your design decisions instantly with AI insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781594+00:00"
+    },
+    {
+      "id": "7ffed91623e0",
+      "name": "AlliHat",
+      "url": "https://www.producthunt.com/products/allihat",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude AI in your Safari sidebar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781660+00:00"
+    },
+    {
+      "id": "ddcdbbffe697",
+      "name": "Viberia",
+      "url": "https://www.producthunt.com/products/viberia",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Command AI agents like you're playing Civilization\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-21T10:42:32.781729+00:00"
+    },
+    {
       "id": "101ec51b1f3a",
       "name": "Re_gent",
       "url": "https://www.producthunt.com/products/re_gent",
@@ -536,21 +845,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-20T10:27:43.369441+00:00"
-    },
-    {
-      "id": "ddcdbbffe697",
-      "name": "Viberia",
-      "url": "https://www.producthunt.com/products/viberia",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Command AI agents like you're playing Civilization\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-20T10:27:43.369519+00:00"
     },
     {
       "id": "4f31d09d2881",
