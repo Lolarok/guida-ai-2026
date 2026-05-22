@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T10:42:33.025070+00:00",
-  "total": 1014,
+  "updated_at": "2026-05-22T10:25:05.152239+00:00",
+  "total": 1034,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,304 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "055f032d66b0",
+      "name": "buildpipe",
+      "url": "https://www.producthunt.com/products/buildpipe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "compose",
+        "automat",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compose, run and automate multi step AI developer workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920001+00:00"
+    },
+    {
+      "id": "e9e5640d2e5f",
+      "name": "Shuffle Design CLI",
+      "url": "https://www.producthunt.com/products/shuffle-design-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multi-AI CLI for building and redesigning websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920102+00:00"
+    },
+    {
+      "id": "5763ac5e3c7c",
+      "name": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "podcast"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Go from newsletters & podcasts to published manuscript\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920182+00:00"
+    },
+    {
+      "id": "9ab5f89a8ae0",
+      "name": "HelioPeak",
+      "url": "https://www.producthunt.com/products/heliopeak",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Solar monitoring for pvoutput on every Apple device.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920255+00:00"
+    },
+    {
+      "id": "2931a39744da",
+      "name": "JAMtime.ai",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Just tell your guitar pedal how to sound\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920324+00:00"
+    },
+    {
+      "id": "0a54aec22676",
+      "name": "whosthere",
+      "url": "https://www.producthunt.com/products/whosthere",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local Area Network discovery tool with an interactive TUI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920420+00:00"
+    },
+    {
+      "id": "09a56f1de2d9",
+      "name": "DecisionBox for Databricks",
+      "url": "https://www.producthunt.com/products/decisionbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "data",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect DecisionBox to your Databricks to validate findings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920509+00:00"
+    },
+    {
+      "id": "8935dc75624f",
+      "name": "Training Data",
+      "url": "https://www.producthunt.com/products/training-data-ai-microgames",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "As an AI you must gather training data by playing microgames\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920588+00:00"
+    },
+    {
+      "id": "e37ac74c232f",
+      "name": "General Compute",
+      "url": "https://www.producthunt.com/products/general-compute",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI models that run on an inference cloud optimized for speed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920645+00:00"
+    },
+    {
+      "id": "931884781f5a",
+      "name": "moop",
+      "url": "https://www.producthunt.com/products/moop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The social network of taste.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920694+00:00"
+    },
+    {
+      "id": "3152b3910291",
+      "name": "Nugget AI",
+      "url": "https://www.producthunt.com/products/nugget-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn customer interviews into your product roadmap\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920767+00:00"
+    },
+    {
+      "id": "44ad3feb79f9",
+      "name": "WordPress 7.0",
+      "url": "https://www.producthunt.com/products/wordpress-7-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "WordPress Armstrong is here\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920817+00:00"
+    },
+    {
+      "id": "eedb02857e57",
+      "name": "TestSprite 3.0",
+      "url": "https://www.producthunt.com/products/testsprite",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let a fleet of parallel agents test your app in minutes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920890+00:00"
+    },
+    {
+      "id": "5d821afaeb18",
+      "name": "SuprSend AI",
+      "url": "https://www.producthunt.com/products/suprsend",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI-first platform for multi-channel notifications\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.920942+00:00"
+    },
+    {
+      "id": "ae04219e0274",
+      "name": "Reader Alive",
+      "url": "https://www.producthunt.com/products/reader-alive",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "question",
+        "ask",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate, listen to, and ask questions about your ebooks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921012+00:00"
+    },
+    {
+      "id": "70619f6b82c1",
+      "name": "Cleo",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI PM that runs your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921058+00:00"
+    },
+    {
+      "id": "5c150fe0c648",
+      "name": "motionvid.ai",
+      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI Motion & Video Editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921121+00:00"
+    },
+    {
+      "id": "afdd490d5b11",
+      "name": "iPromise",
+      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Bring \"Body Doubling\" to your Mac notch.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921170+00:00"
+    },
+    {
+      "id": "89bb7037f709",
+      "name": "DCP",
+      "url": "https://www.producthunt.com/products/dcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents encrypted permission and keys\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921235+00:00"
+    },
+    {
+      "id": "35a14e5b4d2e",
+      "name": "Auto Posts",
+      "url": "https://www.producthunt.com/products/auto-posts",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your Socials. Finally on Autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-22T10:25:04.921283+00:00"
     },
     {
       "id": "1c7039b38a1b",
