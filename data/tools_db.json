@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T09:03:37.492393+00:00",
-  "total": 1050,
+  "updated_at": "2026-05-24T09:22:39.953503+00:00",
+  "total": 1058,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,180 @@
       "featured": false
     },
     {
+      "id": "d365cbbee7d6",
+      "name": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dynamic island for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694258+00:00"
+    },
+    {
+      "id": "1ce49fcbddd2",
+      "name": "ModelHub",
+      "url": "https://www.producthunt.com/products/modelhub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The missing menu bar app for local LLMs on Mac.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694333+00:00"
+    },
+    {
+      "id": "011336361146",
+      "name": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Automate any Mac app with $0 recurring run cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694416+00:00"
+    },
+    {
+      "id": "1421964bb31c",
+      "name": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code that never stops\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694512+00:00"
+    },
+    {
+      "id": "eeba25bf87b1",
+      "name": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "design",
+        "sound",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate edited, sound-designed videos via chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694581+00:00"
+    },
+    {
+      "id": "2c64b9feb05c",
+      "name": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know what your USB-C cable can really do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694636+00:00"
+    },
+    {
+      "id": "d14433955254",
+      "name": "DockFlow",
+      "url": "https://www.producthunt.com/products/dockflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save, switch, and automate Dock layouts for every workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694714+00:00"
+    },
+    {
+      "id": "78bdc2382a2e",
+      "name": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate and iterate UI screens with AI on a live canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694791+00:00"
+    },
+    {
+      "id": "7fa770582468",
+      "name": "Area Contrast Checker",
+      "url": "https://www.producthunt.com/products/area-contrast-checker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Drag, Select, Know. A new way to check A11y contrast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694847+00:00"
+    },
+    {
+      "id": "6587ed0c5f1b",
+      "name": "Command A+",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cohere’s open enterprise workhorse\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694939+00:00"
+    },
+    {
+      "id": "09db1684be5b",
+      "name": "Coca 2.0",
+      "url": "https://www.producthunt.com/products/coca-2-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep Your Mac and Apps Awake!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.694991+00:00"
+    },
+    {
+      "id": "0f742f18b103",
+      "name": "Bulkmark",
+      "url": "https://www.producthunt.com/products/bulkmark-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Transform your Twitter/X Bookmarks into real knowledge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.695044+00:00"
+    },
+    {
       "id": "9249fadd4e68",
       "name": "Vibedock",
       "url": "https://www.producthunt.com/products/vibedock",
@@ -391,22 +565,22 @@
       "description_it": "Toggle Claude Code MCP servers from your menu bar\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369028+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695116+00:00"
     },
     {
-      "id": "3fb67cd804cd",
-      "name": "Finderlock",
-      "url": "https://www.producthunt.com/products/finderlock",
+      "id": "189275b6a086",
+      "name": "Memdex",
+      "url": "https://www.producthunt.com/products/memdex",
       "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
+      "category": "chat",
       "tags": [
-        "find"
+        "conversation"
       ],
       "pricing": "Free tier",
-      "description_it": "Lock Mac files in Finder with Touch ID & AES-256\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Turn every AI conversation into reusable local memory\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369131+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695184+00:00"
     },
     {
       "id": "945d7a0f274b",
@@ -424,20 +598,7 @@
       "description_it": "Local-first markdown based workspace for research writings\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369217+00:00"
-    },
-    {
-      "id": "a3c0ecc560f1",
-      "name": "Kosshi",
-      "url": "https://www.producthunt.com/products/kosshi",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "Simple, fast outliner for Mac and iPhone.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369276+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695254+00:00"
     },
     {
       "id": "33499e4db99f",
@@ -450,7 +611,7 @@
       "description_it": "Turn any Mac into a real second monitor\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369331+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695303+00:00"
     },
     {
       "id": "50aa4ff1e6a9",
@@ -467,7 +628,35 @@
       "description_it": "Capture and sell your AI agent workflow data\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369401+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695367+00:00"
+    },
+    {
+      "id": "a3c0ecc560f1",
+      "name": "Kosshi",
+      "url": "https://www.producthunt.com/products/kosshi",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Simple, fast outliner for Mac and iPhone.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.695418+00:00"
+    },
+    {
+      "id": "3fb67cd804cd",
+      "name": "Finderlock",
+      "url": "https://www.producthunt.com/products/finderlock",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lock Mac files in Finder with Touch ID & AES-256\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-24T09:22:39.695510+00:00"
     },
     {
       "id": "51cdc00080b8",
@@ -482,37 +671,7 @@
       "description_it": "AI-powered lead outreach for field service contractors\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369486+00:00"
-    },
-    {
-      "id": "189275b6a086",
-      "name": "Memdex",
-      "url": "https://www.producthunt.com/products/memdex",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "conversation"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn every AI conversation into reusable local memory\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369564+00:00"
-    },
-    {
-      "id": "6587ed0c5f1b",
-      "name": "Command A+",
-      "url": "https://www.producthunt.com/products/cohere-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "erp"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Cohere’s open enterprise workhorse\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369677+00:00"
+      "discovered_at": "2026-05-24T09:22:39.695584+00:00"
     },
     {
       "id": "54a4abef4dff",
@@ -544,45 +703,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-23T09:03:37.369810+00:00"
-    },
-    {
-      "id": "09db1684be5b",
-      "name": "Coca 2.0",
-      "url": "https://www.producthunt.com/products/coca-2-0",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Keep Your Mac and Apps Awake!\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369860+00:00"
-    },
-    {
-      "id": "0f742f18b103",
-      "name": "Bulkmark",
-      "url": "https://www.producthunt.com/products/bulkmark-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Transform your Twitter/X Bookmarks into real knowledge\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369918+00:00"
-    },
-    {
-      "id": "7fa770582468",
-      "name": "Area Contrast Checker",
-      "url": "https://www.producthunt.com/products/area-contrast-checker",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Drag, Select, Know. A new way to check A11y contrast\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-23T09:03:37.369974+00:00"
     },
     {
       "id": "446b3d4b774a",
