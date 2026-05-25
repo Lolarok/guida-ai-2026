@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T09:22:39.953503+00:00",
-  "total": 1058,
+  "updated_at": "2026-05-25T11:11:46.850640+00:00",
+  "total": 1074,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,305 @@
       "featured": false
     },
     {
+      "id": "c3e3794234ea",
+      "name": "own.page",
+      "url": "https://www.producthunt.com/products/own-page",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make your own personal website with bento tiles\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.595655+00:00"
+    },
+    {
+      "id": "8f7f4c5e9f4a",
+      "name": "Pi Coding Agent",
+      "url": "https://www.producthunt.com/products/pi-coding-agent-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The coding-agent harness you can make your own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.595754+00:00"
+    },
+    {
+      "id": "01d9d8c2b7e2",
+      "name": "Forum",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dedicated space for Facebook groups\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.595817+00:00"
+    },
+    {
+      "id": "3b9f65733125",
+      "name": "Fred",
+      "url": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-orchestrated UX research with behavioural tracking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.595893+00:00"
+    },
+    {
+      "id": "ed0e88ff0c4b",
+      "name": "LLMTest",
+      "url": "https://www.producthunt.com/products/llmtest-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Use the right LLMs in your apps. Setup fallbacks. Be happy.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.595949+00:00"
+    },
+    {
+      "id": "8fa5052968a1",
+      "name": "Rixx",
+      "url": "https://www.producthunt.com/products/rixx",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "perplexity",
+        "erp",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Perplexity alternative that organizes your research\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596041+00:00"
+    },
+    {
+      "id": "b943a31118e3",
+      "name": "Yansu",
+      "url": "https://www.producthunt.com/products/yansu",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI that learns how you work and turns it into software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596105+00:00"
+    },
+    {
+      "id": "70a2e4fe7acf",
+      "name": "MashuPack",
+      "url": "https://www.producthunt.com/products/mashupack",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn codebases into a clean file for Claude and ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596183+00:00"
+    },
+    {
+      "id": "ab88d617cf8c",
+      "name": "Supaboard 3.0",
+      "url": "https://www.producthunt.com/products/supaboard-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI data analysts that understand your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596254+00:00"
+    },
+    {
+      "id": "191b6ceffb76",
+      "name": "Orchestria",
+      "url": "https://www.producthunt.com/products/orchestria",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI music engine with granular stem control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596324+00:00"
+    },
+    {
+      "id": "fecb8121a13a",
+      "name": "Tiny CV",
+      "url": "https://www.producthunt.com/products/tiny-cv",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Resume builder that fits on one page\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596376+00:00"
+    },
+    {
+      "id": "50b3e229e137",
+      "name": "tldx",
+      "url": "https://www.producthunt.com/products/tldx",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast CLI to bulk-check domains via RDAP & MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596442+00:00"
+    },
+    {
+      "id": "2c9e365d6f64",
+      "name": "tweet.md",
+      "url": "https://www.producthunt.com/products/tweet-md",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "X posts as clean Markdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596495+00:00"
+    },
+    {
+      "id": "c0a818dd440b",
+      "name": "Unabyss",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "MCP-native self-updating context layer for your AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596548+00:00"
+    },
+    {
+      "id": "73f888be0d04",
+      "name": "The Incident Challenge",
+      "url": "https://www.producthunt.com/products/the-incident-challenge",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "debug"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Production Debugging Games for Software Engineers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596620+00:00"
+    },
+    {
+      "id": "6811b10a2040",
+      "name": "Databerry",
+      "url": "https://www.producthunt.com/products/databerry",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track all your business data in a single dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596689+00:00"
+    },
+    {
+      "id": "2c64b9feb05c",
+      "name": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know what your USB-C cable can really do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596739+00:00"
+    },
+    {
+      "id": "eeba25bf87b1",
+      "name": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "design",
+        "sound",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate edited, sound-designed videos via chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596802+00:00"
+    },
+    {
+      "id": "011336361146",
+      "name": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Automate any Mac app with $0 recurring run cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596870+00:00"
+    },
+    {
+      "id": "78bdc2382a2e",
+      "name": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate and iterate UI screens with AI on a live canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-25T11:11:46.596942+00:00"
+    },
+    {
       "id": "d365cbbee7d6",
       "name": "DynamicNotch",
       "url": "https://www.producthunt.com/products/dynamicnotch",
@@ -404,21 +703,6 @@
       "discovered_at": "2026-05-24T09:22:39.694333+00:00"
     },
     {
-      "id": "011336361146",
-      "name": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "automat"
-      ],
-      "pricing": "Freemium",
-      "description_it": "Automate any Mac app with $0 recurring run cost\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-24T09:22:39.694416+00:00"
-    },
-    {
       "id": "1421964bb31c",
       "name": "Edgee Fallback Models",
       "url": "https://www.producthunt.com/products/edgee",
@@ -435,38 +719,6 @@
       "discovered_at": "2026-05-24T09:22:39.694512+00:00"
     },
     {
-      "id": "eeba25bf87b1",
-      "name": "Runway Agent",
-      "url": "https://www.producthunt.com/products/runway-agent",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "chat",
-        "design",
-        "sound",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Generate edited, sound-designed videos via chat\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-24T09:22:39.694581+00:00"
-    },
-    {
-      "id": "2c64b9feb05c",
-      "name": "WhatCable",
-      "url": "https://www.producthunt.com/products/whatcable",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Know what your USB-C cable can really do\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-24T09:22:39.694636+00:00"
-    },
-    {
       "id": "d14433955254",
       "name": "DockFlow",
       "url": "https://www.producthunt.com/products/dockflow",
@@ -481,21 +733,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-24T09:22:39.694714+00:00"
-    },
-    {
-      "id": "78bdc2382a2e",
-      "name": "Stitch 3.0 by Google",
-      "url": "https://www.producthunt.com/products/stitch-by-google",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Generate and iterate UI screens with AI on a live canvas\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-24T09:22:39.694791+00:00"
     },
     {
       "id": "7fa770582468",
