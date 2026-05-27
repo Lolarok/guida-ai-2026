@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T11:11:46.850640+00:00",
-  "total": 1074,
+  "updated_at": "2026-05-27T10:57:45.381251+00:00",
+  "total": 1094,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "62277f377e83",
+      "name": "baz.studio",
+      "url": "https://www.producthunt.com/products/bazaar-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Skills library & video editor for AI Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256324+00:00"
+    },
+    {
+      "id": "0ac3bd859c50",
+      "name": "BobCA",
+      "url": "https://www.producthunt.com/products/bob-s-workshop",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A sovereign agent that learns to code with your preferences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256429+00:00"
+    },
+    {
+      "id": "933d29d0cb64",
+      "name": "BankStatementLab",
+      "url": "https://www.producthunt.com/products/bankstatementlab",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any bank statement PDF into Excel, CSV or JSON with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256499+00:00"
+    },
+    {
+      "id": "5a10d1ab16ad",
+      "name": "BaseBuddy",
+      "url": "https://www.producthunt.com/products/basebuddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your Supabase database into a WordPress-like editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256580+00:00"
+    },
+    {
+      "id": "459fedb4fc38",
+      "name": "Bluedot 2.1",
+      "url": "https://www.producthunt.com/products/bluedot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record on Apple Watch. Sync with Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256651+00:00"
+    },
+    {
+      "id": "5565ce07bbbb",
+      "name": "Krater",
+      "url": "https://www.producthunt.com/products/krater-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "All the AI tools you use, one subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256705+00:00"
+    },
+    {
+      "id": "05ecb26104c2",
+      "name": "Mojito",
+      "url": "https://www.producthunt.com/products/mojito-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Type to search for any emoji or symbol in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256781+00:00"
+    },
+    {
+      "id": "e7a421738ed2",
+      "name": "Calling Skills for AI Agents",
+      "url": "https://www.producthunt.com/products/cometchat-skills",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "video",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add voice and video calling via your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256856+00:00"
+    },
+    {
+      "id": "3f3a5c82c03a",
+      "name": "Chunk sidecars",
+      "url": "https://www.producthunt.com/products/circleci",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Validate agent-generated code before it ever reaches CI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.256933+00:00"
+    },
+    {
+      "id": "bc05ce68faac",
+      "name": "QuickSheet v1.2",
+      "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "spreadsheet",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instantly create and edit spreadsheets from your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257022+00:00"
+    },
+    {
+      "id": "c4c409d63819",
+      "name": "Layers",
+      "url": "https://www.producthunt.com/products/layers-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "video"
+      ],
+      "pricing": "Free",
+      "description_it": "Create beautiful animated code snippet videos for free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257098+00:00"
+    },
+    {
+      "id": "1a9639508776",
+      "name": "GenGo",
+      "url": "https://www.producthunt.com/products/gengo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Transform selected text anywhere on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257150+00:00"
+    },
+    {
+      "id": "f4a05a751bc6",
+      "name": "Local Panel",
+      "url": "https://www.producthunt.com/products/local-panel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Local SSH server manager with no subscriptions or installs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257211+00:00"
+    },
+    {
+      "id": "17a1770a6da0",
+      "name": "Phasr",
+      "url": "https://www.producthunt.com/products/phasr-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run 100+ workflows simultaneously without losing context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257304+00:00"
+    },
+    {
+      "id": "ee89557d9073",
+      "name": "Studio Practice",
+      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Preview any URL on every Mac screen at once\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257375+00:00"
+    },
+    {
+      "id": "2be59b7732d3",
+      "name": "zero.xyz",
+      "url": "https://www.producthunt.com/products/zero-xyz",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent access to over 4k tools, APIs, + services\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257448+00:00"
+    },
+    {
+      "id": "e4f2879eb701",
+      "name": "Powabase",
+      "url": "https://www.producthunt.com/products/powabase",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build AI apps with Postgres, RAG, and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257515+00:00"
+    },
+    {
+      "id": "a04b64547d14",
+      "name": "Octolane",
+      "url": "https://www.producthunt.com/products/octolane",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "crm"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-driving AI CRM that you can talk to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257584+00:00"
+    },
+    {
+      "id": "f10183ca8dce",
+      "name": "AgenticCalling AI",
+      "url": "https://www.producthunt.com/products/agenticcalling-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI the power to make phone calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257656+00:00"
+    },
+    {
+      "id": "ed2a11a8e669",
+      "name": "Archi",
+      "url": "https://www.producthunt.com/products/archi-flow",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visualize cloud architecture with live traffic simulations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-27T10:57:45.257729+00:00"
     },
     {
       "id": "c3e3794234ea",
