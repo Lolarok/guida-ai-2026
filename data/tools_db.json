@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T10:57:45.381251+00:00",
-  "total": 1094,
+  "updated_at": "2026-05-28T10:58:03.969954+00:00",
+  "total": 1114,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1030ce0689c4",
+      "name": "KugelAudio",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "audio",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time text-to-speech model you can self-host\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.716898+00:00"
+    },
+    {
+      "id": "8e2de715ed8b",
+      "name": "Pitch Agent",
+      "url": "https://www.producthunt.com/products/pitch",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "agent",
+        "presentation",
+        "pitch",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On-brand presentations, generated in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.716999+00:00"
+    },
+    {
+      "id": "6e5e4ad6eeee",
+      "name": "SoMerch",
+      "url": "https://www.producthunt.com/products/somerch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Merch for distributed teams, handled end to end\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717064+00:00"
+    },
+    {
+      "id": "5468182f0010",
+      "name": "NeuralAgent 2.5",
+      "url": "https://www.producthunt.com/products/neuralagent",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your computer, it responds and gets things done.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717143+00:00"
+    },
+    {
+      "id": "454272c952b4",
+      "name": "Kim Personal Health Assistant",
+      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The intelligence layer for Apple Health\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717220+00:00"
+    },
+    {
+      "id": "e559c84e1247",
+      "name": "SpotsNow",
+      "url": "https://www.producthunt.com/products/spotsnow",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "podcast",
+        "insight",
+        "ad",
+        "campaign"
+      ],
+      "pricing": "Free",
+      "description_it": "Track who's advertising across podcasts w/ campaign insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717300+00:00"
+    },
+    {
+      "id": "d680917dd5d8",
+      "name": "Parastore",
+      "url": "https://www.producthunt.com/products/parastore",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Simulate real store with LLM-powered synthetic consumer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717365+00:00"
+    },
+    {
+      "id": "9a3a56ec77bc",
+      "name": "Buffer API",
+      "url": "https://www.producthunt.com/products/buffer-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free",
+      "description_it": "One API to publish across every social platform.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717441+00:00"
+    },
+    {
+      "id": "753c6a8027be",
+      "name": "Granite",
+      "url": "https://www.producthunt.com/products/granite",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A vault for every document that matters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717534+00:00"
+    },
+    {
+      "id": "cb40de9e2ac9",
+      "name": "Robinhood Agentic Trading",
+      "url": "https://www.producthunt.com/products/robinhood",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your agent trade\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717608+00:00"
+    },
+    {
+      "id": "ee6a6492d1a1",
+      "name": "Memori",
+      "url": "https://www.producthunt.com/products/memori-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Persistent memory from agent trace, not just conversation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717684+00:00"
+    },
+    {
+      "id": "b91a511a8eba",
+      "name": "AccountyCat",
+      "url": "https://www.producthunt.com/products/accountycat",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A focus companion that actually gets context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717743+00:00"
+    },
+    {
+      "id": "2cd1cb4872c4",
+      "name": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI for Software Engineering\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717798+00:00"
+    },
+    {
+      "id": "f1c9cf5fa9d0",
+      "name": "Marked 3",
+      "url": "https://www.producthunt.com/products/marked-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Preview and Publish your Markdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717847+00:00"
+    },
+    {
+      "id": "f92c77373604",
+      "name": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "OpenClaw in Slack that makes your company autonomous\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717900+00:00"
+    },
+    {
+      "id": "ad1ddf20ecad",
+      "name": "Stage",
+      "url": "https://www.producthunt.com/products/stage-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recording for demos, bugs, and updates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.717966+00:00"
+    },
+    {
+      "id": "836f4e58bcd3",
+      "name": "Crew44",
+      "url": "https://www.producthunt.com/products/crew44",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn coding agents into specialist teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.718033+00:00"
+    },
+    {
+      "id": "9c8cb8121a4d",
+      "name": "Compartment",
+      "url": "https://www.producthunt.com/products/compartment",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source runtime for internal team software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.718107+00:00"
+    },
+    {
+      "id": "28436f5b39f6",
+      "name": "Sublern",
+      "url": "https://www.producthunt.com/products/sublern",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "subtitle"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate any word in video subtitles with one hover\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.718182+00:00"
+    },
+    {
+      "id": "1829338411ac",
+      "name": "LaunchOS",
+      "url": "https://www.producthunt.com/products/launchos",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring Back the Classic Launchpad Experience on macOS 26+\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-28T10:58:03.718251+00:00"
     },
     {
       "id": "62277f377e83",
