@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T09:16:48.936668+00:00",
-  "total": 1140,
+  "updated_at": "2026-05-31T09:49:27.496950+00:00",
+  "total": 1146,
   "tools": [
     {
       "name": "Cursor",
@@ -378,47 +378,113 @@
       "featured": false
     },
     {
-      "id": "aad10e140cd6",
-      "name": "Wingbits AI",
-      "url": "https://www.producthunt.com/products/wingbits-ai",
+      "id": "263b58c10fe3",
+      "name": "Oura Ring 5",
+      "url": "https://www.producthunt.com/products/oura",
       "source": "Product Hunt AI (feed)",
-      "category": "agent",
+      "category": "immagini",
       "tags": [
-        "agent"
+        "art"
       ],
       "pricing": "Free tier",
-      "description_it": "AI agents for real-time aircraft monitoring and alerts\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The world’s smallest smart ring, now even better\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773079+00:00"
+      "discovered_at": "2026-05-31T09:49:27.377345+00:00"
     },
     {
-      "id": "bebb0a822a6c",
-      "name": "Step 3.7 Flash",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "id": "0b6087a8fd20",
+      "name": "Second Brain for AI",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
       "source": "Product Hunt AI (feed)",
-      "category": "agent",
+      "category": "chat",
       "tags": [
-        "agent"
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Persistent memory for Claude, ChatGPT & Cursor. Free.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.377449+00:00"
+    },
+    {
+      "id": "aca4dc935033",
+      "name": "Web Clipper for NotebookLM",
+      "url": "https://www.producthunt.com/products/web-clipper-for-notebooklm",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip",
+        "notebook",
+        "note"
       ],
       "pricing": "Free tier",
-      "description_it": "Flash-speed agents model that can see and act\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your ultimate NotebookLM's Chrome Extension\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773229+00:00"
+      "discovered_at": "2026-05-31T09:49:27.377553+00:00"
     },
     {
-      "id": "06678d1550dc",
-      "name": "Exstats",
-      "url": "https://www.producthunt.com/products/exstats",
+      "id": "e9c61316b6ab",
+      "name": "Marqly 5.0",
+      "url": "https://www.producthunt.com/products/marqly",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Track your browser extensions and competitors in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your AI-powered bookmark manager\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773321+00:00"
+      "discovered_at": "2026-05-31T09:49:27.377608+00:00"
+    },
+    {
+      "id": "ab5824f22790",
+      "name": "TabTasker",
+      "url": "https://www.producthunt.com/products/tabtasker",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Zero servers. Total privacy. Your new favorite toolbox.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.377682+00:00"
+    },
+    {
+      "id": "97b0b69cd8a0",
+      "name": "Clipto",
+      "url": "https://www.producthunt.com/products/clipto-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fully local, natural language search over terabytes of media\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.377758+00:00"
+    },
+    {
+      "id": "272c00ce0bf7",
+      "name": "Wandesk",
+      "url": "https://www.producthunt.com/products/wandesk-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build Your Own AI Desktop \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.377815+00:00"
     },
     {
       "id": "d258b667f068",
@@ -433,20 +499,167 @@
       "description_it": "Test MCP servers like a real AI client, not just a ping\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773432+00:00"
+      "discovered_at": "2026-05-31T09:49:27.377897+00:00"
     },
     {
-      "id": "272c00ce0bf7",
-      "name": "Wandesk",
-      "url": "https://www.producthunt.com/products/wandesk-ai",
+      "id": "aad10e140cd6",
+      "name": "Wingbits AI",
+      "url": "https://www.producthunt.com/products/wingbits-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents for real-time aircraft monitoring and alerts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.377971+00:00"
+    },
+    {
+      "id": "06678d1550dc",
+      "name": "Exstats",
+      "url": "https://www.producthunt.com/products/exstats",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
-      "pricing": "Free",
-      "description_it": "Describe any app, AI builds it — local, free, no signup\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "Track your browser extensions and competitors in one place\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773544+00:00"
+      "discovered_at": "2026-05-31T09:49:27.378026+00:00"
+    },
+    {
+      "id": "bebb0a822a6c",
+      "name": "Step 3.7 Flash",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Flash-speed agents model that can see and act\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378096+00:00"
+    },
+    {
+      "id": "0b8c1b4189ea",
+      "name": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Memory layer for LLMs that stores repo rules + past lessons\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378151+00:00"
+    },
+    {
+      "id": "d99dab1e0248",
+      "name": "Ava 2.0",
+      "url": "https://www.producthunt.com/products/artisan-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI BDR that runs outbound sales autonomously\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378206+00:00"
+    },
+    {
+      "id": "ed3053250ea2",
+      "name": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notify your AI agent when the web changes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378276+00:00"
+    },
+    {
+      "id": "bd086355807e",
+      "name": "MCP Bridge by Appfactor",
+      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "api",
+        "agent",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect any API to any AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378345+00:00"
+    },
+    {
+      "id": "104304bdae3c",
+      "name": "TrackNotch",
+      "url": "https://www.producthunt.com/products/tracknotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "LLM usage tracking that lives in your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378398+00:00"
+    },
+    {
+      "id": "99219021610e",
+      "name": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent",
+        "marketing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI Marketing Agent Powered by Ahrefs Data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378477+00:00"
+    },
+    {
+      "id": "059d0d0bdcac",
+      "name": "Vibeocus Lens",
+      "url": "https://www.producthunt.com/products/vibeocus-lens",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "frontend",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bridge your live frontend directly to your AI agent.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378552+00:00"
+    },
+    {
+      "id": "8dd2ea9697e7",
+      "name": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI roleplays that turn reps into top performers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-05-31T09:49:27.378604+00:00"
     },
     {
       "id": "8e14d2dee985",
@@ -462,7 +675,7 @@
       "description_it": "Smart travel planning made effortless\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.773649+00:00"
+      "discovered_at": "2026-05-31T09:49:27.378672+00:00"
     },
     {
       "id": "a2cdcc7b53be",
@@ -515,32 +728,6 @@
       "discovered_at": "2026-05-30T09:16:48.773968+00:00"
     },
     {
-      "id": "8dd2ea9697e7",
-      "name": "Firecoach AI",
-      "url": "https://www.producthunt.com/products/firecoach",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI roleplays that turn reps into top performers\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774047+00:00"
-    },
-    {
-      "id": "d99dab1e0248",
-      "name": "Ava 2.0",
-      "url": "https://www.producthunt.com/products/artisan-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your AI BDR that runs outbound sales autonomously\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774139+00:00"
-    },
-    {
       "id": "434b0fc379fb",
       "name": "PromptLayer",
       "url": "https://www.producthunt.com/products/promptlayer-2",
@@ -554,19 +741,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-30T09:16:48.774245+00:00"
-    },
-    {
-      "id": "0b8c1b4189ea",
-      "name": "GPS",
-      "url": "https://www.producthunt.com/products/gps-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Memory layer for LLMs that stores repo rules + past lessons\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774327+00:00"
     },
     {
       "id": "55746e9c20df",
@@ -602,21 +776,6 @@
       "discovered_at": "2026-05-30T09:16:48.774516+00:00"
     },
     {
-      "id": "ed3053250ea2",
-      "name": "/monitor by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Notify your AI agent when the web changes\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774613+00:00"
-    },
-    {
       "id": "5b926ac1b8b2",
       "name": "Ava Studio",
       "url": "https://www.producthunt.com/products/ava-studio",
@@ -632,40 +791,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-30T09:16:48.774707+00:00"
-    },
-    {
-      "id": "99219021610e",
-      "name": "Agent A by Ahrefs",
-      "url": "https://www.producthunt.com/products/ahrefs",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data",
-        "agent",
-        "marketing"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The AI Marketing Agent Powered by Ahrefs Data\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774809+00:00"
-    },
-    {
-      "id": "bd086355807e",
-      "name": "MCP Bridge by Appfactor",
-      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "api",
-        "agent",
-        "connect"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Connect any API to any AI agent\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-30T09:16:48.774910+00:00"
     },
     {
       "id": "074b1b0ddcc6",
@@ -712,35 +837,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-29T10:47:22.919829+00:00"
-    },
-    {
-      "id": "104304bdae3c",
-      "name": "TrackNotch",
-      "url": "https://www.producthunt.com/products/tracknotch",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "LLM usage tracking that lives in your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-29T10:47:22.920024+00:00"
-    },
-    {
-      "id": "059d0d0bdcac",
-      "name": "Vibeocus Lens",
-      "url": "https://www.producthunt.com/products/vibeocus-lens",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "frontend",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Bridge your live frontend directly to your AI agent.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-29T10:47:22.920406+00:00"
     },
     {
       "id": "32587296d8fc",
