@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T09:49:27.496950+00:00",
-  "total": 1146,
+  "updated_at": "2026-06-01T12:38:13.158739+00:00",
+  "total": 1166,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1b1c5611553b",
+      "name": "Emily by Co",
+      "url": "https://www.producthunt.com/products/co-desk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice AI copilot for coworking & coliving operators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.886720+00:00"
+    },
+    {
+      "id": "2accc046f1db",
+      "name": "Mina",
+      "url": "https://www.producthunt.com/products/mina-meeting-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI Teammate now responds and executes during your calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.886801+00:00"
+    },
+    {
+      "id": "3823f233809d",
+      "name": "Tabstack Web Research",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "api",
+        "answer",
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run a research agent with cited answers in a single API call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.886885+00:00"
+    },
+    {
+      "id": "8e0a750bfcfe",
+      "name": "Open Caffeine",
+      "url": "https://www.producthunt.com/products/open-caffeine",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep your Mac awake\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.886936+00:00"
+    },
+    {
+      "id": "c3dbd8f9135a",
+      "name": "SocialEcho 2.0",
+      "url": "https://www.producthunt.com/products/socialecho",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "agent",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI social media copilot for teams and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887009+00:00"
+    },
+    {
+      "id": "792a550d3e66",
+      "name": "Databox MCP",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "chat",
+        "gpt",
+        "claude",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your business data inside Claude, ChatGPT and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887098+00:00"
+    },
+    {
+      "id": "0b2a117d2714",
+      "name": "Mistral Vibe",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "mistral",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "I agent for long-running, multi-step work and coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887181+00:00"
+    },
+    {
+      "id": "78873a11dd5c",
+      "name": "Tokenwise",
+      "url": "https://www.producthunt.com/products/tokenwise",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A smart LLM proxy that shows where you're overpaying\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887257+00:00"
+    },
+    {
+      "id": "c10631b11fc4",
+      "name": "Trippple Club",
+      "url": "https://www.producthunt.com/products/trippple-club",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Advertise together on Meta Ads and pay 3x less\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887327+00:00"
+    },
+    {
+      "id": "ba1feb349fa4",
+      "name": "Joanium",
+      "url": "https://www.producthunt.com/products/joanium-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Local AI workspace to build and work with your computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887381+00:00"
+    },
+    {
+      "id": "ca1ba23091c6",
+      "name": "Sentinel",
+      "url": "https://www.producthunt.com/products/sentinel-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your robots from anywhere in the world\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887448+00:00"
+    },
+    {
+      "id": "8714400f6a7f",
+      "name": "Typeahead",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "autocomplete",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI autocomplete for every app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887515+00:00"
+    },
+    {
+      "id": "59669d1a0ac3",
+      "name": "Dune Keypad",
+      "url": "https://www.producthunt.com/products/dune-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Context-aware Mac keypad, w/ Claude + community extensions \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887592+00:00"
+    },
+    {
+      "id": "efafe8ba20eb",
+      "name": "NetworkSpy",
+      "url": "https://www.producthunt.com/products/networkspy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug"
+      ],
+      "pricing": "Free tier",
+      "description_it": "HTTP(s) proxy debugger with custom viewer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887658+00:00"
+    },
+    {
+      "id": "0ede26bf9ac3",
+      "name": "Presentify",
+      "url": "https://www.producthunt.com/products/presentify",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "presentation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take your presentation skills to the next level\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887725+00:00"
+    },
+    {
+      "id": "e61fd5ba8662",
+      "name": "folk",
+      "url": "https://www.producthunt.com/products/folk-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "the AI in your texts that gets stuff done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887774+00:00"
+    },
+    {
+      "id": "60106ac95cd1",
+      "name": "Stella",
+      "url": "https://www.producthunt.com/products/stella-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free",
+      "description_it": "Local natural language search across all your files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887842+00:00"
+    },
+    {
+      "id": "eeaf71bed99f",
+      "name": "Paint By JSON",
+      "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "mockup",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real API data in your mockups made as easy as lorem ipsum.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887916+00:00"
+    },
+    {
+      "id": "32b4ec86d90a",
+      "name": "R0Y OMNI 1.0",
+      "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Generate more accurate investment dashboards and reports\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.887976+00:00"
+    },
+    {
+      "id": "b92376886ba4",
+      "name": "Skylive",
+      "url": "https://www.producthunt.com/products/skylive",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Never miss a celestial event, anywhere on Earth\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-01T12:38:12.888043+00:00"
     },
     {
       "id": "263b58c10fe3",
