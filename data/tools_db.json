@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T12:38:13.158739+00:00",
-  "total": 1166,
+  "updated_at": "2026-06-02T11:19:12.707397+00:00",
+  "total": 1185,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,294 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "cdcd1013ba7c",
+      "name": "Vokal",
+      "url": "https://www.producthunt.com/products/vokal-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A collaboration space for 10x teammates with their Al agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446551+00:00"
+    },
+    {
+      "id": "2c5e57cc8978",
+      "name": "Fundraisly",
+      "url": "https://www.producthunt.com/products/fundraisly",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI fundraising agent that finds investors and books meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446644+00:00"
+    },
+    {
+      "id": "b0e5da115535",
+      "name": "choclift",
+      "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use iPhone to open apps, Apple Shortcuts and websites on Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446728+00:00"
+    },
+    {
+      "id": "1b89fdcc24ff",
+      "name": "Brief",
+      "url": "https://www.producthunt.com/products/brief-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Navigate your agents to product-market fit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446798+00:00"
+    },
+    {
+      "id": "84da9c223608",
+      "name": "PawPause",
+      "url": "https://www.producthunt.com/products/pawpause-cat-proof-your-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Lock your keyboard and prevent cats from causing chaos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446873+00:00"
+    },
+    {
+      "id": "10fb332e0440",
+      "name": "Paste MCP & AI Tools",
+      "url": "https://www.producthunt.com/products/paste",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Infinite clipboard for Claude, Codex and other AI tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.446959+00:00"
+    },
+    {
+      "id": "c45b6a43d8d4",
+      "name": "GlowPulse",
+      "url": "https://www.producthunt.com/products/glowpulse",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac's camera is now a heart-rate sensor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447029+00:00"
+    },
+    {
+      "id": "32d400bb17d0",
+      "name": "Kompassify 2.0",
+      "url": "https://www.producthunt.com/products/kompassify",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "User onboarding now with an AI copilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447099+00:00"
+    },
+    {
+      "id": "ce28e3c6c412",
+      "name": "Rodeo by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Describe your shot. Rodeo builds your first cut.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447153+00:00"
+    },
+    {
+      "id": "9a4a2f4e5ac8",
+      "name": "Branda",
+      "url": "https://www.producthunt.com/products/branda",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fun new way to create & manage brands.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447218+00:00"
+    },
+    {
+      "id": "3de9994ff928",
+      "name": "Moxie Docs",
+      "url": "https://www.producthunt.com/products/moxie-docs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Living docs + MCP context for your GitHub repos \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447286+00:00"
+    },
+    {
+      "id": "4a18926c48da",
+      "name": "Enshittifier",
+      "url": "https://www.producthunt.com/products/enshittifier",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Chrome extension that replaces \"AI\" with 💩\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447358+00:00"
+    },
+    {
+      "id": "8cc6d37de4ec",
+      "name": "Sortail",
+      "url": "https://www.producthunt.com/products/sortail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-learning one-click inbox cleanup for Apple Mail\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447434+00:00"
+    },
+    {
+      "id": "bcb4bb380b8a",
+      "name": "Knock agent for Slack",
+      "url": "https://www.producthunt.com/products/knock-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, manage, and ship customer messaging from Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447506+00:00"
+    },
+    {
+      "id": "e1c2f426e363",
+      "name": "Trovelo",
+      "url": "https://www.producthunt.com/products/trovelo-private-trip-planner",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan and track your trips privately\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447559+00:00"
+    },
+    {
+      "id": "25d94bae1619",
+      "name": "Galleroo",
+      "url": "https://www.producthunt.com/products/galleroo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your Google Drive into a stunning client gallery\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447633+00:00"
+    },
+    {
+      "id": "179df13676a1",
+      "name": "MartinLoop",
+      "url": "https://www.producthunt.com/products/martinloop",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control AI coding agents with limits, proof, + run receipts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447705+00:00"
+    },
+    {
+      "id": "35997fc113b8",
+      "name": "Mirowl",
+      "url": "https://www.producthunt.com/products/mirowl",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search all your screenshots via a local OCR-powered AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447774+00:00"
+    },
+    {
+      "id": "3d5abea18d63",
+      "name": "RingDisk",
+      "url": "https://www.producthunt.com/products/ringdisk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Brighten your video calls with different toned ring lights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-02T11:19:12.447863+00:00"
     },
     {
       "id": "1b1c5611553b",
