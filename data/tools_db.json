@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T11:19:12.707397+00:00",
-  "total": 1185,
+  "updated_at": "2026-06-03T11:57:36.400329+00:00",
+  "total": 1205,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "c02b8c71f87b",
+      "name": "Linkeezy",
+      "url": "https://www.producthunt.com/products/linkeezy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "LinkedIn inbox and feeds without the chaos.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323022+00:00"
+    },
+    {
+      "id": "9287ec1cd33e",
+      "name": "Dispatch",
+      "url": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your app launch hub with ASO audit, keywords, and ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323132+00:00"
+    },
+    {
+      "id": "2f93ae4c58cb",
+      "name": "RadianceKit",
+      "url": "https://www.producthunt.com/products/radiancekit",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn photos into 3D Gaussian Splats on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323224+00:00"
+    },
+    {
+      "id": "579f69c8464d",
+      "name": "EchoFlow",
+      "url": "https://www.producthunt.com/products/echoflow-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native Android AI chat with chats stored locally\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323305+00:00"
+    },
+    {
+      "id": "7937a8a962b3",
+      "name": "Hermes Desktop",
+      "url": "https://www.producthunt.com/products/hermes-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agent that grows with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323380+00:00"
+    },
+    {
+      "id": "ed8b85479925",
+      "name": "Elentaria",
+      "url": "https://www.producthunt.com/products/elentaria",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your GTM: from diagnosis to execution\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323463+00:00"
+    },
+    {
+      "id": "fefc63cbe2e8",
+      "name": "Franz 6",
+      "url": "https://www.producthunt.com/products/franz-messenger",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "All your messaging apps in one window — with private AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323561+00:00"
+    },
+    {
+      "id": "180f275837b1",
+      "name": "superlog",
+      "url": "https://www.producthunt.com/products/superlog",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Autonomous observability tool that finds & fixes bugs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323650+00:00"
+    },
+    {
+      "id": "0aabf8c24241",
+      "name": "Town",
+      "url": "https://www.producthunt.com/products/town",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The assistant that learns how you work, then gets to work. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323733+00:00"
+    },
+    {
+      "id": "71d9e2015ae0",
+      "name": "Dropstone 1.5",
+      "url": "https://www.producthunt.com/products/dropstone-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Freemium",
+      "description_it": "2× Claude Code Pro's usage at $15/mo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323817+00:00"
+    },
+    {
+      "id": "2b29fbfb413c",
+      "name": "FolderPlus",
+      "url": "https://www.producthunt.com/products/folderplus",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Peek inside any folder without opening it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323897+00:00"
+    },
+    {
+      "id": "1e622a76d18d",
+      "name": "Carbone Skill for AI",
+      "url": "https://www.producthunt.com/products/carbone",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Teach your AI to build document templates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.323976+00:00"
+    },
+    {
+      "id": "9c9f9fdbf935",
+      "name": "Composer",
+      "url": "https://www.producthunt.com/products/composer-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "compose",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer markdown for you, your team, and your agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324061+00:00"
+    },
+    {
+      "id": "27dea7c5ddfd",
+      "name": "Devin Desktop",
+      "url": "https://www.producthunt.com/products/devin-by-cognition",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage fleets of local and cloud agents from one surface\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324143+00:00"
+    },
+    {
+      "id": "611ff2b015fa",
+      "name": "Brand Context API",
+      "url": "https://www.producthunt.com/products/brandfetch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship AI that stays on-brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324217+00:00"
+    },
+    {
+      "id": "97583a3ae7c1",
+      "name": "Forward",
+      "url": "https://www.producthunt.com/products/forward-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Installs your API into a customer's codebase in one command\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324297+00:00"
+    },
+    {
+      "id": "b6c82889ad51",
+      "name": "Uselink",
+      "url": "https://www.producthunt.com/products/uselink",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "host your html, share the link, and get comments\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324356+00:00"
+    },
+    {
+      "id": "afe1a6104311",
+      "name": "Replicas",
+      "url": "https://www.producthunt.com/products/replicas",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Claude Code and Codex in the cloud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324450+00:00"
+    },
+    {
+      "id": "8b27e8cb923b",
+      "name": "audien.to",
+      "url": "https://www.producthunt.com/products/audien-to",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn recordings into source-linked work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324531+00:00"
+    },
+    {
+      "id": "12732dfeb051",
+      "name": "TaskGPT",
+      "url": "https://www.producthunt.com/products/taskgpt-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt",
+        "ask",
+        "voice",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice agent for MacOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-03T11:57:36.324600+00:00"
     },
     {
       "id": "cdcd1013ba7c",
