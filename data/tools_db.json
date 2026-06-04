@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T11:57:36.400329+00:00",
-  "total": 1205,
+  "updated_at": "2026-06-04T10:41:14.800617+00:00",
+  "total": 1225,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "995782c6944d",
+      "name": "TimeTuna.com",
+      "url": "https://www.producthunt.com/products/bookva-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ide",
+        "background",
+        "video",
+        "calendar",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A dynamic calendar scheduler with video backgrounds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644316+00:00"
+    },
+    {
+      "id": "479aebdc9aae",
+      "name": "Perplexity Personal Computer for Windows",
+      "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "perplexity",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free",
+      "description_it": "Run AI agents across your local files and apps on Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644453+00:00"
+    },
+    {
+      "id": "32edf67bd224",
+      "name": "Deliveryman.ai",
+      "url": "https://www.producthunt.com/products/deliveryman-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cold email infrastructure on autopilot without Gsuite\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644539+00:00"
+    },
+    {
+      "id": "59cfa7a93458",
+      "name": "Curata",
+      "url": "https://www.producthunt.com/products/curata-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A shared workspace for AI agents and humans.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644611+00:00"
+    },
+    {
+      "id": "9f6f576b33d0",
+      "name": "Empromptu AI",
+      "url": "https://www.producthunt.com/products/empromptu",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Train Fine Tuned Models With AI Apps You're Already Building\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644686+00:00"
+    },
+    {
+      "id": "6964642bb4fd",
+      "name": "ChatPilot",
+      "url": "https://www.producthunt.com/products/chatpilot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "conversation",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bulk delete, archive & timestamp your ChatGPT conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644761+00:00"
+    },
+    {
+      "id": "3252ebba1866",
+      "name": "Kai for Chrome",
+      "url": "https://www.producthunt.com/products/kai-for-chrome",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "transcri",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local meeting transcription with no account needed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644843+00:00"
+    },
+    {
+      "id": "21d573bf5b83",
+      "name": "Carbon Voice Speed Dial",
+      "url": "https://www.producthunt.com/products/carbon-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get your whole team (humans and agents!) on speed dial\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644922+00:00"
+    },
+    {
+      "id": "a0cb4429f5ab",
+      "name": "Sun",
+      "url": "https://www.producthunt.com/products/sun-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Collaborative voice API for agents \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.644991+00:00"
+    },
+    {
+      "id": "e9bafbf79adc",
+      "name": "Mailwarm 2.0 (YC S20)",
+      "url": "https://www.producthunt.com/products/mailwarm",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The email warmup tool, upgraded for deliverability.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645065+00:00"
+    },
+    {
+      "id": "cb2e2e36b846",
+      "name": "Astra Autonomous Pentest",
+      "url": "https://www.producthunt.com/products/astra-security",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that find, validate, and fix every vulnerability\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645142+00:00"
+    },
+    {
+      "id": "a4462e1a3a87",
+      "name": "Brilliant's Personal Tutor, Koji",
+      "url": "https://www.producthunt.com/products/brilliant",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A world-class tutor for every home\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645196+00:00"
+    },
+    {
+      "id": "f7d53d76305f",
+      "name": "Gather",
+      "url": "https://www.producthunt.com/products/gather-14",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Save it once, never lose it again\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645250+00:00"
+    },
+    {
+      "id": "4fe0a944b787",
+      "name": "Build Club Campus",
+      "url": "https://www.producthunt.com/products/build-club",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Virtual AI School: Upskill in AI and Become Great at it Fast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645305+00:00"
+    },
+    {
+      "id": "e92cdc56949a",
+      "name": "Google Gemma 4 12B",
+      "url": "https://www.producthunt.com/products/gemma-4-12b",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free",
+      "description_it": "Run multimodal AI locally with an encoder-free architecture\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645397+00:00"
+    },
+    {
+      "id": "e9857433d749",
+      "name": "Wizzy",
+      "url": "https://www.producthunt.com/products/appwizzy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rent a private VM with Codex to build production apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645474+00:00"
+    },
+    {
+      "id": "fea5f9bd0585",
+      "name": "Walrus Memory",
+      "url": "https://www.producthunt.com/products/walrus-memory",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Enable agents to keep context & work across apps + sessions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645547+00:00"
+    },
+    {
+      "id": "c14b3712a10d",
+      "name": "PlugTalk",
+      "url": "https://www.producthunt.com/products/plugtalk",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac talks back when you plug things in\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645614+00:00"
+    },
+    {
+      "id": "516da7934841",
+      "name": "Extella.AI",
+      "url": "https://www.producthunt.com/products/extella-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic platform that evolves & builds reusable systems \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645685+00:00"
+    },
+    {
+      "id": "b5a4e64d5e88",
+      "name": "Boxes.dev",
+      "url": "https://www.producthunt.com/products/boxes-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "dev",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Claude Code and Codex in your own cloud environment\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-04T10:41:14.645756+00:00"
     },
     {
       "id": "c02b8c71f87b",
