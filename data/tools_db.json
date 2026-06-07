@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T09:27:46.577996+00:00",
-  "total": 1251,
+  "updated_at": "2026-06-07T10:01:26.161898+00:00",
+  "total": 1256,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,92 @@
       "featured": false
     },
     {
+      "id": "904b914373cb",
+      "name": "Dreambeans by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Daily AI stories personalised from your Google apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.892813+00:00"
+    },
+    {
+      "id": "3286ec44c99c",
+      "name": "CabinLink",
+      "url": "https://www.producthunt.com/products/cabinlink",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Flight map from cabin Wi-Fi\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.892888+00:00"
+    },
+    {
+      "id": "9df1ce08ef1d",
+      "name": "Wave",
+      "url": "https://www.producthunt.com/products/wave-16",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your voice into text — local or cloud, your choice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893001+00:00"
+    },
+    {
+      "id": "82202a0c1ada",
+      "name": "Smmall Cloud for iOS",
+      "url": "https://www.producthunt.com/products/smmall-cloud",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simple file sharing on your iPad or iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893096+00:00"
+    },
+    {
+      "id": "95d92a5cc5c8",
+      "name": "Job Postings API",
+      "url": "https://www.producthunt.com/products/free-job-postings-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "View, monitor, and analyze 1.8M+ US jobs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893169+00:00"
+    },
+    {
+      "id": "e00687cd87e1",
+      "name": "MAI",
+      "url": "https://www.producthunt.com/products/mai-image-2-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate and edit images with precise scene control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893245+00:00"
+    },
+    {
       "id": "5a39b7f02526",
       "name": "QWERTYS",
       "url": "https://www.producthunt.com/products/qwertys",
@@ -390,7 +476,33 @@
       "description_it": "My keyboard fell apart. Now it's your problem.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.376588+00:00"
+      "discovered_at": "2026-06-07T10:01:25.893321+00:00"
+    },
+    {
+      "id": "bc44f6b8fcd6",
+      "name": "Fox Issue Tracker 4",
+      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Track, plan, and release.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893378+00:00"
+    },
+    {
+      "id": "9516b9a01e3a",
+      "name": "Gaming services by IFTTT",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Level up the way you play with Steam, Dota 2, and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893438+00:00"
     },
     {
       "id": "6b7d3c50367d",
@@ -406,33 +518,7 @@
       "description_it": "Add Tab Bar, Mega Menu & more to any website — no code\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.376722+00:00"
-    },
-    {
-      "id": "9516b9a01e3a",
-      "name": "Gaming services by IFTTT",
-      "url": "https://www.producthunt.com/products/ifttt",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Level up the way you play with Steam, Dota 2, and more\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.376815+00:00"
-    },
-    {
-      "id": "bc44f6b8fcd6",
-      "name": "Fox Issue Tracker 4",
-      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Track, plan, and release.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.376874+00:00"
+      "discovered_at": "2026-06-07T10:01:25.893534+00:00"
     },
     {
       "id": "fb7d6ae51cae",
@@ -447,7 +533,7 @@
       "description_it": "Profile for publishers/creators to highlight work on Search\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.376953+00:00"
+      "discovered_at": "2026-06-07T10:01:25.893611+00:00"
     },
     {
       "id": "d09d3b868239",
@@ -463,22 +549,126 @@
       "description_it": "Build and manage Shopify stores from one chat\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377027+00:00"
+      "discovered_at": "2026-06-07T10:01:25.893683+00:00"
     },
     {
-      "id": "e00687cd87e1",
-      "name": "MAI",
-      "url": "https://www.producthunt.com/products/mai-image-2-5",
+      "id": "0f6f3f73acbc",
+      "name": "Agent Mode on Arena",
+      "url": "https://www.producthunt.com/products/arena-5",
       "source": "Product Hunt AI (feed)",
-      "category": "immagini",
+      "category": "chat",
       "tags": [
-        "image"
+        "ask",
+        "agent",
+        "task"
       ],
       "pricing": "Free tier",
-      "description_it": "Generate and edit images with precise scene control\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Get real-world tasks done with autonomous AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377107+00:00"
+      "discovered_at": "2026-06-07T10:01:25.893762+00:00"
+    },
+    {
+      "id": "6f5f76832b2a",
+      "name": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The world’s most accurate AI for investors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893830+00:00"
+    },
+    {
+      "id": "af506e14a730",
+      "name": "SellerClaw",
+      "url": "https://www.producthunt.com/products/sellerclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "A team of AI agents that runs your stores across channels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893905+00:00"
+    },
+    {
+      "id": "107c0158dbe0",
+      "name": "VisionSync",
+      "url": "https://www.producthunt.com/products/visionsync",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Where strategy execution meets the people doing the work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.893962+00:00"
+    },
+    {
+      "id": "7f3e32c3475b",
+      "name": "Recursi",
+      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self improving vibe coding env with no API fees\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.894030+00:00"
+    },
+    {
+      "id": "e1942e576717",
+      "name": "Minimi",
+      "url": "https://www.producthunt.com/products/shram",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ambient memory for Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.894105+00:00"
+    },
+    {
+      "id": "7b8817434f80",
+      "name": "Treadmill Pro",
+      "url": "https://www.producthunt.com/products/treadmill-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your treadmill from your iPhone, wirelessly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.894177+00:00"
+    },
+    {
+      "id": "d2f14b4eb4c4",
+      "name": "Nemotron 3 Ultra by NVIDIA",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Powers faster, efficient reasoning for long-running agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-07T10:01:25.894254+00:00"
     },
     {
       "id": "f3bcff9d8a51",
@@ -527,66 +717,6 @@
       "discovered_at": "2026-06-06T09:27:46.377312+00:00"
     },
     {
-      "id": "107c0158dbe0",
-      "name": "VisionSync",
-      "url": "https://www.producthunt.com/products/visionsync",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Where strategy execution meets the people doing the work\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377369+00:00"
-    },
-    {
-      "id": "d2f14b4eb4c4",
-      "name": "Nemotron 3 Ultra by NVIDIA",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Powers faster, efficient reasoning for long-running agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377445+00:00"
-    },
-    {
-      "id": "0f6f3f73acbc",
-      "name": "Agent Mode on Arena",
-      "url": "https://www.producthunt.com/products/arena-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "ask",
-        "agent",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Get real-world tasks done with autonomous AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377524+00:00"
-    },
-    {
-      "id": "e1942e576717",
-      "name": "Minimi",
-      "url": "https://www.producthunt.com/products/shram",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your ambient memory for Claude\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377589+00:00"
-    },
-    {
       "id": "6106ce1f0143",
       "name": "Veltrix AI",
       "url": "https://www.producthunt.com/products/veltrix-ai",
@@ -601,34 +731,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-06T09:27:46.377659+00:00"
-    },
-    {
-      "id": "af506e14a730",
-      "name": "SellerClaw",
-      "url": "https://www.producthunt.com/products/sellerclaw",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "A team of AI agents that runs your stores across channels\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377733+00:00"
-    },
-    {
-      "id": "6f5f76832b2a",
-      "name": "Leni",
-      "url": "https://www.producthunt.com/products/leni",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The world’s most accurate AI for investors\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-06T09:27:46.377836+00:00"
     },
     {
       "id": "a593575c3d7f",
@@ -678,21 +780,6 @@
       "discovered_at": "2026-06-06T09:27:46.378058+00:00"
     },
     {
-      "id": "7b8817434f80",
-      "name": "Treadmill Pro",
-      "url": "https://www.producthunt.com/products/treadmill-pro",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Control your treadmill from your iPhone, wirelessly\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-05T10:46:02.754335+00:00"
-    },
-    {
       "id": "297d3b5f5280",
       "name": "Microsoft MAI",
       "url": "https://www.producthunt.com/products/mai-image-2-3",
@@ -707,22 +794,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-05T10:46:02.754788+00:00"
-    },
-    {
-      "id": "7f3e32c3475b",
-      "name": "Recursi",
-      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "api"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Self improving vibe coding env with no API fees\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-05T10:46:02.754961+00:00"
     },
     {
       "id": "26de84a8e69c",
