@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T10:01:26.161898+00:00",
-  "total": 1256,
+  "updated_at": "2026-06-08T11:58:54.756081+00:00",
+  "total": 1266,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,159 @@
       "featured": false
     },
     {
+      "id": "242d536d9bd9",
+      "name": "Browse.sh",
+      "url": "https://www.producthunt.com/products/browserbase",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your agents muscle memory for automating the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643213+00:00"
+    },
+    {
+      "id": "8f84d601306f",
+      "name": "Honen",
+      "url": "https://www.producthunt.com/products/honen",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automated teaching + learning infrastructure for any company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643320+00:00"
+    },
+    {
+      "id": "6c3dc5148daf",
+      "name": "Vaani",
+      "url": "https://www.producthunt.com/products/vaani-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "dubbing",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lip-synced AI dubbing for creators, brands and studios\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643403+00:00"
+    },
+    {
+      "id": "1e530f344d73",
+      "name": "Tamadoggo",
+      "url": "https://www.producthunt.com/products/tamadoggo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A living journal for your pet's life, with AI insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643478+00:00"
+    },
+    {
+      "id": "ca0cf578645e",
+      "name": "Olo",
+      "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Style smarter with the world's first AI companion for guys\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643552+00:00"
+    },
+    {
+      "id": "c5b49d5aed39",
+      "name": "Claude Artifact Player",
+      "url": "https://www.producthunt.com/products/claude-artifact-player",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Claude artifacts locally\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643624+00:00"
+    },
+    {
+      "id": "b7a2c4c804e9",
+      "name": "NTSC",
+      "url": "https://www.producthunt.com/products/ntsc-rs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "art",
+        "video"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source video emulation of analog TV and VHS artifacts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643708+00:00"
+    },
+    {
+      "id": "4933f638afe5",
+      "name": "Sigma File Manager",
+      "url": "https://www.producthunt.com/products/sigma-file-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free, open-source, cross-platform, modern file manager app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643772+00:00"
+    },
+    {
+      "id": "866bbb246ee3",
+      "name": "Supaste",
+      "url": "https://www.producthunt.com/products/supaste",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clipboard Manager for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643855+00:00"
+    },
+    {
+      "id": "8a227c186efd",
+      "name": "The Virtual OS Museum",
+      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Relive vintage operating systems right on your desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.643915+00:00"
+    },
+    {
       "id": "904b914373cb",
       "name": "Dreambeans by Google Labs",
       "url": "https://www.producthunt.com/products/google-labs",
@@ -388,20 +541,7 @@
       "description_it": "Daily AI stories personalised from your Google apps\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.892813+00:00"
-    },
-    {
-      "id": "3286ec44c99c",
-      "name": "CabinLink",
-      "url": "https://www.producthunt.com/products/cabinlink",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Flight map from cabin Wi-Fi\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.892888+00:00"
+      "discovered_at": "2026-06-08T11:58:54.643972+00:00"
     },
     {
       "id": "9df1ce08ef1d",
@@ -416,22 +556,20 @@
       "description_it": "Turn your voice into text — local or cloud, your choice\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893001+00:00"
+      "discovered_at": "2026-06-08T11:58:54.644084+00:00"
     },
     {
-      "id": "82202a0c1ada",
-      "name": "Smmall Cloud for iOS",
-      "url": "https://www.producthunt.com/products/smmall-cloud",
+      "id": "3286ec44c99c",
+      "name": "CabinLink",
+      "url": "https://www.producthunt.com/products/cabinlink",
       "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
+      "category": "altro",
+      "tags": [],
       "pricing": "Free tier",
-      "description_it": "Simple file sharing on your iPad or iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Flight map from cabin Wi-Fi\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893096+00:00"
+      "discovered_at": "2026-06-08T11:58:54.644138+00:00"
     },
     {
       "id": "95d92a5cc5c8",
@@ -446,7 +584,37 @@
       "description_it": "View, monitor, and analyze 1.8M+ US jobs\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893169+00:00"
+      "discovered_at": "2026-06-08T11:58:54.644208+00:00"
+    },
+    {
+      "id": "82202a0c1ada",
+      "name": "Smmall Cloud for iOS",
+      "url": "https://www.producthunt.com/products/smmall-cloud",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simple file sharing on your iPad or iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.644278+00:00"
+    },
+    {
+      "id": "fb7d6ae51cae",
+      "name": "Google Search Profiles",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Profile for publishers/creators to highlight work on Search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.644353+00:00"
     },
     {
       "id": "e00687cd87e1",
@@ -461,7 +629,39 @@
       "description_it": "Generate and edit images with precise scene control\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893245+00:00"
+      "discovered_at": "2026-06-08T11:58:54.644425+00:00"
+    },
+    {
+      "id": "d09d3b868239",
+      "name": "Manus Shopify Connector",
+      "url": "https://www.producthunt.com/products/manus-shopify-connector",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and manage Shopify stores from one chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.644497+00:00"
+    },
+    {
+      "id": "6b7d3c50367d",
+      "name": "Navi+ Menu Builder",
+      "url": "https://www.producthunt.com/products/navi-menu-builder",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add Tab Bar, Mega Menu & more to any website — no code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-08T11:58:54.644592+00:00"
     },
     {
       "id": "5a39b7f02526",
@@ -476,7 +676,7 @@
       "description_it": "My keyboard fell apart. Now it's your problem.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893321+00:00"
+      "discovered_at": "2026-06-08T11:58:54.644661+00:00"
     },
     {
       "id": "bc44f6b8fcd6",
@@ -503,53 +703,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-07T10:01:25.893438+00:00"
-    },
-    {
-      "id": "6b7d3c50367d",
-      "name": "Navi+ Menu Builder",
-      "url": "https://www.producthunt.com/products/navi-menu-builder",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Add Tab Bar, Mega Menu & more to any website — no code\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893534+00:00"
-    },
-    {
-      "id": "fb7d6ae51cae",
-      "name": "Google Search Profiles",
-      "url": "https://www.producthunt.com/products/google",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "search"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Profile for publishers/creators to highlight work on Search\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893611+00:00"
-    },
-    {
-      "id": "d09d3b868239",
-      "name": "Manus Shopify Connector",
-      "url": "https://www.producthunt.com/products/manus-shopify-connector",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "connect"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Build and manage Shopify stores from one chat\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-07T10:01:25.893683+00:00"
     },
     {
       "id": "0f6f3f73acbc",
