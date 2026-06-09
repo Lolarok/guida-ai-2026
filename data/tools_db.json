@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T11:58:54.756081+00:00",
-  "total": 1266,
+  "updated_at": "2026-06-09T10:36:26.703801+00:00",
+  "total": 1286,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,302 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "b32b0dc0c2ed",
+      "name": "Pixel Snapper",
+      "url": "https://www.producthunt.com/products/pixel-snapper",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Editor to clean up AI-generated pixel art \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.578650+00:00"
+    },
+    {
+      "id": "c4c70b4a0278",
+      "name": "hora Calendar",
+      "url": "https://www.producthunt.com/products/hora-calendar",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google calendar built for the Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.578736+00:00"
+    },
+    {
+      "id": "b47c4d97d5a3",
+      "name": "Limelight",
+      "url": "https://www.producthunt.com/products/limelight-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make your screen recordings easy to follow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.578816+00:00"
+    },
+    {
+      "id": "23f7fbfbaf0e",
+      "name": "ChocolateBar",
+      "url": "https://www.producthunt.com/products/chocolatebar",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "icon",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add a row under your menu bar for hidden icons\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.578925+00:00"
+    },
+    {
+      "id": "a316bf0bbd51",
+      "name": "Whistle",
+      "url": "https://www.producthunt.com/products/whistle-ai-workout-planner",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "A fitness coach with personalized plans\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.578983+00:00"
+    },
+    {
+      "id": "e9111faa2720",
+      "name": "Uiverse Design",
+      "url": "https://www.producthunt.com/products/uiverse-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "De-slop your AI generated websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579052+00:00"
+    },
+    {
+      "id": "ab950e5cf2ff",
+      "name": "Nodrix",
+      "url": "https://www.producthunt.com/products/nodrix",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your own IoT cloud, deployed to your Cloudflare account\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579127+00:00"
+    },
+    {
+      "id": "e69ba3ffb890",
+      "name": "TrakMac",
+      "url": "https://www.producthunt.com/products/trakmac",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice-first macro tracking for fitness enthusiasts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579200+00:00"
+    },
+    {
+      "id": "b4e1623220e6",
+      "name": "Signal Recorder SR",
+      "url": "https://www.producthunt.com/products/signal-recorder-sr-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "dev",
+        "voice",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On-device voice recorder that transcribes + exports Markdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579277+00:00"
+    },
+    {
+      "id": "63ac9ac1a700",
+      "name": "TravelMind",
+      "url": "https://www.producthunt.com/products/travelmind-city-discovery-reimagined",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered city discovery built on taste, not reviews\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579348+00:00"
+    },
+    {
+      "id": "766799612a0b",
+      "name": "Cove for Mac",
+      "url": "https://www.producthunt.com/products/cove-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Like a save/load game for your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579414+00:00"
+    },
+    {
+      "id": "65c02401f014",
+      "name": "Log Cam",
+      "url": "https://www.producthunt.com/products/log-cam-open-gate-by-raw-cam",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record log and ProRes video from RAW frames on iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579488+00:00"
+    },
+    {
+      "id": "fd3414c73fd8",
+      "name": "Solarch",
+      "url": "https://www.producthunt.com/products/solarch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Interactive diagrams with AI, and your code always in sync\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579563+00:00"
+    },
+    {
+      "id": "3bbb76d8a3ff",
+      "name": "prostir zvuku",
+      "url": "https://www.producthunt.com/products/prostir-zvuku",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A spatial nature sound mixer for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579628+00:00"
+    },
+    {
+      "id": "3c2d40d976ab",
+      "name": "OrchestraML",
+      "url": "https://www.producthunt.com/products/orchestraml",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From English prompt to deployed ML model with human approval\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579698+00:00"
+    },
+    {
+      "id": "de2b01f153ec",
+      "name": "Kimi Work",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI desktop for knowledge work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579746+00:00"
+    },
+    {
+      "id": "d50520d3483c",
+      "name": "VC Boom",
+      "url": "https://www.producthunt.com/products/vcboom",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Score your deck, meet investors who fit, raise more. Boom!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579814+00:00"
+    },
+    {
+      "id": "43b99fb0a648",
+      "name": "BooBar",
+      "url": "https://www.producthunt.com/products/boobar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Dynamic Island for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579879+00:00"
+    },
+    {
+      "id": "f8f0b0ed6195",
+      "name": "Mic Drop 3.0",
+      "url": "https://www.producthunt.com/products/mic-drop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mute your mic in any app—with your AirPods\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.579952+00:00"
+    },
+    {
+      "id": "1c17c6ffeda1",
+      "name": "ZeroGPU",
+      "url": "https://www.producthunt.com/products/zerogpu",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The compute efficient layer for AI inference\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-09T10:36:26.580007+00:00"
     },
     {
       "id": "242d536d9bd9",
