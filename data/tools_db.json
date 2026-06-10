@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T10:36:26.703801+00:00",
-  "total": 1286,
+  "updated_at": "2026-06-10T10:56:28.119670+00:00",
+  "total": 1306,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,317 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "ed5aeca0f191",
+      "name": "Monako Glass",
+      "url": "https://www.producthunt.com/products/monako-glass",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Run AI coding agents hands-free from a heads-up display\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972406+00:00"
+    },
+    {
+      "id": "99e5ab0c338f",
+      "name": "iArt.ai",
+      "url": "https://www.producthunt.com/products/iart-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "ide",
+        "art",
+        "design",
+        "video",
+        "animation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn ideas & designs into stunning video/animation.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972517+00:00"
+    },
+    {
+      "id": "394cafb469fb",
+      "name": "Hero Studio Photos",
+      "url": "https://www.producthunt.com/products/hero-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Snap one photo, get listing-ready shots from every angle\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972604+00:00"
+    },
+    {
+      "id": "668b0dba81d3",
+      "name": "FluidDocs Deck Builder",
+      "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn a prompt into a real HTML deck\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972679+00:00"
+    },
+    {
+      "id": "6c4559b58420",
+      "name": "Publora",
+      "url": "https://www.producthunt.com/products/publora",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Publishing API for the Agent Era.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972749+00:00"
+    },
+    {
+      "id": "d70f570d9c9d",
+      "name": "Incorruptible by Eric Ries",
+      "url": "https://www.producthunt.com/products/incorruptible-by-eric-ries",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Why good companies go bad and how great companies stay great\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972830+00:00"
+    },
+    {
+      "id": "a29de896fd9b",
+      "name": "OLO Robotics",
+      "url": "https://www.producthunt.com/products/olo-robotics",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control robots in your browser — no setup needed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.972938+00:00"
+    },
+    {
+      "id": "06e17e0717b4",
+      "name": "Gemini 3.5 Live Translate",
+      "url": "https://www.producthunt.com/products/gemini-3-5-live-translate",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "gemini",
+        "audio",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Latest audio model for live speech-to-speech translation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973026+00:00"
+    },
+    {
+      "id": "2045fd41c09a",
+      "name": "veridive",
+      "url": "https://www.producthunt.com/products/veridive-discover-the-spoken-web",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the 30 seconds that matter in any video via chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973103+00:00"
+    },
+    {
+      "id": "fc5c4c3f8c70",
+      "name": "Spotlight by Backplanes",
+      "url": "https://www.producthunt.com/products/backplanes",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Session reports for Claude Code & Codex to improve your code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973184+00:00"
+    },
+    {
+      "id": "c4668c54732f",
+      "name": "Timmy",
+      "url": "https://www.producthunt.com/products/timmy-tui",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local-first agent trust console with a safe local workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973257+00:00"
+    },
+    {
+      "id": "257a2e01608a",
+      "name": "AGNT.Hub",
+      "url": "https://www.producthunt.com/products/agnt-hub",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build always-on AI agents without managing servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973329+00:00"
+    },
+    {
+      "id": "3fea1ed098ab",
+      "name": "TypingMind",
+      "url": "https://www.producthunt.com/products/typing-mind",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pay per use, no subscription, 18 model providers supported\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973406+00:00"
+    },
+    {
+      "id": "83e9578579eb",
+      "name": "BlenderHunt",
+      "url": "https://www.producthunt.com/products/blenderhunt",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The indie marketplace for Blender artists and creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973494+00:00"
+    },
+    {
+      "id": "52e2f0a1cd2b",
+      "name": "SeaTicket",
+      "url": "https://www.producthunt.com/products/seaticket",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Al agent that resolves issues across all your channels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973568+00:00"
+    },
+    {
+      "id": "eed338669fdf",
+      "name": "fort",
+      "url": "https://www.producthunt.com/products/fort-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One command to audit and fix your Mac's security\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973620+00:00"
+    },
+    {
+      "id": "11365c09dd71",
+      "name": "LayerProof Vellum",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One canvas for every image asset you need\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973689+00:00"
+    },
+    {
+      "id": "bd05bd3db292",
+      "name": "Zingle",
+      "url": "https://www.producthunt.com/products/zingle-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn words in context with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973738+00:00"
+    },
+    {
+      "id": "ed26019b79b8",
+      "name": "Napkin Math",
+      "url": "https://www.producthunt.com/products/napkin-math",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "personalized AI food journal + nutrition coach\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973790+00:00"
+    },
+    {
+      "id": "ec6248cfd0fa",
+      "name": "Screen Charm",
+      "url": "https://www.producthunt.com/products/screen-charm",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your screen recordings more charm\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-10T10:56:27.973857+00:00"
     },
     {
       "id": "b32b0dc0c2ed",
