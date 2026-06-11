@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T10:56:28.119670+00:00",
-  "total": 1306,
+  "updated_at": "2026-06-11T11:24:09.183060+00:00",
+  "total": 1326,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,301 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1caaf8ad8401",
+      "name": "EndpointMe",
+      "url": "https://www.producthunt.com/products/endpointme",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your identity as a live, queryable API endpoint\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059507+00:00"
+    },
+    {
+      "id": "4d2964bb5b19",
+      "name": "Onpilot",
+      "url": "https://www.producthunt.com/products/onpilot-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An AI workforce customized to your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059599+00:00"
+    },
+    {
+      "id": "0f5e8cb3b632",
+      "name": "DockLog",
+      "url": "https://www.producthunt.com/products/docklog",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Docker logs without the logging stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059662+00:00"
+    },
+    {
+      "id": "5870e0fea4fb",
+      "name": "Mute",
+      "url": "https://www.producthunt.com/products/mute-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "productivity"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A visual productivity tool to visualize your brian-dump\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059736+00:00"
+    },
+    {
+      "id": "9f21cf9244c8",
+      "name": "Bond",
+      "url": "https://www.producthunt.com/products/bond-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI to-do list that does itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059789+00:00"
+    },
+    {
+      "id": "cc6891684288",
+      "name": "Terminal Mode by Even Realities",
+      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep coding agents always in sight\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059863+00:00"
+    },
+    {
+      "id": "a9291039c8ac",
+      "name": "CrustRecruiter",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn Claude into a recruiter that thinks like you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.059942+00:00"
+    },
+    {
+      "id": "1d045da65bd9",
+      "name": "Asmi AI",
+      "url": "https://www.producthunt.com/products/asmi-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI that handles your personal chores in the real world\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060000+00:00"
+    },
+    {
+      "id": "323150415c58",
+      "name": "SpatialChat",
+      "url": "https://www.producthunt.com/products/spatialchat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Product feature update for our virtual conferencing platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060074+00:00"
+    },
+    {
+      "id": "52a5b86e2649",
+      "name": "Respan Gateway",
+      "url": "https://www.producthunt.com/products/keywords-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One AI gateway with built-in observability and evals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060129+00:00"
+    },
+    {
+      "id": "4a6200092a51",
+      "name": "Patchrooms",
+      "url": "https://www.producthunt.com/products/patchrooms",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn AI-app feedback into agent-ready patch context.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060203+00:00"
+    },
+    {
+      "id": "4291e20a2e7d",
+      "name": "PixelForge",
+      "url": "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn photos into game assets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060271+00:00"
+    },
+    {
+      "id": "6ce6569d15fb",
+      "name": "SlimSnap",
+      "url": "https://www.producthunt.com/products/slimsnap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI doesn't know which button you mean\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060329+00:00"
+    },
+    {
+      "id": "b73d7dbcbdc9",
+      "name": "Cloudskill",
+      "url": "https://www.producthunt.com/products/cloudskill",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Govern the AI skills your team depends on\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060382+00:00"
+    },
+    {
+      "id": "f490e5423784",
+      "name": "heyly.io",
+      "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A video greeting + buttons where you ARE the testimonial\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060453+00:00"
+    },
+    {
+      "id": "3275975b5909",
+      "name": "Easybilling",
+      "url": "https://www.producthunt.com/products/easybilling",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI-native billing & payments for usage-based AI products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060508+00:00"
+    },
+    {
+      "id": "f1b19b33271c",
+      "name": "OwnClip",
+      "url": "https://www.producthunt.com/products/ownclip",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "clip",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native macOS screen recorder with local-first AI privacy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060600+00:00"
+    },
+    {
+      "id": "6aa3f68eeeb4",
+      "name": "Nodey",
+      "url": "https://www.producthunt.com/products/nodey-n8n-in-your-pocket",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your n8n command center, now on your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060672+00:00"
+    },
+    {
+      "id": "f9ff5eca39e5",
+      "name": "INVO Ride",
+      "url": "https://www.producthunt.com/products/invo-ride",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Book autonomous eVTOL flights over photoreal San Francisco\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060745+00:00"
+    },
+    {
+      "id": "aacf41db1d8b",
+      "name": "Airbrush Studio",
+      "url": "https://www.producthunt.com/products/airbrush-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered photo editor for pro results w/o manual editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-11T11:24:09.060818+00:00"
     },
     {
       "id": "ed5aeca0f191",
