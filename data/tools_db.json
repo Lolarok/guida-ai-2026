@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T11:24:09.183060+00:00",
-  "total": 1326,
+  "updated_at": "2026-06-12T11:02:58.845819+00:00",
+  "total": 1344,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,311 @@
       "featured": false
     },
     {
+      "id": "f74a98689d50",
+      "name": "Insta360 Luna Ultra",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A gimbal camera that sees with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684197+00:00"
+    },
+    {
+      "id": "6c9ce38d906e",
+      "name": "Clutch Alarm",
+      "url": "https://www.producthunt.com/products/clutch-alarm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Sleep through the night. Wake up for the goals.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684279+00:00"
+    },
+    {
+      "id": "e091422def8c",
+      "name": "LocIn AI",
+      "url": "https://www.producthunt.com/products/locin-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Localize your app with tone-aware AI, automated workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684365+00:00"
+    },
+    {
+      "id": "2fd0972bd47e",
+      "name": "Keep",
+      "url": "https://www.producthunt.com/products/keep-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full-screen 3D clock scenes for your iPhone or Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684438+00:00"
+    },
+    {
+      "id": "ca2da09993cc",
+      "name": "pleNx — Plex client for Nintendo Switch",
+      "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The first native Plex client for Nintendo Switch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684543+00:00"
+    },
+    {
+      "id": "174657416f57",
+      "name": "Slack AI Data Analyst",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask about your data without leaving Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684619+00:00"
+    },
+    {
+      "id": "a7dc4dd4f705",
+      "name": "Medicyn",
+      "url": "https://www.producthunt.com/products/medicyn",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your complete medical history privately on your device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684700+00:00"
+    },
+    {
+      "id": "5126409d2c63",
+      "name": "NODUS PH Radar for Product Hunt",
+      "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Product Hunt analytics beyond the daily leaderboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684786+00:00"
+    },
+    {
+      "id": "28a684ff70b0",
+      "name": "CueBuddy",
+      "url": "https://www.producthunt.com/products/cuebuddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "talk",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record talking videos without manual scrolling\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684870+00:00"
+    },
+    {
+      "id": "c0161a43197a",
+      "name": "Tide",
+      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "voice",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Layered voice notes that paint themselves\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.684939+00:00"
+    },
+    {
+      "id": "57afa879d1fc",
+      "name": "Bob's CLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "cli",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local-first AI coding CLI that adapts to you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685011+00:00"
+    },
+    {
+      "id": "5226ead0c2c6",
+      "name": "ShellMate",
+      "url": "https://www.producthunt.com/products/shellmate-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Manage SSH servers, credentials, and teams in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685067+00:00"
+    },
+    {
+      "id": "f3308a8e95e9",
+      "name": "Meet Warren 3.0",
+      "url": "https://www.producthunt.com/products/underpay",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "voice"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Your voice-supported AI financial planning partner\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685145+00:00"
+    },
+    {
+      "id": "cefaf0157fad",
+      "name": "HyperSleep",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Block social media until you've actually slept\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685215+00:00"
+    },
+    {
+      "id": "69dbfaca9ebf",
+      "name": "Qursor",
+      "url": "https://www.producthunt.com/products/qursor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Point at any UI to send exact context to your AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685268+00:00"
+    },
+    {
+      "id": "9deaebc10b38",
+      "name": "Pond",
+      "url": "https://www.producthunt.com/products/pond-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fundraising, GTM, and bounties for startups\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685335+00:00"
+    },
+    {
+      "id": "73a62c8dd9c3",
+      "name": "KOSH Money",
+      "url": "https://www.producthunt.com/products/kosh-money",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "USD account & credit cards for freelancers & creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685388+00:00"
+    },
+    {
+      "id": "3b48b789d8c5",
+      "name": "Firma.dev",
+      "url": "https://www.producthunt.com/products/firma-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "E-signatures API for your app averaging ~3¢ per envelope\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685466+00:00"
+    },
+    {
+      "id": "f9ff5eca39e5",
+      "name": "INVO Ride",
+      "url": "https://www.producthunt.com/products/invo-ride",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Book autonomous eVTOL flights over photoreal San Francisco\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685540+00:00"
+    },
+    {
+      "id": "f1b19b33271c",
+      "name": "OwnClip",
+      "url": "https://www.producthunt.com/products/ownclip",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "clip",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native macOS screen recorder with local-first AI privacy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-12T11:02:58.685612+00:00"
+    },
+    {
       "id": "1caaf8ad8401",
       "name": "EndpointMe",
       "url": "https://www.producthunt.com/products/endpointme",
@@ -609,23 +914,6 @@
       "discovered_at": "2026-06-11T11:24:09.060508+00:00"
     },
     {
-      "id": "f1b19b33271c",
-      "name": "OwnClip",
-      "url": "https://www.producthunt.com/products/ownclip",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "cli",
-        "clip",
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Native macOS screen recorder with local-first AI privacy\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-11T11:24:09.060600+00:00"
-    },
-    {
       "id": "6aa3f68eeeb4",
       "name": "Nodey",
       "url": "https://www.producthunt.com/products/nodey-n8n-in-your-pocket",
@@ -639,22 +927,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-11T11:24:09.060672+00:00"
-    },
-    {
-      "id": "f9ff5eca39e5",
-      "name": "INVO Ride",
-      "url": "https://www.producthunt.com/products/invo-ride",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "photo"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Book autonomous eVTOL flights over photoreal San Francisco\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-11T11:24:09.060745+00:00"
     },
     {
       "id": "aacf41db1d8b",
