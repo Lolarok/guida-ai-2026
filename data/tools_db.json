@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T10:27:01.886414+00:00",
-  "total": 1361,
+  "updated_at": "2026-06-15T13:13:48.448504+00:00",
+  "total": 1381,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "683095454d91",
+      "name": "Wobo 2.0",
+      "url": "https://www.producthunt.com/products/wobo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Tinder for jobs: swipe right and AI applies for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179690+00:00"
+    },
+    {
+      "id": "5c68aa7c6ff2",
+      "name": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Privacy-friendly web analytics platform built for makers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179759+00:00"
+    },
+    {
+      "id": "862efdec8bea",
+      "name": "Novu Connect",
+      "url": "https://www.producthunt.com/products/novu",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "connect",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship agents where your users already work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179811+00:00"
+    },
+    {
+      "id": "a1eafe60e565",
+      "name": "MiMo Code",
+      "url": "https://www.producthunt.com/products/mimo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A coding agent with explicit long-term memory architecture\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179863+00:00"
+    },
+    {
+      "id": "6cb38bfc218f",
+      "name": "PandaProbe Cloud",
+      "url": "https://www.producthunt.com/products/pandaprobe-cloud",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "agent engineering, fully managed.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179911+00:00"
+    },
+    {
+      "id": "9de1f14e588e",
+      "name": "EmailFlow.AI",
+      "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "design",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Like Claude Design for Email Newsletters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.179958+00:00"
+    },
+    {
+      "id": "1290791b9c1d",
+      "name": "Kickbacks.ai",
+      "url": "https://www.producthunt.com/products/kickbacks-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get paid to wait for Claude Code to finish\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180009+00:00"
+    },
+    {
+      "id": "976be3a99207",
+      "name": "ColibotAI",
+      "url": "https://www.producthunt.com/products/colibotai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "summarize",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate, summarize & explain any text on-device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180060+00:00"
+    },
+    {
+      "id": "309903974268",
+      "name": "Synopsule",
+      "url": "https://www.producthunt.com/products/synopsule",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "transcri",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On device private AI meeting transcripts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180106+00:00"
+    },
+    {
+      "id": "bfa08222982e",
+      "name": "Dropmatico",
+      "url": "https://www.producthunt.com/products/dropmatico",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Drop. Pick. Done.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180135+00:00"
+    },
+    {
+      "id": "3aec49d18287",
+      "name": "termique",
+      "url": "https://www.producthunt.com/products/termique",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "SSH without the usual friction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180164+00:00"
+    },
+    {
+      "id": "646c267f8584",
+      "name": "Tinfoil Pigeons",
+      "url": "https://www.producthunt.com/products/tinfoil-pigeons",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See the aircraft flying over you on a retro radar scope\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180213+00:00"
+    },
+    {
+      "id": "61beb30163c0",
+      "name": "Sulsaly",
+      "url": "https://www.producthunt.com/products/sulsaly",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "#1 Agentic AI sales leads &amp;outreach platform for MENA Region\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180263+00:00"
+    },
+    {
+      "id": "6356c3f78682",
+      "name": "AutoEdit",
+      "url": "https://www.producthunt.com/products/autoedit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "claude",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Claude AI Video Editor for Premiere Pro\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180317+00:00"
+    },
+    {
+      "id": "c4cad8dfb341",
+      "name": "Fonda",
+      "url": "https://www.producthunt.com/products/fonda",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Your AI co-founder that remembers decisions + plans for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180350+00:00"
+    },
+    {
+      "id": "7d33364567d0",
+      "name": "IdleDev",
+      "url": "https://www.producthunt.com/products/idledev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get paid while your AI agent thinks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180389+00:00"
+    },
+    {
+      "id": "c61ef006a039",
+      "name": "Capecho",
+      "url": "https://www.producthunt.com/products/capecho",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Capture new words with context & remember them with SRS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180421+00:00"
+    },
+    {
+      "id": "36c63ddc3888",
+      "name": "Momentra",
+      "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A cozy camera app for beautifully framed memories\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180451+00:00"
+    },
+    {
+      "id": "6bdc9fb9c67a",
+      "name": "VEXI",
+      "url": "https://www.producthunt.com/products/vexi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source AI coding agent for your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180495+00:00"
+    },
+    {
+      "id": "0828fff01468",
+      "name": "Verol",
+      "url": "https://www.producthunt.com/products/verol",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop AI hallucinations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-15T13:13:48.180522+00:00"
     },
     {
       "id": "2bd61816e92b",
