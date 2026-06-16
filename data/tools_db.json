@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T13:13:48.448504+00:00",
-  "total": 1381,
+  "updated_at": "2026-06-16T12:14:58.878653+00:00",
+  "total": 1401,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,309 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "2df6c8c57846",
+      "name": "Invoko",
+      "url": "https://www.producthunt.com/products/invoko",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A little hand on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661401+00:00"
+    },
+    {
+      "id": "c04259c13792",
+      "name": "detectly",
+      "url": "https://www.producthunt.com/products/detectly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your fleet's dashcam footage into driver safety scores\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661472+00:00"
+    },
+    {
+      "id": "f65b5021b1ea",
+      "name": "Eidentic",
+      "url": "https://www.producthunt.com/products/eidentic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "sdk",
+        "typescript",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The TypeScript SDK for AI agents with self-improving memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661558+00:00"
+    },
+    {
+      "id": "1460705fce3d",
+      "name": "GitHits beta 0.9",
+      "url": "https://www.producthunt.com/products/githits",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Give your AI coding agent access to open-source code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661637+00:00"
+    },
+    {
+      "id": "0f12bfa24dfe",
+      "name": "Handover",
+      "url": "https://www.producthunt.com/products/handover-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A delivery page that feels as finished as the work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661691+00:00"
+    },
+    {
+      "id": "5178fba62ebc",
+      "name": "Edgee Turbo Models",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use Claude Code with Kimi K2.7 Code, MiniMax M2.7, and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661785+00:00"
+    },
+    {
+      "id": "6aaf026ee763",
+      "name": "Goldfish",
+      "url": "https://www.producthunt.com/products/goldfish-early-access",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Press Option. It knows your work and replies like you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661850+00:00"
+    },
+    {
+      "id": "47934bf37f0b",
+      "name": "Revyl",
+      "url": "https://www.producthunt.com/products/revyl",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The mobile source of truth\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661903+00:00"
+    },
+    {
+      "id": "ea9ba2916a3f",
+      "name": "Mood",
+      "url": "https://www.producthunt.com/products/mood-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A quiet record of how you feel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.661952+00:00"
+    },
+    {
+      "id": "e4bafab15b27",
+      "name": "Getusefeed",
+      "url": "https://www.producthunt.com/products/getusefeed-voting-public-roadmap",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Feature voting & public roadmap for small SaaS teams.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662021+00:00"
+    },
+    {
+      "id": "9459dee43cc2",
+      "name": "Fantasma",
+      "url": "https://www.producthunt.com/products/fantasma",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Landing page builder for Ghost CMS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662070+00:00"
+    },
+    {
+      "id": "8d22e8e026a5",
+      "name": "Human in the Love",
+      "url": "https://www.producthunt.com/products/human-in-the-love",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world's first MCP dating app inside Claude.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662138+00:00"
+    },
+    {
+      "id": "0537b6abc399",
+      "name": "LLM Gateway Chat",
+      "url": "https://www.producthunt.com/products/llm-gateway",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "image",
+        "audio",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One balance. Every model. Chat, image, video & audio.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662206+00:00"
+    },
+    {
+      "id": "0b22e2a444c5",
+      "name": "ClientJam",
+      "url": "https://www.producthunt.com/products/clientjam",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered lead generation for designers and agencies\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662277+00:00"
+    },
+    {
+      "id": "925d67d5f9c0",
+      "name": "Tadka",
+      "url": "https://www.producthunt.com/products/tadka",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship 10x more ad creative, without hiring a design team.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662346+00:00"
+    },
+    {
+      "id": "c7aec4a2f836",
+      "name": "Stride",
+      "url": "https://www.producthunt.com/products/stride-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design"
+      ],
+      "pricing": "Freemium",
+      "description_it": "The AI workspace that plans, designs and ships with you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662414+00:00"
+    },
+    {
+      "id": "3c787fbec717",
+      "name": "Dirac",
+      "url": "https://www.producthunt.com/products/dirac-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI inbox that briefs founders every morning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662464+00:00"
+    },
+    {
+      "id": "d8418a44c5f3",
+      "name": "MindReader v1",
+      "url": "https://www.producthunt.com/products/mindreader-v1",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Read minds (simulated fMRI data, channeled to neuro-metrics)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662535+00:00"
+    },
+    {
+      "id": "2ea21e184dc2",
+      "name": "Revi",
+      "url": "https://www.producthunt.com/products/revi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On-device voice dictation. No cloud, no account.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662602+00:00"
+    },
+    {
+      "id": "3460cd9b4a49",
+      "name": "Glint",
+      "url": "https://www.producthunt.com/products/glint-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code activity, right where you want it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-16T12:14:58.662669+00:00"
     },
     {
       "id": "683095454d91",
