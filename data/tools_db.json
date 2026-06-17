@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T12:14:58.878653+00:00",
-  "total": 1401,
+  "updated_at": "2026-06-17T11:47:54.274579+00:00",
+  "total": 1421,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,301 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "001b30ec54ab",
+      "name": "Framer 3.0",
+      "url": "https://www.producthunt.com/products/framer",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "With Agents, Branching, Community, and an all-new design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124124+00:00"
+    },
+    {
+      "id": "9edf41584fd6",
+      "name": "Tyto by ai",
+      "url": "https://www.producthunt.com/products/tyto",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "audio",
+        "voice",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Audio insight that predicts voice AI performance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124243+00:00"
+    },
+    {
+      "id": "a92a5dd78c6d",
+      "name": "NotchSpace",
+      "url": "https://www.producthunt.com/products/notchspace-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac notch into an intelligent active workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124312+00:00"
+    },
+    {
+      "id": "2b085a4e39df",
+      "name": "Henji",
+      "url": "https://www.producthunt.com/products/henji",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI replies that are trained to sound like you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124387+00:00"
+    },
+    {
+      "id": "f1671b2d78f3",
+      "name": "Polygram Coding Agent",
+      "url": "https://www.producthunt.com/products/polygram-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "developer",
+        "dev",
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native coding assistant that helps developers in any IDE\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124457+00:00"
+    },
+    {
+      "id": "0a264b88a46f",
+      "name": "Wolfram Language 15",
+      "url": "https://www.producthunt.com/products/wolfram-mathematica",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Computational language built for humans and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124535+00:00"
+    },
+    {
+      "id": "caed8dcc9797",
+      "name": "Deep Work Plan",
+      "url": "https://www.producthunt.com/products/deep-work-plan",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Models matter. Context matters more. Give your agent a plan.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124622+00:00"
+    },
+    {
+      "id": "eb1b30c7e36e",
+      "name": "Locus Founder",
+      "url": "https://www.producthunt.com/products/locus-founder",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Text an AI agent and it builds + runs your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124701+00:00"
+    },
+    {
+      "id": "1b5dd96c2e8d",
+      "name": "AudienceCue",
+      "url": "https://www.producthunt.com/products/audiencecue",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn YouTube comments into cited insights and a report\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124778+00:00"
+    },
+    {
+      "id": "67998a6b2da7",
+      "name": "Vitrine",
+      "url": "https://www.producthunt.com/products/vitrine",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any photo into a beautiful wallpaper\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124850+00:00"
+    },
+    {
+      "id": "96013d52babf",
+      "name": "ClawEase",
+      "url": "https://www.producthunt.com/products/clawease",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An AI business operator that books appointments for SMBs.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124906+00:00"
+    },
+    {
+      "id": "c27819c99f81",
+      "name": "Mirlo",
+      "url": "https://www.producthunt.com/products/mirlo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social media for real connections. No likes, no algorithm.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.124982+00:00"
+    },
+    {
+      "id": "2bd84d945836",
+      "name": "Restaurant Menu Visualizer",
+      "url": "https://www.producthunt.com/products/a-bit-differently",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share the menu with Ava and see what each dish may look like\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125062+00:00"
+    },
+    {
+      "id": "224179a4a12b",
+      "name": "Cilantro",
+      "url": "https://www.producthunt.com/products/cilantro",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Watches your accounts and tells you what changed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125118+00:00"
+    },
+    {
+      "id": "342570f9f518",
+      "name": "StickerWords",
+      "url": "https://www.producthunt.com/products/stickerwords",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn new words from the world around you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125182+00:00"
+    },
+    {
+      "id": "acdace3920d1",
+      "name": "MCP 2000",
+      "url": "https://www.producthunt.com/products/mcp-2000",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Drum Machine MPC in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125234+00:00"
+    },
+    {
+      "id": "9640346eb2c7",
+      "name": "Parano.ai",
+      "url": "https://www.producthunt.com/products/parano-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Never miss a competitor's move\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125284+00:00"
+    },
+    {
+      "id": "cf0e21379bae",
+      "name": "Dualora",
+      "url": "https://www.producthunt.com/products/dualora-dual-size-recorder",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record in both 16:9 and 9:16 at the same time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125353+00:00"
+    },
+    {
+      "id": "446666d1cdc8",
+      "name": "Daemons by Charlie Labs",
+      "url": "https://www.producthunt.com/products/daemons-by-charlie-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep PRs, issues, CI, and docs moving with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125427+00:00"
+    },
+    {
+      "id": "59b4161dc1e7",
+      "name": "Wilson",
+      "url": "https://www.producthunt.com/products/wilson-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI coworker in Slack that builds reports, work tools, + more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-17T11:47:54.125482+00:00"
     },
     {
       "id": "2df6c8c57846",
