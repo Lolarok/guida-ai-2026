@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T11:47:54.274579+00:00",
-  "total": 1421,
+  "updated_at": "2026-06-18T11:11:10.256182+00:00",
+  "total": 1440,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "ab16e693dace",
+      "name": "The City Mesh",
+      "url": "https://www.producthunt.com/products/the-city-mesh",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fund your project with a 3D city of sponsors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.015686+00:00"
+    },
+    {
+      "id": "c2b81824330a",
+      "name": "Elvin",
+      "url": "https://www.producthunt.com/products/elvin",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Proactive AI that finds and finishes work before you ask\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.015785+00:00"
+    },
+    {
+      "id": "c7fe3e04c68a",
+      "name": "Agentic videos by D",
+      "url": "https://www.producthunt.com/products/d-id",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "talk",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Interactive videos that talk back \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.015871+00:00"
+    },
+    {
+      "id": "4daae20db822",
+      "name": "Locofy: design",
+      "url": "https://www.producthunt.com/products/locofy-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "frontend",
+        "claude",
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic frontend layer between Figma and Cursor & Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.015952+00:00"
+    },
+    {
+      "id": "de36d1740ad3",
+      "name": "Jesse",
+      "url": "https://www.producthunt.com/products/jesse-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop building Apollo/Clay lists. Search the live internet.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016031+00:00"
+    },
+    {
+      "id": "f8b97b0d96d1",
+      "name": "Viktor for Microsoft Teams",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The most powerful AI employee, now in Microsoft Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016093+00:00"
+    },
+    {
+      "id": "158dd02822ad",
+      "name": "VoiceOS",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A voice assistant that's a real JARVIS for your computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016175+00:00"
+    },
+    {
+      "id": "a53220b56d0a",
+      "name": "Tiles: Map Your Adventures",
+      "url": "https://www.producthunt.com/products/tiles-map-your-adventures",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn Apple Health workouts into a private route map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016258+00:00"
+    },
+    {
+      "id": "1d39aa38f3da",
+      "name": "Splice",
+      "url": "https://www.producthunt.com/products/splice-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Emojis and GIFs, Anywhere on Your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016311+00:00"
+    },
+    {
+      "id": "d00effb9ac50",
+      "name": "Buddy",
+      "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Figma agent + Import anything to Figma\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016382+00:00"
+    },
+    {
+      "id": "addd85daae1f",
+      "name": "Tabstack Dev Tools",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ditch your scraper. Make one API call with any tool.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016471+00:00"
+    },
+    {
+      "id": "edaa4ee0d8b6",
+      "name": "VELA",
+      "url": "https://www.producthunt.com/products/vela-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Securely execute AI-generated & untrusted code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016541+00:00"
+    },
+    {
+      "id": "de68e6fb09e9",
+      "name": "DeskArcade",
+      "url": "https://www.producthunt.com/products/deskarcade",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An arcade in your menu bar - playable over anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016615+00:00"
+    },
+    {
+      "id": "8f94a507129f",
+      "name": "InstantDelay",
+      "url": "https://www.producthunt.com/products/instantdelay",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add, remove, or adjust stream delay while already live\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016687+00:00"
+    },
+    {
+      "id": "142e27edd106",
+      "name": "Adapt",
+      "url": "https://www.producthunt.com/products/adapt-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The company brain that gets work done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016754+00:00"
+    },
+    {
+      "id": "cbaf3d7305ac",
+      "name": "Japanly AEO",
+      "url": "https://www.producthunt.com/products/japanly-aeo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See if Japanese AI search recommends your brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016825+00:00"
+    },
+    {
+      "id": "0a841035b5ef",
+      "name": "Labs AI",
+      "url": "https://www.producthunt.com/products/labs-ai-text-to-speech",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any text into natural AI voiceovers on iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016895+00:00"
+    },
+    {
+      "id": "ad9f08b968dc",
+      "name": "Genie Mentions",
+      "url": "https://www.producthunt.com/products/genie-mentions",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI that gets you *and* the people in your life, together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.016951+00:00"
+    },
+    {
+      "id": "5633e33c89c4",
+      "name": "Ploy.ai",
+      "url": "https://www.producthunt.com/products/ploy-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ploy turns your website into your company's growth engine.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.017024+00:00"
+    },
+    {
+      "id": "53b74a1a817d",
+      "name": "CashOut",
+      "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Block sports betting apps, track how much you saved\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-18T11:11:10.017076+00:00"
     },
     {
       "id": "001b30ec54ab",
@@ -19103,21 +19407,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-04T07:50:12.429186+00:00"
-    },
-    {
-      "id": "158dd02822ad",
-      "name": "VoiceOS",
-      "url": "https://www.producthunt.com/products/voiceos",
-      "source": "Product Hunt AI (feed)",
-      "category": "audio",
-      "tags": [
-        "voice"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Say it and it's done. Work 10x faster with your voice.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-04T07:50:12.429262+00:00"
     },
     {
       "id": "6acd4979dc9f",
