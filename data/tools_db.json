@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T11:21:24.324619+00:00",
-  "total": 1459,
+  "updated_at": "2026-06-20T10:09:05.615695+00:00",
+  "total": 1472,
   "tools": [
     {
       "name": "Cursor",
@@ -378,38 +378,190 @@
       "featured": false
     },
     {
-      "id": "e6f2b2fb0897",
-      "name": "Claude Code Artifacts",
-      "url": "https://www.producthunt.com/products/claude-redesigned",
+      "id": "dee4eea3d78f",
+      "name": "WorkClaw",
+      "url": "https://www.producthunt.com/products/workclaw",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "coding",
-        "claude",
-        "art"
-      ],
+      "category": "altro",
+      "tags": [],
       "pricing": "Free tier",
-      "description_it": "Preview and share your coding work live as it happens\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Collaborative, proactive AI coworkers who work in Slack\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.194597+00:00"
+      "discovered_at": "2026-06-20T10:09:05.426968+00:00"
     },
     {
-      "id": "8271514b178f",
-      "name": "Zernio WhatsApp API",
-      "url": "https://www.producthunt.com/products/zernio",
+      "id": "c24f6ea2d0af",
+      "name": "Basedash Access Controls",
+      "url": "https://www.producthunt.com/products/basedash",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "ricerca",
       "tags": [
-        "api",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control exactly who can access your company data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427073+00:00"
+    },
+    {
+      "id": "ae991a43814e",
+      "name": "ReleaseDock",
+      "url": "https://www.producthunt.com/products/releasedock",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "One API for WhatsApp: messaging, calling, and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI support agent, help center & changelogs in a single inbox\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.194700+00:00"
+      "discovered_at": "2026-06-20T10:09:05.427160+00:00"
+    },
+    {
+      "id": "3a0e9c19fb41",
+      "name": "Pixlie",
+      "url": "https://www.producthunt.com/products/pixlie",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "image",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI video studio: text & image to video, with real control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427240+00:00"
+    },
+    {
+      "id": "b353eadee0e8",
+      "name": "pumaDB",
+      "url": "https://www.producthunt.com/products/pumadb",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "a small hosted memory layer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427312+00:00"
+    },
+    {
+      "id": "469454fa7371",
+      "name": "Mellum by JetBrains",
+      "url": "https://www.producthunt.com/products/jetbrains",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast LLMs for low-latency and high-performance workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427405+00:00"
+    },
+    {
+      "id": "9d5088b0d0d5",
+      "name": "Slackbot’s MCP Client",
+      "url": "https://www.producthunt.com/products/slack",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "Work across 20+ apps in Slack with multiplayer collaboration\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427515+00:00"
+    },
+    {
+      "id": "4d48a801e230",
+      "name": "Foyer",
+      "url": "https://www.producthunt.com/products/foyer-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build a room of ambient sound that lives in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427594+00:00"
+    },
+    {
+      "id": "7ba3b3cb5e73",
+      "name": "GitSync for macOS",
+      "url": "https://www.producthunt.com/products/gitsync-for-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "graphic",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual GitHub management directly from a graphical interface\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427674+00:00"
+    },
+    {
+      "id": "a50f3c8034d4",
+      "name": "Reframe",
+      "url": "https://www.producthunt.com/products/reframe-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Surf like it's 1999\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427723+00:00"
+    },
+    {
+      "id": "6f79121fe8f0",
+      "name": "Are you in the Weights?",
+      "url": "https://www.producthunt.com/products/are-you-in-the-weights",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find out if you live forever in the brain of the LLMs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427798+00:00"
+    },
+    {
+      "id": "406f4188daf3",
+      "name": "MeshPilot",
+      "url": "https://www.producthunt.com/products/meshpilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI workspace for terminals, tasks, and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.427874+00:00"
     },
     {
       "id": "80247d97576f",
@@ -427,7 +579,127 @@
       "description_it": "An index for agents pushing the frontier of AI/ML research\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.194803+00:00"
+      "discovered_at": "2026-06-20T10:09:05.427954+00:00"
+    },
+    {
+      "id": "b2d31da4d1ed",
+      "name": "Screen Ruler",
+      "url": "https://www.producthunt.com/products/screen-ruler",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit anything on the web with change tracking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428025+00:00"
+    },
+    {
+      "id": "8271514b178f",
+      "name": "Zernio WhatsApp API",
+      "url": "https://www.producthunt.com/products/zernio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One API for WhatsApp: messaging, calling, and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428098+00:00"
+    },
+    {
+      "id": "8a70ac58b102",
+      "name": "QuackScreen",
+      "url": "https://www.producthunt.com/products/quackscreen",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture, drag, share all from the MacBook notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428169+00:00"
+    },
+    {
+      "id": "bce278b5b715",
+      "name": "Foglamp",
+      "url": "https://www.producthunt.com/products/foglamp",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship AI agents you can actually see\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428236+00:00"
+    },
+    {
+      "id": "1fa5d1719826",
+      "name": "Pitchbar",
+      "url": "https://www.producthunt.com/products/pitchbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track World Cup 2026 scores from your macOS menubar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428305+00:00"
+    },
+    {
+      "id": "eb58a3c5c78d",
+      "name": "Mutter AI Dictation",
+      "url": "https://www.producthunt.com/products/mutter-ai-dictation",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Private AI dictation that lets you operate offline.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428362+00:00"
+    },
+    {
+      "id": "9c7b17a11bd0",
+      "name": "just f***ing send it",
+      "url": "https://www.producthunt.com/products/just-f-ing-send-it",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Send any file, any size, straight from browser to browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-20T10:09:05.428428+00:00"
+    },
+    {
+      "id": "e6f2b2fb0897",
+      "name": "Claude Code Artifacts",
+      "url": "https://www.producthunt.com/products/claude-redesigned",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "claude",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Preview and share your coding work live as it happens\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-19T11:21:24.194597+00:00"
     },
     {
       "id": "e37d872bfc69",
@@ -522,21 +794,6 @@
       "discovered_at": "2026-06-19T11:21:24.195243+00:00"
     },
     {
-      "id": "1fa5d1719826",
-      "name": "Pitchbar",
-      "url": "https://www.producthunt.com/products/pitchbar",
-      "source": "Product Hunt AI (feed)",
-      "category": "presentazioni",
-      "tags": [
-        "pitch"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Track World Cup 2026 scores from your macOS menubar\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.195313+00:00"
-    },
-    {
       "id": "2cbe9b346c57",
       "name": "Ask Ad Manager by Google Ads",
       "url": "https://www.producthunt.com/products/ask-ad-manager",
@@ -569,52 +826,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-19T11:21:24.195462+00:00"
-    },
-    {
-      "id": "406f4188daf3",
-      "name": "MeshPilot",
-      "url": "https://www.producthunt.com/products/meshpilot",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "terminal",
-        "ask",
-        "agent",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your AI workspace for terminals, tasks, and agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.195538+00:00"
-    },
-    {
-      "id": "8a70ac58b102",
-      "name": "QuackScreen",
-      "url": "https://www.producthunt.com/products/quackscreen",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Capture, drag, share all from the MacBook notch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.195609+00:00"
-    },
-    {
-      "id": "9c7b17a11bd0",
-      "name": "just f***ing send it",
-      "url": "https://www.producthunt.com/products/just-f-ing-send-it",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Send any file, any size, straight from browser to browser\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.195664+00:00"
     },
     {
       "id": "6b805fc9b821",
@@ -675,21 +886,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-19T11:21:24.195929+00:00"
-    },
-    {
-      "id": "b2d31da4d1ed",
-      "name": "Screen Ruler",
-      "url": "https://www.producthunt.com/products/screen-ruler",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Edit anything on the web with change tracking\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-19T11:21:24.195998+00:00"
     },
     {
       "id": "ab16e693dace",
