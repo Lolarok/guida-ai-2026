@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T10:30:06.835919+00:00",
-  "total": 1481,
+  "updated_at": "2026-06-22T12:51:05.915570+00:00",
+  "total": 1497,
   "tools": [
     {
       "name": "Cursor",
@@ -378,22 +378,249 @@
       "featured": false
     },
     {
-      "id": "277aea017807",
-      "name": "Atomic Mail Agentic",
-      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "id": "66f0baa85b27",
+      "name": "OnBrand by SlideSpeak",
+      "url": "https://www.producthunt.com/products/onbrand-2",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "react",
+        "ide",
+        "design",
         "agent",
-        "email",
+        "slide",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design context for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.771887+00:00"
+    },
+    {
+      "id": "0950b5e696e1",
+      "name": "AlgoFly AI",
+      "url": "https://www.producthunt.com/products/algofly-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The all-in-one place to build and deploy vision AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.771989+00:00"
+    },
+    {
+      "id": "368016255b10",
+      "name": "Agentic Document Extraction",
+      "url": "https://www.producthunt.com/products/agentic-document-extraction",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "document",
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make the world's documents computable \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772075+00:00"
+    },
+    {
+      "id": "7faf1d98831c",
+      "name": "AgentX",
+      "url": "https://www.producthunt.com/products/agentx",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Evaluate AI agent, pinpoint issues, and fix with one click.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772157+00:00"
+    },
+    {
+      "id": "c6c19e711177",
+      "name": "MediaSeg",
+      "url": "https://www.producthunt.com/products/mediaseg",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
         "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "Let your agents read, send, and react to email autonomously\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Split large media files into upload-ready chunks on macOS\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-21T10:30:06.674547+00:00"
+      "discovered_at": "2026-06-22T12:51:05.772234+00:00"
+    },
+    {
+      "id": "31f84f0a018f",
+      "name": "Alai 2.0",
+      "url": "https://www.producthunt.com/products/alai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "design",
+        "presentation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI design partner for presentations, social posts, and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772348+00:00"
+    },
+    {
+      "id": "3621a9f600af",
+      "name": "Photoroom API",
+      "url": "https://www.producthunt.com/products/bg-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "api",
+        "image",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transform product images at scale with one image editing API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772439+00:00"
+    },
+    {
+      "id": "55a4e86c9373",
+      "name": "MD+HTML Reader",
+      "url": "https://www.producthunt.com/products/md-html-reader",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review AI-generated Markdown and HTML in a focused workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772522+00:00"
+    },
+    {
+      "id": "fc7ae44b57f5",
+      "name": "Clawd",
+      "url": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A context-aware browser mascot with 100% local offline AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772581+00:00"
+    },
+    {
+      "id": "5eef6074efc6",
+      "name": "Selector Forge",
+      "url": "https://www.producthunt.com/products/selector-forge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Browser extension for AI-generated resilient selectors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772641+00:00"
+    },
+    {
+      "id": "2c2187ffdfce",
+      "name": "Skybridge",
+      "url": "https://www.producthunt.com/products/skybridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "full-stack",
+        "react"
+      ],
+      "pricing": "Free",
+      "description_it": "The full-stack open source React framework for MCP Apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772721+00:00"
+    },
+    {
+      "id": "f15f9134c967",
+      "name": "uwait",
+      "url": "https://www.producthunt.com/products/uwait",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Get paid while AI thinks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772773+00:00"
+    },
+    {
+      "id": "152bca5cd395",
+      "name": "HAQQ Legal AI on Mobile",
+      "url": "https://www.producthunt.com/products/haqq-mobile-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Bringing legal understanding to anyone with a phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772834+00:00"
+    },
+    {
+      "id": "137ed1e23d0a",
+      "name": "AirJelly",
+      "url": "https://www.producthunt.com/products/airjelly",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Proactive, Self-Organizing Second Brain\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772903+00:00"
+    },
+    {
+      "id": "44f2b04064fa",
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your 24/7 AI Chief of Staff for commitments and follow-ups\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.772976+00:00"
+    },
+    {
+      "id": "d831b651b206",
+      "name": "Cloudflare Temporary Accounts",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let agents deploy before signup\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.773050+00:00"
     },
     {
       "id": "29cd37c603c8",
@@ -410,7 +637,56 @@
       "description_it": "Foundation models for agentic coding and long-horizon work\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-21T10:30:06.674651+00:00"
+      "discovered_at": "2026-06-22T12:51:05.773126+00:00"
+    },
+    {
+      "id": "a01ef0f4b9ce",
+      "name": "oioi",
+      "url": "https://www.producthunt.com/products/oioi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "a fast, glassy clipboard manager for macOS, Windows & Linux\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.773199+00:00"
+    },
+    {
+      "id": "cd229c5a45f0",
+      "name": "Notchkin",
+      "url": "https://www.producthunt.com/products/notchkin",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A notes app that lives in your MacBook's notch.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.773283+00:00"
+    },
+    {
+      "id": "277aea017807",
+      "name": "Atomic Mail Agentic",
+      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "agent",
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your agents read, send, and react to email autonomously\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-22T12:51:05.773360+00:00"
     },
     {
       "id": "dbb60d6df844",
@@ -485,37 +761,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-21T10:30:06.675018+00:00"
-    },
-    {
-      "id": "cd229c5a45f0",
-      "name": "Notchkin",
-      "url": "https://www.producthunt.com/products/notchkin",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "note"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A notes app that lives in your MacBook's notch.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-21T10:30:06.675090+00:00"
-    },
-    {
-      "id": "a01ef0f4b9ce",
-      "name": "oioi",
-      "url": "https://www.producthunt.com/products/oioi",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "clip"
-      ],
-      "pricing": "Free tier",
-      "description_it": "a fast, glassy clipboard manager for macOS, Windows & Linux\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-21T10:30:06.675177+00:00"
     },
     {
       "id": "4d48a801e230",
