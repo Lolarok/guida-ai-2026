@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T12:51:05.915570+00:00",
-  "total": 1497,
+  "updated_at": "2026-06-23T10:38:34.699022+00:00",
+  "total": 1517,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,312 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "12d706809b6a",
+      "name": "wildbirds",
+      "url": "https://www.producthunt.com/products/wildbirds",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Birdwatchers app to share and discover birds socially\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550136+00:00"
+    },
+    {
+      "id": "d9ec5e89027a",
+      "name": "BestDefense.io",
+      "url": "https://www.producthunt.com/products/bestdefense-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pentest and patch every deploy with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550240+00:00"
+    },
+    {
+      "id": "bb741d85f532",
+      "name": "Steam Machine",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A tiny, powerful PC for big-screen gaming\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550322+00:00"
+    },
+    {
+      "id": "e831fa1ea161",
+      "name": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The local MCP gateway that cuts tokens ~90%\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550379+00:00"
+    },
+    {
+      "id": "8fdda9c57957",
+      "name": "Buddy AI Note",
+      "url": "https://www.producthunt.com/products/buddy-ai-note",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Your daily memo that turns notes into a plan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550468+00:00"
+    },
+    {
+      "id": "96e2b45f295c",
+      "name": "Latitude",
+      "url": "https://www.producthunt.com/products/latitude-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fix what's breaking in your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550539+00:00"
+    },
+    {
+      "id": "2f62302b4d73",
+      "name": "jebi",
+      "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A supercharged terminal for Mac with built-in local AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550618+00:00"
+    },
+    {
+      "id": "2c725317cdd7",
+      "name": "Bluerails Discovery",
+      "url": "https://www.producthunt.com/products/bluerails-discovery",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "discover",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The rails AI agents use to find and pay you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550695+00:00"
+    },
+    {
+      "id": "142a003d9ec6",
+      "name": "Cotypist",
+      "url": "https://www.producthunt.com/products/cotypist",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "autocomplete",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI Autocomplete in your voice, anywhere on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550770+00:00"
+    },
+    {
+      "id": "8419dd66e5b7",
+      "name": "Sipcode",
+      "url": "https://www.producthunt.com/products/sipcode",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep Claude Code's context clean for sharper answers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550843+00:00"
+    },
+    {
+      "id": "4a66b128a4e0",
+      "name": "Deckwise",
+      "url": "https://www.producthunt.com/products/deckwise",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "agent",
+        "presentation",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI presentation agent for editable decks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550913+00:00"
+    },
+    {
+      "id": "d5116126fbc1",
+      "name": "Blazly SEO",
+      "url": "https://www.producthunt.com/products/tregno",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dominate SEO with an AI content operating system\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.550986+00:00"
+    },
+    {
+      "id": "9a6e052183d3",
+      "name": "Hush",
+      "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "noise",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source noise suppression for voice AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551063+00:00"
+    },
+    {
+      "id": "900675b6bb3d",
+      "name": "NeuralAgent 3.0",
+      "url": "https://www.producthunt.com/products/neuralagent",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that executes UI actions on your computer in ~285ms\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551137+00:00"
+    },
+    {
+      "id": "35674114017f",
+      "name": "Sakana Fugu",
+      "url": "https://www.producthunt.com/products/sakana-fugu",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One Model to Command Them All\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551188+00:00"
+    },
+    {
+      "id": "a5cdefaa0357",
+      "name": "prepros",
+      "url": "https://www.producthunt.com/products/prepros-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your brand shoots from start to finish\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551255+00:00"
+    },
+    {
+      "id": "61c561a19fb2",
+      "name": "Thumbmagic",
+      "url": "https://www.producthunt.com/products/thumbmagic-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI thumbnail generator trained on top-performing thumbnails\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551309+00:00"
+    },
+    {
+      "id": "f1c846e8c775",
+      "name": "Amnesia",
+      "url": "https://www.producthunt.com/products/amnesia-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Mac app that asks why you opened that tab\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551376+00:00"
+    },
+    {
+      "id": "6b00fbf09164",
+      "name": "Tufte",
+      "url": "https://www.producthunt.com/products/tufte-markdown-graphs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "CDN and Node package to generate ASCII graphs inline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551462+00:00"
+    },
+    {
+      "id": "b3cd0b15f735",
+      "name": "Rosply",
+      "url": "https://www.producthunt.com/products/rosply",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agent that controls your computer autonomously\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-23T10:38:34.551533+00:00"
     },
     {
       "id": "66f0baa85b27",
