@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T10:22:53.354402+00:00",
-  "total": 1530,
+  "updated_at": "2026-06-25T10:17:36.448881+00:00",
+  "total": 1550,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,307 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "26b15759eff9",
+      "name": "MeetPoint",
+      "url": "https://www.producthunt.com/products/meetpoint-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the city where everyone's flights are cheapest\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157467+00:00"
+    },
+    {
+      "id": "81473f38ca33",
+      "name": "Samepage Signals",
+      "url": "https://www.producthunt.com/products/samepage-signals",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your second brain for product management\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157545+00:00"
+    },
+    {
+      "id": "cec3db9f6fd4",
+      "name": "QuickMaker",
+      "url": "https://www.producthunt.com/products/quickmaker",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "State of the art AI models in Blender under one subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157635+00:00"
+    },
+    {
+      "id": "e824c638452d",
+      "name": "SendTidings",
+      "url": "https://www.producthunt.com/products/sendtidings",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your analytics into beautiful monthly email reports\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157713+00:00"
+    },
+    {
+      "id": "e59e3867f479",
+      "name": "Figma Motion",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Figma canvas now has a timeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157786+00:00"
+    },
+    {
+      "id": "8710136a699a",
+      "name": "Blop",
+      "url": "https://www.producthunt.com/products/blop-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Describe your app and Blop tests it and repairs broken tests\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157846+00:00"
+    },
+    {
+      "id": "03f1f9e4d80c",
+      "name": "BrowserAct",
+      "url": "https://www.producthunt.com/products/browseract",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Web browser automation for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157923+00:00"
+    },
+    {
+      "id": "2b088ba6c376",
+      "name": "Oxlo.ai",
+      "url": "https://www.producthunt.com/products/oxlo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Scale across AI models without scaling your bill\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.157984+00:00"
+    },
+    {
+      "id": "0b126c8eb9cb",
+      "name": "Nashra",
+      "url": "https://www.producthunt.com/products/nashra-turn-followers-into-clients",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn followers into clients.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158054+00:00"
+    },
+    {
+      "id": "2d0390500588",
+      "name": "Paybond CLI",
+      "url": "https://www.producthunt.com/products/paybond",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Safe agent spend from the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158125+00:00"
+    },
+    {
+      "id": "4c437f342952",
+      "name": "BrowserBash",
+      "url": "https://www.producthunt.com/products/browserbash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "CLI that turns plain-English into real browser tests\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158198+00:00"
+    },
+    {
+      "id": "420bd25b7ee5",
+      "name": "Zaro",
+      "url": "https://www.producthunt.com/products/zaro",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build agents & apps on top of your context with one prompt.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158270+00:00"
+    },
+    {
+      "id": "09a019f770ae",
+      "name": "Brain² by ClickUp",
+      "url": "https://www.producthunt.com/products/clickup",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158372+00:00"
+    },
+    {
+      "id": "6c45b903baee",
+      "name": "Signspell",
+      "url": "https://www.producthunt.com/products/signspell",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real-time ASL alphabet recognition in py ,pip install and go\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158434+00:00"
+    },
+    {
+      "id": "82f724106db2",
+      "name": "Papermark Agents",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI agents run your next deal, fundraise or data room\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158510+00:00"
+    },
+    {
+      "id": "9fd027fee635",
+      "name": "Genspark Design",
+      "url": "https://www.producthunt.com/products/genspark-design",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate UI prototypes, videos, and posters with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158591+00:00"
+    },
+    {
+      "id": "b5c60c788eca",
+      "name": "Postproxy",
+      "url": "https://www.producthunt.com/products/postproxy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Publish, reply, and analyze social media via API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158662+00:00"
+    },
+    {
+      "id": "afb9cf555fc8",
+      "name": "Tough Tongue AI for Sales",
+      "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live AI teammate for every tough sales conversation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158738+00:00"
+    },
+    {
+      "id": "ad4afb3a110b",
+      "name": "SayCraft",
+      "url": "https://www.producthunt.com/products/saycraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build a web app by talking through a meeting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158806+00:00"
+    },
+    {
+      "id": "1d339c77b97c",
+      "name": "Polygraph",
+      "url": "https://www.producthunt.com/products/polygraph",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Let AI agents see cross repo and maintain session memory.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-25T10:17:36.158880+00:00"
     },
     {
       "id": "a6e24a196903",
