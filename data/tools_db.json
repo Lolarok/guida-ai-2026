@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T10:17:36.448881+00:00",
-  "total": 1550,
+  "updated_at": "2026-06-26T10:24:10.827986+00:00",
+  "total": 1564,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,312 @@
       "featured": false
     },
     {
+      "id": "4793d346900a",
+      "name": "DMV by Agent Community",
+      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A community-governed namespace for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582326+00:00"
+    },
+    {
+      "id": "f25d2dd33ab8",
+      "name": "Gemini Spark",
+      "url": "https://www.producthunt.com/products/gemini-spark",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your 24/7 personal AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582418+00:00"
+    },
+    {
+      "id": "4c8fd32e9a5f",
+      "name": "Basedash for Excel",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any Excel file into a live dashboard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582495+00:00"
+    },
+    {
+      "id": "99de055c3cea",
+      "name": "Animdock Motion Templates in the Browser",
+      "url": "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create trend motions in your browser!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582595+00:00"
+    },
+    {
+      "id": "b2fdb6e35e38",
+      "name": "ModuleX",
+      "url": "https://www.producthunt.com/products/modulex",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI workspace that’s already connected to everything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582701+00:00"
+    },
+    {
+      "id": "a7335f6af9ae",
+      "name": "SquidHub",
+      "url": "https://www.producthunt.com/products/squidhub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer mode for humans and AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582758+00:00"
+    },
+    {
+      "id": "b5d1c781e0ce",
+      "name": "Sleek Analytics",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See who's on your site. Right now.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582834+00:00"
+    },
+    {
+      "id": "36b166bf2972",
+      "name": "AI Slide Editor by CubeOne",
+      "url": "https://www.producthunt.com/products/cubeone",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "erp",
+        "slide",
+        "powerpoint"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The editor PowerPoint should've shipped\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582910+00:00"
+    },
+    {
+      "id": "f9e94a2746bf",
+      "name": "Agent Arena",
+      "url": "https://www.producthunt.com/products/agent-arena",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The first public arena for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.582981+00:00"
+    },
+    {
+      "id": "4238352f5da4",
+      "name": "Group Subscriptions by beehiiv",
+      "url": "https://www.producthunt.com/products/beehiiv",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sell subscriptions to teams, companies, and organizations.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583060+00:00"
+    },
+    {
+      "id": "945d7a0f274b",
+      "name": "note.md",
+      "url": "https://www.producthunt.com/products/note-md",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "document",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "your notes and research documentation now a local LLM Memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583134+00:00"
+    },
+    {
+      "id": "85a21f8b2e30",
+      "name": "Aurora Notch",
+      "url": "https://www.producthunt.com/products/aurora-21",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A private notch workspace for every Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583189+00:00"
+    },
+    {
+      "id": "307d03a31cae",
+      "name": "LockIn MCP",
+      "url": "https://www.producthunt.com/products/lockin-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI block distractions for you when you need to lock in\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583267+00:00"
+    },
+    {
+      "id": "d96e50f60f79",
+      "name": "Cewsco",
+      "url": "https://www.producthunt.com/products/cewsco",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "assistant",
+        "image",
+        "voice",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "All-in-one AI assistant — chat, images, voice & market data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583355+00:00"
+    },
+    {
+      "id": "bd55c6635d4b",
+      "name": "Atlas",
+      "url": "https://www.producthunt.com/products/nanonets",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every AI tool you use should know how your company works\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583411+00:00"
+    },
+    {
+      "id": "2b088ba6c376",
+      "name": "Oxlo.ai",
+      "url": "https://www.producthunt.com/products/oxlo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Scale across AI models without scaling your bill\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583467+00:00"
+    },
+    {
+      "id": "2d0390500588",
+      "name": "Paybond CLI",
+      "url": "https://www.producthunt.com/products/paybond",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Safe agent spend from the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583536+00:00"
+    },
+    {
+      "id": "03f1f9e4d80c",
+      "name": "BrowserAct",
+      "url": "https://www.producthunt.com/products/browseract",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Web browser automation for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583626+00:00"
+    },
+    {
+      "id": "09a019f770ae",
+      "name": "Brain² by ClickUp",
+      "url": "https://www.producthunt.com/products/clickup",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583707+00:00"
+    },
+    {
+      "id": "fbcefba3599e",
+      "name": "Milestones",
+      "url": "https://www.producthunt.com/products/milestones-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Native project planning app, now on Mac & with an MCP server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-26T10:24:10.583782+00:00"
+    },
+    {
       "id": "26b15759eff9",
       "name": "MeetPoint",
       "url": "https://www.producthunt.com/products/meetpoint-2",
@@ -465,35 +771,6 @@
       "discovered_at": "2026-06-25T10:17:36.157846+00:00"
     },
     {
-      "id": "03f1f9e4d80c",
-      "name": "BrowserAct",
-      "url": "https://www.producthunt.com/products/browseract",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "automat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Web browser automation for AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-25T10:17:36.157923+00:00"
-    },
-    {
-      "id": "2b088ba6c376",
-      "name": "Oxlo.ai",
-      "url": "https://www.producthunt.com/products/oxlo-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "Scale across AI models without scaling your bill\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-25T10:17:36.157984+00:00"
-    },
-    {
       "id": "0b126c8eb9cb",
       "name": "Nashra",
       "url": "https://www.producthunt.com/products/nashra-turn-followers-into-clients",
@@ -507,23 +784,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-25T10:17:36.158054+00:00"
-    },
-    {
-      "id": "2d0390500588",
-      "name": "Paybond CLI",
-      "url": "https://www.producthunt.com/products/paybond",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "terminal",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Safe agent spend from the terminal\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-25T10:17:36.158125+00:00"
     },
     {
       "id": "4c437f342952",
@@ -554,21 +814,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-25T10:17:36.158270+00:00"
-    },
-    {
-      "id": "09a019f770ae",
-      "name": "Brain² by ClickUp",
-      "url": "https://www.producthunt.com/products/clickup",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli"
-      ],
-      "pricing": "Free tier",
-      "description_it": "One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-25T10:17:36.158372+00:00"
     },
     {
       "id": "6c45b903baee",
@@ -8077,24 +8322,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-24T09:22:39.695184+00:00"
-    },
-    {
-      "id": "945d7a0f274b",
-      "name": "note.md",
-      "url": "https://www.producthunt.com/products/note-md",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "search",
-        "research",
-        "note",
-        "writing"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Local-first markdown based workspace for research writings\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-24T09:22:39.695254+00:00"
     },
     {
       "id": "33499e4db99f",
@@ -21013,21 +21240,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-05T07:55:14.619745+00:00"
-    },
-    {
-      "id": "b5d1c781e0ce",
-      "name": "Sleek Analytics",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "analyt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "See who's on your site. Right now.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-05T07:55:14.619811+00:00"
     },
     {
       "id": "60d5850cba8b",
