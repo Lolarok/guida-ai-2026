@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T09:30:33.728386+00:00",
-  "total": 1570,
+  "updated_at": "2026-06-28T09:56:21.964458+00:00",
+  "total": 1575,
   "tools": [
     {
       "name": "Cursor",
@@ -378,84 +378,79 @@
       "featured": false
     },
     {
-      "id": "af56a3de858b",
-      "name": "Nada",
-      "url": "https://www.producthunt.com/products/nada-2",
+      "id": "776ce6088ee1",
+      "name": "Dotient",
+      "url": "https://www.producthunt.com/products/dotient",
       "source": "Product Hunt AI (feed)",
-      "category": "musica",
+      "category": "ricerca",
       "tags": [
-        "music",
-        "compose",
-        "voice",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your local semantic search app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.734625+00:00"
+    },
+    {
+      "id": "1fed00dfc530",
+      "name": "Persona.js",
+      "url": "https://www.producthunt.com/products/persona-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "frontend",
+        "chat",
         "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "Compose music with just your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Add WebMCP-native AI chat to any Frontend\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.434642+00:00"
+      "discovered_at": "2026-06-28T09:56:21.734724+00:00"
     },
     {
-      "id": "f5741306a61a",
-      "name": "Supra Player",
-      "url": "https://www.producthunt.com/products/supra-player",
+      "id": "e606298e6a2f",
+      "name": "Lyto",
+      "url": "https://www.producthunt.com/products/lyto",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "agent",
       "tags": [
-        "ide",
-        "video"
+        "agent"
       ],
-      "pricing": "Free tier",
-      "description_it": "Compare & Sync Videos Fast\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free",
+      "description_it": "\"One AI agent across your browser, tools, and messages \"\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.434776+00:00"
+      "discovered_at": "2026-06-28T09:56:21.734811+00:00"
     },
     {
-      "id": "b5dcc21de503",
-      "name": "RetroMac",
-      "url": "https://www.producthunt.com/products/retromac",
+      "id": "8fe9f8209559",
+      "name": "GetCompress",
+      "url": "https://www.producthunt.com/products/getcompress",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Turn your Mac into a time machine.\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free",
+      "description_it": "Lossless media compression without context switching\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.434871+00:00"
+      "discovered_at": "2026-06-28T09:56:21.734872+00:00"
     },
     {
-      "id": "06b1472b04b7",
-      "name": "Epilogue. Write novels, scripts & poetry",
-      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "writing",
-        "write",
-        "novel"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The professional book writing app built for serious authors\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435025+00:00"
-    },
-    {
-      "id": "9dfd5f705928",
-      "name": "QApilot's CoWork",
-      "url": "https://www.producthunt.com/products/qapilot",
+      "id": "9204a28122de",
+      "name": "discode.ai",
+      "url": "https://www.producthunt.com/products/discode-ai",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "api",
-        "automat"
+        "code"
       ],
       "pricing": "Free tier",
-      "description_it": "3x Mobile Automation. Same QE Team.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "100+ AI models, one interface. You set the rhythm.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435137+00:00"
+      "discovered_at": "2026-06-28T09:56:21.734945+00:00"
     },
     {
       "id": "00e92b8c48d6",
@@ -472,7 +467,23 @@
       "description_it": "Claude for PowerPoint, on steroids\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435242+00:00"
+      "discovered_at": "2026-06-28T09:56:21.735015+00:00"
+    },
+    {
+      "id": "f5741306a61a",
+      "name": "Supra Player",
+      "url": "https://www.producthunt.com/products/supra-player",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compare & Sync Videos Fast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735088+00:00"
     },
     {
       "id": "f2e11a68347f",
@@ -487,7 +498,197 @@
       "description_it": "Simulate AWS, GCP & DigitalOcean without paying the bill\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435363+00:00"
+      "discovered_at": "2026-06-28T09:56:21.735165+00:00"
+    },
+    {
+      "id": "af56a3de858b",
+      "name": "Nada",
+      "url": "https://www.producthunt.com/products/nada-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "compose",
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compose music with just your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735232+00:00"
+    },
+    {
+      "id": "06b1472b04b7",
+      "name": "Epilogue. Write novels, scripts & poetry",
+      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "write",
+        "novel"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The professional book writing app built for serious authors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735311+00:00"
+    },
+    {
+      "id": "b5dcc21de503",
+      "name": "RetroMac",
+      "url": "https://www.producthunt.com/products/retromac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac into a time machine.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735363+00:00"
+    },
+    {
+      "id": "9dfd5f705928",
+      "name": "QApilot's CoWork",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "3x Mobile Automation. Same QE Team.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735452+00:00"
+    },
+    {
+      "id": "4238352f5da4",
+      "name": "Group Subscriptions by beehiiv",
+      "url": "https://www.producthunt.com/products/beehiiv",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sell subscriptions to teams, companies, and organizations.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735539+00:00"
+    },
+    {
+      "id": "d96e50f60f79",
+      "name": "Cewsco",
+      "url": "https://www.producthunt.com/products/cewsco",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "assistant",
+        "image",
+        "voice",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "All-in-one AI assistant — chat, images, voice & market data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735632+00:00"
+    },
+    {
+      "id": "4793d346900a",
+      "name": "DMV by Agent Community",
+      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A community-governed namespace for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735706+00:00"
+    },
+    {
+      "id": "a7335f6af9ae",
+      "name": "SquidHub",
+      "url": "https://www.producthunt.com/products/squidhub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer mode for humans and AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735757+00:00"
+    },
+    {
+      "id": "f25d2dd33ab8",
+      "name": "Gemini Spark",
+      "url": "https://www.producthunt.com/products/gemini-spark",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your 24/7 personal AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735821+00:00"
+    },
+    {
+      "id": "36b166bf2972",
+      "name": "AI Slide Editor by CubeOne",
+      "url": "https://www.producthunt.com/products/cubeone",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "erp",
+        "slide",
+        "powerpoint"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The editor PowerPoint should've shipped\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735889+00:00"
+    },
+    {
+      "id": "b2fdb6e35e38",
+      "name": "ModuleX",
+      "url": "https://www.producthunt.com/products/modulex",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI workspace that’s already connected to everything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.735985+00:00"
+    },
+    {
+      "id": "bd55c6635d4b",
+      "name": "Atlas",
+      "url": "https://www.producthunt.com/products/nanonets",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every AI tool you use should know how your company works\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-28T09:56:21.736039+00:00"
     },
     {
       "id": "4c8fd32e9a5f",
@@ -516,73 +717,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-27T09:30:33.435553+00:00"
-    },
-    {
-      "id": "d96e50f60f79",
-      "name": "Cewsco",
-      "url": "https://www.producthunt.com/products/cewsco",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "assistant",
-        "image",
-        "voice",
-        "data"
-      ],
-      "pricing": "Free tier",
-      "description_it": "All-in-one AI assistant — chat, images, voice & market data\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435685+00:00"
-    },
-    {
-      "id": "b2fdb6e35e38",
-      "name": "ModuleX",
-      "url": "https://www.producthunt.com/products/modulex",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "connect",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI workspace that’s already connected to everything\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435823+00:00"
-    },
-    {
-      "id": "bd55c6635d4b",
-      "name": "Atlas",
-      "url": "https://www.producthunt.com/products/nanonets",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Every AI tool you use should know how your company works\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.435906+00:00"
-    },
-    {
-      "id": "36b166bf2972",
-      "name": "AI Slide Editor by CubeOne",
-      "url": "https://www.producthunt.com/products/cubeone",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "editor",
-        "erp",
-        "slide",
-        "powerpoint"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The editor PowerPoint should've shipped\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.436042+00:00"
     },
     {
       "id": "85a21f8b2e30",
@@ -646,22 +780,6 @@
       "discovered_at": "2026-06-27T09:30:33.436451+00:00"
     },
     {
-      "id": "f25d2dd33ab8",
-      "name": "Gemini Spark",
-      "url": "https://www.producthunt.com/products/gemini-spark",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gemini",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your 24/7 personal AI agent\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.436548+00:00"
-    },
-    {
       "id": "f9e94a2746bf",
       "name": "Agent Arena",
       "url": "https://www.producthunt.com/products/agent-arena",
@@ -675,49 +793,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-27T09:30:33.436649+00:00"
-    },
-    {
-      "id": "a7335f6af9ae",
-      "name": "SquidHub",
-      "url": "https://www.producthunt.com/products/squidhub",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Multiplayer mode for humans and AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-27T09:30:33.436723+00:00"
-    },
-    {
-      "id": "4793d346900a",
-      "name": "DMV by Agent Community",
-      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A community-governed namespace for AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-26T10:24:10.582326+00:00"
-    },
-    {
-      "id": "4238352f5da4",
-      "name": "Group Subscriptions by beehiiv",
-      "url": "https://www.producthunt.com/products/beehiiv",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "organiz"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Sell subscriptions to teams, companies, and organizations.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-26T10:24:10.583060+00:00"
     },
     {
       "id": "2b088ba6c376",
