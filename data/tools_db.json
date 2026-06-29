@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T09:56:21.964458+00:00",
-  "total": 1575,
+  "updated_at": "2026-06-29T11:59:33.680339+00:00",
+  "total": 1586,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,194 @@
       "featured": false
     },
     {
+      "id": "fa0999083f45",
+      "name": "PMB",
+      "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop re-explaining your project to AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449110+00:00"
+    },
+    {
+      "id": "eb741439ba8f",
+      "name": "VisibAI",
+      "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Are you in AI answers? Find out and fix it in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449203+00:00"
+    },
+    {
+      "id": "51837a574662",
+      "name": "Spira for Product Hunt Makers",
+      "url": "https://www.producthunt.com/products/spira-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "agent",
+        "social media",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social media growth agents that build your momentum \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449289+00:00"
+    },
+    {
+      "id": "9309df38f646",
+      "name": "Agent Mode by Receiptor AI",
+      "url": "https://www.producthunt.com/products/receiptor-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "assistant",
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bookkeeping assistant that runs receipt workflows end-to-end\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449373+00:00"
+    },
+    {
+      "id": "cbfaf5077f38",
+      "name": "Upstream FTP",
+      "url": "https://www.producthunt.com/products/upstream-ftp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fast, beautiful, and native FTP/SFTP client for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449449+00:00"
+    },
+    {
+      "id": "335de151d369",
+      "name": "ClinePass",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run the best open-weights models in Cline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449521+00:00"
+    },
+    {
+      "id": "ce46e2be0499",
+      "name": "Intelli",
+      "url": "https://www.producthunt.com/products/intelli",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert leads into customers with AI conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449600+00:00"
+    },
+    {
+      "id": "ad770ecfe0a1",
+      "name": "ReadHere",
+      "url": "https://www.producthunt.com/products/readhere-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lightweight PDF & EPUB reader in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449675+00:00"
+    },
+    {
+      "id": "25d59108ec8c",
+      "name": "Sami",
+      "url": "https://www.producthunt.com/products/sami-automate-pace-scale-your-ads",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Automate ad budgets across Google, LinkedIn & Meta ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449770+00:00"
+    },
+    {
+      "id": "0f655aeb2508",
+      "name": "Crest",
+      "url": "https://www.producthunt.com/products/crest-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "System stats and translation on your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449830+00:00"
+    },
+    {
+      "id": "40bf53a47795",
+      "name": "Ad Reframe",
+      "url": "https://www.producthunt.com/products/outpaint-com-ad-reframe",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert UGC ads for TV\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449896+00:00"
+    },
+    {
+      "id": "9204a28122de",
+      "name": "discode.ai",
+      "url": "https://www.producthunt.com/products/discode-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "100+ AI models, one interface. ECO friendly.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.449966+00:00"
+    },
+    {
       "id": "776ce6088ee1",
       "name": "Dotient",
       "url": "https://www.producthunt.com/products/dotient",
@@ -390,7 +578,35 @@
       "description_it": "Your local semantic search app\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.734625+00:00"
+      "discovered_at": "2026-06-29T11:59:33.450038+00:00"
+    },
+    {
+      "id": "8fe9f8209559",
+      "name": "GetCompress",
+      "url": "https://www.producthunt.com/products/getcompress",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Lossless media compression without context switching\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.450094+00:00"
+    },
+    {
+      "id": "e606298e6a2f",
+      "name": "Lyto",
+      "url": "https://www.producthunt.com/products/lyto",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "\"One AI agent across your browser, tools, and messages \"\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.450165+00:00"
     },
     {
       "id": "1fed00dfc530",
@@ -407,50 +623,71 @@
       "description_it": "Add WebMCP-native AI chat to any Frontend\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.734724+00:00"
+      "discovered_at": "2026-06-29T11:59:33.450234+00:00"
     },
     {
-      "id": "e606298e6a2f",
-      "name": "Lyto",
-      "url": "https://www.producthunt.com/products/lyto",
+      "id": "06b1472b04b7",
+      "name": "Epilogue. Write novels, scripts & poetry",
+      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
       "source": "Product Hunt AI (feed)",
-      "category": "agent",
+      "category": "scrittura",
       "tags": [
-        "agent"
+        "writing",
+        "write",
+        "novel"
       ],
-      "pricing": "Free",
-      "description_it": "\"One AI agent across your browser, tools, and messages \"\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "The professional book writing app built for serious authors\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.734811+00:00"
+      "discovered_at": "2026-06-29T11:59:33.450313+00:00"
     },
     {
-      "id": "8fe9f8209559",
-      "name": "GetCompress",
-      "url": "https://www.producthunt.com/products/getcompress",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "Lossless media compression without context switching\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.734872+00:00"
-    },
-    {
-      "id": "9204a28122de",
-      "name": "discode.ai",
-      "url": "https://www.producthunt.com/products/discode-ai",
+      "id": "9dfd5f705928",
+      "name": "QApilot's CoWork",
+      "url": "https://www.producthunt.com/products/qapilot",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "code"
+        "api",
+        "automat"
       ],
       "pricing": "Free tier",
-      "description_it": "100+ AI models, one interface. You set the rhythm.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "3x Mobile Automation. Same QE Team.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.734945+00:00"
+      "discovered_at": "2026-06-29T11:59:33.450384+00:00"
+    },
+    {
+      "id": "f2e11a68347f",
+      "name": "Cloud World Model",
+      "url": "https://www.producthunt.com/products/cloud-world-model",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simulate AWS, GCP & DigitalOcean without paying the bill\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.450458+00:00"
+    },
+    {
+      "id": "f5741306a61a",
+      "name": "Supra Player",
+      "url": "https://www.producthunt.com/products/supra-player",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compare & Sync Videos Fast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-29T11:59:33.450523+00:00"
     },
     {
       "id": "00e92b8c48d6",
@@ -468,37 +705,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-28T09:56:21.735015+00:00"
-    },
-    {
-      "id": "f5741306a61a",
-      "name": "Supra Player",
-      "url": "https://www.producthunt.com/products/supra-player",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Compare & Sync Videos Fast\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.735088+00:00"
-    },
-    {
-      "id": "f2e11a68347f",
-      "name": "Cloud World Model",
-      "url": "https://www.producthunt.com/products/cloud-world-model",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "git"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Simulate AWS, GCP & DigitalOcean without paying the bill\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.735165+00:00"
     },
     {
       "id": "af56a3de858b",
@@ -519,23 +725,6 @@
       "discovered_at": "2026-06-28T09:56:21.735232+00:00"
     },
     {
-      "id": "06b1472b04b7",
-      "name": "Epilogue. Write novels, scripts & poetry",
-      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "writing",
-        "write",
-        "novel"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The professional book writing app built for serious authors\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.735311+00:00"
-    },
-    {
       "id": "b5dcc21de503",
       "name": "RetroMac",
       "url": "https://www.producthunt.com/products/retromac",
@@ -547,22 +736,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-28T09:56:21.735363+00:00"
-    },
-    {
-      "id": "9dfd5f705928",
-      "name": "QApilot's CoWork",
-      "url": "https://www.producthunt.com/products/qapilot",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api",
-        "automat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "3x Mobile Automation. Same QE Team.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-28T09:56:21.735452+00:00"
     },
     {
       "id": "4238352f5da4",
