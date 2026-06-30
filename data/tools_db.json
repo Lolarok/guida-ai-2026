@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T11:59:33.680339+00:00",
-  "total": 1586,
+  "updated_at": "2026-06-30T10:33:24.804680+00:00",
+  "total": 1605,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,312 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "b59954ef8930",
+      "name": "Foresight by Lightning Rod",
+      "url": "https://www.producthunt.com/products/training-data-generator",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Predict anything with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.676589+00:00"
+    },
+    {
+      "id": "b32dc400121b",
+      "name": "AgentPeek",
+      "url": "https://www.producthunt.com/products/agentpeek",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code & Codex in your Mac notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.676690+00:00"
+    },
+    {
+      "id": "fa0dd1a95941",
+      "name": "Midway Chat",
+      "url": "https://www.producthunt.com/products/midway-chat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time member chat for Memberstack and Webflow sites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.676777+00:00"
+    },
+    {
+      "id": "6bf184990cd6",
+      "name": "Pluno",
+      "url": "https://www.producthunt.com/products/pluno",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Browser agent that’s 10x faster than Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.676873+00:00"
+    },
+    {
+      "id": "5356e081b058",
+      "name": "Skills Marketplace by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ready-made AI analytics skills for your business data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.676956+00:00"
+    },
+    {
+      "id": "44ea97d466db",
+      "name": "Load Nova",
+      "url": "https://www.producthunt.com/products/load-nova",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI co-pilot and dashboard built for dispatcher speed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677033+00:00"
+    },
+    {
+      "id": "3fc65671e06a",
+      "name": "Clade",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI COO that runs your team in tools you already use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677114+00:00"
+    },
+    {
+      "id": "9591ff23953e",
+      "name": "Akiflow",
+      "url": "https://www.producthunt.com/products/akiflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage tasks and calendars from Claude, ChatGPT or Cursor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677191+00:00"
+    },
+    {
+      "id": "1513d2c0db81",
+      "name": "Oakamo",
+      "url": "https://www.producthunt.com/products/oakamo",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your quiet space for reading articles later.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677278+00:00"
+    },
+    {
+      "id": "e3d776cdfe0b",
+      "name": "v0 Design Systems 2.0",
+      "url": "https://www.producthunt.com/products/v0",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build with your components, colors, fonts, and patterns\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677356+00:00"
+    },
+    {
+      "id": "334ba5b3893d",
+      "name": "Justwrite",
+      "url": "https://www.producthunt.com/products/justwrite",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private, local-first writing space that works offline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677431+00:00"
+    },
+    {
+      "id": "e1a56ea7732a",
+      "name": "Cursor for iOS",
+      "url": "https://www.producthunt.com/products/cursor-for-ios",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build with coding agents from anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677502+00:00"
+    },
+    {
+      "id": "fb71605e1a59",
+      "name": "DropK",
+      "url": "https://www.producthunt.com/products/dropk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The tray that doesn't pretend\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677556+00:00"
+    },
+    {
+      "id": "01e28340d4d5",
+      "name": "iVox",
+      "url": "https://www.producthunt.com/products/ivox",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The first app dedicated to 1980s tape-edit effects.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677609+00:00"
+    },
+    {
+      "id": "296ea56303b0",
+      "name": "Dayflow",
+      "url": "https://www.producthunt.com/products/dayflow-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Open source tools that help you get promoted\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677661+00:00"
+    },
+    {
+      "id": "715a74a08751",
+      "name": "Tinkerfont",
+      "url": "https://www.producthunt.com/products/tinkerfont",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free font playground for live websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677713+00:00"
+    },
+    {
+      "id": "7b0e99b01ad2",
+      "name": "Brain2Qwerty v2",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Decode sentences directly from non-invasive brain signals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677789+00:00"
+    },
+    {
+      "id": "f8fdfc3610c6",
+      "name": "Supafax",
+      "url": "https://www.producthunt.com/products/supafax",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email-native assistant that learns how you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677864+00:00"
+    },
+    {
+      "id": "3b652f89f86a",
+      "name": "Bilt.me",
+      "url": "https://www.producthunt.com/products/bilt-me",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get a real mobile app from your Figma design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.677936+00:00"
+    },
+    {
+      "id": "d8513da9e34d",
+      "name": "Outpaint",
+      "url": "https://www.producthunt.com/products/outpaint-com-ad-reframe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI to turn vertical UGC into widescreen ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-06-30T10:33:24.678008+00:00"
     },
     {
       "id": "fa0999083f45",
@@ -12158,23 +12464,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-10T08:54:17.273326+00:00"
-    },
-    {
-      "id": "b32dc400121b",
-      "name": "AgentPeek",
-      "url": "https://www.producthunt.com/products/agentpeek",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Claude Code and Codex in your Mac notch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-10T08:54:17.273400+00:00"
     },
     {
       "id": "89788888b70e",
