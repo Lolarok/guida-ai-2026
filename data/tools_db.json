@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T10:33:24.804680+00:00",
-  "total": 1605,
+  "updated_at": "2026-07-01T10:43:43.339831+00:00",
+  "total": 1625,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "8f7333d8a0b7",
+      "name": "Dump Memory",
+      "url": "https://www.producthunt.com/products/dump-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "We fix your memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197004+00:00"
+    },
+    {
+      "id": "2d8800159dd3",
+      "name": "Browser Notes",
+      "url": "https://www.producthunt.com/products/browser-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ide",
+        "note",
+        "organiz",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ideas, organized - not uploaded\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197106+00:00"
+    },
+    {
+      "id": "82824a511c5f",
+      "name": "Aruki",
+      "url": "https://www.producthunt.com/products/aruki-japanese-walking",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Japanese walking method, coached on your iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197173+00:00"
+    },
+    {
+      "id": "0df655cbd905",
+      "name": "Gemini Omni Flash",
+      "url": "https://www.producthunt.com/products/gemini-omni-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "conversation",
+        "gemini",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "High-quality video generation and conversational editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197256+00:00"
+    },
+    {
+      "id": "f988fe05f1df",
+      "name": "Tabstack Browser Automation",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate the web in your app or agent, no browser to host\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197339+00:00"
+    },
+    {
+      "id": "5f9eae56227e",
+      "name": "Bamboo",
+      "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Markdown notes with AI under your control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197412+00:00"
+    },
+    {
+      "id": "d889428fb2dc",
+      "name": "Modelence Mobile Builder",
+      "url": "https://www.producthunt.com/products/modelence-app-builder",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build mobile apps by chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197495+00:00"
+    },
+    {
+      "id": "b68a7a8fe39f",
+      "name": "Metal",
+      "url": "https://www.producthunt.com/products/metal-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI-driven operating system for raising venture rounds \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197557+00:00"
+    },
+    {
+      "id": "58a9a9b1ae0a",
+      "name": "Folderly Lens",
+      "url": "https://www.producthunt.com/products/folderly",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis",
+        "email",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Domain health analysis for high performance email campaigns\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197636+00:00"
+    },
+    {
+      "id": "bc2f2898a318",
+      "name": "RunInfra",
+      "url": "https://www.producthunt.com/products/runinfra",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Describe the AI model you need and get an optimized AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197692+00:00"
+    },
+    {
+      "id": "1b0c023b3838",
+      "name": "N71",
+      "url": "https://www.producthunt.com/products/n71",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give all your AI agents one shared context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197763+00:00"
+    },
+    {
+      "id": "261096af8c9a",
+      "name": "Sequence Agentic",
+      "url": "https://www.producthunt.com/products/sequence",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Money movement for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197833+00:00"
+    },
+    {
+      "id": "c0f431829afd",
+      "name": "MailAdept by mailwarm",
+      "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Agents & Email deliverability experts on your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197912+00:00"
+    },
+    {
+      "id": "939968c832ee",
+      "name": "Acti",
+      "url": "https://www.producthunt.com/products/acti-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic keyboard for mobile commands and search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.197994+00:00"
+    },
+    {
+      "id": "36a2ea9a3b02",
+      "name": "Mark by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Vibe automation for solo marketers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198065+00:00"
+    },
+    {
+      "id": "d6353f610462",
+      "name": "Clusy",
+      "url": "https://www.producthunt.com/products/clusy",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "notebook",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI notebook platform for modern data science\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198136+00:00"
+    },
+    {
+      "id": "1dfc900b856f",
+      "name": "Wins 3.4 — Snap Island for Mac",
+      "url": "https://www.producthunt.com/products/wins-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Snap, switch, and arrange Mac windows from the notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198207+00:00"
+    },
+    {
+      "id": "1f0eeec6610a",
+      "name": "Adam CAD Copilot",
+      "url": "https://www.producthunt.com/products/adam-cad-copilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "copilot",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI CAD inside Onshape and Fusion\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198279+00:00"
+    },
+    {
+      "id": "2366c5ea634c",
+      "name": "Livinity",
+      "url": "https://www.producthunt.com/products/livinity",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source homeserver OS with a built-in AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198359+00:00"
+    },
+    {
+      "id": "89757b674c45",
+      "name": "Claude Science",
+      "url": "https://www.producthunt.com/products/claude-for-desktop",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "claude",
+        "art",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your research partner for rigorous science\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-01T10:43:43.198436+00:00"
     },
     {
       "id": "b59954ef8930",
