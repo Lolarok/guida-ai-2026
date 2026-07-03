@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T10:11:01.085305+00:00",
-  "total": 1642,
+  "updated_at": "2026-07-03T09:56:51.243466+00:00",
+  "total": 1649,
   "tools": [
     {
       "name": "Cursor",
@@ -378,50 +378,128 @@
       "featured": false
     },
     {
-      "id": "abd34576fa28",
-      "name": "Fypro",
-      "url": "https://www.producthunt.com/products/fypro",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "tiktok"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Convert your TikTok followers into paying customers\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861175+00:00"
-    },
-    {
-      "id": "3c7004790b51",
-      "name": "Retrace",
-      "url": "https://www.producthunt.com/products/retrace-2",
+      "id": "f8ab779812a8",
+      "name": "Vox",
+      "url": "https://www.producthunt.com/products/vox-5",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "debug",
+        "copilot",
+        "git",
+        "github",
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to GitHub Copilot out loud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103017+00:00"
+    },
+    {
+      "id": "04c5e5b85ca8",
+      "name": "Archify",
+      "url": "https://www.producthunt.com/products/archify",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "understand software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103087+00:00"
+    },
+    {
+      "id": "0450556da0d7",
+      "name": "nxt",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your to do list and get what's next\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103165+00:00"
+    },
+    {
+      "id": "2202b8a019e6",
+      "name": "Osloq",
+      "url": "https://www.producthunt.com/products/osloq",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Debug AI agents by replaying and forking runs\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "An AI agent that reproduces GitHub issues for you\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861268+00:00"
+      "discovered_at": "2026-07-03T09:56:51.103240+00:00"
     },
     {
-      "id": "6e4b3ab652ca",
-      "name": "html.contact",
-      "url": "https://www.producthunt.com/products/html-contact",
+      "id": "c0e2302f8997",
+      "name": "Tamamon",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "backend"
+        "code",
+        "claude"
       ],
       "pricing": "Free tier",
-      "description_it": "A full form backend you can test before paying\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "A desktop pet that grows as you code with Claude Code\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861344+00:00"
+      "discovered_at": "2026-07-03T09:56:51.103313+00:00"
+    },
+    {
+      "id": "2a485137a00b",
+      "name": "Goals from Loops",
+      "url": "https://www.producthunt.com/products/loops",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Measure whether a campaign drove the desired outcome\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103389+00:00"
+    },
+    {
+      "id": "d010a52f18f7",
+      "name": "Glaze by Raycast",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create your own Mac apps by chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103468+00:00"
+    },
+    {
+      "id": "53c61a4ee5a2",
+      "name": "Banger Mail",
+      "url": "https://www.producthunt.com/products/banger-mail",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared mailboxes for teams and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103542+00:00"
     },
     {
       "id": "b73c1d56f184",
@@ -433,40 +511,72 @@
         "action"
       ],
       "pricing": "Free tier",
-      "description_it": "The BI tool that does, not just reports.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "A BI tool that can take action for you\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861412+00:00"
+      "discovered_at": "2026-07-03T09:56:51.103613+00:00"
     },
     {
-      "id": "58965bc33193",
-      "name": "Flowly",
-      "url": "https://www.producthunt.com/products/flowly-6",
+      "id": "5921b43233f1",
+      "name": "Quick Sub 2: Video Subtitling",
+      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Quick, creative video subtitling with direct canvas control.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103692+00:00"
+    },
+    {
+      "id": "5b30235d793b",
+      "name": "PieterPost MCP",
+      "url": "https://www.producthunt.com/products/pieter-post",
       "source": "Product Hunt AI (feed)",
       "category": "agent",
       "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A personal AI agent that runs on your desktop and iPhone\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861482+00:00"
-    },
-    {
-      "id": "4cd23c158169",
-      "name": "Macuse",
-      "url": "https://www.producthunt.com/products/macuse",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
+        "agent",
+        "connect",
         "erp"
       ],
       "pricing": "Free tier",
-      "description_it": "Give Your AI Superpowers on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Connect your AI agent to postal mail\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861544+00:00"
+      "discovered_at": "2026-07-03T09:56:51.103763+00:00"
+    },
+    {
+      "id": "ed3f93c1eb50",
+      "name": "Sidedoor",
+      "url": "https://www.producthunt.com/products/sidedoor-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Paste any job, find who in your network can refer you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103832+00:00"
+    },
+    {
+      "id": "462bff2fd4a2",
+      "name": "Macro",
+      "url": "https://www.producthunt.com/products/macro-workspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Unifies your work into one app with shared memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.103889+00:00"
     },
     {
       "id": "86b442d4fd34",
@@ -483,7 +593,7 @@
       "description_it": "Shared, searchable memory for every AI coding agent\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861620+00:00"
+      "discovered_at": "2026-07-03T09:56:51.103983+00:00"
     },
     {
       "id": "fc04f60dcede",
@@ -498,23 +608,67 @@
       "description_it": "Turn 1 creative into every ad format, instantly\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861689+00:00"
+      "discovered_at": "2026-07-03T09:56:51.104056+00:00"
     },
     {
-      "id": "ed3f93c1eb50",
-      "name": "Sidedoor",
-      "url": "https://www.producthunt.com/products/sidedoor-2",
+      "id": "4cd23c158169",
+      "name": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Your AI Superpowers on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.104120+00:00"
+    },
+    {
+      "id": "6e4b3ab652ca",
+      "name": "html.contact",
+      "url": "https://www.producthunt.com/products/html-contact",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "ide",
-        "find"
+        "backend"
       ],
       "pricing": "Free tier",
-      "description_it": "Paste any job, find who in your network can refer you\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "A full form backend you can test before paying\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861756+00:00"
+      "discovered_at": "2026-07-03T09:56:51.104189+00:00"
+    },
+    {
+      "id": "abd34576fa28",
+      "name": "Fypro",
+      "url": "https://www.producthunt.com/products/fypro",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "tiktok"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert your TikTok followers into paying customers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.104258+00:00"
+    },
+    {
+      "id": "58965bc33193",
+      "name": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A personal AI agent that runs on your desktop and iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-03T09:56:51.104327+00:00"
     },
     {
       "id": "35332b30fcc6",
@@ -530,22 +684,23 @@
       "description_it": "One API to scrape, enrich, and extract the internet\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861836+00:00"
+      "discovered_at": "2026-07-03T09:56:51.104398+00:00"
     },
     {
-      "id": "53c61a4ee5a2",
-      "name": "Banger Mail",
-      "url": "https://www.producthunt.com/products/banger-mail",
+      "id": "3c7004790b51",
+      "name": "Retrace",
+      "url": "https://www.producthunt.com/products/retrace-2",
       "source": "Product Hunt AI (feed)",
-      "category": "agent",
+      "category": "coding",
       "tags": [
+        "debug",
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Shared mailboxes for teams and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Debug AI agents by replaying and forking runs\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.861902+00:00"
+      "discovered_at": "2026-07-02T10:11:00.861268+00:00"
     },
     {
       "id": "ce809fb19670",
@@ -577,52 +732,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-02T10:11:00.862066+00:00"
-    },
-    {
-      "id": "5921b43233f1",
-      "name": "Quick Sub 2: Video Subtitling",
-      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Quick, creative video subtitling with direct canvas control.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.862141+00:00"
-    },
-    {
-      "id": "5b30235d793b",
-      "name": "PieterPost MCP",
-      "url": "https://www.producthunt.com/products/pieter-post",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "connect",
-        "erp"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Connect your AI agent to postal mail\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.862206+00:00"
-    },
-    {
-      "id": "462bff2fd4a2",
-      "name": "Macro",
-      "url": "https://www.producthunt.com/products/macro-workspace",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Unifies your work into one app with shared memory\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-02T10:11:00.862254+00:00"
     },
     {
       "id": "3b745fff7f68",
