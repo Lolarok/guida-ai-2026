@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T09:23:09.756870+00:00",
-  "total": 1654,
+  "updated_at": "2026-07-05T09:42:51.665827+00:00",
+  "total": 1661,
   "tools": [
     {
       "name": "Cursor",
@@ -378,17 +378,110 @@
       "featured": false
     },
     {
-      "id": "f1a6c866264b",
-      "name": "ChecklistFox",
-      "url": "https://www.producthunt.com/products/checklistfox",
+      "id": "5db4e15d8bf9",
+      "name": "CircleChat",
+      "url": "https://www.producthunt.com/products/circlechat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free",
+      "description_it": "Give your AI agents a slack, a task board, and a boss\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478146+00:00"
+    },
+    {
+      "id": "26df82779d86",
+      "name": "Toku Reader",
+      "url": "https://www.producthunt.com/products/toku-reader",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Read & listen to native Japanese and Chinese, tap any word\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478267+00:00"
+    },
+    {
+      "id": "71dc83d91ef7",
+      "name": "Endl",
+      "url": "https://www.producthunt.com/products/endl",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
-      "pricing": "Free",
-      "description_it": "AI Checklist Maker - Beautiful PDFs, Free & Instant\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "A global operating account for fiat, stablecoins, and cards.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573021+00:00"
+      "discovered_at": "2026-07-05T09:42:51.478335+00:00"
+    },
+    {
+      "id": "4465660e4d0b",
+      "name": "DocsAlot",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Documentation that works for both humans and AI systems\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478409+00:00"
+    },
+    {
+      "id": "12b1bf17a684",
+      "name": "WorkBuddy",
+      "url": "https://www.producthunt.com/products/workbuddy-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Produce sharpened results faster with a team of AI experts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478465+00:00"
+    },
+    {
+      "id": "94a1e7098a28",
+      "name": "TryCase",
+      "url": "https://www.producthunt.com/products/trycase",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Disposable test environments for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478537+00:00"
+    },
+    {
+      "id": "f74249d2b423",
+      "name": "MentionDrop MCP",
+      "url": "https://www.producthunt.com/products/mentiondrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent live market signals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478614+00:00"
     },
     {
       "id": "22a97801ba4b",
@@ -404,7 +497,7 @@
       "description_it": "Watch your AI coding agents build, live in 3D\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573120+00:00"
+      "discovered_at": "2026-07-05T09:42:51.478689+00:00"
     },
     {
       "id": "69c16f50742b",
@@ -419,7 +512,20 @@
       "description_it": "Clone yourself. Let AI do the work before you ask\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573199+00:00"
+      "discovered_at": "2026-07-05T09:42:51.478760+00:00"
+    },
+    {
+      "id": "3a2dd67d285b",
+      "name": "CentryAI",
+      "url": "https://www.producthunt.com/products/centryai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Subscription tracker built by someone who forgot 11 of them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478815+00:00"
     },
     {
       "id": "5c05fc35d335",
@@ -434,50 +540,33 @@
       "description_it": "Turn your iPhone into a free Mac controller\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573271+00:00"
+      "discovered_at": "2026-07-05T09:42:51.478887+00:00"
     },
     {
-      "id": "3a2dd67d285b",
-      "name": "CentryAI",
-      "url": "https://www.producthunt.com/products/centryai",
+      "id": "f1a6c866264b",
+      "name": "ChecklistFox",
+      "url": "https://www.producthunt.com/products/checklistfox",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "AI checklist maker for beautiful pdfs, free & instant\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.478942+00:00"
+    },
+    {
+      "id": "04c5e5b85ca8",
+      "name": "Archify",
+      "url": "https://www.producthunt.com/products/archify",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Subscription tracker built by someone who forgot 11 of them\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "understand software\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573326+00:00"
-    },
-    {
-      "id": "d010a52f18f7",
-      "name": "Glaze by Raycast",
-      "url": "https://www.producthunt.com/products/glaze-4",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Create your own Mac apps by chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573440+00:00"
-    },
-    {
-      "id": "0450556da0d7",
-      "name": "nxt",
-      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "talk"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Talk to your to do list and get what's next\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573521+00:00"
+      "discovered_at": "2026-07-05T09:42:51.478994+00:00"
     },
     {
       "id": "2a485137a00b",
@@ -492,7 +581,7 @@
       "description_it": "Measure whether a campaign drove the desired outcome\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573596+00:00"
+      "discovered_at": "2026-07-05T09:42:51.479065+00:00"
     },
     {
       "id": "f8ab779812a8",
@@ -510,20 +599,37 @@
       "description_it": "Voice in, voice out — with GitHub Copilot\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573689+00:00"
+      "discovered_at": "2026-07-05T09:42:51.479153+00:00"
     },
     {
-      "id": "04c5e5b85ca8",
-      "name": "Archify",
-      "url": "https://www.producthunt.com/products/archify",
+      "id": "d010a52f18f7",
+      "name": "Glaze by Raycast",
+      "url": "https://www.producthunt.com/products/glaze-4",
       "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
       "pricing": "Free tier",
-      "description_it": "understand software\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Create your own Mac apps by chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573740+00:00"
+      "discovered_at": "2026-07-05T09:42:51.479247+00:00"
+    },
+    {
+      "id": "0450556da0d7",
+      "name": "nxt",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your to do list and get what's next\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.479317+00:00"
     },
     {
       "id": "c0e2302f8997",
@@ -539,7 +645,39 @@
       "description_it": "A desktop pet that grows as you code with Claude Code\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-04T09:23:09.573809+00:00"
+      "discovered_at": "2026-07-05T09:42:51.479387+00:00"
+    },
+    {
+      "id": "86b442d4fd34",
+      "name": "scritty",
+      "url": "https://www.producthunt.com/products/scritty",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared, searchable memory for every AI coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.479459+00:00"
+    },
+    {
+      "id": "4cd23c158169",
+      "name": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Your AI Superpowers on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-05T09:42:51.479523+00:00"
     },
     {
       "id": "abd34576fa28",
@@ -727,23 +865,6 @@
       "discovered_at": "2026-07-03T09:56:51.103889+00:00"
     },
     {
-      "id": "86b442d4fd34",
-      "name": "scritty",
-      "url": "https://www.producthunt.com/products/scritty",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "search",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Shared, searchable memory for every AI coding agent\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-03T09:56:51.103983+00:00"
-    },
-    {
       "id": "fc04f60dcede",
       "name": "PixFit",
       "url": "https://www.producthunt.com/products/pixfit",
@@ -757,21 +878,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-03T09:56:51.104056+00:00"
-    },
-    {
-      "id": "4cd23c158169",
-      "name": "Macuse",
-      "url": "https://www.producthunt.com/products/macuse",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "erp"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Give Your AI Superpowers on macOS\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-03T09:56:51.104120+00:00"
     },
     {
       "id": "35332b30fcc6",
