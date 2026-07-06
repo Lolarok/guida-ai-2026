@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T09:42:51.665827+00:00",
-  "total": 1661,
+  "updated_at": "2026-07-06T11:29:00.106349+00:00",
+  "total": 1674,
   "tools": [
     {
       "name": "Cursor",
@@ -378,50 +378,197 @@
       "featured": false
     },
     {
-      "id": "5db4e15d8bf9",
-      "name": "CircleChat",
-      "url": "https://www.producthunt.com/products/circlechat",
+      "id": "4d4fd89433d7",
+      "name": "AnySearch",
+      "url": "https://www.producthunt.com/products/anysearch",
       "source": "Product Hunt AI (feed)",
-      "category": "chat",
+      "category": "coding",
       "tags": [
-        "chat",
-        "ask",
-        "agent",
-        "task"
-      ],
-      "pricing": "Free",
-      "description_it": "Give your AI agents a slack, a task board, and a boss\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478146+00:00"
-    },
-    {
-      "id": "26df82779d86",
-      "name": "Toku Reader",
-      "url": "https://www.producthunt.com/products/toku-reader",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
+        "developer",
+        "dev",
+        "rust",
+        "search",
+        "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Read & listen to native Japanese and Chinese, tap any word\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Real-time structured search trusted by agents and developers\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478267+00:00"
+      "discovered_at": "2026-07-06T11:28:59.982788+00:00"
     },
     {
-      "id": "71dc83d91ef7",
-      "name": "Endl",
-      "url": "https://www.producthunt.com/products/endl",
+      "id": "ba1671d5f0dc",
+      "name": "Edgee Claude Code Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fewer tokens, same context, 50% cost reduction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.982922+00:00"
+    },
+    {
+      "id": "6a8ab2f2292d",
+      "name": "Mozaik",
+      "url": "https://www.producthunt.com/products/mozaik-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "typescript",
+        "agent",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "TypeScript runtime for self-organizing AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983007+00:00"
+    },
+    {
+      "id": "cf2fda7c857f",
+      "name": "Astryx",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "A customizable, agent-ready open-source design system\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983082+00:00"
+    },
+    {
+      "id": "e1bffc8c2e0d",
+      "name": "CodeMote",
+      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex, any CLI agent. Driven from your iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983155+00:00"
+    },
+    {
+      "id": "dd5da2b0bb1e",
+      "name": "AirKaren",
+      "url": "https://www.producthunt.com/products/airkaren",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "A global operating account for fiat, stablecoins, and cards.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI that fights customer service for you\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478335+00:00"
+      "discovered_at": "2026-07-06T11:28:59.983207+00:00"
+    },
+    {
+      "id": "0a52996495b4",
+      "name": "Stanley Studio",
+      "url": "https://www.producthunt.com/products/stanley-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI video editor you hire that edits like a human\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983282+00:00"
+    },
+    {
+      "id": "9a54196585a5",
+      "name": "Typeahead 2.0",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "autocomplete",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private AI autocomplete for every app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983381+00:00"
+    },
+    {
+      "id": "a1a390941c01",
+      "name": "Octolens",
+      "url": "https://www.producthunt.com/products/octolens-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social listening for the agent era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983448+00:00"
+    },
+    {
+      "id": "415d0940c2bb",
+      "name": "Cadence",
+      "url": "https://www.producthunt.com/products/cadence-13",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record once, send confidently\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983512+00:00"
+    },
+    {
+      "id": "a19edf57c683",
+      "name": "Sunrise",
+      "url": "https://www.producthunt.com/products/sunrise-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Freemium",
+      "description_it": "A real planner for Google Tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983576+00:00"
+    },
+    {
+      "id": "1d9e95bd4ef7",
+      "name": "Nixmac",
+      "url": "https://www.producthunt.com/products/nixmac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Nix-darwin that speaks plain English\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983623+00:00"
     },
     {
       "id": "4465660e4d0b",
@@ -437,7 +584,20 @@
       "description_it": "Documentation that works for both humans and AI systems\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478409+00:00"
+      "discovered_at": "2026-07-06T11:28:59.983694+00:00"
+    },
+    {
+      "id": "71dc83d91ef7",
+      "name": "Endl",
+      "url": "https://www.producthunt.com/products/endl",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A global operating account for fiat, stablecoins, and cards.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983745+00:00"
     },
     {
       "id": "12b1bf17a684",
@@ -450,7 +610,40 @@
       "description_it": "Produce sharpened results faster with a team of AI experts\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478465+00:00"
+      "discovered_at": "2026-07-06T11:28:59.983795+00:00"
+    },
+    {
+      "id": "26df82779d86",
+      "name": "Toku Reader",
+      "url": "https://www.producthunt.com/products/toku-reader",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Read & listen to native Japanese and Chinese, tap any word\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983864+00:00"
+    },
+    {
+      "id": "5db4e15d8bf9",
+      "name": "CircleChat",
+      "url": "https://www.producthunt.com/products/circlechat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free",
+      "description_it": "Give your AI agents a slack, a task board, and a boss\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.983934+00:00"
     },
     {
       "id": "94a1e7098a28",
@@ -466,7 +659,20 @@
       "description_it": "Disposable test environments for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478537+00:00"
+      "discovered_at": "2026-07-06T11:28:59.984000+00:00"
+    },
+    {
+      "id": "a37c53935009",
+      "name": "Pennen",
+      "url": "https://www.producthunt.com/products/pennen",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One quiet handwritten page a day. No feed, no AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.984049+00:00"
     },
     {
       "id": "f74249d2b423",
@@ -481,7 +687,7 @@
       "description_it": "Give your AI agent live market signals\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478614+00:00"
+      "discovered_at": "2026-07-06T11:28:59.984113+00:00"
     },
     {
       "id": "22a97801ba4b",
