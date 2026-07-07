@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T11:29:00.106349+00:00",
-  "total": 1674,
+  "updated_at": "2026-07-07T10:27:24.142382+00:00",
+  "total": 1686,
   "tools": [
     {
       "name": "Cursor",
@@ -378,73 +378,215 @@
       "featured": false
     },
     {
-      "id": "4d4fd89433d7",
-      "name": "AnySearch",
-      "url": "https://www.producthunt.com/products/anysearch",
+      "id": "513a319974f4",
+      "name": "Kadoink",
+      "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "marketing",
       "tags": [
-        "developer",
-        "dev",
-        "rust",
-        "search",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gather people instantly by ringing their phones directly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.845900+00:00"
+    },
+    {
+      "id": "7bd940f0bbbd",
+      "name": "Katalyst",
+      "url": "https://www.producthunt.com/products/katalyst",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Real-time structured search trusted by agents and developers\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The AI agent that works your Salesforce Pipeline\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.982788+00:00"
+      "discovered_at": "2026-07-07T10:27:23.845995+00:00"
     },
     {
-      "id": "ba1671d5f0dc",
-      "name": "Edgee Claude Code Compressor V2",
-      "url": "https://www.producthunt.com/products/edgee",
+      "id": "c81c58319659",
+      "name": "Ogment AI",
+      "url": "https://www.producthunt.com/products/ogment-mcp-builder",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI coworker, in Slack. Just tag @O.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846046+00:00"
+    },
+    {
+      "id": "0d6fd1e93a40",
+      "name": "Dupely",
+      "url": "https://www.producthunt.com/products/dupely",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
       "tags": [
-        "code",
-        "claude"
+        "search"
       ],
       "pricing": "Free tier",
-      "description_it": "Fewer tokens, same context, 50% cost reduction\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Search for the same product but better prices\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.982922+00:00"
+      "discovered_at": "2026-07-07T10:27:23.846116+00:00"
     },
     {
-      "id": "6a8ab2f2292d",
-      "name": "Mozaik",
-      "url": "https://www.producthunt.com/products/mozaik-4",
+      "id": "f2cae461442c",
+      "name": "Mira",
+      "url": "https://www.producthunt.com/products/mira-the-ai-moderator",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "marketing",
       "tags": [
-        "typescript",
-        "agent",
-        "organiz"
+        "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "TypeScript runtime for self-organizing AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI moderated interviews that read how people feel\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983007+00:00"
+      "discovered_at": "2026-07-07T10:27:23.846185+00:00"
     },
     {
-      "id": "cf2fda7c857f",
-      "name": "Astryx",
-      "url": "https://www.producthunt.com/products/meta",
+      "id": "6e7e7ba53d90",
+      "name": "AI Emaily",
+      "url": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
       "source": "Product Hunt AI (feed)",
-      "category": "immagini",
+      "category": "produttività",
       "tags": [
-        "design",
+        "email",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI inbox that writes like you + replies on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846273+00:00"
+    },
+    {
+      "id": "0bffadbd35d5",
+      "name": "Badge",
+      "url": "https://www.producthunt.com/products/badge-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
         "agent",
         "ad"
       ],
-      "pricing": "Free",
-      "description_it": "A customizable, agent-ready open-source design system\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "AI agents collect peer reviews to generate proof of work\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983082+00:00"
+      "discovered_at": "2026-07-07T10:27:23.846351+00:00"
+    },
+    {
+      "id": "454ff4b75a6b",
+      "name": "Glideo",
+      "url": "https://www.producthunt.com/products/glideo",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recordings that edit themselves\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846424+00:00"
+    },
+    {
+      "id": "317e989b344e",
+      "name": "Scribble Network",
+      "url": "https://www.producthunt.com/products/scribble-network",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The product that makes AI recommend your brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846495+00:00"
+    },
+    {
+      "id": "1398cdd7ecbe",
+      "name": "Zoho Tables",
+      "url": "https://www.producthunt.com/products/zoho-tables",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smarter way to manage work and data.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846560+00:00"
+    },
+    {
+      "id": "e5f608e72ebb",
+      "name": "LongCat",
+      "url": "https://www.producthunt.com/products/longcat",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "1.6T MoE trained entirely on AI ASICs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846609+00:00"
+    },
+    {
+      "id": "9cd354926051",
+      "name": "Ellis",
+      "url": "https://www.producthunt.com/products/ellis-your-conversations-remembered",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Notes for In-Person Meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846669+00:00"
+    },
+    {
+      "id": "8289880bf3c8",
+      "name": "Social Fetch",
+      "url": "https://www.producthunt.com/products/social-fetch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social media scraper API for every major platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846736+00:00"
+    },
+    {
+      "id": "1d9e95bd4ef7",
+      "name": "Nixmac",
+      "url": "https://www.producthunt.com/products/nixmac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Nix-darwin that speaks plain English\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846781+00:00"
     },
     {
       "id": "e1bffc8c2e0d",
@@ -462,7 +604,7 @@
       "description_it": "Claude Code, Codex, any CLI agent. Driven from your iPhone\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983155+00:00"
+      "discovered_at": "2026-07-07T10:27:23.846848+00:00"
     },
     {
       "id": "dd5da2b0bb1e",
@@ -475,7 +617,92 @@
       "description_it": "AI that fights customer service for you\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983207+00:00"
+      "discovered_at": "2026-07-07T10:27:23.846893+00:00"
+    },
+    {
+      "id": "a19edf57c683",
+      "name": "Sunrise",
+      "url": "https://www.producthunt.com/products/sunrise-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Freemium",
+      "description_it": "A real planner for Google Tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.846954+00:00"
+    },
+    {
+      "id": "cf2fda7c857f",
+      "name": "Astryx",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "A customizable, agent-ready open-source design system\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.847022+00:00"
+    },
+    {
+      "id": "6a8ab2f2292d",
+      "name": "Mozaik",
+      "url": "https://www.producthunt.com/products/mozaik-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "typescript",
+        "agent",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "TypeScript runtime for self-organizing AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.847088+00:00"
+    },
+    {
+      "id": "4d4fd89433d7",
+      "name": "AnySearch",
+      "url": "https://www.producthunt.com/products/anysearch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "rust",
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time structured search trusted by agents and developers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-07T10:27:23.847153+00:00"
+    },
+    {
+      "id": "ba1671d5f0dc",
+      "name": "Edgee Claude Code Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fewer tokens, same context, 50% cost reduction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-06T11:28:59.982922+00:00"
     },
     {
       "id": "0a52996495b4",
@@ -540,35 +767,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-06T11:28:59.983512+00:00"
-    },
-    {
-      "id": "a19edf57c683",
-      "name": "Sunrise",
-      "url": "https://www.producthunt.com/products/sunrise-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "ask",
-        "task"
-      ],
-      "pricing": "Freemium",
-      "description_it": "A real planner for Google Tasks\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983576+00:00"
-    },
-    {
-      "id": "1d9e95bd4ef7",
-      "name": "Nixmac",
-      "url": "https://www.producthunt.com/products/nixmac",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Nix-darwin that speaks plain English\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.983623+00:00"
     },
     {
       "id": "4465660e4d0b",
@@ -16442,22 +16640,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-29T09:11:47.500958+00:00"
-    },
-    {
-      "id": "8289880bf3c8",
-      "name": "Social Fetch",
-      "url": "https://www.producthunt.com/products/social-fetch",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api",
-        "data"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Pull real-time data from any social platform via API.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-29T09:11:47.501030+00:00"
     },
     {
       "id": "fdc571d47c61",
