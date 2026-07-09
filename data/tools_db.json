@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T09:27:15.858276+00:00",
-  "total": 1702,
+  "updated_at": "2026-07-09T10:25:02.764258+00:00",
+  "total": 1716,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,314 @@
       "featured": false
     },
     {
+      "id": "4f4d17aa4ba0",
+      "name": "Just Ask by SEORCE",
+      "url": "https://www.producthunt.com/products/seorce",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "talk",
+        "data",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your SEO & AI Visibility data on WhatsApp.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604565+00:00"
+    },
+    {
+      "id": "83b36de21699",
+      "name": "Tasks.txt",
+      "url": "https://www.producthunt.com/products/tasks-txt",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Plain text task manager for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604655+00:00"
+    },
+    {
+      "id": "5d005d0802d6",
+      "name": "Timbal AI",
+      "url": "https://www.producthunt.com/products/timbal-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build AI agents, workflows, and apps in one stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604733+00:00"
+    },
+    {
+      "id": "9094a143a432",
+      "name": "Auriko",
+      "url": "https://www.producthunt.com/products/auriko",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Trading desk for LLM calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604800+00:00"
+    },
+    {
+      "id": "159afb0edefb",
+      "name": "Toyo",
+      "url": "https://www.producthunt.com/products/toyo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Exec assistant who lives in iMessage and calls your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604873+00:00"
+    },
+    {
+      "id": "31d23650ff05",
+      "name": "GPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full-duplex voice for ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.604941+00:00"
+    },
+    {
+      "id": "2e5705443cd1",
+      "name": "ARKAD Wallet",
+      "url": "https://www.producthunt.com/products/arkad-wallet",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your budget with voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605015+00:00"
+    },
+    {
+      "id": "ce7dc10602ec",
+      "name": "Coasty",
+      "url": "https://www.producthunt.com/products/coasty",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Computer-Use-Agent that runs legacy software like a human\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605093+00:00"
+    },
+    {
+      "id": "743935da6e3d",
+      "name": "Glimpse",
+      "url": "https://www.producthunt.com/products/glimpse-17",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The competitive intelligence agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605161+00:00"
+    },
+    {
+      "id": "ab2f85dcba3f",
+      "name": "Lispr",
+      "url": "https://www.producthunt.com/products/lispr",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hold a key, speak, and Lispr writes it anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605231+00:00"
+    },
+    {
+      "id": "840ff2d4217a",
+      "name": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The european AI gateway for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605305+00:00"
+    },
+    {
+      "id": "317fa3cfd640",
+      "name": "Monogram AI",
+      "url": "https://www.producthunt.com/products/monogram-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI with a visual and interactive interface\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605376+00:00"
+    },
+    {
+      "id": "d38d75286f23",
+      "name": "Aura: Agents + Git + Intent IDE",
+      "url": "https://www.producthunt.com/products/aura-28",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The IDE for controlling AI coding agents with built in loops\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605454+00:00"
+    },
+    {
+      "id": "42f8cf0176eb",
+      "name": "Perfai Security",
+      "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find & fix live vulnerabilities in Vibe Apps with 1-prompt.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605579+00:00"
+    },
+    {
+      "id": "e893b5396ba3",
+      "name": "Constellation Gate AI",
+      "url": "https://www.producthunt.com/products/gate-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Prompt injection and token savings - #1 in benchmarks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605639+00:00"
+    },
+    {
+      "id": "f9aa65b78923",
+      "name": "NanoKVM",
+      "url": "https://www.producthunt.com/products/nanokvm-go",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent physical control over any screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605709+00:00"
+    },
+    {
+      "id": "db31d42705f0",
+      "name": "Bono AI",
+      "url": "https://www.producthunt.com/products/bono-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk Once. Publish Everywhere.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605776+00:00"
+    },
+    {
+      "id": "a3fdf8da22ea",
+      "name": "Willow Frontier Pro",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The fastest, most accurate dictation model in the world\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605829+00:00"
+    },
+    {
+      "id": "4b0ed8741fcc",
+      "name": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "api",
+        "explore",
+        "data"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source API for Y Combinator & a16z company data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605898+00:00"
+    },
+    {
+      "id": "4f9c9fd08a9f",
+      "name": "Orbit for Mac",
+      "url": "https://www.producthunt.com/products/orbit-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every Google account, in a single window\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-09T10:25:02.605948+00:00"
+    },
+    {
       "id": "bdcfd1850c10",
       "name": "Eodly",
       "url": "https://www.producthunt.com/products/eodly",
@@ -408,32 +716,6 @@
       "discovered_at": "2026-07-08T09:27:15.592296+00:00"
     },
     {
-      "id": "4f9c9fd08a9f",
-      "name": "Orbit for Mac",
-      "url": "https://www.producthunt.com/products/orbit-for-mac",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Every Google account, in a single window\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-08T09:27:15.592341+00:00"
-    },
-    {
-      "id": "a3fdf8da22ea",
-      "name": "Willow Frontier Pro",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The fastest, most accurate dictation model in the world\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-08T09:27:15.592389+00:00"
-    },
-    {
       "id": "2db8953d9156",
       "name": "Link Preview API",
       "url": "https://www.producthunt.com/products/link-preview-api",
@@ -449,23 +731,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-08T09:27:15.592453+00:00"
-    },
-    {
-      "id": "4b0ed8741fcc",
-      "name": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "api",
-        "explore",
-        "data"
-      ],
-      "pricing": "Free",
-      "description_it": "Open-source API for Y Combinator & a16z company data\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-08T09:27:15.592513+00:00"
     },
     {
       "id": "6994b509887b",
@@ -512,37 +777,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-08T09:27:15.592695+00:00"
-    },
-    {
-      "id": "f9aa65b78923",
-      "name": "NanoKVM",
-      "url": "https://www.producthunt.com/products/nanokvm-go",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Give your AI agent physical control over any screen\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-08T09:27:15.592752+00:00"
-    },
-    {
-      "id": "db31d42705f0",
-      "name": "Bono AI",
-      "url": "https://www.producthunt.com/products/bono-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "talk"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Talk Once. Publish Everywhere.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-08T09:27:15.592810+00:00"
     },
     {
       "id": "db222cfc3c07",
@@ -17453,22 +17687,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-27T09:19:47.744648+00:00"
-    },
-    {
-      "id": "31d23650ff05",
-      "name": "GPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gpt",
-        "art"
-      ],
-      "pricing": "Free tier",
-      "description_it": "OpenAI's smartest and most intuitive to use model yet\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-27T09:19:47.744720+00:00"
     },
     {
       "id": "995e71eb2328",
