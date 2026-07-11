@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T10:25:07.522843+00:00",
-  "total": 1729,
+  "updated_at": "2026-07-11T08:47:37.278896+00:00",
+  "total": 1737,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,145 @@
       "featured": false
     },
     {
+      "id": "43cf53cca017",
+      "name": "Basedash SCIM",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your org changes. Access keeps up.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:36.999825+00:00"
+    },
+    {
+      "id": "96890875f151",
+      "name": "Breathing In Labour",
+      "url": "https://www.producthunt.com/products/breathing-in-labour",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free",
+      "description_it": "A distraction-free breathing app for labor preparation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:36.999931+00:00"
+    },
+    {
+      "id": "b5e69b9e17d7",
+      "name": "Cloudflare Drop",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drop your folder in browser & deploy instantly on Cloudflare\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000013+00:00"
+    },
+    {
+      "id": "af0cdb785e4d",
+      "name": "Effects SDK",
+      "url": "https://www.producthunt.com/products/effects-sdk",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "sdk",
+        "audio",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI video & audio effects SDK for real-time apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000089+00:00"
+    },
+    {
+      "id": "f9bc11d568b2",
+      "name": "San Fran Sim",
+      "url": "https://www.producthunt.com/products/san-fran-sim",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A startup tycoon game\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000156+00:00"
+    },
+    {
+      "id": "d07a341abfde",
+      "name": "ChatGPT Work",
+      "url": "https://www.producthunt.com/products/chatgpt-work",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Partner for your most ambitious work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000227+00:00"
+    },
+    {
+      "id": "96f13b004dfd",
+      "name": "Kickbacks CLI",
+      "url": "https://www.producthunt.com/products/kickbacks-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The terminal and Mac menu bar companion for Kickbacks.ai\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000309+00:00"
+    },
+    {
+      "id": "976fa6066619",
+      "name": "SoundPipe",
+      "url": "https://www.producthunt.com/products/soundpipe",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SoundPipe is a mixing board for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000381+00:00"
+    },
+    {
+      "id": "3bd740ca054d",
+      "name": "PlugThis",
+      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create your own Chrome Extensions by chatting with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000455+00:00"
+    },
+    {
       "id": "1dd12f560c46",
       "name": "ConnectMachine 2.0",
       "url": "https://www.producthunt.com/products/connectmachine-2",
@@ -391,23 +530,42 @@
       "description_it": "AI digital business card that remembers everyone you meet\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284011+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000533+00:00"
     },
     {
-      "id": "31d23650ff05",
-      "name": "GPT",
-      "url": "https://www.producthunt.com/products/openai",
+      "id": "ef226554ddcf",
+      "name": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio",
       "source": "Product Hunt AI (feed)",
-      "category": "chat",
+      "category": "agent",
       "tags": [
-        "gpt",
-        "bot"
+        "agent",
+        "workflow"
       ],
-      "pricing": "Free tier",
-      "description_it": "New standard for both intelligence and efficiency\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free",
+      "description_it": "Open-source workspace for AI agents and workflows\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284106+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000609+00:00"
+    },
+    {
+      "id": "cdd2b2b7d67d",
+      "name": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "chat",
+        "gpt",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI video editor in ChatGPT, desktop, and web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.000671+00:00"
     },
     {
       "id": "0d14a32789bb",
@@ -425,128 +583,20 @@
       "description_it": "Publish content from Claude to your website and socials\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284186+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000744+00:00"
     },
     {
-      "id": "ef226554ddcf",
-      "name": "Sim",
-      "url": "https://www.producthunt.com/products/sim-studio",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "workflow"
-      ],
-      "pricing": "Free",
-      "description_it": "Open-source workspace for AI agents and workflows\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284285+00:00"
-    },
-    {
-      "id": "c6464e08cdcd",
-      "name": "Ship OS by Notion",
-      "url": "https://www.producthunt.com/products/notion",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The agent-native way to ship software\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284364+00:00"
-    },
-    {
-      "id": "8bc5733d468b",
-      "name": "Scarlett.",
-      "url": "https://www.producthunt.com/products/tryscarlett",
+      "id": "ffceae3099b2",
+      "name": "RepStandard",
+      "url": "https://www.producthunt.com/products/repstandard",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Your AI Co-Worker in Slack & iMessage.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Computer vision counts your reps in real time\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284422+00:00"
-    },
-    {
-      "id": "820551501062",
-      "name": "Yasmine Works",
-      "url": "https://www.producthunt.com/products/yasmine-works",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "An AI coworker that lives in your Slack to get work done\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284490+00:00"
-    },
-    {
-      "id": "3bd740ca054d",
-      "name": "PlugThis",
-      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Like Lovable, but for Chrome extensions\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284554+00:00"
-    },
-    {
-      "id": "6df1ad9859dc",
-      "name": "Native SDK",
-      "url": "https://www.producthunt.com/products/vercel",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "sdk"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Toolkit for building native desktop apps\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284626+00:00"
-    },
-    {
-      "id": "548599284982",
-      "name": "Muse Spark 1.1 by Meta AI",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "ask",
-        "agent",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Multimodal reasoning model built for agentic tasks\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284704+00:00"
-    },
-    {
-      "id": "cdd2b2b7d67d",
-      "name": "ChatCut",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "editor",
-        "chat",
-        "gpt",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your AI video editor - in ChatGPT, desktop, and web\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284773+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000809+00:00"
     },
     {
       "id": "51565c3a90d6",
@@ -563,20 +613,7 @@
       "description_it": "Dictate, rewrite, translate, and an agent in a single device\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284848+00:00"
-    },
-    {
-      "id": "ffceae3099b2",
-      "name": "RepStandard",
-      "url": "https://www.producthunt.com/products/repstandard",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Computer vision counts your reps in real time\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284902+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000882+00:00"
     },
     {
       "id": "5a06ea67aaf5",
@@ -591,7 +628,95 @@
       "description_it": "Beautiful Mac battery alerts, health insights & charge limit\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-10T10:25:07.284974+00:00"
+      "discovered_at": "2026-07-11T08:47:37.000955+00:00"
+    },
+    {
+      "id": "31d23650ff05",
+      "name": "GPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A new standard for intelligence and efficiency\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.001030+00:00"
+    },
+    {
+      "id": "820551501062",
+      "name": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An AI coworker that lives in your Slack to get work done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.001084+00:00"
+    },
+    {
+      "id": "c6464e08cdcd",
+      "name": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agent-native way to ship software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.001156+00:00"
+    },
+    {
+      "id": "548599284982",
+      "name": "Muse Spark 1.1 by Meta AI",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multimodal reasoning model built for agentic tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-11T08:47:37.001230+00:00"
+    },
+    {
+      "id": "8bc5733d468b",
+      "name": "Scarlett.",
+      "url": "https://www.producthunt.com/products/tryscarlett",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI Co-Worker in Slack & iMessage.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-10T10:25:07.284422+00:00"
+    },
+    {
+      "id": "6df1ad9859dc",
+      "name": "Native SDK",
+      "url": "https://www.producthunt.com/products/vercel",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Toolkit for building native desktop apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-10T10:25:07.284626+00:00"
     },
     {
       "id": "159afb0edefb",
