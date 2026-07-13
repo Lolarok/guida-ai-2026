@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T09:04:06.070256+00:00",
-  "total": 1742,
+  "updated_at": "2026-07-13T10:26:16.786767+00:00",
+  "total": 1753,
   "tools": [
     {
       "name": "Cursor",
@@ -378,47 +378,181 @@
       "featured": false
     },
     {
-      "id": "1605905abc84",
-      "name": "ServiceBeard",
-      "url": "https://www.producthunt.com/products/servicebeard",
+      "id": "a63048291cb3",
+      "name": "AgentKey",
+      "url": "https://www.producthunt.com/products/agentkey",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One-stop live data marketplace for your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.531967+00:00"
+    },
+    {
+      "id": "ec107e957ce4",
+      "name": "Loomal",
+      "url": "https://www.producthunt.com/products/loomal",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Sync your mailbox with your issue tracker\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Monetize any MCP server in 5 minutes with no % skim.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903350+00:00"
+      "discovered_at": "2026-07-13T10:26:16.532044+00:00"
     },
     {
-      "id": "a08031f1c4e6",
-      "name": "Second Brain for AI v2",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "id": "81fa2a7cbc20",
+      "name": "TailMux",
+      "url": "https://www.producthunt.com/products/tailmux",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiple Tailscale tailnets at once, no switching + no VM\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532100+00:00"
+    },
+    {
+      "id": "23fff1ba8c62",
+      "name": "AI Media Buyer By Creatify",
+      "url": "https://www.producthunt.com/products/creatify",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ads, managed by AI that gets smarter daily.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532174+00:00"
+    },
+    {
+      "id": "30d8a6bfd099",
+      "name": "Osaurus",
+      "url": "https://www.producthunt.com/products/osaurus",
       "source": "Product Hunt AI (feed)",
       "category": "agent",
       "tags": [
-        "connect"
+        "agent"
       ],
       "pricing": "Free",
-      "description_it": "AI memory that connects the dots across every tool\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Open source agents that run 100% locally on your Mac\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903457+00:00"
+      "discovered_at": "2026-07-13T10:26:16.532268+00:00"
     },
     {
-      "id": "a0742bbe8ff0",
-      "name": "JustVibe",
-      "url": "https://www.producthunt.com/products/justvibe",
+      "id": "55fa2f1b09f3",
+      "name": "NoMac.app",
+      "url": "https://www.producthunt.com/products/nomac",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The headless iOS app publishing pipeline for AI agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532345+00:00"
+    },
+    {
+      "id": "db777a2d5055",
+      "name": "Fudge MCP",
+      "url": "https://www.producthunt.com/products/fudge-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents design taste from existing websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532424+00:00"
+    },
+    {
+      "id": "bdc83480f3b0",
+      "name": "Simba Voice Agents",
+      "url": "https://www.producthunt.com/products/speechify",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice agents powered by Simba 3.2 the world's #1 voice model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532500+00:00"
+    },
+    {
+      "id": "b6c058de01d4",
+      "name": "Playground",
+      "url": "https://www.producthunt.com/products/nyx-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Earn $100K+ in weekly rewards for hacking AI agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532569+00:00"
+    },
+    {
+      "id": "acc64dbbf338",
+      "name": "UnitPay",
+      "url": "https://www.producthunt.com/products/unitpay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Price, bill, and prove value for your AI product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532619+00:00"
+    },
+    {
+      "id": "c5efddc391ab",
+      "name": "Marked QL",
+      "url": "https://www.producthunt.com/products/marked-ql",
       "source": "Product Hunt AI (feed)",
       "category": "ricerca",
       "tags": [
-        "search"
+        "find"
       ],
       "pricing": "Free tier",
-      "description_it": "The search engine for doing, with apps built for you\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Instant markdown previews in Finder\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903536+00:00"
+      "discovered_at": "2026-07-13T10:26:16.532688+00:00"
+    },
+    {
+      "id": "3c9a2e0c31e2",
+      "name": "Knockoff",
+      "url": "https://www.producthunt.com/products/knockoff-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Amazon, without the knockoffs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532734+00:00"
     },
     {
       "id": "242edeb19387",
@@ -433,7 +567,7 @@
       "description_it": "Scale your creativity on editable canvas with agent memory\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903614+00:00"
+      "discovered_at": "2026-07-13T10:26:16.532800+00:00"
     },
     {
       "id": "53e531c8a735",
@@ -449,7 +583,96 @@
       "description_it": "API integration testing that remembers what breaks\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903689+00:00"
+      "discovered_at": "2026-07-13T10:26:16.532867+00:00"
+    },
+    {
+      "id": "a0742bbe8ff0",
+      "name": "JustVibe",
+      "url": "https://www.producthunt.com/products/justvibe",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The search engine for doing, with apps built for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532936+00:00"
+    },
+    {
+      "id": "1605905abc84",
+      "name": "ServiceBeard",
+      "url": "https://www.producthunt.com/products/servicebeard",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Sync your mailbox with your issue tracker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.532987+00:00"
+    },
+    {
+      "id": "a08031f1c4e6",
+      "name": "Second Brain for AI v2",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free",
+      "description_it": "AI memory that connects the dots across every tool\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.533058+00:00"
+    },
+    {
+      "id": "96f13b004dfd",
+      "name": "Kickbacks CLI",
+      "url": "https://www.producthunt.com/products/kickbacks-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The terminal and Mac menu bar companion for Kickbacks.ai\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.533127+00:00"
+    },
+    {
+      "id": "b5e69b9e17d7",
+      "name": "Cloudflare Drop",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drop your folder in browser & deploy instantly on Cloudflare\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.533196+00:00"
+    },
+    {
+      "id": "976fa6066619",
+      "name": "SoundPipe",
+      "url": "https://www.producthunt.com/products/soundpipe",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SoundPipe is a mixing board for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-13T10:26:16.533283+00:00"
     },
     {
       "id": "f9bc11d568b2",
@@ -499,21 +722,6 @@
       "discovered_at": "2026-07-12T09:04:05.903912+00:00"
     },
     {
-      "id": "b5e69b9e17d7",
-      "name": "Cloudflare Drop",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "deploy"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Drop your folder in browser & deploy instantly on Cloudflare\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.903986+00:00"
-    },
-    {
       "id": "af0cdb785e4d",
       "name": "Effects SDK",
       "url": "https://www.producthunt.com/products/effects-sdk",
@@ -532,21 +740,6 @@
       "discovered_at": "2026-07-12T09:04:05.904057+00:00"
     },
     {
-      "id": "976fa6066619",
-      "name": "SoundPipe",
-      "url": "https://www.producthunt.com/products/soundpipe",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "sound"
-      ],
-      "pricing": "Free tier",
-      "description_it": "SoundPipe is a mixing board for your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.904133+00:00"
-    },
-    {
       "id": "43cf53cca017",
       "name": "Basedash SCIM",
       "url": "https://www.producthunt.com/products/basedash",
@@ -558,22 +751,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-12T09:04:05.904183+00:00"
-    },
-    {
-      "id": "96f13b004dfd",
-      "name": "Kickbacks CLI",
-      "url": "https://www.producthunt.com/products/kickbacks-cli",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "terminal"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The terminal and Mac menu bar companion for Kickbacks.ai\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.904254+00:00"
     },
     {
       "id": "cdd2b2b7d67d",
@@ -19115,22 +19292,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-22T08:31:05.878053+00:00"
-    },
-    {
-      "id": "ec107e957ce4",
-      "name": "Loomal",
-      "url": "https://www.producthunt.com/products/loomal",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Identity infrastructure for AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-22T08:31:05.878121+00:00"
     },
     {
       "id": "2ce23a3441f7",
