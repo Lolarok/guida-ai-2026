@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T10:26:16.786767+00:00",
-  "total": 1753,
+  "updated_at": "2026-07-14T09:05:49.081954+00:00",
+  "total": 1773,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "85819b97b6c6",
+      "name": "VocalVia",
+      "url": "https://www.producthunt.com/products/vocalvia",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "art",
+        "audio",
+        "vocal",
+        "voice",
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn documents and articles into editable multi-voice audio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.929650+00:00"
+    },
+    {
+      "id": "f46c82acfc7c",
+      "name": "Sales Studio",
+      "url": "https://www.producthunt.com/products/sales-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Private studio for live demos on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.929728+00:00"
+    },
+    {
+      "id": "e3c4c29872f1",
+      "name": "AutoShelf 2.0",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Auto-organize files on your Mac now with MCP & CLI support\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.929809+00:00"
+    },
+    {
+      "id": "cf1c026652a0",
+      "name": "Animos App",
+      "url": "https://www.producthunt.com/products/animos-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Showcase your designs in motion\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.929881+00:00"
+    },
+    {
+      "id": "0797c72c72ee",
+      "name": "PgDog",
+      "url": "https://www.producthunt.com/products/pgdog",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Scale PostgreSQL without changing your app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.929936+00:00"
+    },
+    {
+      "id": "75e71920deb9",
+      "name": "BugShot",
+      "url": "https://www.producthunt.com/products/bugshot-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover, fix, capture, and report bugs in one shot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930010+00:00"
+    },
+    {
+      "id": "7f32b36c7870",
+      "name": "Agentcard for companies",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your agent a debit card\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930087+00:00"
+    },
+    {
+      "id": "19d8be5b782b",
+      "name": "Portero",
+      "url": "https://www.producthunt.com/products/portero",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know exactly what's running on every port of your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930159+00:00"
+    },
+    {
+      "id": "4a94503db3a3",
+      "name": "Altersend",
+      "url": "https://www.producthunt.com/products/altersend",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "File transfer with no cloud storage, no account, no limits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930216+00:00"
+    },
+    {
+      "id": "687f77e31510",
+      "name": "Flyout",
+      "url": "https://www.producthunt.com/products/flyout",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rich-text notes that fly out from your Mac's screen edge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930289+00:00"
+    },
+    {
+      "id": "dc1b37c17e98",
+      "name": "loopclub",
+      "url": "https://www.producthunt.com/products/loopclub",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The shared drum machine to jam with strangers or with Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930368+00:00"
+    },
+    {
+      "id": "89d6dd69e708",
+      "name": "Breva",
+      "url": "https://www.producthunt.com/products/breva",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac trackpad into a gentle breathing guide\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930441+00:00"
+    },
+    {
+      "id": "c3c1c28f08bc",
+      "name": "Trump Accounts",
+      "url": "https://www.producthunt.com/products/trump-accounts",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build long-term financial security for your child\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930494+00:00"
+    },
+    {
+      "id": "aa7676b8419f",
+      "name": "Mojave Paint",
+      "url": "https://www.producthunt.com/products/mojave-paint",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Direct manipulation of static images on the Mac platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930572+00:00"
+    },
+    {
+      "id": "4423939e47f6",
+      "name": "Sourclip",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "cli",
+        "clip",
+        "search",
+        "research",
+        "notebook"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn NotebookLM into a complete research workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930641+00:00"
+    },
+    {
+      "id": "203e48acd431",
+      "name": "Claude Overlay",
+      "url": "https://www.producthunt.com/products/claude-overlay",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "chat",
+        "claude",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A floating Claude Code chat that sees your screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930714+00:00"
+    },
+    {
+      "id": "e092382dd5a9",
+      "name": "Branda",
+      "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "brand"
+      ],
+      "pricing": "Free",
+      "description_it": "Turn any domain into on-brand ads, MIT Open Source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930791+00:00"
+    },
+    {
+      "id": "f965c735eacb",
+      "name": "ClipFlow",
+      "url": "https://www.producthunt.com/products/clipflow-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "video",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Small video jobs, without a timeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930860+00:00"
+    },
+    {
+      "id": "1642543d2379",
+      "name": "ClawTeams",
+      "url": "https://www.producthunt.com/products/clawteams",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The first goal-driven, proactive AI team for e-commerce\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930918+00:00"
+    },
+    {
+      "id": "513902fb3902",
+      "name": "Goose Ads Remixer",
+      "url": "https://www.producthunt.com/products/gooseworks",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Remix the ads already winning in your niche\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-14T09:05:48.930989+00:00"
     },
     {
       "id": "a63048291cb3",
