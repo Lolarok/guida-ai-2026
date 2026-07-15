@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T09:05:49.081954+00:00",
-  "total": 1773,
+  "updated_at": "2026-07-15T09:10:49.163931+00:00",
+  "total": 1793,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5bec868022e5",
+      "name": "QuickQuill",
+      "url": "https://www.producthunt.com/products/quickquill-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private, on-device meeting notes for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.925898+00:00"
+    },
+    {
+      "id": "3d79688440ac",
+      "name": "Keepresso",
+      "url": "https://www.producthunt.com/products/keepresso",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Keep your Mac awake, on your terms. Free and open source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.925976+00:00"
+    },
+    {
+      "id": "0802dc844c2a",
+      "name": "Tiptap AI Toolkit",
+      "url": "https://www.producthunt.com/products/tiptap",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Empower your AI to directly edit documents in real time.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926059+00:00"
+    },
+    {
+      "id": "d652cd724aa5",
+      "name": "Flodesk Studio",
+      "url": "https://www.producthunt.com/products/flodesk-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A place to make beautiful emails.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926130+00:00"
+    },
+    {
+      "id": "48949b99ff97",
+      "name": "Copresent",
+      "url": "https://www.producthunt.com/products/co-present",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your phone into a Google Slides remote\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926219+00:00"
+    },
+    {
+      "id": "6722c4141032",
+      "name": "Campus",
+      "url": "https://www.producthunt.com/products/flutterflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One project space for humans and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926290+00:00"
+    },
+    {
+      "id": "6f89d68a08ce",
+      "name": "ccshare",
+      "url": "https://www.producthunt.com/products/ccshare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "multiplayer claude code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926361+00:00"
+    },
+    {
+      "id": "d20cc99c4324",
+      "name": "MentalHappy 3.0",
+      "url": "https://www.producthunt.com/products/mentalhappy",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find & host online support groups that actually fill up\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926437+00:00"
+    },
+    {
+      "id": "000a4592499e",
+      "name": "nudge2.0",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI schedules your whole week to take action\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926507+00:00"
+    },
+    {
+      "id": "858137f9cf86",
+      "name": "Crustdata Recruiter",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust",
+        "claude",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Skills to turn Claude into a 100x Recruiter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926582+00:00"
+    },
+    {
+      "id": "e97a83bfdd44",
+      "name": "Professional Email Templates",
+      "url": "https://www.producthunt.com/products/professional-email-templates",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "75 ready-to-use email templates for work & job search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926663+00:00"
+    },
+    {
+      "id": "3803a3708f47",
+      "name": "EQK",
+      "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mac app with dynamic AI EQ\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926710+00:00"
+    },
+    {
+      "id": "9f0ae25c931d",
+      "name": "RecordMeeting",
+      "url": "https://www.producthunt.com/products/recordmeeting",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "transcri",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record and transcribe Google Meet calls in one click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926784+00:00"
+    },
+    {
+      "id": "84f878d7f8fc",
+      "name": "V2Fun",
+      "url": "https://www.producthunt.com/products/v2fun",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate 3D character with 8K textures and AI motion capture\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926857+00:00"
+    },
+    {
+      "id": "cfb661d0360f",
+      "name": "Velo 3.0",
+      "url": "https://www.producthunt.com/products/velo-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI video infrastructure to explain, train, and sell faster.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926928+00:00"
+    },
+    {
+      "id": "4f51d3f4b142",
+      "name": "Agently",
+      "url": "https://www.producthunt.com/products/agently",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your whole stack, running itself!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.926996+00:00"
+    },
+    {
+      "id": "20f9d71a4d14",
+      "name": "Clerk",
+      "url": "https://www.producthunt.com/products/withmantle",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Issue grants, model funding rounds, ask it anything equity\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.927066+00:00"
+    },
+    {
+      "id": "ebe3f6eb6273",
+      "name": "Review by Eddie AI",
+      "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Time-stamped feedback on your video from your team. And AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.927150+00:00"
+    },
+    {
+      "id": "110df0221997",
+      "name": "DeskMat 1.3",
+      "url": "https://www.producthunt.com/products/deskmat-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Now hide individual files + folders for more private desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.927224+00:00"
+    },
+    {
+      "id": "fc543b48acf0",
+      "name": "YAGNI",
+      "url": "https://www.producthunt.com/products/yagni",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Proactive agent teams you manage like humans\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-15T09:10:48.927291+00:00"
     },
     {
       "id": "85819b97b6c6",
