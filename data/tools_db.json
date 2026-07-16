@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T09:10:49.163931+00:00",
-  "total": 1793,
+  "updated_at": "2026-07-16T09:15:18.849105+00:00",
+  "total": 1813,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,302 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "6ab204299a0a",
+      "name": "Cito",
+      "url": "https://www.producthunt.com/products/cito",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hybrid academic search over 236M papers, built for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.572760+00:00"
+    },
+    {
+      "id": "6a0ea67d8fd1",
+      "name": "dot.",
+      "url": "https://www.producthunt.com/products/dot-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The feedback layer for anything you build with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.572822+00:00"
+    },
+    {
+      "id": "8e0695f99ee0",
+      "name": "The Eureka Database",
+      "url": "https://www.producthunt.com/products/the-eureka-database",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn a Reddit complaint into your next company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.572884+00:00"
+    },
+    {
+      "id": "1e85e41480fd",
+      "name": "Kit For AI",
+      "url": "https://www.producthunt.com/products/kit-for-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The memory layer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.572940+00:00"
+    },
+    {
+      "id": "1c0aba039944",
+      "name": "Microflow",
+      "url": "https://www.producthunt.com/products/microflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Microcontrollers made simple.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573012+00:00"
+    },
+    {
+      "id": "a5fec9d1d094",
+      "name": "Nuvio",
+      "url": "https://www.producthunt.com/products/nuvio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect your X bio to your MRR and GA4 for auto updates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573071+00:00"
+    },
+    {
+      "id": "4ba24ff563cf",
+      "name": "Nitrosend",
+      "url": "https://www.producthunt.com/products/nitrosend",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email for AI agents. They sign up, send and reply.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573131+00:00"
+    },
+    {
+      "id": "bc2eca8aa44d",
+      "name": "SIMPLI",
+      "url": "https://www.producthunt.com/products/simpli-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Split expenses in a live cosmos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573173+00:00"
+    },
+    {
+      "id": "998c69bd7ac7",
+      "name": "Codex Micro",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tactile controls for your Codex agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573228+00:00"
+    },
+    {
+      "id": "7230df33e364",
+      "name": "Verse",
+      "url": "https://www.producthunt.com/products/verse-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build and hire autonomous AI employees from a single prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573269+00:00"
+    },
+    {
+      "id": "a375707b0235",
+      "name": "ChikitAI",
+      "url": "https://www.producthunt.com/products/chikitai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic AI for Healthcare Triage and Care Automation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573329+00:00"
+    },
+    {
+      "id": "1c9c55e6df59",
+      "name": "Cloud Halo",
+      "url": "https://www.producthunt.com/products/cloud-halo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Azure FinOps for MSPs with flat pricing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573371+00:00"
+    },
+    {
+      "id": "8ba2535b4e36",
+      "name": "SonOf",
+      "url": "https://www.producthunt.com/products/sonof",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Empty your backlog. Pay only when it ships\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573409+00:00"
+    },
+    {
+      "id": "ef8652269dd3",
+      "name": "Amami",
+      "url": "https://www.producthunt.com/products/amami",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "assistant",
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Analytics that lives inside your AI assistant \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573464+00:00"
+    },
+    {
+      "id": "a5ed3ed8b569",
+      "name": "Node Health",
+      "url": "https://www.producthunt.com/products/node-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private home for every lab result\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573516+00:00"
+    },
+    {
+      "id": "259f2e19de5f",
+      "name": "BrickSolvr",
+      "url": "https://www.producthunt.com/products/bricksolvr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any 3D model into a buildable brick model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573555+00:00"
+    },
+    {
+      "id": "ac4390f0a55e",
+      "name": "ClipMatch",
+      "url": "https://www.producthunt.com/products/clipmatch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your camera roll into social content with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573609+00:00"
+    },
+    {
+      "id": "4904a77af495",
+      "name": "Graft AI",
+      "url": "https://www.producthunt.com/products/graft-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn company operations into a living map for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573663+00:00"
+    },
+    {
+      "id": "12f8ccfef834",
+      "name": "River",
+      "url": "https://www.producthunt.com/products/river-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI account executives that demo and close B2B deals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573701+00:00"
+    },
+    {
+      "id": "102ab2cec731",
+      "name": "DevSwat",
+      "url": "https://www.producthunt.com/products/resonantgenesis",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn codebases into interactive maps, graphs, and governance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-16T09:15:18.573758+00:00"
     },
     {
       "id": "5bec868022e5",
