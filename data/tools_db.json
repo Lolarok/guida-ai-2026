@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T09:15:18.849105+00:00",
-  "total": 1813,
+  "updated_at": "2026-07-17T09:08:53.738628+00:00",
+  "total": 1827,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,298 @@
       "featured": false
     },
     {
+      "id": "5621ac605050",
+      "name": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI sales platform for modern B2B teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593079+00:00"
+    },
+    {
+      "id": "28c982d60a88",
+      "name": "Scribble Party",
+      "url": "https://www.producthunt.com/products/scribble-party",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local-first whiteboard studio for teachers and creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593190+00:00"
+    },
+    {
+      "id": "b663e854e6c4",
+      "name": "Aye",
+      "url": "https://www.producthunt.com/products/aye-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your teachable AI intern for everyday browser work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593249+00:00"
+    },
+    {
+      "id": "a46151e30a99",
+      "name": "PixyCAD",
+      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast & precise 3D CAD built natively for iPad and Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593325+00:00"
+    },
+    {
+      "id": "57542e6dfe1b",
+      "name": "Yapper Leaderboard",
+      "url": "https://www.producthunt.com/products/yapper-leaderboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See the biggest startup yappers on X/Twitter \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593401+00:00"
+    },
+    {
+      "id": "52cba99e8eeb",
+      "name": "Pocket Screen",
+      "url": "https://www.producthunt.com/products/toybird-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep any Mac window visible in a floating mini screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593478+00:00"
+    },
+    {
+      "id": "f0744258e568",
+      "name": "Unabyss for Claude",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Shared memory across all apps and LLMs. In Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593563+00:00"
+    },
+    {
+      "id": "497df185d4c2",
+      "name": "Basedash Suggestions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI data analyst, now with ideas of its own.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593643+00:00"
+    },
+    {
+      "id": "a1e2626d1d2c",
+      "name": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The world's first open 3T-class model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593701+00:00"
+    },
+    {
+      "id": "7e458c16721b",
+      "name": "Timely",
+      "url": "https://www.producthunt.com/products/timely-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pull your calendar availability in 3 seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593771+00:00"
+    },
+    {
+      "id": "ac4390f0a55e",
+      "name": "ClipMatch",
+      "url": "https://www.producthunt.com/products/clipmatch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your camera roll into social content with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593845+00:00"
+    },
+    {
+      "id": "2bf51f4eaaae",
+      "name": "Inbix",
+      "url": "https://www.producthunt.com/products/inbix",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloudflare-native Email Infrastructure for Developers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593931+00:00"
+    },
+    {
+      "id": "bc2eca8aa44d",
+      "name": "SIMPLI",
+      "url": "https://www.producthunt.com/products/simpli-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Split expenses in a live cosmos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.593983+00:00"
+    },
+    {
+      "id": "0a8de336c0ce",
+      "name": "Ventorah",
+      "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis"
+      ],
+      "pricing": "Free tier",
+      "description_it": "run virtual wind tunnel aerodynamic analysis in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594054+00:00"
+    },
+    {
+      "id": "312852eb71db",
+      "name": "FlightGlitch",
+      "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Catch mistake fares before airlines fix them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594106+00:00"
+    },
+    {
+      "id": "1c0aba039944",
+      "name": "Microflow",
+      "url": "https://www.producthunt.com/products/microflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Microcontrollers made simple.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594171+00:00"
+    },
+    {
+      "id": "1c9c55e6df59",
+      "name": "Cloud Halo",
+      "url": "https://www.producthunt.com/products/cloud-halo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Azure FinOps for MSPs with flat pricing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594223+00:00"
+    },
+    {
+      "id": "e54b4979c317",
+      "name": "Alert Grouping by DrDroid",
+      "url": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "noise"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Reduce Your Alerts Noise Completely\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594294+00:00"
+    },
+    {
+      "id": "6a0ea67d8fd1",
+      "name": "dot.",
+      "url": "https://www.producthunt.com/products/dot-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The feedback layer for anything you build with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594344+00:00"
+    },
+    {
+      "id": "a5fec9d1d094",
+      "name": "Nuvio",
+      "url": "https://www.producthunt.com/products/nuvio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect your X bio to your MRR and GA4 for auto updates\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-17T09:08:53.594414+00:00"
+    },
+    {
       "id": "6ab204299a0a",
       "name": "Cito",
       "url": "https://www.producthunt.com/products/cito",
@@ -393,19 +685,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-16T09:15:18.572760+00:00"
-    },
-    {
-      "id": "6a0ea67d8fd1",
-      "name": "dot.",
-      "url": "https://www.producthunt.com/products/dot-7",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The feedback layer for anything you build with AI.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.572822+00:00"
     },
     {
       "id": "8e0695f99ee0",
@@ -438,36 +717,6 @@
       "discovered_at": "2026-07-16T09:15:18.572940+00:00"
     },
     {
-      "id": "1c0aba039944",
-      "name": "Microflow",
-      "url": "https://www.producthunt.com/products/microflow",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Microcontrollers made simple.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.573012+00:00"
-    },
-    {
-      "id": "a5fec9d1d094",
-      "name": "Nuvio",
-      "url": "https://www.producthunt.com/products/nuvio-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "connect"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Connect your X bio to your MRR and GA4 for auto updates\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.573071+00:00"
-    },
-    {
       "id": "4ba24ff563cf",
       "name": "Nitrosend",
       "url": "https://www.producthunt.com/products/nitrosend",
@@ -482,19 +731,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-16T09:15:18.573131+00:00"
-    },
-    {
-      "id": "bc2eca8aa44d",
-      "name": "SIMPLI",
-      "url": "https://www.producthunt.com/products/simpli-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Split expenses in a live cosmos\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.573173+00:00"
     },
     {
       "id": "998c69bd7ac7",
@@ -540,19 +776,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-16T09:15:18.573329+00:00"
-    },
-    {
-      "id": "1c9c55e6df59",
-      "name": "Cloud Halo",
-      "url": "https://www.producthunt.com/products/cloud-halo",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Azure FinOps for MSPs with flat pricing\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.573371+00:00"
     },
     {
       "id": "8ba2535b4e36",
@@ -611,23 +834,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-16T09:15:18.573555+00:00"
-    },
-    {
-      "id": "ac4390f0a55e",
-      "name": "ClipMatch",
-      "url": "https://www.producthunt.com/products/clipmatch",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "clip",
-        "content"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn your camera roll into social content with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-16T09:15:18.573609+00:00"
     },
     {
       "id": "4904a77af495",
