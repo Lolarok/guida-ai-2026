@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T09:08:53.738628+00:00",
-  "total": 1827,
+  "updated_at": "2026-07-18T08:49:31.604324+00:00",
+  "total": 1835,
   "tools": [
     {
       "name": "Cursor",
@@ -378,76 +378,134 @@
       "featured": false
     },
     {
-      "id": "5621ac605050",
-      "name": "Pebbles Ai",
-      "url": "https://www.producthunt.com/products/pebbles-ai",
+      "id": "aecd16544bf6",
+      "name": "Clark",
+      "url": "https://www.producthunt.com/products/clark-agent",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "AI sales platform for modern B2B teams\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "An AI coworker with its own cloud computer\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593079+00:00"
+      "discovered_at": "2026-07-18T08:49:31.429674+00:00"
     },
     {
-      "id": "28c982d60a88",
-      "name": "Scribble Party",
-      "url": "https://www.producthunt.com/products/scribble-party",
+      "id": "8810832e7b93",
+      "name": "DocuSmart AI",
+      "url": "https://www.producthunt.com/products/docusmart-ai",
       "source": "Product Hunt AI (feed)",
       "category": "immagini",
       "tags": [
         "art"
       ],
       "pricing": "Free tier",
-      "description_it": "A local-first whiteboard studio for teachers and creators\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Turning fragmented knowledge into one simple system\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593190+00:00"
+      "discovered_at": "2026-07-18T08:49:31.429769+00:00"
     },
     {
-      "id": "b663e854e6c4",
-      "name": "Aye",
-      "url": "https://www.producthunt.com/products/aye-browser",
+      "id": "b3680e4cdbaa",
+      "name": "Mainichi",
+      "url": "https://www.producthunt.com/products/mainichi-2",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Your teachable AI intern for everyday browser work\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Learn Japanese, one prefecture at a time.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593249+00:00"
+      "discovered_at": "2026-07-18T08:49:31.429826+00:00"
     },
     {
-      "id": "a46151e30a99",
-      "name": "PixyCAD",
-      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "id": "7dfbb5c77d24",
+      "name": "ZooData",
+      "url": "https://www.producthunt.com/products/zoodata",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The data layer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.429894+00:00"
+    },
+    {
+      "id": "33bc42b3a1fb",
+      "name": "Acebuilder",
+      "url": "https://www.producthunt.com/products/acebuilder",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build landing pages with Aceternity UI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.429946+00:00"
+    },
+    {
+      "id": "65fe82d5cca6",
+      "name": "Mirage",
+      "url": "https://www.producthunt.com/products/mirage-15",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your SaaS into a clickable demo in 90 seconds.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430021+00:00"
+    },
+    {
+      "id": "c938f2873ae1",
+      "name": "LiveDemo",
+      "url": "https://www.producthunt.com/products/livedemo",
       "source": "Product Hunt AI (feed)",
       "category": "marketing",
       "tags": [
-        "ad"
+        "ad",
+        "story"
       ],
-      "pricing": "Free tier",
-      "description_it": "Fast & precise 3D CAD built natively for iPad and Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free",
+      "description_it": "Open-source alternative to Storylane, Navattic, and Arcade\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593325+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430096+00:00"
     },
     {
-      "id": "57542e6dfe1b",
-      "name": "Yapper Leaderboard",
-      "url": "https://www.producthunt.com/products/yapper-leaderboard",
+      "id": "303a02b43bbf",
+      "name": "Buzzy",
+      "url": "https://www.producthunt.com/products/buzzy-2",
       "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "art",
-        "ad"
-      ],
+      "category": "altro",
+      "tags": [],
       "pricing": "Free tier",
-      "description_it": "See the biggest startup yappers on X/Twitter \n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your creative AI co-director\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593401+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430148+00:00"
+    },
+    {
+      "id": "10dfe0060261",
+      "name": "OpenMarkdown",
+      "url": "https://www.producthunt.com/products/openmarkdown",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A markdown editor you and your agent co-edit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430236+00:00"
     },
     {
       "id": "52cba99e8eeb",
@@ -462,22 +520,20 @@
       "description_it": "Keep any Mac window visible in a floating mini screen\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593478+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430311+00:00"
     },
     {
-      "id": "f0744258e568",
-      "name": "Unabyss for Claude",
-      "url": "https://www.producthunt.com/products/unabyss",
+      "id": "a1e2626d1d2c",
+      "name": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
       "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "claude"
-      ],
-      "pricing": "Free",
-      "description_it": "Shared memory across all apps and LLMs. In Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The world's first open 3T-class model\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593563+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430370+00:00"
     },
     {
       "id": "497df185d4c2",
@@ -493,20 +549,94 @@
       "description_it": "Your AI data analyst, now with ideas of its own.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593643+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430442+00:00"
     },
     {
-      "id": "a1e2626d1d2c",
-      "name": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "id": "5621ac605050",
+      "name": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "The world's first open 3T-class model\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI sales platform for modern B2B teams\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593701+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430493+00:00"
+    },
+    {
+      "id": "f0744258e568",
+      "name": "Unabyss for Claude",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Shared memory across all apps and LLMs. In Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430563+00:00"
+    },
+    {
+      "id": "a46151e30a99",
+      "name": "PixyCAD",
+      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast & precise 3D CAD built natively for iPad and Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430633+00:00"
+    },
+    {
+      "id": "28c982d60a88",
+      "name": "Scribble Party",
+      "url": "https://www.producthunt.com/products/scribble-party",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local-first whiteboard studio for teachers and creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430707+00:00"
+    },
+    {
+      "id": "b663e854e6c4",
+      "name": "Aye",
+      "url": "https://www.producthunt.com/products/aye-browser",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your teachable AI intern for everyday browser work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430760+00:00"
+    },
+    {
+      "id": "57542e6dfe1b",
+      "name": "Yapper Leaderboard",
+      "url": "https://www.producthunt.com/products/yapper-leaderboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See the biggest startup yappers on X/Twitter \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430831+00:00"
     },
     {
       "id": "7e458c16721b",
@@ -521,7 +651,7 @@
       "description_it": "Pull your calendar availability in 3 seconds\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-17T09:08:53.593771+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430898+00:00"
     },
     {
       "id": "ac4390f0a55e",
@@ -20618,19 +20748,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-21T08:56:35.124403+00:00"
-    },
-    {
-      "id": "c938f2873ae1",
-      "name": "LiveDemo",
-      "url": "https://www.producthunt.com/products/livedemo",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Open-source Interactive product demos\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-21T08:56:35.124467+00:00"
     },
     {
       "id": "ee0f249a4b9e",
