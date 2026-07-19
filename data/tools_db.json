@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T08:49:31.604324+00:00",
-  "total": 1835,
+  "updated_at": "2026-07-19T09:06:24.657425+00:00",
+  "total": 1841,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,92 @@
       "featured": false
     },
     {
+      "id": "3ba112c5d97a",
+      "name": "BaseRT",
+      "url": "https://www.producthunt.com/products/basert",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "llama"
+      ],
+      "pricing": "Free tier",
+      "description_it": "6.4x faster than llama.cpp, 3.9x faster than MLX\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406567+00:00"
+    },
+    {
+      "id": "74c5e3e93ac1",
+      "name": "Detourmap",
+      "url": "https://www.producthunt.com/products/detourmap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every place worth the detour, on one interactive map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406660+00:00"
+    },
+    {
+      "id": "d603c95fee2c",
+      "name": "Rewisp — an ambient memory for your Mac",
+      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See it once. Ask forever.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406754+00:00"
+    },
+    {
+      "id": "dca38e44e9b7",
+      "name": "Kobbe",
+      "url": "https://www.producthunt.com/products/kobbe",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Privacy-friendly web analytics with traffic and revenue.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406826+00:00"
+    },
+    {
+      "id": "96f55fa90620",
+      "name": "Spycost",
+      "url": "https://www.producthunt.com/products/spycost",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Fell for a discount again?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406872+00:00"
+    },
+    {
+      "id": "a09256e87099",
+      "name": "OpenSEO",
+      "url": "https://www.producthunt.com/products/openseo",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "seo"
+      ],
+      "pricing": "Free",
+      "description_it": "The open source Ahrefs alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.406939+00:00"
+    },
+    {
       "id": "aecd16544bf6",
       "name": "Clark",
       "url": "https://www.producthunt.com/products/clark-agent",
@@ -388,35 +474,22 @@
       "description_it": "An AI coworker with its own cloud computer\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.429674+00:00"
+      "discovered_at": "2026-07-19T09:06:24.406993+00:00"
     },
     {
-      "id": "8810832e7b93",
-      "name": "DocuSmart AI",
-      "url": "https://www.producthunt.com/products/docusmart-ai",
+      "id": "65fe82d5cca6",
+      "name": "Mirage",
+      "url": "https://www.producthunt.com/products/mirage-15",
       "source": "Product Hunt AI (feed)",
-      "category": "immagini",
+      "category": "coding",
       "tags": [
-        "art"
+        "cli"
       ],
       "pricing": "Free tier",
-      "description_it": "Turning fragmented knowledge into one simple system\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Turn your SaaS into a clickable demo in 90 seconds.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.429769+00:00"
-    },
-    {
-      "id": "b3680e4cdbaa",
-      "name": "Mainichi",
-      "url": "https://www.producthunt.com/products/mainichi-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Learn Japanese, one prefecture at a time.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.429826+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407063+00:00"
     },
     {
       "id": "7dfbb5c77d24",
@@ -432,7 +505,7 @@
       "description_it": "The data layer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.429894+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407124+00:00"
     },
     {
       "id": "33bc42b3a1fb",
@@ -445,51 +518,22 @@
       "description_it": "Build landing pages with Aceternity UI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.429946+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407171+00:00"
     },
     {
-      "id": "65fe82d5cca6",
-      "name": "Mirage",
-      "url": "https://www.producthunt.com/products/mirage-15",
+      "id": "8810832e7b93",
+      "name": "DocuSmart AI",
+      "url": "https://www.producthunt.com/products/docusmart-ai",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
+      "category": "immagini",
       "tags": [
-        "cli"
+        "art"
       ],
       "pricing": "Free tier",
-      "description_it": "Turn your SaaS into a clickable demo in 90 seconds.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Turning fragmented knowledge into one simple system\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430021+00:00"
-    },
-    {
-      "id": "c938f2873ae1",
-      "name": "LiveDemo",
-      "url": "https://www.producthunt.com/products/livedemo",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad",
-        "story"
-      ],
-      "pricing": "Free",
-      "description_it": "Open-source alternative to Storylane, Navattic, and Arcade\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430096+00:00"
-    },
-    {
-      "id": "303a02b43bbf",
-      "name": "Buzzy",
-      "url": "https://www.producthunt.com/products/buzzy-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your creative AI co-director\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430148+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407246+00:00"
     },
     {
       "id": "10dfe0060261",
@@ -505,7 +549,64 @@
       "description_it": "A markdown editor you and your agent co-edit\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430236+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407312+00:00"
+    },
+    {
+      "id": "b3680e4cdbaa",
+      "name": "Mainichi",
+      "url": "https://www.producthunt.com/products/mainichi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn Japanese, one prefecture at a time.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.407360+00:00"
+    },
+    {
+      "id": "c938f2873ae1",
+      "name": "LiveDemo",
+      "url": "https://www.producthunt.com/products/livedemo",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "story"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source alternative to Storylane, Navattic, and Arcade\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.407436+00:00"
+    },
+    {
+      "id": "a1e2626d1d2c",
+      "name": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The world's first open 3T-class model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.407482+00:00"
+    },
+    {
+      "id": "a46151e30a99",
+      "name": "PixyCAD",
+      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast & precise 3D CAD built natively for iPad and Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-19T09:06:24.407547+00:00"
     },
     {
       "id": "52cba99e8eeb",
@@ -520,20 +621,7 @@
       "description_it": "Keep any Mac window visible in a floating mini screen\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430311+00:00"
-    },
-    {
-      "id": "a1e2626d1d2c",
-      "name": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The world's first open 3T-class model\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430370+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407629+00:00"
     },
     {
       "id": "497df185d4c2",
@@ -549,20 +637,7 @@
       "description_it": "Your AI data analyst, now with ideas of its own.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430442+00:00"
-    },
-    {
-      "id": "5621ac605050",
-      "name": "Pebbles Ai",
-      "url": "https://www.producthunt.com/products/pebbles-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI sales platform for modern B2B teams\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430493+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407700+00:00"
     },
     {
       "id": "f0744258e568",
@@ -577,22 +652,33 @@
       "description_it": "Shared memory across all apps and LLMs. In Claude\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430563+00:00"
+      "discovered_at": "2026-07-19T09:06:24.407770+00:00"
     },
     {
-      "id": "a46151e30a99",
-      "name": "PixyCAD",
-      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "id": "303a02b43bbf",
+      "name": "Buzzy",
+      "url": "https://www.producthunt.com/products/buzzy-2",
       "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
+      "category": "altro",
+      "tags": [],
       "pricing": "Free tier",
-      "description_it": "Fast & precise 3D CAD built natively for iPad and Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your creative AI co-director\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430633+00:00"
+      "discovered_at": "2026-07-18T08:49:31.430148+00:00"
+    },
+    {
+      "id": "5621ac605050",
+      "name": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI sales platform for modern B2B teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-18T08:49:31.430493+00:00"
     },
     {
       "id": "28c982d60a88",
