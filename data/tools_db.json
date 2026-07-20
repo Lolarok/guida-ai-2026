@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T09:06:24.657425+00:00",
-  "total": 1841,
+  "updated_at": "2026-07-20T10:01:10.358754+00:00",
+  "total": 1860,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a79f44aae129",
+      "name": "LayerProof Mylar",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "motion",
+        "erp",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create launch-ready motion videos for your products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209138+00:00"
+    },
+    {
+      "id": "82f8400cf854",
+      "name": "CaptureKit",
+      "url": "https://www.producthunt.com/products/capturekit-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep your desktop clean by auto-organizing screenshots.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209236+00:00"
+    },
+    {
+      "id": "616e4d882e98",
+      "name": "NeuroVidz",
+      "url": "https://www.producthunt.com/products/neurovidz",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "react",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how a brain reacts to your clip\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209307+00:00"
+    },
+    {
+      "id": "169f642bab5a",
+      "name": "Skippr AI",
+      "url": "https://www.producthunt.com/products/skippr-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The live AI employee inside your product, serving every user\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209379+00:00"
+    },
+    {
+      "id": "40f67442d980",
+      "name": "LnkFlow",
+      "url": "https://www.producthunt.com/products/lnkflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic click tracking that shows what grows your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209472+00:00"
+    },
+    {
+      "id": "5c68aa7c6ff2",
+      "name": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Privacy-friendly web analytics with realtime AI insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209544+00:00"
+    },
+    {
+      "id": "9f85bb2fe8d8",
+      "name": "Deck",
+      "url": "https://www.producthunt.com/products/deck-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The most capable AI assistant with its own inbox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209620+00:00"
+    },
+    {
+      "id": "6ef7aebbb177",
+      "name": "Backdrop",
+      "url": "https://www.producthunt.com/products/backdrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Coworkers that run your projects and operations \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209695+00:00"
+    },
+    {
+      "id": "1d7f319354ce",
+      "name": "Scriptyard",
+      "url": "https://www.producthunt.com/products/scriptyard",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "visual",
+        "story"
+      ],
+      "pricing": "Free",
+      "description_it": "A free visual story development workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209766+00:00"
+    },
+    {
+      "id": "17dac8ea5b1d",
+      "name": "Fuzzy AI",
+      "url": "https://www.producthunt.com/products/fuzzy-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "We warm your prospects before reaching out\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209822+00:00"
+    },
+    {
+      "id": "819277f04563",
+      "name": "Autoplot",
+      "url": "https://www.producthunt.com/products/autoplot",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Unify data analysis and plotting in one powerful workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209896+00:00"
+    },
+    {
+      "id": "ab3a0c6d3fb1",
+      "name": "Inkling",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Open weights 975B multimodal model built for fine-tuning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.209951+00:00"
+    },
+    {
+      "id": "697295d611d3",
+      "name": "Nautis",
+      "url": "https://www.producthunt.com/products/nautis",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI-native Operating System for founders.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210000+00:00"
+    },
+    {
+      "id": "3b3d773921fd",
+      "name": "Kogvio",
+      "url": "https://www.producthunt.com/products/kogvio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Understand anything online without leaving the page.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210053+00:00"
+    },
+    {
+      "id": "76b8293d559b",
+      "name": "Lunen.ai",
+      "url": "https://www.producthunt.com/products/lunen-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build AI agents your whole team can run, and control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210120+00:00"
+    },
+    {
+      "id": "185017c5e9a0",
+      "name": "BlockscopeChat",
+      "url": "https://www.producthunt.com/products/blockscopechat",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "chat",
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Crypto Investigations/Research Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210186+00:00"
+    },
+    {
+      "id": "5358fbc51a3a",
+      "name": "Creed",
+      "url": "https://www.producthunt.com/products/creed-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal context file for every agent.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210251+00:00"
+    },
+    {
+      "id": "40225e6adcb2",
+      "name": "Rex",
+      "url": "https://www.producthunt.com/products/rex-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that run order-to-cash operations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210315+00:00"
+    },
+    {
+      "id": "e8a4f621a6cc",
+      "name": "Backbeat Forge",
+      "url": "https://www.producthunt.com/products/backbeat-forge",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio",
+        "beat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn drum audio into a score you can actually edit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210405+00:00"
+    },
+    {
+      "id": "e20ad5bbe14e",
+      "name": "Loova Ads Studio",
+      "url": "https://www.producthunt.com/products/loova-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create AI ads that convert, not just look good\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-20T10:01:10.210479+00:00"
     },
     {
       "id": "3ba112c5d97a",
@@ -7576,21 +7886,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-15T13:13:48.179690+00:00"
-    },
-    {
-      "id": "5c68aa7c6ff2",
-      "name": "Reignat",
-      "url": "https://www.producthunt.com/products/reignat",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "analyt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Privacy-friendly web analytics platform built for makers\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-15T13:13:48.179759+00:00"
     },
     {
       "id": "862efdec8bea",
