@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T10:01:10.358754+00:00",
-  "total": 1860,
+  "updated_at": "2026-07-21T09:28:08.159759+00:00",
+  "total": 1880,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,323 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "6171b4dfa134",
+      "name": "Routebase",
+      "url": "https://www.producthunt.com/products/routebase",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Catch API drift before your customers do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872257+00:00"
+    },
+    {
+      "id": "5c6bbfb6f024",
+      "name": "Topolines",
+      "url": "https://www.producthunt.com/products/topolines",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Generate Topologic contours\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872335+00:00"
+    },
+    {
+      "id": "e3450c4b9484",
+      "name": "BUD",
+      "url": "https://www.producthunt.com/products/bud-voice-canvas",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice-first canvas for sketchnoting and whiteboarding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872413+00:00"
+    },
+    {
+      "id": "def0399dc895",
+      "name": "DualStream",
+      "url": "https://www.producthunt.com/products/dualstream",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simultaneous desktop and mobile streaming, the easy way.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872487+00:00"
+    },
+    {
+      "id": "b67a6d00848a",
+      "name": "Skim",
+      "url": "https://www.producthunt.com/products/skim-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "email"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, open-source AI email client for Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872558+00:00"
+    },
+    {
+      "id": "8af52e743c2e",
+      "name": "Tidy",
+      "url": "https://www.producthunt.com/products/tidy-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac tidies itself: screenshots, installers, Downloads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872633+00:00"
+    },
+    {
+      "id": "4947f596d873",
+      "name": "Lev8",
+      "url": "https://www.producthunt.com/products/lev8",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find, research, and reach the right people\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872709+00:00"
+    },
+    {
+      "id": "bce2ea979984",
+      "name": "CartAI",
+      "url": "https://www.producthunt.com/products/cartai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI agent that handles checkout.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872780+00:00"
+    },
+    {
+      "id": "c526772f6a2f",
+      "name": "Diffsmith",
+      "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Comment on your AI agent's code & collaborate on changes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872852+00:00"
+    },
+    {
+      "id": "7390f69ff929",
+      "name": "Phantomstory",
+      "url": "https://www.producthunt.com/products/phantomstory",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "cli",
+        "art",
+        "blog",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch a third-party blog to win AEO with just two clicks \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.872925+00:00"
+    },
+    {
+      "id": "f9c16ca462db",
+      "name": "Rerun",
+      "url": "https://www.producthunt.com/products/rerun-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to build AI agents for all your tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873002+00:00"
+    },
+    {
+      "id": "3a6a4c42d1ec",
+      "name": "ditto.site",
+      "url": "https://www.producthunt.com/products/ditto-site",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free",
+      "description_it": "Clone any website into clean code. Free & open source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873074+00:00"
+    },
+    {
+      "id": "6a852ba84696",
+      "name": "Jockey by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The video AI agent that understands your whole library\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873170+00:00"
+    },
+    {
+      "id": "65f7bea1cd6a",
+      "name": "CreateOS Sandbox",
+      "url": "https://www.producthunt.com/products/createos-sandbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instant, hardware Isolated Sandboxes for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873244+00:00"
+    },
+    {
+      "id": "f33bdc32f0bd",
+      "name": "Manifest",
+      "url": "https://www.producthunt.com/products/manifest-363",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any webpage into an action manifest for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873323+00:00"
+    },
+    {
+      "id": "ff2f46ad9faa",
+      "name": "PieceKeeper",
+      "url": "https://www.producthunt.com/products/piecekeeper",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track your music repertoire and practice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873392+00:00"
+    },
+    {
+      "id": "d07056d6ef52",
+      "name": "Universal Dictation on Stream",
+      "url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream",
+        "voice"
+      ],
+      "pricing": "Free",
+      "description_it": "Private Voice Ring for dictation across iOS & Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873468+00:00"
+    },
+    {
+      "id": "6b119552890e",
+      "name": "tterm",
+      "url": "https://www.producthunt.com/products/tterm",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "terminal",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A terminal, a real browser, and Claude Code under one roof\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873539+00:00"
+    },
+    {
+      "id": "a6e35ba485cd",
+      "name": "ArachStudio",
+      "url": "https://www.producthunt.com/products/arachstudio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live-edit your GitHub components directly in the browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873609+00:00"
+    },
+    {
+      "id": "42c6d44ff2c0",
+      "name": "MeetIsland",
+      "url": "https://www.producthunt.com/products/meetisland",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Dynamic Island that gets you to meetings on time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-21T09:28:07.873678+00:00"
     },
     {
       "id": "a79f44aae129",
