@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T09:28:08.159759+00:00",
-  "total": 1880,
+  "updated_at": "2026-07-22T09:25:35.331400+00:00",
+  "total": 1899,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,324 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "ad12246610e8",
+      "name": "Gemini 3.6 Flash Family",
+      "url": "https://www.producthunt.com/products/gemini-3-6-flash-family",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186138+00:00"
+    },
+    {
+      "id": "d4a5ff4a9501",
+      "name": "AgentManager",
+      "url": "https://www.producthunt.com/products/agentmanager",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Never miss a Claude Code session waiting for your input\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186231+00:00"
+    },
+    {
+      "id": "b0e26d0cfc21",
+      "name": "Remote OpenClaw",
+      "url": "https://www.producthunt.com/products/remote-openclaw-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "13,000+ MCP servers, skills & plugins for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186306+00:00"
+    },
+    {
+      "id": "303a02b43bbf",
+      "name": "Buzzy",
+      "url": "https://www.producthunt.com/products/buzzy-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your creative AI co-director\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186390+00:00"
+    },
+    {
+      "id": "5b157fd9a49d",
+      "name": "box",
+      "url": "https://www.producthunt.com/products/box-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simple computers for agent w/ full VMs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186463+00:00"
+    },
+    {
+      "id": "5f15dc1da34e",
+      "name": "Humalike x Hermes",
+      "url": "https://www.producthunt.com/products/humalike-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social intelligence plugin for Hermes Agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186534+00:00"
+    },
+    {
+      "id": "b7663d4b3ab5",
+      "name": "Kastra",
+      "url": "https://www.producthunt.com/products/kastra",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Runtime authorization for Claude, Cursor, Codex and OpenClaw\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186612+00:00"
+    },
+    {
+      "id": "a09922518ffb",
+      "name": "MonoCloud for Startups",
+      "url": "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "api",
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One identity layer for your customers, APIs, and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186689+00:00"
+    },
+    {
+      "id": "a9e668777913",
+      "name": "Redential",
+      "url": "https://www.producthunt.com/products/redential",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A developer credential that proves what you built\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186759+00:00"
+    },
+    {
+      "id": "ac9f60ec83bb",
+      "name": "AI Agents in Chat",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Chat UI Just Got an AI Roommate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186825+00:00"
+    },
+    {
+      "id": "a9d0f1f57752",
+      "name": "Lattics",
+      "url": "https://www.producthunt.com/products/lattics-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Brain-like knowledge base with AI writing & deep research\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186899+00:00"
+    },
+    {
+      "id": "2e9df04eec97",
+      "name": "Arkor",
+      "url": "https://www.producthunt.com/products/arkor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "typescript"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fine-tune and Deploy Open-weight Models in TypeScript\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.186968+00:00"
+    },
+    {
+      "id": "36c56bb279b8",
+      "name": "Trovio For Brands",
+      "url": "https://www.producthunt.com/products/trovio-brand-dashboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Communities love your brand - Our AI team finds them for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187037+00:00"
+    },
+    {
+      "id": "bfd870dad401",
+      "name": "Overflight",
+      "url": "https://www.producthunt.com/products/overflight-sky-radar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Identify every aircraft in your sky.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187104+00:00"
+    },
+    {
+      "id": "b100e4f08b81",
+      "name": "Light Flip",
+      "url": "https://www.producthunt.com/products/light-phone",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Nostalgia for a time before smartphones\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187168+00:00"
+    },
+    {
+      "id": "073985eaf099",
+      "name": "ACME.BOT",
+      "url": "https://www.producthunt.com/products/acme-bot",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "bot",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "No-slop AI SEO agent that interviews you first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187233+00:00"
+    },
+    {
+      "id": "7fe8178aff8c",
+      "name": "Migma AI",
+      "url": "https://www.producthunt.com/products/migma-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "email",
+        "marketing",
+        "email marketing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI runs your email marketing.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187293+00:00"
+    },
+    {
+      "id": "efbf9ae7d844",
+      "name": "UltraPod",
+      "url": "https://www.producthunt.com/products/ultrapod",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your old iPhone into a music-first dumbphone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187384+00:00"
+    },
+    {
+      "id": "8dfae4361677",
+      "name": "AGINE Academy",
+      "url": "https://www.producthunt.com/products/agine-academy",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ad",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A story-driven game for learning Claude by doing \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187458+00:00"
+    },
+    {
+      "id": "05b05c56d6bb",
+      "name": "Garmin CIRQA™ Smart Band",
+      "url": "https://www.producthunt.com/products/garmin-cirqa-smart-band",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The screenless health + fitness tracker with no subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-22T09:25:35.187558+00:00"
     },
     {
       "id": "6171b4dfa134",
@@ -1280,19 +1598,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-19T09:06:24.407770+00:00"
-    },
-    {
-      "id": "303a02b43bbf",
-      "name": "Buzzy",
-      "url": "https://www.producthunt.com/products/buzzy-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your creative AI co-director\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-18T08:49:31.430148+00:00"
     },
     {
       "id": "5621ac605050",
