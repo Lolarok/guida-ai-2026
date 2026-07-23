@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T09:25:35.331400+00:00",
-  "total": 1899,
+  "updated_at": "2026-07-23T09:24:48.663195+00:00",
+  "total": 1919,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "523372b10530",
+      "name": "GTA DataCity",
+      "url": "https://www.producthunt.com/products/gta-datacity-san-francisco",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "San Francisco co-working dataset visualized, as a game!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.334958+00:00"
+    },
+    {
+      "id": "49829d5d5697",
+      "name": "Nugget",
+      "url": "https://www.producthunt.com/products/nugget-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Capture your rambles and keep what matters\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335030+00:00"
+    },
+    {
+      "id": "0ce186545f4f",
+      "name": "PenguinHarness",
+      "url": "https://www.producthunt.com/products/penguinharness",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Let Agents Autonomously Build Better Agents for $0.02\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335106+00:00"
+    },
+    {
+      "id": "f78de33ae1fc",
+      "name": "Wispro",
+      "url": "https://www.producthunt.com/products/wispro",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop typing, start talking, get perfectly written text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335180+00:00"
+    },
+    {
+      "id": "2eec5d4165a1",
+      "name": "AVE",
+      "url": "https://www.producthunt.com/products/ave-ai-video-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local-first AI video editor for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335255+00:00"
+    },
+    {
+      "id": "82d54dc090a5",
+      "name": "Chimlo",
+      "url": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track Codex and Claude Code and respond from your Notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335326+00:00"
+    },
+    {
+      "id": "dda95a6f3635",
+      "name": "Mnemcore",
+      "url": "https://www.producthunt.com/products/mnemcore",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "search",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turns hours of team video and notes into searchable memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335406+00:00"
+    },
+    {
+      "id": "00ee3e67b870",
+      "name": "Quaso",
+      "url": "https://www.producthunt.com/products/notte",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free",
+      "description_it": "AI automation agent to get stuff done across apps or browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335501+00:00"
+    },
+    {
+      "id": "ce61009e0c08",
+      "name": "LapuAi",
+      "url": "https://www.producthunt.com/products/lapuai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "OS Driver for AI to use computers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335556+00:00"
+    },
+    {
+      "id": "7462be78c9bf",
+      "name": "SwiftScale Software",
+      "url": "https://www.producthunt.com/products/swiftscale-software",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "QA agent that tests apps the way you'd explain them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335627+00:00"
+    },
+    {
+      "id": "60867ad5d65a",
+      "name": "Fikry",
+      "url": "https://www.producthunt.com/products/mis-trained-model-fikry",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A mis-trained AI powered by bad data and confidence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335701+00:00"
+    },
+    {
+      "id": "e888a2a6df0b",
+      "name": "Basedash Developer Platform",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship AI-powered analytics in your product, fast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335772+00:00"
+    },
+    {
+      "id": "e2d9eefb1916",
+      "name": "Cosyra 2.0",
+      "url": "https://www.producthunt.com/products/cosyra",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A cloud workspace for coding agents from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335841+00:00"
+    },
+    {
+      "id": "b6cea5218b78",
+      "name": "Moxie Docs: Knowledgebases",
+      "url": "https://www.producthunt.com/products/moxie-docs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "document",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automated documentation for developers, users, and AI Tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335915+00:00"
+    },
+    {
+      "id": "34d9fe168a1a",
+      "name": "AI Eyes",
+      "url": "https://www.producthunt.com/products/ai-eyes-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Permission-first real-time senses for AI companions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.335966+00:00"
+    },
+    {
+      "id": "532890e37e11",
+      "name": "SMASH Voice to Invoice",
+      "url": "https://www.producthunt.com/products/smash-voice-to-invoice",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and send quotes as fast as you can talk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.336037+00:00"
+    },
+    {
+      "id": "9a2abf33e34e",
+      "name": "NotifyBridge",
+      "url": "https://www.producthunt.com/products/notifybridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dead-Simple IoT Push Notifications for Makers & Hobbyists\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.336106+00:00"
+    },
+    {
+      "id": "2222abf48c99",
+      "name": "xPitch",
+      "url": "https://www.producthunt.com/products/xpitch-football-match-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Strava for casual Footballer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.336166+00:00"
+    },
+    {
+      "id": "6e717d6d32b8",
+      "name": "BioScript",
+      "url": "https://www.producthunt.com/products/bioscript-own-your-link-in-bio-saas",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Self-hosted white label link-in-bio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.336214+00:00"
+    },
+    {
+      "id": "338de27aa31a",
+      "name": "PromptQL",
+      "url": "https://www.producthunt.com/products/promptql",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer AI that replaces Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-23T09:24:48.336259+00:00"
     },
     {
       "id": "ad12246610e8",
