@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T09:24:48.663195+00:00",
-  "total": 1919,
+  "updated_at": "2026-07-24T09:22:25.931072+00:00",
+  "total": 1935,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,303 @@
       "featured": false
     },
     {
+      "id": "a4300147d748",
+      "name": "HarnessRouter",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring the world's best AI agents into your app, with one API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.722720+00:00"
+    },
+    {
+      "id": "0466d0867bb5",
+      "name": "HealthyNotch",
+      "url": "https://www.producthunt.com/products/healthynotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Work shouldn't cost you your health\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.722777+00:00"
+    },
+    {
+      "id": "36cdd00b8535",
+      "name": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your people, your agents, your project — all in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.722852+00:00"
+    },
+    {
+      "id": "5763ac5e3c7c",
+      "name": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI book service that shows its work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.722891+00:00"
+    },
+    {
+      "id": "c808608f3aab",
+      "name": "MinkNote",
+      "url": "https://www.producthunt.com/products/minknote",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private macOS notes built on plain Markdown files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.722945+00:00"
+    },
+    {
+      "id": "acc6d9c9b985",
+      "name": "Liso",
+      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Highlight text on any page and turn it into audio.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723003+00:00"
+    },
+    {
+      "id": "0aa0f0313fe6",
+      "name": "Hotspot Meter",
+      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private data-usage meter for your Mac menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723062+00:00"
+    },
+    {
+      "id": "9a473c0307a3",
+      "name": "The new Firecrawl /search",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Our most accurate /search yet that uses 10x fewer tokens.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723124+00:00"
+    },
+    {
+      "id": "f18299dcf7c1",
+      "name": "Fluree AI",
+      "url": "https://www.producthunt.com/products/fluree",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give every AI agent trusted context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723174+00:00"
+    },
+    {
+      "id": "060059da1772",
+      "name": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Approve AI requests from your lock screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723237+00:00"
+    },
+    {
+      "id": "361e2f40cfc6",
+      "name": "YC has it",
+      "url": "https://www.producthunt.com/products/yc-has-it",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe your problem, get the YC startup that solves it \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723292+00:00"
+    },
+    {
+      "id": "06c76cc13b43",
+      "name": "Fedica 2.0",
+      "url": "https://www.producthunt.com/products/fedica",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Publish and grow your profile across social apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723330+00:00"
+    },
+    {
+      "id": "4e740153aecc",
+      "name": "Freesolo Flash",
+      "url": "https://www.producthunt.com/products/freesolo-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "full-stack"
+      ],
+      "pricing": "Free",
+      "description_it": "Full-Stack Platform for Training Small Language Models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723385+00:00"
+    },
+    {
+      "id": "dda95a6f3635",
+      "name": "Mnemcore",
+      "url": "https://www.producthunt.com/products/mnemcore",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "search",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turns hours of team video and notes into searchable memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723440+00:00"
+    },
+    {
+      "id": "bceb9f4e0d9c",
+      "name": "Caw",
+      "url": "https://www.producthunt.com/products/caw",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source web terminal multiplexer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723491+00:00"
+    },
+    {
+      "id": "2222abf48c99",
+      "name": "xPitch",
+      "url": "https://www.producthunt.com/products/xpitch-football-match-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Strava for casual Footballer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723537+00:00"
+    },
+    {
+      "id": "baf24b363c22",
+      "name": "Fable Flight",
+      "url": "https://www.producthunt.com/products/fable-flight",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn to fly with a live AI instructor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723572+00:00"
+    },
+    {
+      "id": "338de27aa31a",
+      "name": "PromptQL",
+      "url": "https://www.producthunt.com/products/promptql",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer AI that replaces Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723605+00:00"
+    },
+    {
+      "id": "d1e17d8d367e",
+      "name": "Megaphone",
+      "url": "https://www.producthunt.com/products/megaphone-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source Mac dictation App that's 100% on-device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723656+00:00"
+    },
+    {
+      "id": "64f848bf303f",
+      "name": "canitbebuilt",
+      "url": "https://www.producthunt.com/products/canitbebuilt",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your hardware idea, inspected. Verdict, BOM, 3D model.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-24T09:22:25.723707+00:00"
+    },
+    {
       "id": "523372b10530",
       "name": "GTA DataCity",
       "url": "https://www.producthunt.com/products/gta-datacity-san-francisco",
@@ -469,24 +766,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-23T09:24:48.335326+00:00"
-    },
-    {
-      "id": "dda95a6f3635",
-      "name": "Mnemcore",
-      "url": "https://www.producthunt.com/products/mnemcore",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video",
-        "search",
-        "note"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turns hours of team video and notes into searchable memory\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-23T09:24:48.335406+00:00"
     },
     {
       "id": "00ee3e67b870",
@@ -645,21 +924,6 @@
       "discovered_at": "2026-07-23T09:24:48.336106+00:00"
     },
     {
-      "id": "2222abf48c99",
-      "name": "xPitch",
-      "url": "https://www.producthunt.com/products/xpitch-football-match-analytics",
-      "source": "Product Hunt AI (feed)",
-      "category": "presentazioni",
-      "tags": [
-        "pitch"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Strava for casual Footballer\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-23T09:24:48.336166+00:00"
-    },
-    {
       "id": "6e717d6d32b8",
       "name": "BioScript",
       "url": "https://www.producthunt.com/products/bioscript-own-your-link-in-bio-saas",
@@ -671,19 +935,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-23T09:24:48.336214+00:00"
-    },
-    {
-      "id": "338de27aa31a",
-      "name": "PromptQL",
-      "url": "https://www.producthunt.com/products/promptql",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Multiplayer AI that replaces Slack\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-23T09:24:48.336259+00:00"
     },
     {
       "id": "ad12246610e8",
@@ -14102,21 +14353,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-22T10:25:04.920102+00:00"
-    },
-    {
-      "id": "5763ac5e3c7c",
-      "name": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "source": "Product Hunt AI (feed)",
-      "category": "audio",
-      "tags": [
-        "podcast"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Go from newsletters & podcasts to published manuscript\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-22T10:25:04.920182+00:00"
     },
     {
       "id": "9ab5f89a8ae0",
