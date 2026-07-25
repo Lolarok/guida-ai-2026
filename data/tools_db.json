@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T09:22:25.931072+00:00",
-  "total": 1935,
+  "updated_at": "2026-07-25T09:01:51.486088+00:00",
+  "total": 1950,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,301 @@
       "featured": false
     },
     {
+      "id": "3d1364c65dd9",
+      "name": "Speechius",
+      "url": "https://www.producthunt.com/products/speechius",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The teleprompter that actually listens\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227180+00:00"
+    },
+    {
+      "id": "406b8ec7f40a",
+      "name": "Seller by Facebook",
+      "url": "https://www.producthunt.com/products/seller-by-facebook",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to sell on Facebook Marketplace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227254+00:00"
+    },
+    {
+      "id": "17d41aef27b5",
+      "name": "FluentDB",
+      "url": "https://www.producthunt.com/products/fluentdb-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI database client for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227325+00:00"
+    },
+    {
+      "id": "24abc0ef42bb",
+      "name": "Capsomnia",
+      "url": "https://www.producthunt.com/products/capsomnia",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Caps Lock keeps your Mac awake, even with the lid closed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227406+00:00"
+    },
+    {
+      "id": "d0cc99a2e088",
+      "name": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to deploy a managed agent.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227481+00:00"
+    },
+    {
+      "id": "0db563fcdbf4",
+      "name": "Islet",
+      "url": "https://www.producthunt.com/products/islet-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "iPhone's Dynamic Island, brought to your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227535+00:00"
+    },
+    {
+      "id": "5226ead0c2c6",
+      "name": "ShellMate",
+      "url": "https://www.producthunt.com/products/shellmate-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The SSH workspace you'll actually enjoy using\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227592+00:00"
+    },
+    {
+      "id": "7c1e6e58df73",
+      "name": "ADE",
+      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "All your coding agents, synced everywhere, free forever\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227666+00:00"
+    },
+    {
+      "id": "35470e996332",
+      "name": "Second Brain for Mac and Windows",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI memory, everywhere you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227720+00:00"
+    },
+    {
+      "id": "ee09f3472adb",
+      "name": "Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal health companion, powered by ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227790+00:00"
+    },
+    {
+      "id": "d35890c5a598",
+      "name": "Speech To Markdown",
+      "url": "https://www.producthunt.com/products/speech-to-markdown",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Harness local AI for notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227863+00:00"
+    },
+    {
+      "id": "9ea59b26d1c1",
+      "name": "Velane",
+      "url": "https://www.producthunt.com/products/velane",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloud for your AI Agent's tools and functions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.227931+00:00"
+    },
+    {
+      "id": "967a415fb399",
+      "name": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clip living pieces of the web onto one canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228024+00:00"
+    },
+    {
+      "id": "b6f3a0b5c92e",
+      "name": "Heard",
+      "url": "https://www.producthunt.com/products/heard-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Claude Code and Codex a voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228090+00:00"
+    },
+    {
+      "id": "f0bfa6a7271f",
+      "name": "Browser FX:",
+      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transform your web audio with real-time effects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228158+00:00"
+    },
+    {
+      "id": "c507ab60a16c",
+      "name": "Wisprkey",
+      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to any app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228220+00:00"
+    },
+    {
+      "id": "0aa0f0313fe6",
+      "name": "Hotspot Meter",
+      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private data-usage meter for your Mac menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228287+00:00"
+    },
+    {
+      "id": "0466d0867bb5",
+      "name": "HealthyNotch",
+      "url": "https://www.producthunt.com/products/healthynotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Work shouldn't cost you your health\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228336+00:00"
+    },
+    {
+      "id": "5763ac5e3c7c",
+      "name": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI book service that shows its work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228408+00:00"
+    },
+    {
+      "id": "acc6d9c9b985",
+      "name": "Liso",
+      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Highlight text on any page and turn it into audio.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-25T09:01:51.228476+00:00"
+    },
+    {
       "id": "a4300147d748",
       "name": "HarnessRouter",
       "url": "https://www.producthunt.com/products/epsilla",
@@ -392,19 +687,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-24T09:22:25.722720+00:00"
-    },
-    {
-      "id": "0466d0867bb5",
-      "name": "HealthyNotch",
-      "url": "https://www.producthunt.com/products/healthynotch",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Work shouldn't cost you your health\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-24T09:22:25.722777+00:00"
     },
     {
       "id": "36cdd00b8535",
@@ -423,19 +705,6 @@
       "discovered_at": "2026-07-24T09:22:25.722852+00:00"
     },
     {
-      "id": "5763ac5e3c7c",
-      "name": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The AI book service that shows its work\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-24T09:22:25.722891+00:00"
-    },
-    {
       "id": "c808608f3aab",
       "name": "MinkNote",
       "url": "https://www.producthunt.com/products/minknote",
@@ -449,36 +718,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-24T09:22:25.722945+00:00"
-    },
-    {
-      "id": "acc6d9c9b985",
-      "name": "Liso",
-      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "audio"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Highlight text on any page and turn it into audio.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-24T09:22:25.723003+00:00"
-    },
-    {
-      "id": "0aa0f0313fe6",
-      "name": "Hotspot Meter",
-      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A private data-usage meter for your Mac menu bar\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-24T09:22:25.723062+00:00"
     },
     {
       "id": "9a473c0307a3",
@@ -9686,19 +9925,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-13T09:57:52.638518+00:00"
-    },
-    {
-      "id": "5226ead0c2c6",
-      "name": "ShellMate",
-      "url": "https://www.producthunt.com/products/shellmate-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Manage SSH servers, credentials, and teams in one place\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-13T09:57:52.638575+00:00"
     },
     {
       "id": "5126409d2c63",
