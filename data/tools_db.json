@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T09:01:51.486088+00:00",
-  "total": 1950,
+  "updated_at": "2026-07-26T09:12:01.029525+00:00",
+  "total": 1965,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,280 @@
       "featured": false
     },
     {
+      "id": "f096a423eff2",
+      "name": ">=PlayingFild",
+      "url": "https://www.producthunt.com/products/playingfild",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "productivity"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Productivity Tool & Tab Manager that Understands Context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889145+00:00"
+    },
+    {
+      "id": "81fa2f1073b4",
+      "name": "Pulse Island",
+      "url": "https://www.producthunt.com/products/pulse-island",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A living island for your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889225+00:00"
+    },
+    {
+      "id": "469590b40559",
+      "name": "PureBox.ai",
+      "url": "https://www.producthunt.com/products/purebox-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Review-first AI cleanup for your real Gmail inbox.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889283+00:00"
+    },
+    {
+      "id": "b6830a8d3d0d",
+      "name": "yatta!",
+      "url": "https://www.producthunt.com/products/yatta",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A cute little to-do list that celebrates with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889339+00:00"
+    },
+    {
+      "id": "5fe011ac7414",
+      "name": "UFO",
+      "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ship localised Apps faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889389+00:00"
+    },
+    {
+      "id": "edc328eaecb1",
+      "name": "TouchGrass",
+      "url": "https://www.producthunt.com/products/touchgrass-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Context-aware break reminders without invasive permissions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889446+00:00"
+    },
+    {
+      "id": "3d62db54b599",
+      "name": "Aymo AI",
+      "url": "https://www.producthunt.com/products/aymo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "All-in-one AI Platform for Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889505+00:00"
+    },
+    {
+      "id": "481c3a2f99b8",
+      "name": "Athena by Shoplazza",
+      "url": "https://www.producthunt.com/products/athena-by-shoplazza",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An orchestrator agent for your entire commerce stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889584+00:00"
+    },
+    {
+      "id": "8cdc88b6f51c",
+      "name": "Openbase",
+      "url": "https://www.producthunt.com/products/openbase-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage your team of AI agents by voice, from anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889658+00:00"
+    },
+    {
+      "id": "06dc2edb9748",
+      "name": "CodexBar Lite",
+      "url": "https://www.producthunt.com/products/codexbar-lite",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Privacy-first Codex tracker for your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889730+00:00"
+    },
+    {
+      "id": "4b4e605f5dc6",
+      "name": "Yoggi",
+      "url": "https://www.producthunt.com/products/yoggi",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Safe AI chat for kids\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889799+00:00"
+    },
+    {
+      "id": "3a4395063c2a",
+      "name": "KeyOpera 2.0",
+      "url": "https://www.producthunt.com/products/keyopera",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make every Mac keystroke sound uniquely yours\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889869+00:00"
+    },
+    {
+      "id": "012fd1d95488",
+      "name": "Forgeon",
+      "url": "https://www.producthunt.com/products/forgeon-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Create, publish, and experience interactive stories\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.889927+00:00"
+    },
+    {
+      "id": "453475e383e5",
+      "name": "SF Apartment Finder",
+      "url": "https://www.producthunt.com/products/sf-apartment-finder",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "find"
+      ],
+      "pricing": "Free",
+      "description_it": "Tinder for live SF rentals from across the web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890000+00:00"
+    },
+    {
+      "id": "e8c857aed6b9",
+      "name": "BrainFeed",
+      "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A personalized learning feed that redirects your scroll\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890075+00:00"
+    },
+    {
+      "id": "f0bfa6a7271f",
+      "name": "Browser FX:",
+      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transform your web audio with real-time effects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890148+00:00"
+    },
+    {
+      "id": "c507ab60a16c",
+      "name": "Wisprkey",
+      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to any app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890213+00:00"
+    },
+    {
+      "id": "d0cc99a2e088",
+      "name": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to deploy a managed agent.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890286+00:00"
+    },
+    {
+      "id": "967a415fb399",
+      "name": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clip living pieces of the web onto one canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-26T09:12:00.890381+00:00"
+    },
+    {
       "id": "3d1364c65dd9",
       "name": "Speechius",
       "url": "https://www.producthunt.com/products/speechius",
@@ -390,7 +664,7 @@
       "description_it": "The teleprompter that actually listens\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-25T09:01:51.227180+00:00"
+      "discovered_at": "2026-07-26T09:12:00.890452+00:00"
     },
     {
       "id": "406b8ec7f40a",
@@ -433,22 +707,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-25T09:01:51.227406+00:00"
-    },
-    {
-      "id": "d0cc99a2e088",
-      "name": "OpenComputer",
-      "url": "https://www.producthunt.com/products/opencomputer",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "deploy",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The easiest way to deploy a managed agent.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-25T09:01:51.227481+00:00"
     },
     {
       "id": "0db563fcdbf4",
@@ -554,22 +812,6 @@
       "discovered_at": "2026-07-25T09:01:51.227931+00:00"
     },
     {
-      "id": "967a415fb399",
-      "name": "Banquish — Make the web your workspace",
-      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "clip"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Clip living pieces of the web onto one canvas\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-25T09:01:51.228024+00:00"
-    },
-    {
       "id": "b6f3a0b5c92e",
       "name": "Heard",
       "url": "https://www.producthunt.com/products/heard-2",
@@ -585,36 +827,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-25T09:01:51.228090+00:00"
-    },
-    {
-      "id": "f0bfa6a7271f",
-      "name": "Browser FX:",
-      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "audio"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Transform your web audio with real-time effects\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-25T09:01:51.228158+00:00"
-    },
-    {
-      "id": "c507ab60a16c",
-      "name": "Wisprkey",
-      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "talk"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Talk to any app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-25T09:01:51.228220+00:00"
     },
     {
       "id": "0aa0f0313fe6",
