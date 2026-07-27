@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T09:12:01.029525+00:00",
-  "total": 1965,
+  "updated_at": "2026-07-27T10:42:30.604296+00:00",
+  "total": 1985,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "75581d8a8f1b",
+      "name": "Tackly",
+      "url": "https://www.producthunt.com/products/tackly",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Map your thoughts in real time with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457180+00:00"
+    },
+    {
+      "id": "3dbb923ad461",
+      "name": "iMessage Hermes on a Raspberry Pi",
+      "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An always-on AI agent that lives in your home\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457283+00:00"
+    },
+    {
+      "id": "58816660d70d",
+      "name": "Cynative Security Research Agent",
+      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ask",
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask your cloud anything without breaking prod\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457364+00:00"
+    },
+    {
+      "id": "8b839c176a73",
+      "name": "Artifacts by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "art",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask your AI Analyst and get back a ready-to-share report\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457446+00:00"
+    },
+    {
+      "id": "b11f694238d4",
+      "name": "superfile",
+      "url": "https://www.producthunt.com/products/superfile",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A modern, visual file manager for the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457534+00:00"
+    },
+    {
+      "id": "12a5080c68b2",
+      "name": "FindDiskKiller",
+      "url": "https://www.producthunt.com/products/finddiskkiller",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See which apps are hammering your Mac's disk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457606+00:00"
+    },
+    {
+      "id": "9cdd3da7a0fb",
+      "name": "Robynn AI",
+      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Websites that improve and heal with self-learning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457672+00:00"
+    },
+    {
+      "id": "5c0af07c3019",
+      "name": "Claude Opus 5",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Near-Fable 5 intelligence at half the price\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457748+00:00"
+    },
+    {
+      "id": "6d378aa5f494",
+      "name": "Tunio",
+      "url": "https://www.producthunt.com/products/tunio",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Music operations platform for venues\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457818+00:00"
+    },
+    {
+      "id": "c0a0f69750af",
+      "name": "Audos Summer Camp",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build your business idea with unlimited Fable/Sol credits ♾️\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457922+00:00"
+    },
+    {
+      "id": "a8db8ca814de",
+      "name": "localskills.sh",
+      "url": "https://www.producthunt.com/products/localskills-sh",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Skill & MCP server management for teams & enterprises\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.457996+00:00"
+    },
+    {
+      "id": "0018f6688b0b",
+      "name": "Estera",
+      "url": "https://www.producthunt.com/products/estera",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Receptionist that Answers Calls & WhatsApp 24/7\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458068+00:00"
+    },
+    {
+      "id": "f3ff9cd8c94d",
+      "name": "Webhound",
+      "url": "https://www.producthunt.com/products/webhound",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A research engine for your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458135+00:00"
+    },
+    {
+      "id": "b0c3faa4f77d",
+      "name": "HeyZoku",
+      "url": "https://www.producthunt.com/products/heyzoku",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "coding",
+        "voice",
+        "agent",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Orchestrate an army of coding agents with your voice.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458207+00:00"
+    },
+    {
+      "id": "9706c08afde6",
+      "name": "Repaint Socials",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build a website from Google Business, Instagram, or Facebook\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458260+00:00"
+    },
+    {
+      "id": "1496d8b34b6d",
+      "name": "Edit Mind × Strava",
+      "url": "https://www.producthunt.com/products/edit-mind-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every clip matched to the Strava activity it's from\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458338+00:00"
+    },
+    {
+      "id": "c35734819a4e",
+      "name": "Grok 4.5",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SpaceXAI's model for coding, agentic tasks & knowledge work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458410+00:00"
+    },
+    {
+      "id": "7e6fb0fa84f9",
+      "name": "Notate",
+      "url": "https://www.producthunt.com/products/notate-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Annotate anything for humans and their agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458478+00:00"
+    },
+    {
+      "id": "b928bf39de6a",
+      "name": "Rescript",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "A free, open source, Descript alternative. Runs in-browser.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458545+00:00"
+    },
+    {
+      "id": "1c53c38f8795",
+      "name": "Rivault",
+      "url": "https://www.producthunt.com/products/rivault",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Safely provide and store data and context for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-27T10:42:30.458617+00:00"
     },
     {
       "id": "f096a423eff2",
