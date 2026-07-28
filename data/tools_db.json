@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T10:42:30.604296+00:00",
-  "total": 1985,
+  "updated_at": "2026-07-28T09:38:11.047859+00:00",
+  "total": 2005,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,312 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "44c5dbadd8cf",
+      "name": "Prefactor",
+      "url": "https://www.producthunt.com/products/prefactor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "refactor",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Evaluate your AI Agents in real-time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.845644+00:00"
+    },
+    {
+      "id": "b3a3f0d216bd",
+      "name": "Cekura",
+      "url": "https://www.producthunt.com/products/vocera",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The self-improvement loop for voice agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.845741+00:00"
+    },
+    {
+      "id": "953af719c884",
+      "name": "SUB/WAVE",
+      "url": "https://www.producthunt.com/products/sub-wave",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-hosted radio with an AI DJ and one shared stream\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.845821+00:00"
+    },
+    {
+      "id": "200ab504b84b",
+      "name": "Phantom",
+      "url": "https://www.producthunt.com/products/phantom-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice-first AI agent that operates your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.845911+00:00"
+    },
+    {
+      "id": "7d2726119494",
+      "name": "Cercle",
+      "url": "https://www.producthunt.com/products/cercle",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The bat signal for your closest friends.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.845966+00:00"
+    },
+    {
+      "id": "139e1575501a",
+      "name": "Lottie Creator 2.0",
+      "url": "https://www.producthunt.com/products/lottiefiles",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "After Effects for the web, built on Lottie\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846022+00:00"
+    },
+    {
+      "id": "43d1d8d8c35e",
+      "name": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents purpose-built for Hospitality\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846103+00:00"
+    },
+    {
+      "id": "b9d79e123dc3",
+      "name": "Ycode AI Agents",
+      "url": "https://www.producthunt.com/products/ycode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build websites with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846176+00:00"
+    },
+    {
+      "id": "4e20488d5018",
+      "name": "Pinery Prose",
+      "url": "https://www.producthunt.com/products/pinery",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI co-author for books + every edit is a diff you approve\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846232+00:00"
+    },
+    {
+      "id": "155b8e0bafc7",
+      "name": "Liminal",
+      "url": "https://www.producthunt.com/products/liminal-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A workspace & 2nd brain for you, your agent, and your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846305+00:00"
+    },
+    {
+      "id": "74e33036cd77",
+      "name": "qsa.sh",
+      "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "External security scan of your own IP, in your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846382+00:00"
+    },
+    {
+      "id": "9bf6840d55fe",
+      "name": "FlowTask 2.0",
+      "url": "https://www.producthunt.com/products/flowtask",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Company brain for AI Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846449+00:00"
+    },
+    {
+      "id": "150906db7099",
+      "name": "Growth Opt Playbook",
+      "url": "https://www.producthunt.com/products/growth-opt-playbook",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "data",
+        "marketing",
+        "campaign",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn campaign data into your next marketing move\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846524+00:00"
+    },
+    {
+      "id": "399350d2ab4f",
+      "name": "RecipeBook by Shofo",
+      "url": "https://www.producthunt.com/products/recipebook-by-shofo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "video",
+        "clip",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Buy video training data by the hour featuring 25M+ clips\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846593+00:00"
+    },
+    {
+      "id": "71ccb80b5308",
+      "name": "Tag Your Photos",
+      "url": "https://www.producthunt.com/products/tag-your-photos",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered keywords for Apple Photos, 100% on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846665+00:00"
+    },
+    {
+      "id": "60aa68fde752",
+      "name": "Firstpass",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Actionable input so you nail every launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846733+00:00"
+    },
+    {
+      "id": "a20b5c3c5861",
+      "name": "Leaping AI",
+      "url": "https://www.producthunt.com/products/leaping-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that call and text in multi-day campaigns\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846804+00:00"
+    },
+    {
+      "id": "9750eb76f987",
+      "name": "ChatBeacon AIX",
+      "url": "https://www.producthunt.com/products/chatbeacon-2-0-live-chat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI support that resolves 87% of chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846883+00:00"
+    },
+    {
+      "id": "1ecd8462db2e",
+      "name": "ZenithBar",
+      "url": "https://www.producthunt.com/products/zenithbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The activity island Windows was missing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846933+00:00"
+    },
+    {
+      "id": "9168b31b1827",
+      "name": "MCP",
+      "url": "https://www.producthunt.com/products/mcp-billing",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "OAuth 2.1 + usage-based Stripe billing for MCP servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-28T09:38:10.846985+00:00"
     },
     {
       "id": "75581d8a8f1b",
