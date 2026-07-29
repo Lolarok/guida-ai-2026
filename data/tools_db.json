@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T09:38:11.047859+00:00",
-  "total": 2005,
+  "updated_at": "2026-07-29T09:38:25.606684+00:00",
+  "total": 2023,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,298 @@
       "featured": false
     },
     {
+      "id": "0393f6df58aa",
+      "name": "SceneNote",
+      "url": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "cli",
+        "video",
+        "note"
+      ],
+      "pricing": "Free",
+      "description_it": "Free video feedback tool for editors & clients\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.375720+00:00"
+    },
+    {
+      "id": "a536c7bc829e",
+      "name": "ClinicFrame",
+      "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Like Granola, but for healthcare. Fully HIPAA-compliant.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.375820+00:00"
+    },
+    {
+      "id": "47516acc7a53",
+      "name": "Prelint",
+      "url": "https://www.producthunt.com/products/prelint",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Prevent product drift in AI-written code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.375893+00:00"
+    },
+    {
+      "id": "8ad2bb18823b",
+      "name": "Task Monki",
+      "url": "https://www.producthunt.com/products/task-monki",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run coding agents through the full development process\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.375965+00:00"
+    },
+    {
+      "id": "5ede9c434963",
+      "name": "SoundGate Guitar",
+      "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Music Tutor that gives real-time feedback on your playing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376043+00:00"
+    },
+    {
+      "id": "e9ba44313801",
+      "name": "EQK 3.0",
+      "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mac app with dynamic AI Equaliser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376091+00:00"
+    },
+    {
+      "id": "7ead27dd1255",
+      "name": "Vela",
+      "url": "https://www.producthunt.com/products/vela-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI Recruiting Coordinator\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376144+00:00"
+    },
+    {
+      "id": "7c90442fe669",
+      "name": "Totem",
+      "url": "https://www.producthunt.com/products/totem-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Twitter bookmarks organized to make you read them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376219+00:00"
+    },
+    {
+      "id": "00241baca566",
+      "name": "Denovo",
+      "url": "https://www.producthunt.com/products/denovo-business-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your vibe-coded app into paying customers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376292+00:00"
+    },
+    {
+      "id": "46991b982a9b",
+      "name": "Epilude",
+      "url": "https://www.producthunt.com/products/epilude",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local voice dictation for Mac for polished text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376373+00:00"
+    },
+    {
+      "id": "c5ec86393b78",
+      "name": "MemoryCustodian",
+      "url": "https://www.producthunt.com/products/memorycustodian",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Repo-native memory for coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376442+00:00"
+    },
+    {
+      "id": "4a29a6115a4c",
+      "name": "AgentQuartz",
+      "url": "https://www.producthunt.com/products/agentquartz",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude & Cursor usage in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376506+00:00"
+    },
+    {
+      "id": "23badfa15463",
+      "name": "BlackFlare",
+      "url": "https://www.producthunt.com/products/blackflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keeps your Mac awake, pings you when Claude/Codex is done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376575+00:00"
+    },
+    {
+      "id": "071767fd71bd",
+      "name": "JusTTY",
+      "url": "https://www.producthunt.com/products/justty",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "stt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A simple native macOS terminal built on Swift and libghostty\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376645+00:00"
+    },
+    {
+      "id": "dbb393c171b8",
+      "name": "/mission for Claude Code",
+      "url": "https://www.producthunt.com/products/spine-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Claude Code missions to spawn a team of agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376716+00:00"
+    },
+    {
+      "id": "0b9113348cd6",
+      "name": "Bo AI",
+      "url": "https://www.producthunt.com/products/bo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI personal assistant that lives in your texts 💬\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376810+00:00"
+    },
+    {
+      "id": "c2665f41bb1d",
+      "name": "Space",
+      "url": "https://www.producthunt.com/products/space-bin",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Secure temporary workspaces. No sign-up required.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376859+00:00"
+    },
+    {
+      "id": "323913ad1976",
+      "name": "Hardbook",
+      "url": "https://www.producthunt.com/products/hardbook",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "The freelancer booking link that signs the contract for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376909+00:00"
+    },
+    {
+      "id": "139e1575501a",
+      "name": "Lottie Creator 2.0",
+      "url": "https://www.producthunt.com/products/lottiefiles",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "After Effects for the web, built on Lottie\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-29T09:38:25.376959+00:00"
+    },
+    {
       "id": "44c5dbadd8cf",
       "name": "Prefactor",
       "url": "https://www.producthunt.com/products/prefactor",
@@ -391,7 +683,7 @@
       "description_it": "Evaluate your AI Agents in real-time\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-28T09:38:10.845644+00:00"
+      "discovered_at": "2026-07-29T09:38:25.377026+00:00"
     },
     {
       "id": "b3a3f0d216bd",
@@ -453,19 +745,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-28T09:38:10.845966+00:00"
-    },
-    {
-      "id": "139e1575501a",
-      "name": "Lottie Creator 2.0",
-      "url": "https://www.producthunt.com/products/lottiefiles",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "After Effects for the web, built on Lottie\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-28T09:38:10.846022+00:00"
     },
     {
       "id": "43d1d8d8c35e",
