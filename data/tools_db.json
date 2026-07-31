@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T09:32:44.495666+00:00",
-  "total": 2043,
+  "updated_at": "2026-07-31T09:44:17.691392+00:00",
+  "total": 2056,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,232 @@
       "featured": false
     },
     {
+      "id": "20a879745a16",
+      "name": "TraceLLM",
+      "url": "https://www.producthunt.com/products/tracellm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "OpenTelemetry for production AI applications\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.508567+00:00"
+    },
+    {
+      "id": "7b8383842062",
+      "name": "Screencap",
+      "url": "https://www.producthunt.com/products/screencap",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "data",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your team's real workflows into AI training data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.508712+00:00"
+    },
+    {
+      "id": "efafe6ade0ca",
+      "name": "MiniMax H3",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "design",
+        "video",
+        "motion",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Unified video generation for motion design and branding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.508812+00:00"
+    },
+    {
+      "id": "18a089deaee8",
+      "name": "Customer.io Summer Release",
+      "url": "https://www.producthunt.com/products/customer-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "New ways to reach customers in the moments that matter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.508874+00:00"
+    },
+    {
+      "id": "9f3734e5c491",
+      "name": "Gemini Robotics 2",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google's AI brain for the next generation of robots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.508969+00:00"
+    },
+    {
+      "id": "56fcbd9ec8db",
+      "name": "DepthData",
+      "url": "https://www.producthunt.com/products/depthdata",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The system of record for your company's AI spend.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509042+00:00"
+    },
+    {
+      "id": "3e496e6365c4",
+      "name": "witr",
+      "url": "https://www.producthunt.com/products/witr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Why is this running? Trace process, port, container or file\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509102+00:00"
+    },
+    {
+      "id": "767a073b531f",
+      "name": "Poth Labs",
+      "url": "https://www.producthunt.com/products/poth-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The customer brain for your company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509155+00:00"
+    },
+    {
+      "id": "ef8a1b22a54a",
+      "name": "Cleanlist AI",
+      "url": "https://www.producthunt.com/products/cleanlist-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Natural-language prospecting: find, enrich and sync leads.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509232+00:00"
+    },
+    {
+      "id": "bbc864b72403",
+      "name": "Halo by Scam AI",
+      "url": "https://www.producthunt.com/products/scam-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509322+00:00"
+    },
+    {
+      "id": "048b4bd017a7",
+      "name": "mectrics",
+      "url": "https://www.producthunt.com/products/mectrics",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Your Mac's vitals in the menu bar. Free and open source.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509378+00:00"
+    },
+    {
+      "id": "7ffe5a8aad01",
+      "name": "Mubert API",
+      "url": "https://www.producthunt.com/products/mubert",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit tracks & stems, get consistent music with new engine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509448+00:00"
+    },
+    {
+      "id": "cca78380848d",
+      "name": "PRNotch",
+      "url": "https://www.producthunt.com/products/prnotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GitHub pull requests in your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509512+00:00"
+    },
+    {
+      "id": "89248654815b",
+      "name": "Caimera",
+      "url": "https://www.producthunt.com/products/caimera-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Visual Production Platform for Fashion Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509577+00:00"
+    },
+    {
+      "id": "c43bc81de049",
+      "name": "agentOS",
+      "url": "https://www.producthunt.com/products/agentos-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "254× cheaper sandbox alternative, powered by WebAssembly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509648+00:00"
+    },
+    {
       "id": "adeeb037d488",
       "name": "CraftStory",
       "url": "https://www.producthunt.com/products/craftstory",
@@ -393,7 +619,66 @@
       "description_it": "Photorealistic human video, powered by compact AI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.236651+00:00"
+      "discovered_at": "2026-07-31T09:44:17.509717+00:00"
+    },
+    {
+      "id": "079605ad99c9",
+      "name": "Pally",
+      "url": "https://www.producthunt.com/products/pally",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal assistant that lives in your texts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509781+00:00"
+    },
+    {
+      "id": "b130fcebc6d3",
+      "name": "Virre",
+      "url": "https://www.producthunt.com/products/virre",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A private relationship system for your career and network.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509832+00:00"
+    },
+    {
+      "id": "930efdfe3457",
+      "name": "Memmy Agent",
+      "url": "https://www.producthunt.com/products/memmy",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let every AI remember the same you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509898+00:00"
+    },
+    {
+      "id": "71bf98f5cbd3",
+      "name": "Claude Code usage tracking by LangWatch",
+      "url": "https://www.producthunt.com/products/langwatch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See what your Claude Code sessions actually cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-07-31T09:44:17.509989+00:00"
     },
     {
       "id": "594323262036",
@@ -456,19 +741,6 @@
       "discovered_at": "2026-07-30T09:32:44.236945+00:00"
     },
     {
-      "id": "b130fcebc6d3",
-      "name": "Virre",
-      "url": "https://www.producthunt.com/products/virre",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A private relationship system for your career and network.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237002+00:00"
-    },
-    {
       "id": "4439c70636ec",
       "name": "Phantom Voice",
       "url": "https://www.producthunt.com/products/phantom-voice",
@@ -485,21 +757,6 @@
       "discovered_at": "2026-07-30T09:32:44.237078+00:00"
     },
     {
-      "id": "89248654815b",
-      "name": "Caimera",
-      "url": "https://www.producthunt.com/products/caimera-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "visual"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI Visual Production Platform for Fashion Teams\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237153+00:00"
-    },
-    {
       "id": "6a71b0dec11f",
       "name": "Laxis",
       "url": "https://www.producthunt.com/products/laxis-2",
@@ -514,36 +771,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-30T09:32:44.237232+00:00"
-    },
-    {
-      "id": "c43bc81de049",
-      "name": "agentOS",
-      "url": "https://www.producthunt.com/products/agentos-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "254× cheaper sandbox alternative, powered by WebAssembly\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237311+00:00"
-    },
-    {
-      "id": "079605ad99c9",
-      "name": "Pally",
-      "url": "https://www.producthunt.com/products/pally",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "assistant"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your personal assistant that lives in your texts\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237381+00:00"
     },
     {
       "id": "f6442ac8f832",
@@ -637,21 +864,6 @@
       "discovered_at": "2026-07-30T09:32:44.237802+00:00"
     },
     {
-      "id": "930efdfe3457",
-      "name": "Memmy Agent",
-      "url": "https://www.producthunt.com/products/memmy",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Let every AI remember the same you.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237868+00:00"
-    },
-    {
       "id": "091622a54da8",
       "name": "Focus Room",
       "url": "https://www.producthunt.com/products/focus-room",
@@ -665,22 +877,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-30T09:32:44.237942+00:00"
-    },
-    {
-      "id": "71bf98f5cbd3",
-      "name": "Claude Code usage tracking by LangWatch",
-      "url": "https://www.producthunt.com/products/langwatch",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "See what your Claude Code sessions actually cost\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.238016+00:00"
     },
     {
       "id": "0393f6df58aa",
