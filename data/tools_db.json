@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T09:44:17.691392+00:00",
-  "total": 2056,
+  "updated_at": "2026-08-01T09:06:16.730607+00:00",
+  "total": 2067,
   "tools": [
     {
       "name": "Cursor",
@@ -378,17 +378,249 @@
       "featured": false
     },
     {
-      "id": "20a879745a16",
-      "name": "TraceLLM",
-      "url": "https://www.producthunt.com/products/tracellm",
+      "id": "7590daa4baea",
+      "name": "Yamanote 3D",
+      "url": "https://www.producthunt.com/products/yamanote-3d",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ride Tokyo’s Yamanote Line in a 3D world\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.528980+00:00"
+    },
+    {
+      "id": "ab4230a196c7",
+      "name": "Tandem",
+      "url": "https://www.producthunt.com/products/tandem-11",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "OpenTelemetry for production AI applications\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "AI-native office leasing brokerage\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.508567+00:00"
+      "discovered_at": "2026-08-01T09:06:16.529057+00:00"
+    },
+    {
+      "id": "0c0b31d6f270",
+      "name": "Kopai",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share your expertise, and let our agents earn for you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529135+00:00"
+    },
+    {
+      "id": "25662e33f262",
+      "name": "DeepSeek",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Frontier agent intelligence at Flash prices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529209+00:00"
+    },
+    {
+      "id": "c0014377b26e",
+      "name": "Terminal Candy",
+      "url": "https://www.producthunt.com/products/terminal-candy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native macOS terminal you can skin and theme\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529282+00:00"
+    },
+    {
+      "id": "08f0735a910b",
+      "name": "AgentMicro",
+      "url": "https://www.producthunt.com/products/agentmicro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live Codex task status in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529356+00:00"
+    },
+    {
+      "id": "1aca70140bf8",
+      "name": "Basedash Audit Logs",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every action in your BI tool, on the record.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529435+00:00"
+    },
+    {
+      "id": "8d7d2e6c2651",
+      "name": "NudgeForMe",
+      "url": "https://www.producthunt.com/products/nudgeforme",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI follow-up agent for missed email opportunities\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529512+00:00"
+    },
+    {
+      "id": "003084c47b04",
+      "name": "EssayKraft",
+      "url": "https://www.producthunt.com/products/essaykraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "ad",
+        "essay"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native essay writing app for Mac and iPad \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529588+00:00"
+    },
+    {
+      "id": "c65f3cbf0358",
+      "name": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex & more on your phone \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529660+00:00"
+    },
+    {
+      "id": "a4efb8bc74af",
+      "name": "SyncStaq",
+      "url": "https://www.producthunt.com/products/syncstaq",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stripe billing data, always current in Google Sheets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529745+00:00"
+    },
+    {
+      "id": "31a84db8e764",
+      "name": "TerminalWidget",
+      "url": "https://www.producthunt.com/products/terminalwidget",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put script output in your Desktop/Home screen widgets.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529819+00:00"
+    },
+    {
+      "id": "bbc864b72403",
+      "name": "Halo by Scam AI",
+      "url": "https://www.producthunt.com/products/scam-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529907+00:00"
+    },
+    {
+      "id": "767a073b531f",
+      "name": "Poth Labs",
+      "url": "https://www.producthunt.com/products/poth-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The customer brain for your company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.529955+00:00"
+    },
+    {
+      "id": "3e496e6365c4",
+      "name": "witr",
+      "url": "https://www.producthunt.com/products/witr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Why is this running? Trace process, port, container or file\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.530008+00:00"
+    },
+    {
+      "id": "9f3734e5c491",
+      "name": "Gemini Robotics 2",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google's AI brain for the next generation of robots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.530079+00:00"
     },
     {
       "id": "7b8383842062",
@@ -405,7 +637,23 @@
       "description_it": "Turn your team's real workflows into AI training data\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.508712+00:00"
+      "discovered_at": "2026-08-01T09:06:16.530150+00:00"
+    },
+    {
+      "id": "ef8a1b22a54a",
+      "name": "Cleanlist AI",
+      "url": "https://www.producthunt.com/products/cleanlist-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Natural-language prospecting: find, enrich and sync leads.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.530224+00:00"
     },
     {
       "id": "efafe6ade0ca",
@@ -424,7 +672,20 @@
       "description_it": "Unified video generation for motion design and branding\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.508812+00:00"
+      "discovered_at": "2026-08-01T09:06:16.530299+00:00"
+    },
+    {
+      "id": "20a879745a16",
+      "name": "TraceLLM",
+      "url": "https://www.producthunt.com/products/tracellm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "OpenTelemetry for production AI applications\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-01T09:06:16.530349+00:00"
     },
     {
       "id": "18a089deaee8",
@@ -440,22 +701,6 @@
       "discovered_at": "2026-07-31T09:44:17.508874+00:00"
     },
     {
-      "id": "9f3734e5c491",
-      "name": "Gemini Robotics 2",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gemini",
-        "bot"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Google's AI brain for the next generation of robots\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.508969+00:00"
-    },
-    {
       "id": "56fcbd9ec8db",
       "name": "DepthData",
       "url": "https://www.producthunt.com/products/depthdata",
@@ -469,64 +714,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-31T09:44:17.509042+00:00"
-    },
-    {
-      "id": "3e496e6365c4",
-      "name": "witr",
-      "url": "https://www.producthunt.com/products/witr",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Why is this running? Trace process, port, container or file\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.509102+00:00"
-    },
-    {
-      "id": "767a073b531f",
-      "name": "Poth Labs",
-      "url": "https://www.producthunt.com/products/poth-labs",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The customer brain for your company\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.509155+00:00"
-    },
-    {
-      "id": "ef8a1b22a54a",
-      "name": "Cleanlist AI",
-      "url": "https://www.producthunt.com/products/cleanlist-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "find",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Natural-language prospecting: find, enrich and sync leads.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.509232+00:00"
-    },
-    {
-      "id": "bbc864b72403",
-      "name": "Halo by Scam AI",
-      "url": "https://www.producthunt.com/products/scam-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-31T09:44:17.509322+00:00"
     },
     {
       "id": "048b4bd017a7",
@@ -23398,19 +23585,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-24T09:01:46.430618+00:00"
-    },
-    {
-      "id": "25662e33f262",
-      "name": "DeepSeek",
-      "url": "https://www.producthunt.com/products/deepseek",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "The open-source era of 1M context intelligence\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-24T09:01:46.430720+00:00"
     },
     {
       "id": "19aa306cef56",
