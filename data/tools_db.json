@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T09:06:16.730607+00:00",
-  "total": 2067,
+  "updated_at": "2026-08-02T09:07:49.543842+00:00",
+  "total": 2078,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,196 @@
       "featured": false
     },
     {
+      "id": "2eba6144385b",
+      "name": "TimeOS 2.0",
+      "url": "https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Work your tasks. Bill your clients with confidence.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.298621+00:00"
+    },
+    {
+      "id": "326c1d9b6c45",
+      "name": "Bolcho AI",
+      "url": "https://www.producthunt.com/products/bolcho-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build Voice AI agents that actually speak India\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.298713+00:00"
+    },
+    {
+      "id": "0437429cd3c7",
+      "name": "YourSitee",
+      "url": "https://www.producthunt.com/products/yoursitee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make your bio link worth clicking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.298786+00:00"
+    },
+    {
+      "id": "db0730af35a2",
+      "name": "Zinley",
+      "url": "https://www.producthunt.com/products/zinley",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "task",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Personal AI Representative for calls, email, and tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.298861+00:00"
+    },
+    {
+      "id": "c1e936681923",
+      "name": "Capptivo",
+      "url": "https://www.producthunt.com/products/capptivo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "screen"
+      ],
+      "pricing": "Free",
+      "description_it": "Free open-source screen recorder & demo editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.298935+00:00"
+    },
+    {
+      "id": "b785f7f0df2c",
+      "name": "Lumichats(Free)",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "terminal",
+        "chat",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "A Claude Code alternative for people who avoid the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299013+00:00"
+    },
+    {
+      "id": "c6aea41a8f8a",
+      "name": "Zen Whisper",
+      "url": "https://www.producthunt.com/products/zen-whisper",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On-device Mac dictation that types into any app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299091+00:00"
+    },
+    {
+      "id": "fb58525d700a",
+      "name": "Finamie",
+      "url": "https://www.producthunt.com/products/finamie-know-your-money-for-real",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Speak your expenses and get instant spending insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299168+00:00"
+    },
+    {
+      "id": "b5d30f88a3e6",
+      "name": "UniwebPay Skill",
+      "url": "https://www.producthunt.com/products/uniwebpay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Financial Infra for the AI era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299226+00:00"
+    },
+    {
+      "id": "cacef2ee8a3c",
+      "name": "Termexo",
+      "url": "https://www.producthunt.com/products/termexo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local Windows workbench for Claude Code and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299295+00:00"
+    },
+    {
+      "id": "aa49f3765124",
+      "name": "FreqWave EQ",
+      "url": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Customize your web audio with a real-time EQ\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299386+00:00"
+    },
+    {
+      "id": "31a84db8e764",
+      "name": "TerminalWidget",
+      "url": "https://www.producthunt.com/products/terminalwidget",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put script output in your Desktop/Home screen widgets.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299463+00:00"
+    },
+    {
       "id": "7590daa4baea",
       "name": "Yamanote 3D",
       "url": "https://www.producthunt.com/products/yamanote-3d",
@@ -391,7 +581,104 @@
       "description_it": "Ride Tokyo’s Yamanote Line in a 3D world\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.528980+00:00"
+      "discovered_at": "2026-08-02T09:07:49.299554+00:00"
+    },
+    {
+      "id": "08f0735a910b",
+      "name": "AgentMicro",
+      "url": "https://www.producthunt.com/products/agentmicro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live Codex task status in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299626+00:00"
+    },
+    {
+      "id": "c0014377b26e",
+      "name": "Terminal Candy",
+      "url": "https://www.producthunt.com/products/terminal-candy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native macOS terminal you can skin and theme\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299696+00:00"
+    },
+    {
+      "id": "1aca70140bf8",
+      "name": "Basedash Audit Logs",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every action in your BI tool, on the record.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299764+00:00"
+    },
+    {
+      "id": "003084c47b04",
+      "name": "EssayKraft",
+      "url": "https://www.producthunt.com/products/essaykraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "ad",
+        "essay"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native essay writing app for Mac and iPad \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299831+00:00"
+    },
+    {
+      "id": "8d7d2e6c2651",
+      "name": "NudgeForMe",
+      "url": "https://www.producthunt.com/products/nudgeforme",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI follow-up agent for missed email opportunities\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299903+00:00"
+    },
+    {
+      "id": "c65f3cbf0358",
+      "name": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex & more on your phone \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-02T09:07:49.299974+00:00"
     },
     {
       "id": "ab4230a196c7",
@@ -404,7 +691,7 @@
       "description_it": "AI-native office leasing brokerage\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529057+00:00"
+      "discovered_at": "2026-08-02T09:07:49.300025+00:00"
     },
     {
       "id": "0c0b31d6f270",
@@ -437,103 +724,6 @@
       "discovered_at": "2026-08-01T09:06:16.529209+00:00"
     },
     {
-      "id": "c0014377b26e",
-      "name": "Terminal Candy",
-      "url": "https://www.producthunt.com/products/terminal-candy",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "terminal"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A native macOS terminal you can skin and theme\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529282+00:00"
-    },
-    {
-      "id": "08f0735a910b",
-      "name": "AgentMicro",
-      "url": "https://www.producthunt.com/products/agentmicro",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "ask",
-        "agent",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Live Codex task status in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529356+00:00"
-    },
-    {
-      "id": "1aca70140bf8",
-      "name": "Basedash Audit Logs",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "action"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Every action in your BI tool, on the record.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529435+00:00"
-    },
-    {
-      "id": "8d7d2e6c2651",
-      "name": "NudgeForMe",
-      "url": "https://www.producthunt.com/products/nudgeforme",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "email"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI follow-up agent for missed email opportunities\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529512+00:00"
-    },
-    {
-      "id": "003084c47b04",
-      "name": "EssayKraft",
-      "url": "https://www.producthunt.com/products/essaykraft",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "writing",
-        "ad",
-        "essay"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Native essay writing app for Mac and iPad \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529588+00:00"
-    },
-    {
-      "id": "c65f3cbf0358",
-      "name": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Claude Code, Codex & more on your phone \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529660+00:00"
-    },
-    {
       "id": "a4efb8bc74af",
       "name": "SyncStaq",
       "url": "https://www.producthunt.com/products/syncstaq",
@@ -547,22 +737,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-01T09:06:16.529745+00:00"
-    },
-    {
-      "id": "31a84db8e764",
-      "name": "TerminalWidget",
-      "url": "https://www.producthunt.com/products/terminalwidget",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "terminal",
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Put script output in your Desktop/Home screen widgets.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529819+00:00"
     },
     {
       "id": "bbc864b72403",
