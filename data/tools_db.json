@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T09:07:49.543842+00:00",
-  "total": 2078,
+  "updated_at": "2026-08-03T10:42:21.292610+00:00",
+  "total": 2098,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "79cdbc2f1e6c",
+      "name": "MacDupl",
+      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Clone any Mac app into a fully isolated instance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158550+00:00"
+    },
+    {
+      "id": "3fc9b6b51223",
+      "name": "Doxy",
+      "url": "https://www.producthunt.com/products/doxy-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Markdown & HTML editor, without the LaTeX pain\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158642+00:00"
+    },
+    {
+      "id": "4334e1444a9e",
+      "name": "yapyap",
+      "url": "https://www.producthunt.com/products/yapyap-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Own your voice again. Local-first voice & meeting recorder.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158718+00:00"
+    },
+    {
+      "id": "024ae6a84736",
+      "name": "MascotAI",
+      "url": "https://www.producthunt.com/products/mascotai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Animated SVG mascot studios for apps that need a personality\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158774+00:00"
+    },
+    {
+      "id": "0c00f977387b",
+      "name": "llama",
+      "url": "https://www.producthunt.com/products/appllama",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "llama",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Study 25,000+ screens from top-earning iOS apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158844+00:00"
+    },
+    {
+      "id": "1bc2b480c42a",
+      "name": "Ctruh Studio",
+      "url": "https://www.producthunt.com/products/ctruh-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create interactive 3D and XR experiences without coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.158917+00:00"
+    },
+    {
+      "id": "d93e24838690",
+      "name": "Open Minis",
+      "url": "https://www.producthunt.com/products/open-minis",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An on-device AI Agent that runs on your phone, open & secure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159002+00:00"
+    },
+    {
+      "id": "1105f9bbb60d",
+      "name": "Plethora",
+      "url": "https://www.producthunt.com/products/plethora-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Youtube for interactive content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159091+00:00"
+    },
+    {
+      "id": "8c57773a3857",
+      "name": "Qwen3.8",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Qwen’s most capable model for coding and cowork\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159186+00:00"
+    },
+    {
+      "id": "2eea828a48a5",
+      "name": "Airtop for Google Ads Automation",
+      "url": "https://www.producthunt.com/products/airtop",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "automat",
+        "ad",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build campaigns, optimize spend, and create reports.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159263+00:00"
+    },
+    {
+      "id": "fcc452685110",
+      "name": "Murmell",
+      "url": "https://www.producthunt.com/products/murmell",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloud canvas where your team and AI agents works together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159332+00:00"
+    },
+    {
+      "id": "bc875c101a1c",
+      "name": "The Garden of Mind",
+      "url": "https://www.producthunt.com/products/the-garden-of-mind",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your subconscious mind as a living 3D garden you water daily\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159385+00:00"
+    },
+    {
+      "id": "9ffad3f49ed2",
+      "name": "mpai",
+      "url": "https://www.producthunt.com/products/mpai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make existing Codex and Claude Code sessions multiplayer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159453+00:00"
+    },
+    {
+      "id": "1c6dae466b77",
+      "name": "Hand Wave",
+      "url": "https://www.producthunt.com/products/hand-wave",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn sign language into speech with smart glasses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159519+00:00"
+    },
+    {
+      "id": "38ee6e582742",
+      "name": "Snapdown",
+      "url": "https://www.producthunt.com/products/snapdown-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn anything on your Mac screen into clean Markdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159586+00:00"
+    },
+    {
+      "id": "cbea63f985fc",
+      "name": "AgentSky",
+      "url": "https://www.producthunt.com/products/agentsky",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Any harness, any LLM — cloud-hosted agents on demand.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159674+00:00"
+    },
+    {
+      "id": "af0b8817c2d8",
+      "name": "gesture.live",
+      "url": "https://www.producthunt.com/products/gesture-live",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Play live electronic music with your hands using your webcam\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159747+00:00"
+    },
+    {
+      "id": "447b14c28393",
+      "name": "claudemon",
+      "url": "https://www.producthunt.com/products/claudemon",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Wild Pokémon appear while you wait for Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159819+00:00"
+    },
+    {
+      "id": "2a7a225ef780",
+      "name": "PassiveShorts",
+      "url": "https://www.producthunt.com/products/passiveshorts",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "youtube",
+        "tiktok"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Faceless Video Generator for TikTok & YouTube\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159892+00:00"
+    },
+    {
+      "id": "afd854280eb9",
+      "name": "Inventory",
+      "url": "https://www.producthunt.com/products/inventory",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "conversation",
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search every AI Agent & IDE Conversation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-03T10:42:21.159960+00:00"
     },
     {
       "id": "2eba6144385b",
