@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T10:42:21.292610+00:00",
-  "total": 2098,
+  "updated_at": "2026-08-04T09:39:05.013534+00:00",
+  "total": 2117,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "f2fde6a45550",
+      "name": "MOTHER",
+      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "terminal",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A terminal built for Claude Code w/ one-click session resume\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.731678+00:00"
+    },
+    {
+      "id": "ecb4357f65c3",
+      "name": "Vibe Buddy",
+      "url": "https://www.producthunt.com/products/vibe-buddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hardware for AI coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.731771+00:00"
+    },
+    {
+      "id": "c8450b60db50",
+      "name": "Vinyl for Mac",
+      "url": "https://www.producthunt.com/products/vinyl-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac into a spinning vinyl player.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.731830+00:00"
+    },
+    {
+      "id": "5762a87f6589",
+      "name": "Domo",
+      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and customize your own calendar agent you can text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.731905+00:00"
+    },
+    {
+      "id": "ac9dabf7bab8",
+      "name": "GrowthBook 5.0",
+      "url": "https://www.producthunt.com/products/growthbook",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, ship, and improve at scale\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.731975+00:00"
+    },
+    {
+      "id": "e2b0baca3868",
+      "name": "Yokoso",
+      "url": "https://www.producthunt.com/products/yokoso-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Japanese for the life you're actually living in Japan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732030+00:00"
+    },
+    {
+      "id": "d48e20ecdda0",
+      "name": "space ocr",
+      "url": "https://www.producthunt.com/products/space-ocr",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OCR that checks its own answers, as an app or an API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732114+00:00"
+    },
+    {
+      "id": "9dc29e7bdd0d",
+      "name": "ScrollToll",
+      "url": "https://www.producthunt.com/products/scrolltoll-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Counts every Reel you watch, then locks the app.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732175+00:00"
+    },
+    {
+      "id": "534fe30229e2",
+      "name": "Atlaso",
+      "url": "https://www.producthunt.com/products/atlaso",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One memory for every AI you use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732227+00:00"
+    },
+    {
+      "id": "cc15b442797e",
+      "name": "Hey Noah",
+      "url": "https://www.producthunt.com/products/hey-noah",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A proactive AI executive assistant for founders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732298+00:00"
+    },
+    {
+      "id": "9c3e9fd04c43",
+      "name": "Driven",
+      "url": "https://www.producthunt.com/products/driven-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "rust",
+        "insight",
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The trusted AI investment agent, from insight to action\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732370+00:00"
+    },
+    {
+      "id": "1ca97a005792",
+      "name": "Snipplet",
+      "url": "https://www.producthunt.com/products/snipplet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create and share beautiful guides from places you love\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732445+00:00"
+    },
+    {
+      "id": "4fffc8abcb10",
+      "name": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A code-first language for durable, governed AI workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732516+00:00"
+    },
+    {
+      "id": "3e41637dc6ff",
+      "name": "Screen Awesome",
+      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "The free screen recorder that cannot upload your video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732612+00:00"
+    },
+    {
+      "id": "5f55a7b17478",
+      "name": "Crodo AI",
+      "url": "https://www.producthunt.com/products/crodo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your voice-first AI assistant for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732686+00:00"
+    },
+    {
+      "id": "b96e337627c7",
+      "name": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make videos and post them everywhere with just one tool\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732759+00:00"
+    },
+    {
+      "id": "e700a94dec0c",
+      "name": "FileFlippers",
+      "url": "https://www.producthunt.com/products/fileflippers",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Send big files and get paid on download\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732831+00:00"
+    },
+    {
+      "id": "89fda0f05ca8",
+      "name": "AirProof AI",
+      "url": "https://www.producthunt.com/products/airproof-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the best spot for your air purifier in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732903+00:00"
+    },
+    {
+      "id": "fea4d0ef6a20",
+      "name": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visualize your revenue on a 3D globe\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.732970+00:00"
+    },
+    {
+      "id": "15623e8b9e26",
+      "name": "Wondering",
+      "url": "https://www.producthunt.com/products/wondering-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Duolingo for learning anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-04T09:39:04.733020+00:00"
     },
     {
       "id": "79cdbc2f1e6c",
@@ -23317,23 +23621,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-27T09:19:47.743488+00:00"
-    },
-    {
-      "id": "b96e337627c7",
-      "name": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "sound",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Create videos with AI actors that sound and look real\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-27T09:19:47.743570+00:00"
     },
     {
       "id": "50c239936a7a",
