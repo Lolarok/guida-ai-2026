@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T09:37:54.179638+00:00",
-  "total": 2133,
+  "updated_at": "2026-08-06T09:39:43.932374+00:00",
+  "total": 2151,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,309 @@
       "featured": false
     },
     {
+      "id": "e497aff34809",
+      "name": "AI Spend Console by Rippling",
+      "url": "https://www.producthunt.com/products/rippling",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track your AI spend and connect it to business outcomes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728301+00:00"
+    },
+    {
+      "id": "31c3371377d2",
+      "name": "Brandfetch MCP",
+      "url": "https://www.producthunt.com/products/brandfetch",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "logo",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop your AI from guessing brand logos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728436+00:00"
+    },
+    {
+      "id": "bdd03cc03f2a",
+      "name": "Ododok",
+      "url": "https://www.producthunt.com/products/ododok",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Count every chew with your AirPods\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728494+00:00"
+    },
+    {
+      "id": "707de7aa8fce",
+      "name": "Aveiro",
+      "url": "https://www.producthunt.com/products/aveiro",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Publish sites, newsletters and social posts with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728570+00:00"
+    },
+    {
+      "id": "9649855b15c9",
+      "name": "hey postcard",
+      "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "delivered tomorrow morning at a random time between 8 -10 AM\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728629+00:00"
+    },
+    {
+      "id": "15f802582d5a",
+      "name": "UCP Radar",
+      "url": "https://www.producthunt.com/products/ucp-radar",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make your product feed visible to AI shopping agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728702+00:00"
+    },
+    {
+      "id": "a45455434cf1",
+      "name": "Superlog Responder",
+      "url": "https://www.producthunt.com/products/superlog",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "FREE AI bug-fixing agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728783+00:00"
+    },
+    {
+      "id": "7f0ebd4fda00",
+      "name": "Glyphi: Speed Reader",
+      "url": "https://www.producthunt.com/products/glyphi-speed-reader",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An RSVP reader for books, PDFs, articles & webpages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728861+00:00"
+    },
+    {
+      "id": "f52ccb1bdc6b",
+      "name": "Channels SDK",
+      "url": "https://www.producthunt.com/products/copilotkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agents in Slack & Teams without the production headaches.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.728935+00:00"
+    },
+    {
+      "id": "050c7b4b6973",
+      "name": "Website to Markdown API",
+      "url": "https://www.producthunt.com/products/website-to-markdown-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any website into LLM-ready Markdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729006+00:00"
+    },
+    {
+      "id": "31d8744617ed",
+      "name": "Annotate",
+      "url": "https://www.producthunt.com/products/annotate-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recording as prompts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729073+00:00"
+    },
+    {
+      "id": "bb23003c2154",
+      "name": "Shieldstral",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Define safety at runtime for text and images\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729142+00:00"
+    },
+    {
+      "id": "b16f3ca586a7",
+      "name": "Gesture Synth School",
+      "url": "https://www.producthunt.com/products/gesture-synth-school",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A practice app for learning to play music with your hands.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729241+00:00"
+    },
+    {
+      "id": "0dc684967cee",
+      "name": "Chute",
+      "url": "https://www.producthunt.com/products/chute-better-airdrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The fastest way to send anything to your iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729296+00:00"
+    },
+    {
+      "id": "c8b24027dfd2",
+      "name": "Token Harbor",
+      "url": "https://www.producthunt.com/products/token-harbor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to access frontier AI models.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729346+00:00"
+    },
+    {
+      "id": "b6317a7f0c1a",
+      "name": "Ticketdesk AI",
+      "url": "https://www.producthunt.com/products/ticketdesk-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Agents for Customer Support\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729413+00:00"
+    },
+    {
+      "id": "eabbebf53584",
+      "name": "Cloudflare OS",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build the AI operating system for your company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729466+00:00"
+    },
+    {
+      "id": "ae71ea65a160",
+      "name": "Muse Code",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Meta’s terminal agent for long-horizon coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729559+00:00"
+    },
+    {
+      "id": "c9400373f654",
+      "name": "Wispr Flow Notetaker",
+      "url": "https://www.producthunt.com/products/wisprflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Meeting notes that get the details right.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729630+00:00"
+    },
+    {
+      "id": "1682abac8a41",
+      "name": "NextDoor.Company",
+      "url": "https://www.producthunt.com/products/nextdoor-company",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover startups hiring near you, on a map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-06T09:39:43.729699+00:00"
+    },
+    {
       "id": "a04bc0b11cee",
       "name": "Aegisora",
       "url": "https://www.producthunt.com/products/aegisora",
@@ -521,38 +824,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-05T09:37:53.853526+00:00"
-    },
-    {
-      "id": "c9400373f654",
-      "name": "Wispr Flow Notetaker",
-      "url": "https://www.producthunt.com/products/wisprflow",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "note",
-        "meeting"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Meeting notes that get the details right.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-05T09:37:53.853600+00:00"
-    },
-    {
-      "id": "1682abac8a41",
-      "name": "NextDoor.Company",
-      "url": "https://www.producthunt.com/products/nextdoor-company",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "art",
-        "discover"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Discover startups hiring near you, on a map\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-05T09:37:53.853672+00:00"
     },
     {
       "id": "91bfb4dcf39c",
