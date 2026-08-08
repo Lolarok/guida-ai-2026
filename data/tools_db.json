@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T08:13:21.188977+00:00",
-  "total": 2171,
+  "updated_at": "2026-08-08T07:47:14.858073+00:00",
+  "total": 2177,
   "tools": [
     {
       "name": "Cursor",
@@ -378,47 +378,79 @@
       "featured": false
     },
     {
-      "id": "01adf094c68d",
-      "name": "Soloop",
-      "url": "https://www.producthunt.com/products/soloop",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Approval-first Agent OS for solo founders\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067212+00:00"
-    },
-    {
-      "id": "89bd35e67dd7",
-      "name": "Orite",
-      "url": "https://www.producthunt.com/products/orite",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Give your AI Agent money. Not a blank check.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067299+00:00"
-    },
-    {
-      "id": "fee2c018a579",
-      "name": "Blueberry",
-      "url": "https://www.producthunt.com/products/blueberry-6",
+      "id": "0f83a4e7eafd",
+      "name": "The GTM Co",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Stop Ghosting People You Actually Like\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free",
+      "description_it": "Open-source GTM skills for technical founders\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067354+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608172+00:00"
+    },
+    {
+      "id": "e7184f8a3d87",
+      "name": "port",
+      "url": "https://www.producthunt.com/products/conduit-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every tool, one port. One MCP setup for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608268+00:00"
+    },
+    {
+      "id": "aa380082f37d",
+      "name": "Basedash Subscriptions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Subscribe to any dashboard. Delivered on schedule.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608333+00:00"
+    },
+    {
+      "id": "c92ad9ae011e",
+      "name": "Hexis",
+      "url": "https://www.producthunt.com/products/bevel-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Git-backed skills, tools & context for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608391+00:00"
+    },
+    {
+      "id": "398517197c7d",
+      "name": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "​​A pixel-art solar system at its real current positions.​\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608474+00:00"
     },
     {
       "id": "0f717c4f04d1",
@@ -431,22 +463,35 @@
       "description_it": "Bring a continuity-style experience to Android and Mac\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067410+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608520+00:00"
     },
     {
-      "id": "b0162c20fd88",
-      "name": "Rescript for Desktop",
-      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "id": "0d2fee2cce94",
+      "name": "Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "dev"
-      ],
-      "pricing": "Free",
-      "description_it": "A free, open source, Descript alternative. Runs on-device.\n          \n          \n            Discussion\n            |\n            Link",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make your software self-driving\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067487+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608568+00:00"
+    },
+    {
+      "id": "01adf094c68d",
+      "name": "Soloop",
+      "url": "https://www.producthunt.com/products/soloop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Approval-first Agent OS for solo founders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608627+00:00"
     },
     {
       "id": "6b505c1216cf",
@@ -461,38 +506,24 @@
       "description_it": "Automate the web work your team does by hand\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067576+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608682+00:00"
     },
     {
-      "id": "294444b50feb",
-      "name": "Merge",
-      "url": "https://www.producthunt.com/products/merge-5",
+      "id": "86030f1eb163",
+      "name": "The new Firecrawl MCP",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "code"
+        "cli",
+        "agent",
+        "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "AI-native code review assessments\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Agent-ready web context for any MCP client.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067660+00:00"
-    },
-    {
-      "id": "e0f3687d364f",
-      "name": "StepShot",
-      "url": "https://www.producthunt.com/products/stepshot-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "workflow"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI that turns real workflows into step-by-step guides\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067734+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608740+00:00"
     },
     {
       "id": "72409ef8bc94",
@@ -508,7 +539,160 @@
       "description_it": "Automate boring work. Extensible and free desktop AI agent.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.067810+00:00"
+      "discovered_at": "2026-08-08T07:47:14.608801+00:00"
+    },
+    {
+      "id": "8e082eeecc80",
+      "name": "Reference",
+      "url": "https://www.producthunt.com/products/reference-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local semantic search for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608855+00:00"
+    },
+    {
+      "id": "9db2ee9aea59",
+      "name": "HAR",
+      "url": "https://www.producthunt.com/products/har",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "coding",
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free",
+      "description_it": "Open Source harness for multi-agent coding workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608911+00:00"
+    },
+    {
+      "id": "b0162c20fd88",
+      "name": "Rescript for Desktop",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free",
+      "description_it": "A free, open source, Descript alternative. Runs on-device.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608971+00:00"
+    },
+    {
+      "id": "89bd35e67dd7",
+      "name": "Orite",
+      "url": "https://www.producthunt.com/products/orite",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI Agent money. Not a blank check.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609025+00:00"
+    },
+    {
+      "id": "01e1af6c32b4",
+      "name": "Kitesurf",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Browser built for agents, running on Cloudflare Workers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609084+00:00"
+    },
+    {
+      "id": "c534d58489b0",
+      "name": "Progress AI Observability",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Trace, evaluate, and improve AI agents in production\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609145+00:00"
+    },
+    {
+      "id": "e0f3687d364f",
+      "name": "StepShot",
+      "url": "https://www.producthunt.com/products/stepshot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that turns real workflows into step-by-step guides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609213+00:00"
+    },
+    {
+      "id": "2c95abfd1cd0",
+      "name": "Whop CLI",
+      "url": "https://www.producthunt.com/products/whop-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your entire business from the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609268+00:00"
+    },
+    {
+      "id": "294444b50feb",
+      "name": "Merge",
+      "url": "https://www.producthunt.com/products/merge-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native code review assessments\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.609321+00:00"
+    },
+    {
+      "id": "fee2c018a579",
+      "name": "Blueberry",
+      "url": "https://www.producthunt.com/products/blueberry-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop Ghosting People You Actually Like\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-07T08:13:21.067354+00:00"
     },
     {
       "id": "6540e1f815d4",
@@ -544,23 +728,6 @@
       "discovered_at": "2026-08-07T08:13:21.067941+00:00"
     },
     {
-      "id": "86030f1eb163",
-      "name": "The new Firecrawl MCP",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "agent",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Agent-ready web context for any MCP client.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068010+00:00"
-    },
-    {
       "id": "c652be6d242f",
       "name": "DataBlur",
       "url": "https://www.producthunt.com/products/datablur",
@@ -577,39 +744,6 @@
       "discovered_at": "2026-08-07T08:13:21.068079+00:00"
     },
     {
-      "id": "9db2ee9aea59",
-      "name": "HAR",
-      "url": "https://www.producthunt.com/products/har",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "coding",
-        "agent",
-        "workflow"
-      ],
-      "pricing": "Free",
-      "description_it": "Open Source harness for multi-agent coding workflows\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068149+00:00"
-    },
-    {
-      "id": "2c95abfd1cd0",
-      "name": "Whop CLI",
-      "url": "https://www.producthunt.com/products/whop-cli",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli",
-        "terminal"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Run your entire business from the terminal\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068217+00:00"
-    },
-    {
       "id": "6cbc8e9beb32",
       "name": "BAP Studio",
       "url": "https://www.producthunt.com/products/bap-studio",
@@ -621,35 +755,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-07T08:13:21.068268+00:00"
-    },
-    {
-      "id": "8e082eeecc80",
-      "name": "Reference",
-      "url": "https://www.producthunt.com/products/reference-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "search",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Local semantic search for AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068334+00:00"
-    },
-    {
-      "id": "0d2fee2cce94",
-      "name": "Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Make your software delivery self-driving\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068383+00:00"
     },
     {
       "id": "66abc814b103",
@@ -667,21 +772,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-07T08:13:21.068448+00:00"
-    },
-    {
-      "id": "01e1af6c32b4",
-      "name": "Kitesurf",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Browser built for agents, running on Cloudflare Workers\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-07T08:13:21.068514+00:00"
     },
     {
       "id": "e497aff34809",
