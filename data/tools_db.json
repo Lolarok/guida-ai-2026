@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T07:47:14.858073+00:00",
-  "total": 2177,
+  "updated_at": "2026-08-09T07:54:34.180596+00:00",
+  "total": 2194,
   "tools": [
     {
       "name": "Cursor",
@@ -378,17 +378,253 @@
       "featured": false
     },
     {
-      "id": "0f83a4e7eafd",
-      "name": "The GTM Co",
-      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "id": "5f6badab5818",
+      "name": "Grok Imagine 2.0",
+      "url": "https://www.producthunt.com/products/grok-com-beta",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Next-gen AI image generator with segmentation editing.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931042+00:00"
+    },
+    {
+      "id": "6ce68f108a80",
+      "name": "Argos",
+      "url": "https://www.producthunt.com/products/argos-2",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
-      "pricing": "Free",
-      "description_it": "Open-source GTM skills for technical founders\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "The AI that acts as you, right in your browser\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-08T07:47:14.608172+00:00"
+      "discovered_at": "2026-08-09T07:54:33.931105+00:00"
+    },
+    {
+      "id": "59a234f9a564",
+      "name": "Workflo",
+      "url": "https://www.producthunt.com/products/workflo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac workspace automation that never sees your screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931168+00:00"
+    },
+    {
+      "id": "65c571551fbc",
+      "name": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tag any agent, wherever work happens.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931227+00:00"
+    },
+    {
+      "id": "774f77cd72af",
+      "name": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Benchmark proxies for reliable, target-specific scraping\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931290+00:00"
+    },
+    {
+      "id": "e4933aa216d7",
+      "name": "DuckDisk",
+      "url": "https://www.producthunt.com/products/duckdisk",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Table-first storage analysis for Mac, cloud, and SSH\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931349+00:00"
+    },
+    {
+      "id": "f27c203ab18b",
+      "name": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let Claude or Codex create and maintain good looking docs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931420+00:00"
+    },
+    {
+      "id": "a770d369d511",
+      "name": "Prompt Golf",
+      "url": "https://www.producthunt.com/products/prompt-golf",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Prompt Engineering As a Sport\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931465+00:00"
+    },
+    {
+      "id": "d3201b53271f",
+      "name": "Soup CLI",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fine-tune an 8B LLM on a 4 GB laptop GPU\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931520+00:00"
+    },
+    {
+      "id": "a63eb34e47d5",
+      "name": "SoloUno",
+      "url": "https://www.producthunt.com/products/solouno",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Take control of hair pulling, nail biting & skin picking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931562+00:00"
+    },
+    {
+      "id": "900d0f89de3f",
+      "name": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Creative Agent OS — create better with desktop AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931640+00:00"
+    },
+    {
+      "id": "51e98df04386",
+      "name": "radiusHQ",
+      "url": "https://www.producthunt.com/products/radiushq",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One link replaces your scheduling chaos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931695+00:00"
+    },
+    {
+      "id": "38d2173b548f",
+      "name": "Papaya",
+      "url": "https://www.producthunt.com/products/papaya-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your sex's private recap — never leaves your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931751+00:00"
+    },
+    {
+      "id": "c5df3ecddc73",
+      "name": "Macrobite",
+      "url": "https://www.producthunt.com/products/macrobite",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The fastest way to actually get your macros right\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931795+00:00"
+    },
+    {
+      "id": "ec0d58a2872c",
+      "name": "Persodex",
+      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "crm"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal CRM that lives on top of your iOS contacts.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931854+00:00"
+    },
+    {
+      "id": "05eb341e16f3",
+      "name": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Conference database for B2B teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931907+00:00"
+    },
+    {
+      "id": "52fda25b62e9",
+      "name": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The App Store for Your Voice.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.931962+00:00"
     },
     {
       "id": "e7184f8a3d87",
@@ -403,7 +639,23 @@
       "description_it": "Every tool, one port. One MCP setup for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-08T07:47:14.608268+00:00"
+      "discovered_at": "2026-08-09T07:54:33.932033+00:00"
+    },
+    {
+      "id": "398517197c7d",
+      "name": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "​​A pixel-art solar system at its real current positions.​\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-09T07:54:33.932107+00:00"
     },
     {
       "id": "aa380082f37d",
@@ -418,7 +670,20 @@
       "description_it": "Subscribe to any dashboard. Delivered on schedule.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-08T07:47:14.608333+00:00"
+      "discovered_at": "2026-08-09T07:54:33.932166+00:00"
+    },
+    {
+      "id": "0f83a4e7eafd",
+      "name": "The GTM Co",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source GTM skills for technical founders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-08T07:47:14.608172+00:00"
     },
     {
       "id": "c92ad9ae011e",
@@ -435,22 +700,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-08T07:47:14.608391+00:00"
-    },
-    {
-      "id": "398517197c7d",
-      "name": "AstraPixels",
-      "url": "https://www.producthunt.com/products/astrapixels",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api",
-        "art"
-      ],
-      "pricing": "Free tier",
-      "description_it": "​​A pixel-art solar system at its real current positions.​\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-08T07:47:14.608474+00:00"
     },
     {
       "id": "0f717c4f04d1",
