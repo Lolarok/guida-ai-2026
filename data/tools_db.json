@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T07:54:34.180596+00:00",
-  "total": 2194,
+  "updated_at": "2026-08-10T08:27:19.166205+00:00",
+  "total": 2205,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,303 @@
       "featured": false
     },
     {
+      "id": "66e1daabc9fa",
+      "name": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916098+00:00"
+    },
+    {
+      "id": "c961f1232322",
+      "name": "Yarr",
+      "url": "https://www.producthunt.com/products/yarr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run your AI team from one desktop workspace.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916172+00:00"
+    },
+    {
+      "id": "a060be939710",
+      "name": "Portfolio Lab",
+      "url": "https://www.producthunt.com/products/portfolio-lab",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI investing, done responsibly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916229+00:00"
+    },
+    {
+      "id": "9a65fdfc6139",
+      "name": "Prime Agent",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A coding agent that can refine its own harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916305+00:00"
+    },
+    {
+      "id": "9f61009ac30f",
+      "name": "SecondBrain Note by GenSpark",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A MagSafe AI Recorder That Acts for You\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916379+00:00"
+    },
+    {
+      "id": "2e7e94701dc2",
+      "name": "AI Group Call",
+      "url": "https://www.producthunt.com/products/ai-group-call",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Type a goal, join a live voice call with six AI minds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916451+00:00"
+    },
+    {
+      "id": "a565a6abf21b",
+      "name": "Gutta",
+      "url": "https://www.producthunt.com/products/gutta",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A tiny, offline task list for your Mac menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916532+00:00"
+    },
+    {
+      "id": "8d6be85a61b7",
+      "name": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build evals and custom benchmarks for real-world tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916606+00:00"
+    },
+    {
+      "id": "668e195bb28b",
+      "name": "Remix",
+      "url": "https://www.producthunt.com/products/remix-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Figma, but on your production app. Test variants and ship.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916661+00:00"
+    },
+    {
+      "id": "0f6f9639d02a",
+      "name": "Paritok",
+      "url": "https://www.producthunt.com/products/paritok",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spend up to 85% less and run 3× longer coding agent sessions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916739+00:00"
+    },
+    {
+      "id": "59a234f9a564",
+      "name": "Workflo",
+      "url": "https://www.producthunt.com/products/workflo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac workspace automation that never sees your screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916812+00:00"
+    },
+    {
+      "id": "05eb341e16f3",
+      "name": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Conference database for B2B teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916880+00:00"
+    },
+    {
+      "id": "9763729ac3b6",
+      "name": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn life goals into daily progress.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.916948+00:00"
+    },
+    {
+      "id": "51e98df04386",
+      "name": "radiusHQ",
+      "url": "https://www.producthunt.com/products/radiushq",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One link replaces your scheduling chaos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917039+00:00"
+    },
+    {
+      "id": "52fda25b62e9",
+      "name": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The app store for voice native apps that lives in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917115+00:00"
+    },
+    {
+      "id": "900d0f89de3f",
+      "name": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Creative Agent OS, create better with desktop AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917188+00:00"
+    },
+    {
+      "id": "f27c203ab18b",
+      "name": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let Claude or Codex create and maintain good looking docs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917264+00:00"
+    },
+    {
+      "id": "d3201b53271f",
+      "name": "Soup CLI",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fine-tune an 8B LLM on a 4 GB laptop GPU\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917329+00:00"
+    },
+    {
+      "id": "a63eb34e47d5",
+      "name": "SoloUno",
+      "url": "https://www.producthunt.com/products/solouno",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Take control of hair pulling, nail biting & skin picking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917385+00:00"
+    },
+    {
+      "id": "774f77cd72af",
+      "name": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Benchmark proxies for reliable, target-specific scraping\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-10T08:27:18.917464+00:00"
+    },
+    {
       "id": "5f6badab5818",
       "name": "Grok Imagine 2.0",
       "url": "https://www.producthunt.com/products/grok-com-beta",
@@ -406,22 +703,6 @@
       "discovered_at": "2026-08-09T07:54:33.931105+00:00"
     },
     {
-      "id": "59a234f9a564",
-      "name": "Workflo",
-      "url": "https://www.producthunt.com/products/workflo-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen",
-        "automat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Mac workspace automation that never sees your screen\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931168+00:00"
-    },
-    {
       "id": "65c571551fbc",
       "name": "AgentConnect",
       "url": "https://www.producthunt.com/products/agentconnect",
@@ -436,21 +717,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-09T07:54:33.931227+00:00"
-    },
-    {
-      "id": "774f77cd72af",
-      "name": "Proxy Tester by ScrapeOps",
-      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Benchmark proxies for reliable, target-specific scraping\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931290+00:00"
     },
     {
       "id": "e4933aa216d7",
@@ -468,23 +734,6 @@
       "discovered_at": "2026-08-09T07:54:33.931349+00:00"
     },
     {
-      "id": "f27c203ab18b",
-      "name": "DocsAlot CLI",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "cli",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Let Claude or Codex create and maintain good looking docs\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931420+00:00"
-    },
-    {
       "id": "a770d369d511",
       "name": "Prompt Golf",
       "url": "https://www.producthunt.com/products/prompt-golf",
@@ -496,64 +745,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-09T07:54:33.931465+00:00"
-    },
-    {
-      "id": "d3201b53271f",
-      "name": "Soup CLI",
-      "url": "https://www.producthunt.com/products/soup-cli",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "cli"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Fine-tune an 8B LLM on a 4 GB laptop GPU\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931520+00:00"
-    },
-    {
-      "id": "a63eb34e47d5",
-      "name": "SoloUno",
-      "url": "https://www.producthunt.com/products/solouno",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Take control of hair pulling, nail biting & skin picking\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931562+00:00"
-    },
-    {
-      "id": "900d0f89de3f",
-      "name": "Omniwork",
-      "url": "https://www.producthunt.com/products/omniwork-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The Creative Agent OS — create better with desktop AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931640+00:00"
-    },
-    {
-      "id": "51e98df04386",
-      "name": "radiusHQ",
-      "url": "https://www.producthunt.com/products/radiushq",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "One link replaces your scheduling chaos\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931695+00:00"
     },
     {
       "id": "38d2173b548f",
@@ -595,36 +786,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-09T07:54:33.931854+00:00"
-    },
-    {
-      "id": "05eb341e16f3",
-      "name": "ConferenceGrid",
-      "url": "https://www.producthunt.com/products/conferencegrid",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Conference database for B2B teams\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931907+00:00"
-    },
-    {
-      "id": "52fda25b62e9",
-      "name": "VoiceOS App Store",
-      "url": "https://www.producthunt.com/products/voiceos",
-      "source": "Product Hunt AI (feed)",
-      "category": "audio",
-      "tags": [
-        "voice"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The App Store for Your Voice.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-09T07:54:33.931962+00:00"
     },
     {
       "id": "e7184f8a3d87",
