@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T08:27:19.166205+00:00",
-  "total": 2205,
+  "updated_at": "2026-08-11T08:12:06.891319+00:00",
+  "total": 2220,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,274 @@
       "featured": false
     },
     {
+      "id": "dffabf83a535",
+      "name": "Xirp",
+      "url": "https://www.producthunt.com/products/spotify",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agentic development environment built by Spotify\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.637626+00:00"
+    },
+    {
+      "id": "6934ba0cc016",
+      "name": "Gotcha",
+      "url": "https://www.producthunt.com/products/gotcha-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "copilot",
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "World's First AI Copilot for Android. You talk. It acts.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.637761+00:00"
+    },
+    {
+      "id": "aa4bd47a59d3",
+      "name": "Lexi",
+      "url": "https://www.producthunt.com/products/lexi-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The operating system for legal work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.637828+00:00"
+    },
+    {
+      "id": "44bf69b1823b",
+      "name": "agent",
+      "url": "https://www.producthunt.com/products/agent-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "dev",
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fastest workflow for developing with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.637944+00:00"
+    },
+    {
+      "id": "7dcd61076d7e",
+      "name": "Bullet",
+      "url": "https://www.producthunt.com/products/bullet-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "30-60% faster than Claude Code and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638024+00:00"
+    },
+    {
+      "id": "5629b53f42c6",
+      "name": "Product Analytics for Agents and Users",
+      "url": "https://www.producthunt.com/products/kubit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "analyt",
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Optimize Agent Actions with User Behavior.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638107+00:00"
+    },
+    {
+      "id": "01bf198c6f82",
+      "name": "Tines 3B",
+      "url": "https://www.producthunt.com/products/tines",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The secure environment for agents, apps, and automations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638199+00:00"
+    },
+    {
+      "id": "a29eabbe87df",
+      "name": "Equitybee Benchmark",
+      "url": "https://www.producthunt.com/products/equitybee",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free",
+      "description_it": "Compare your startup equity grant for free.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638280+00:00"
+    },
+    {
+      "id": "7d28a18eb493",
+      "name": "Gitar",
+      "url": "https://www.producthunt.com/products/gitar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "git",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI code review that fixes what it finds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638351+00:00"
+    },
+    {
+      "id": "b73b854822aa",
+      "name": "Cerenovus",
+      "url": "https://www.producthunt.com/products/cerenovus",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn scattered company knowledge into trusted decisions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638425+00:00"
+    },
+    {
+      "id": "669e542a8e34",
+      "name": "BetterClaw",
+      "url": "https://www.producthunt.com/products/betterclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Deploy AI Agent, 60 seconds & $0 forever \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638497+00:00"
+    },
+    {
+      "id": "ba63dac2c38c",
+      "name": "AMP by CanyonTechs AI",
+      "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that act. Automation that delivers.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638572+00:00"
+    },
+    {
+      "id": "0c7fa742dbec",
+      "name": "Vizard Agent",
+      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI agent for every kind of video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638649+00:00"
+    },
+    {
+      "id": "2a25a9009b36",
+      "name": "Continuum",
+      "url": "https://www.producthunt.com/products/continuum-2027",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Remember what you know about the people you manage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638726+00:00"
+    },
+    {
+      "id": "401bba46b0bd",
+      "name": "Octomind Cloud + Hub",
+      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One login, zero API keys — cloud agents + 27 models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638824+00:00"
+    },
+    {
+      "id": "8d6be85a61b7",
+      "name": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build evals and custom benchmarks for real-world tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638896+00:00"
+    },
+    {
+      "id": "9a65fdfc6139",
+      "name": "Prime Agent",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A coding agent that can refine its own harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.638995+00:00"
+    },
+    {
       "id": "66e1daabc9fa",
       "name": "Vidaya",
       "url": "https://www.producthunt.com/products/vidaya",
@@ -388,7 +656,20 @@
       "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-10T08:27:18.916098+00:00"
+      "discovered_at": "2026-08-11T08:12:06.639078+00:00"
+    },
+    {
+      "id": "668e195bb28b",
+      "name": "Remix",
+      "url": "https://www.producthunt.com/products/remix-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Figma, but on your production app. Test variants and ship.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-11T08:12:06.639137+00:00"
     },
     {
       "id": "c961f1232322",
@@ -415,22 +696,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-10T08:27:18.916229+00:00"
-    },
-    {
-      "id": "9a65fdfc6139",
-      "name": "Prime Agent",
-      "url": "https://www.producthunt.com/products/prime-intellect",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A coding agent that can refine its own harness\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-10T08:27:18.916305+00:00"
     },
     {
       "id": "9f61009ac30f",
@@ -477,35 +742,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-10T08:27:18.916532+00:00"
-    },
-    {
-      "id": "8d6be85a61b7",
-      "name": "oqoqo",
-      "url": "https://www.producthunt.com/products/oqoqo",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "ask",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Build evals and custom benchmarks for real-world tasks\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-10T08:27:18.916606+00:00"
-    },
-    {
-      "id": "668e195bb28b",
-      "name": "Remix",
-      "url": "https://www.producthunt.com/products/remix-8",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Figma, but on your production app. Test variants and ship.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-10T08:27:18.916661+00:00"
     },
     {
       "id": "0f6f9639d02a",
