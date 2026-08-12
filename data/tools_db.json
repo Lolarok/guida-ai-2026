@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T08:12:06.891319+00:00",
-  "total": 2220,
+  "updated_at": "2026-08-12T08:15:27.965028+00:00",
+  "total": 2239,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,296 @@
       "featured": false
     },
     {
+      "id": "31da7c214a49",
+      "name": "Dograh",
+      "url": "https://www.producthunt.com/products/dograh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free",
+      "description_it": "The open source VAPI alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.703860+00:00"
+    },
+    {
+      "id": "ed62e9fd37eb",
+      "name": "Chat Agent by Trigger.dev",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI chat that keeps running after you close the tab\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.703960+00:00"
+    },
+    {
+      "id": "c90f5aacb092",
+      "name": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI teammates that you can give real work to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704031+00:00"
+    },
+    {
+      "id": "db8aabd2b847",
+      "name": "Nearfield",
+      "url": "https://www.producthunt.com/products/nearfield",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn two or more Studio Displays into stereo speakers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704088+00:00"
+    },
+    {
+      "id": "931a6c7ea2b1",
+      "name": "RightCard",
+      "url": "https://www.producthunt.com/products/rightcard",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The honest credit card picker — no bank login\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704159+00:00"
+    },
+    {
+      "id": "671d22f98811",
+      "name": "CodeBurn",
+      "url": "https://www.producthunt.com/products/codeburn",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See where your AI coding spend actually goes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704229+00:00"
+    },
+    {
+      "id": "d27cee2fa816",
+      "name": "Linforge",
+      "url": "https://www.producthunt.com/products/linforge",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn Anki flashcards into real English conversations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704338+00:00"
+    },
+    {
+      "id": "b4e67d8e7e2d",
+      "name": "Unsloth Desktop",
+      "url": "https://www.producthunt.com/products/unsloth",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run and train AI models locally on your desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704400+00:00"
+    },
+    {
+      "id": "f172a5edd791",
+      "name": "tash",
+      "url": "https://www.producthunt.com/products/tash",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The investment platform for trading cards\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704471+00:00"
+    },
+    {
+      "id": "605d6f92b95a",
+      "name": "Cohesor",
+      "url": "https://www.producthunt.com/products/cohesor",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "erp"
+      ],
+      "pricing": "Freemium",
+      "description_it": "A neutral control plane for enterprise AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704543+00:00"
+    },
+    {
+      "id": "39c9b4b785cc",
+      "name": "LaraCopilot",
+      "url": "https://www.producthunt.com/products/laracopilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic AI Engineer that builds real apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704616+00:00"
+    },
+    {
+      "id": "230574a0e7b5",
+      "name": "BearDrive",
+      "url": "https://www.producthunt.com/products/beardrive",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source shared folder for your team's AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704686+00:00"
+    },
+    {
+      "id": "1bf19a5895a5",
+      "name": "Swipe",
+      "url": "https://www.producthunt.com/products/swipe-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Swipe right on your next customer \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704735+00:00"
+    },
+    {
+      "id": "d759251efc0c",
+      "name": "Assembly Studio",
+      "url": "https://www.producthunt.com/products/assembly-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI app builder that grows your revenue\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704785+00:00"
+    },
+    {
+      "id": "d2c19091fed7",
+      "name": "Click",
+      "url": "https://www.producthunt.com/products/click-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "cli",
+        "chat",
+        "gpt",
+        "claude",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Live research context for ChatGPT and Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704846+00:00"
+    },
+    {
+      "id": "a0a451b63c18",
+      "name": "Ballet",
+      "url": "https://www.producthunt.com/products/ballet",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic workflows that deliver the same outcome every time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704916+00:00"
+    },
+    {
+      "id": "c3ef329e3d1d",
+      "name": "Media Sharing",
+      "url": "https://www.producthunt.com/products/argos",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "screenshot",
+        "video",
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI agents put screenshots and videos on pull requests\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.704989+00:00"
+    },
+    {
+      "id": "d290b9a4f96b",
+      "name": "Sidekick™",
+      "url": "https://www.producthunt.com/products/sidekick-16",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agentic interface\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.705071+00:00"
+    },
+    {
+      "id": "55c1327a91c1",
+      "name": "Lettertrace",
+      "url": "https://www.producthunt.com/products/lettertrace",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free",
+      "description_it": "Track your AI visibility for free (using your own API keys!)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-12T08:15:27.705143+00:00"
+    },
+    {
       "id": "dffabf83a535",
       "name": "Xirp",
       "url": "https://www.producthunt.com/products/spotify",
@@ -391,7 +681,7 @@
       "description_it": "The agentic development environment built by Spotify\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-11T08:12:06.637626+00:00"
+      "discovered_at": "2026-08-12T08:15:27.705213+00:00"
     },
     {
       "id": "6934ba0cc016",
