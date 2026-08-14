@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T08:21:49.149560+00:00",
-  "total": 2259,
+  "updated_at": "2026-08-14T08:14:49.431180+00:00",
+  "total": 2278,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "d27284fd3c20",
+      "name": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The keyboard-first calendar to get organized quickly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039382+00:00"
+    },
+    {
+      "id": "99bf4d89fe3f",
+      "name": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make product videos that capture attention\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039474+00:00"
+    },
+    {
+      "id": "fb6fe3ce9d49",
+      "name": "NS1",
+      "url": "https://www.producthunt.com/products/ns1",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Personalized Nervous System Training\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039528+00:00"
+    },
+    {
+      "id": "e9824880b0fa",
+      "name": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pinboard meets citation manager for shared insights.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039604+00:00"
+    },
+    {
+      "id": "bae3624c13eb",
+      "name": "Basedash Tasks",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your business on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039692+00:00"
+    },
+    {
+      "id": "c65f3cbf0358",
+      "name": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex & more on your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039763+00:00"
+    },
+    {
+      "id": "e0f6938308f1",
+      "name": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scrape any data from any website with one prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039839+00:00"
+    },
+    {
+      "id": "4f2af44996d3",
+      "name": "min.",
+      "url": "https://www.producthunt.com/products/min-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that builds a digital version of everyone you work with\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.039915+00:00"
+    },
+    {
+      "id": "8c90acd01dad",
+      "name": "Munder Difflin",
+      "url": "https://www.producthunt.com/products/munder-difflin",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make clones with Claude Code and Codex to do your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040021+00:00"
+    },
+    {
+      "id": "b3ab409531c5",
+      "name": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Al Visual Bookmark Manager for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040095+00:00"
+    },
+    {
+      "id": "8a9a8859c8bc",
+      "name": "Buply",
+      "url": "https://www.producthunt.com/products/buply",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Reunite lost pets using noseprints\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040146+00:00"
+    },
+    {
+      "id": "387b9d9f0fdf",
+      "name": "Outcome",
+      "url": "https://www.producthunt.com/products/contentblocks",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your content into a personal outcome for every lead\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040215+00:00"
+    },
+    {
+      "id": "5314b4c77433",
+      "name": "Openmotion",
+      "url": "https://www.producthunt.com/products/openmotion",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "screenshot",
+        "video",
+        "motion",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn product screenshots and prompts into motion videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040277+00:00"
+    },
+    {
+      "id": "18343183f9ed",
+      "name": "Hoplite",
+      "url": "https://www.producthunt.com/products/hoplite",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Effortlessly deploy cloud software factories.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040342+00:00"
+    },
+    {
+      "id": "8c0f0ef0f8b6",
+      "name": "DeepSeek Harness",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Composable agent harness where everything is a plugin\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040410+00:00"
+    },
+    {
+      "id": "3e1004e4f728",
+      "name": "Theos[RFM]",
+      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Manage facilities in 3D, in the real world, in real time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040460+00:00"
+    },
+    {
+      "id": "d7d8eb699049",
+      "name": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Free coding agents to kill Claude, Cursor, Replit, and Devin\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040530+00:00"
+    },
+    {
+      "id": "7f63536fc3a8",
+      "name": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Browser-based generative DAW\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040582+00:00"
+    },
+    {
+      "id": "b4ce14ec3e0d",
+      "name": "Gemini 3.7 Flash",
+      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "gemini",
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google's smartest workhorse yet for coding & agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040651+00:00"
+    },
+    {
+      "id": "1a6007cdd9a8",
+      "name": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "visual",
+        "music",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build your own music visualizer for MIDI & audio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-14T08:14:49.040714+00:00"
     },
     {
       "id": "b4dcdacc7c9c",
@@ -3413,22 +3723,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-02T09:07:49.299903+00:00"
-    },
-    {
-      "id": "c65f3cbf0358",
-      "name": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Claude Code, Codex & more on your phone \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-02T09:07:49.299974+00:00"
     },
     {
       "id": "ab4230a196c7",
