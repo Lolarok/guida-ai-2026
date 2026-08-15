@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T08:14:49.431180+00:00",
-  "total": 2278,
+  "updated_at": "2026-08-15T07:30:36.953609+00:00",
+  "total": 2291,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,295 @@
       "featured": false
     },
     {
+      "id": "14a205c48449",
+      "name": "FileRouter",
+      "url": "https://www.producthunt.com/products/filerouter",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take control of files and editors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.794806+00:00"
+    },
+    {
+      "id": "45a80054c376",
+      "name": "Inferock Bench",
+      "url": "https://www.producthunt.com/products/inferock-bench",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An independent receipt for every LLM API call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.794902+00:00"
+    },
+    {
+      "id": "caf0126187f0",
+      "name": "SalesCloser.ai",
+      "url": "https://www.producthunt.com/products/salescloser-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Proactive sales agent that books, shows up, and runs demos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.794982+00:00"
+    },
+    {
+      "id": "381292e09af3",
+      "name": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your favorite uncle who knows sports & bets, on iMessage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795040+00:00"
+    },
+    {
+      "id": "dd19d1803965",
+      "name": "GLM",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Coding leap from scaled post-training on the same base\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795114+00:00"
+    },
+    {
+      "id": "93e1e9f42577",
+      "name": "nenspace",
+      "url": "https://www.producthunt.com/products/nenspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "the lo-fi of LLMs: your mind, made larger\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795185+00:00"
+    },
+    {
+      "id": "4ee22a9dd0ca",
+      "name": "Attyn",
+      "url": "https://www.producthunt.com/products/attyn",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Bringing intelligence to your cursor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795244+00:00"
+    },
+    {
+      "id": "979e48276f51",
+      "name": "Clamshell",
+      "url": "https://www.producthunt.com/products/clamshell",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Close your MacBook. Keep the work running.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795306+00:00"
+    },
+    {
+      "id": "a373b59a21d8",
+      "name": "Chronock",
+      "url": "https://www.producthunt.com/products/chronock",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scheduling and calendar sync, all in one\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795376+00:00"
+    },
+    {
+      "id": "934c7d4074ff",
+      "name": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A chief of staff in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795425+00:00"
+    },
+    {
+      "id": "f5a6bbf752fb",
+      "name": "Talvo",
+      "url": "https://www.producthunt.com/products/talvo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect 2,500+ European banks to track your spending\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795494+00:00"
+    },
+    {
+      "id": "9601023c57bf",
+      "name": "Joy",
+      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A Mac menu bar app that throws confetti for your wins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795546+00:00"
+    },
+    {
+      "id": "e9824880b0fa",
+      "name": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pinboard meets citation manager for shared insights.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795643+00:00"
+    },
+    {
+      "id": "b3ab409531c5",
+      "name": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Al Visual Bookmark Manager for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795718+00:00"
+    },
+    {
+      "id": "3e1004e4f728",
+      "name": "Theos[RFM]",
+      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Manage facilities in 3D, in the real world, in real time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795775+00:00"
+    },
+    {
+      "id": "7f63536fc3a8",
+      "name": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Browser-based generative DAW\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795827+00:00"
+    },
+    {
+      "id": "8c0f0ef0f8b6",
+      "name": "DeepSeek Harness",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Composable agent harness where everything is a plugin\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795897+00:00"
+    },
+    {
+      "id": "99bf4d89fe3f",
+      "name": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn screen recordings into engaging product videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.795976+00:00"
+    },
+    {
+      "id": "2a5b86436ae1",
+      "name": "oxpecker",
+      "url": "https://www.producthunt.com/products/oxpecker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know which of your lines a vendor just broke\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.796028+00:00"
+    },
+    {
+      "id": "1a6007cdd9a8",
+      "name": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "visual",
+        "music",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build your own music visualizer for MIDI & audio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-15T07:30:36.796096+00:00"
+    },
+    {
       "id": "d27284fd3c20",
       "name": "Compass Calendar",
       "url": "https://www.producthunt.com/products/compass-calendar",
@@ -394,22 +683,6 @@
       "discovered_at": "2026-08-14T08:14:49.039382+00:00"
     },
     {
-      "id": "99bf4d89fe3f",
-      "name": "isolate.video",
-      "url": "https://www.producthunt.com/products/isolate-video",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Make product videos that capture attention\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.039474+00:00"
-    },
-    {
       "id": "fb6fe3ce9d49",
       "name": "NS1",
       "url": "https://www.producthunt.com/products/ns1",
@@ -421,21 +694,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-14T08:14:49.039528+00:00"
-    },
-    {
-      "id": "e9824880b0fa",
-      "name": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "insight"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Pinboard meets citation manager for shared insights.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.039604+00:00"
     },
     {
       "id": "bae3624c13eb",
@@ -516,21 +774,6 @@
       "discovered_at": "2026-08-14T08:14:49.040021+00:00"
     },
     {
-      "id": "b3ab409531c5",
-      "name": "Muse",
-      "url": "https://www.producthunt.com/products/muse-19",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "visual"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Al Visual Bookmark Manager for Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040095+00:00"
-    },
-    {
       "id": "8a9a8859c8bc",
       "name": "Buply",
       "url": "https://www.producthunt.com/products/buply",
@@ -594,34 +837,6 @@
       "discovered_at": "2026-08-14T08:14:49.040342+00:00"
     },
     {
-      "id": "8c0f0ef0f8b6",
-      "name": "DeepSeek Harness",
-      "url": "https://www.producthunt.com/products/deepseek",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Composable agent harness where everything is a plugin\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040410+00:00"
-    },
-    {
-      "id": "3e1004e4f728",
-      "name": "Theos[RFM]",
-      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Manage facilities in 3D, in the real world, in real time\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040460+00:00"
-    },
-    {
       "id": "d7d8eb699049",
       "name": "Freebuff",
       "url": "https://www.producthunt.com/products/freebuff-2",
@@ -640,19 +855,6 @@
       "discovered_at": "2026-08-14T08:14:49.040530+00:00"
     },
     {
-      "id": "7f63536fc3a8",
-      "name": "Suno Studio 2.0",
-      "url": "https://www.producthunt.com/products/suno",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Browser-based generative DAW\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040582+00:00"
-    },
-    {
       "id": "b4ce14ec3e0d",
       "name": "Gemini 3.7 Flash",
       "url": "https://www.producthunt.com/products/gemini-3-7-flash",
@@ -669,23 +871,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-14T08:14:49.040651+00:00"
-    },
-    {
-      "id": "1a6007cdd9a8",
-      "name": "ChordViz",
-      "url": "https://www.producthunt.com/products/chordviz",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "visual",
-        "music",
-        "audio"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Build your own music visualizer for MIDI & audio\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040714+00:00"
     },
     {
       "id": "b4dcdacc7c9c",
