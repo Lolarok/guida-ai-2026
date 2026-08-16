@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T07:30:36.953609+00:00",
-  "total": 2291,
+  "updated_at": "2026-08-16T07:30:37.820634+00:00",
+  "total": 2297,
   "tools": [
     {
       "name": "Cursor",
@@ -378,19 +378,107 @@
       "featured": false
     },
     {
-      "id": "14a205c48449",
-      "name": "FileRouter",
-      "url": "https://www.producthunt.com/products/filerouter",
+      "id": "aad9fca6cda5",
+      "name": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source unified interface for agent harnesses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558000+00:00"
+    },
+    {
+      "id": "66e1daabc9fa",
+      "name": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558080+00:00"
+    },
+    {
+      "id": "7d6d703370f3",
+      "name": "Expeditione",
+      "url": "https://www.producthunt.com/products/expeditione",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Interactive 3D Encyclopedia\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558137+00:00"
+    },
+    {
+      "id": "d69491b251b5",
+      "name": "AirAlarm",
+      "url": "https://www.producthunt.com/products/airalarm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Wake at the end of your sleep cycle\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558193+00:00"
+    },
+    {
+      "id": "1fed16d798a6",
+      "name": "Chert",
+      "url": "https://www.producthunt.com/products/chert",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "editor"
+        "ide",
+        "api",
+        "video",
+        "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Take control of files and editors\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Vapi for FaceTime: AI video agents in a few lines\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.794806+00:00"
+      "discovered_at": "2026-08-16T07:30:37.558265+00:00"
+    },
+    {
+      "id": "2c003c8cd13c",
+      "name": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-ready, Markdown-first documentation framework\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558338+00:00"
+    },
+    {
+      "id": "ccf6994a25b4",
+      "name": "CostLogic",
+      "url": "https://www.producthunt.com/products/costlogic",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered construction takeoffs, estimates, and invoices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558420+00:00"
     },
     {
       "id": "45a80054c376",
@@ -405,7 +493,181 @@
       "description_it": "An independent receipt for every LLM API call\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.794902+00:00"
+      "discovered_at": "2026-08-16T07:30:37.558505+00:00"
+    },
+    {
+      "id": "93e1e9f42577",
+      "name": "nenspace",
+      "url": "https://www.producthunt.com/products/nenspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "the lo-fi of LLMs: your mind, made larger\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558577+00:00"
+    },
+    {
+      "id": "381292e09af3",
+      "name": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your favorite uncle who knows sports & bets, on iMessage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558632+00:00"
+    },
+    {
+      "id": "a373b59a21d8",
+      "name": "Chronock",
+      "url": "https://www.producthunt.com/products/chronock",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scheduling and calendar sync, all in one\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558701+00:00"
+    },
+    {
+      "id": "934c7d4074ff",
+      "name": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A chief of staff in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558762+00:00"
+    },
+    {
+      "id": "979e48276f51",
+      "name": "Clamshell",
+      "url": "https://www.producthunt.com/products/clamshell",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Close your MacBook. Keep the work running.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558814+00:00"
+    },
+    {
+      "id": "9601023c57bf",
+      "name": "Joy",
+      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A Mac menu bar app that throws confetti for your wins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558866+00:00"
+    },
+    {
+      "id": "4ee22a9dd0ca",
+      "name": "Attyn",
+      "url": "https://www.producthunt.com/products/attyn",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Bringing intelligence to your cursor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558916+00:00"
+    },
+    {
+      "id": "f5a6bbf752fb",
+      "name": "Talvo",
+      "url": "https://www.producthunt.com/products/talvo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect 2,500+ European banks to track your spending\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558989+00:00"
+    },
+    {
+      "id": "14a205c48449",
+      "name": "FileRouter",
+      "url": "https://www.producthunt.com/products/filerouter",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take control of files and editors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.559058+00:00"
+    },
+    {
+      "id": "dd19d1803965",
+      "name": "GLM",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Coding leap from scaled post-training on the same base\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.559136+00:00"
+    },
+    {
+      "id": "5314b4c77433",
+      "name": "Openmotion",
+      "url": "https://www.producthunt.com/products/openmotion",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "screenshot",
+        "video",
+        "motion",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn product screenshots and prompts into motion videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.559204+00:00"
+    },
+    {
+      "id": "e0f6938308f1",
+      "name": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scrape any data from any website with one prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.559278+00:00"
     },
     {
       "id": "caf0126187f0",
@@ -421,131 +683,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-15T07:30:36.794982+00:00"
-    },
-    {
-      "id": "381292e09af3",
-      "name": "Big Mike",
-      "url": "https://www.producthunt.com/products/big-mike",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your favorite uncle who knows sports & bets, on iMessage\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795040+00:00"
-    },
-    {
-      "id": "dd19d1803965",
-      "name": "GLM",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Coding leap from scaled post-training on the same base\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795114+00:00"
-    },
-    {
-      "id": "93e1e9f42577",
-      "name": "nenspace",
-      "url": "https://www.producthunt.com/products/nenspace",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "the lo-fi of LLMs: your mind, made larger\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795185+00:00"
-    },
-    {
-      "id": "4ee22a9dd0ca",
-      "name": "Attyn",
-      "url": "https://www.producthunt.com/products/attyn",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Bringing intelligence to your cursor\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795244+00:00"
-    },
-    {
-      "id": "979e48276f51",
-      "name": "Clamshell",
-      "url": "https://www.producthunt.com/products/clamshell",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Close your MacBook. Keep the work running.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795306+00:00"
-    },
-    {
-      "id": "a373b59a21d8",
-      "name": "Chronock",
-      "url": "https://www.producthunt.com/products/chronock",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "calendar"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Scheduling and calendar sync, all in one\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795376+00:00"
-    },
-    {
-      "id": "934c7d4074ff",
-      "name": "Zetik",
-      "url": "https://www.producthunt.com/products/zetik",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A chief of staff in your pocket\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795425+00:00"
-    },
-    {
-      "id": "f5a6bbf752fb",
-      "name": "Talvo",
-      "url": "https://www.producthunt.com/products/talvo-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "connect"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Connect 2,500+ European banks to track your spending\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795494+00:00"
-    },
-    {
-      "id": "9601023c57bf",
-      "name": "Joy",
-      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A Mac menu bar app that throws confetti for your wins\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-15T07:30:36.795546+00:00"
     },
     {
       "id": "e9824880b0fa",
@@ -728,21 +865,6 @@
       "discovered_at": "2026-08-14T08:14:49.039763+00:00"
     },
     {
-      "id": "e0f6938308f1",
-      "name": "BrowserAct Cloud",
-      "url": "https://www.producthunt.com/products/browseract",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Scrape any data from any website with one prompt\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.039839+00:00"
-    },
-    {
       "id": "4f2af44996d3",
       "name": "min.",
       "url": "https://www.producthunt.com/products/min-4",
@@ -801,25 +923,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-14T08:14:49.040215+00:00"
-    },
-    {
-      "id": "5314b4c77433",
-      "name": "Openmotion",
-      "url": "https://www.producthunt.com/products/openmotion",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "ide",
-        "screenshot",
-        "video",
-        "motion",
-        "screen"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn product screenshots and prompts into motion videos\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040277+00:00"
     },
     {
       "id": "18343183f9ed",
@@ -1723,19 +1826,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-11T08:12:06.638995+00:00"
-    },
-    {
-      "id": "66e1daabc9fa",
-      "name": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-11T08:12:06.639078+00:00"
     },
     {
       "id": "668e195bb28b",
