@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T07:30:37.820634+00:00",
-  "total": 2297,
+  "updated_at": "2026-08-17T07:52:56.973246+00:00",
+  "total": 2312,
   "tools": [
     {
       "name": "Cursor",
@@ -378,32 +378,227 @@
       "featured": false
     },
     {
-      "id": "aad9fca6cda5",
-      "name": "HarnessRouter Community Edition",
-      "url": "https://www.producthunt.com/products/epsilla",
+      "id": "a563ce6067b2",
+      "name": "Meridian",
+      "url": "https://www.producthunt.com/products/meridian-16",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Don't let your work go unnoticed. Get promoted!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.745754+00:00"
+    },
+    {
+      "id": "65e16bdc8a10",
+      "name": "OpenTrade",
+      "url": "https://www.producthunt.com/products/opentrade",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source trading harness for Claude Code / Codex.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.745859+00:00"
+    },
+    {
+      "id": "a9bfeca020c3",
+      "name": "Replay QA for Teams",
+      "url": "https://www.producthunt.com/products/replayio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Autonomous QA for teams who ship faster than they can verify\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.745922+00:00"
+    },
+    {
+      "id": "dd6b5db61d19",
+      "name": "Skriptr",
+      "url": "https://www.producthunt.com/products/skriptr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI workspace for students\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.745973+00:00"
+    },
+    {
+      "id": "c72ee1003c99",
+      "name": "Samepage Artifacts",
+      "url": "https://www.producthunt.com/products/samepage-signals",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "connect",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A context-aware, connected writing surface for product teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746050+00:00"
+    },
+    {
+      "id": "e7b93f6f081d",
+      "name": "HookLens",
+      "url": "https://www.producthunt.com/products/hooklens-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time webhook triage & AI root-cause analysis\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746122+00:00"
+    },
+    {
+      "id": "dabd0fd26069",
+      "name": "Hansel by Seedling",
+      "url": "https://www.producthunt.com/products/hansel-by-seedling",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your email, your server, your keys so you're not locked out\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746202+00:00"
+    },
+    {
+      "id": "1de2447504d8",
+      "name": "Scholé Scenarios",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn by doing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746267+00:00"
+    },
+    {
+      "id": "09ae5a381665",
+      "name": "Vendo",
+      "url": "https://www.producthunt.com/products/vendo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your users build their own features inside your product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746347+00:00"
+    },
+    {
+      "id": "f7687c2a2637",
+      "name": "Clears",
+      "url": "https://www.producthunt.com/products/clears",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Move beyond AI coding to agentic software delivery\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746418+00:00"
+    },
+    {
+      "id": "f13a2964490a",
+      "name": "Blender Agent Bridge",
+      "url": "https://www.producthunt.com/products/blender-agent-bridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source MCP bridge for Blender AI workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746490+00:00"
+    },
+    {
+      "id": "d5628f50803d",
+      "name": "Treg",
+      "url": "https://www.producthunt.com/products/treg-openrouter-for-tools",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenRouter for tools with 2,600 APIs, 0% markup\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746557+00:00"
+    },
+    {
+      "id": "2031d853c499",
+      "name": "Omni by xpander",
+      "url": "https://www.producthunt.com/products/omni-by-xpander",
       "source": "Product Hunt AI (feed)",
       "category": "agent",
       "tags": [
         "agent"
       ],
-      "pricing": "Free",
-      "description_it": "Open-source unified interface for agent harnesses\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "Stop babysitting your AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558000+00:00"
+      "discovered_at": "2026-08-17T07:52:56.746623+00:00"
     },
     {
-      "id": "66e1daabc9fa",
-      "name": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
+      "id": "c582992b203c",
+      "name": "Bulbthings",
+      "url": "https://www.producthunt.com/products/bulbthings",
       "source": "Product Hunt AI (feed)",
       "category": "altro",
       "tags": [],
       "pricing": "Free tier",
-      "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The AI platform to track and manage your physical assets\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558080+00:00"
+      "discovered_at": "2026-08-17T07:52:56.746695+00:00"
+    },
+    {
+      "id": "56255bcfaee8",
+      "name": "Startup Program by Recall.ai",
+      "url": "https://www.producthunt.com/products/recall-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "recording",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Startup program for meeting recording infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746774+00:00"
     },
     {
       "id": "7d6d703370f3",
@@ -416,7 +611,37 @@
       "description_it": "The Interactive 3D Encyclopedia\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558137+00:00"
+      "discovered_at": "2026-08-17T07:52:56.746826+00:00"
+    },
+    {
+      "id": "aad9fca6cda5",
+      "name": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source unified interface for agent harnesses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746901+00:00"
+    },
+    {
+      "id": "ccf6994a25b4",
+      "name": "CostLogic",
+      "url": "https://www.producthunt.com/products/costlogic",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered construction takeoffs, estimates, and invoices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-17T07:52:56.746980+00:00"
     },
     {
       "id": "d69491b251b5",
@@ -429,7 +654,7 @@
       "description_it": "Wake at the end of your sleep cycle\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558193+00:00"
+      "discovered_at": "2026-08-17T07:52:56.747031+00:00"
     },
     {
       "id": "1fed16d798a6",
@@ -447,7 +672,20 @@
       "description_it": "Vapi for FaceTime: AI video agents in a few lines\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558265+00:00"
+      "discovered_at": "2026-08-17T07:52:56.747098+00:00"
+    },
+    {
+      "id": "66e1daabc9fa",
+      "name": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-16T07:30:37.558080+00:00"
     },
     {
       "id": "2c003c8cd13c",
@@ -464,21 +702,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-16T07:30:37.558338+00:00"
-    },
-    {
-      "id": "ccf6994a25b4",
-      "name": "CostLogic",
-      "url": "https://www.producthunt.com/products/costlogic",
-      "source": "Product Hunt AI (feed)",
-      "category": "audio",
-      "tags": [
-        "voice"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI-powered construction takeoffs, estimates, and invoices\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.558420+00:00"
     },
     {
       "id": "45a80054c376",
