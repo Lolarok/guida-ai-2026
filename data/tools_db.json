@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T07:52:56.973246+00:00",
-  "total": 2312,
+  "updated_at": "2026-08-18T07:37:00.152365+00:00",
+  "total": 2332,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,311 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "703d7cbb99fb",
+      "name": "Finch",
+      "url": "https://www.producthunt.com/products/finch-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A single place for your health data and tests\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.890886+00:00"
+    },
+    {
+      "id": "4acf3cee3088",
+      "name": "Memoria",
+      "url": "https://www.producthunt.com/products/memoria-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "speech",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search photos by text, speech, object & faces. 100% offline.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.890985+00:00"
+    },
+    {
+      "id": "d5638614d4ea",
+      "name": "Open Index",
+      "url": "https://www.producthunt.com/products/open-brain",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "index",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build Smarter Agents using Structured Context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891062+00:00"
+    },
+    {
+      "id": "64db7b88c12e",
+      "name": "monolog",
+      "url": "https://www.producthunt.com/products/monolog-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat to yourself and find anything by what you remember\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891135+00:00"
+    },
+    {
+      "id": "a16e5119c185",
+      "name": "Salem Robotics",
+      "url": "https://www.producthunt.com/products/salem-robotics",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "ask",
+        "bot",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Deploy autonomous robots for surveys and manipulation tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891211+00:00"
+    },
+    {
+      "id": "1bb9098fafaf",
+      "name": "Clara AI SDR",
+      "url": "https://www.producthunt.com/products/clara-ai-sdr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn website visitors into qualified pipeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891266+00:00"
+    },
+    {
+      "id": "050a4e3863d6",
+      "name": "CrewTower",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your agents from the notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891339+00:00"
+    },
+    {
+      "id": "35e35c9f64c6",
+      "name": "Meterless.ai",
+      "url": "https://www.producthunt.com/products/meterless-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run AI locally and own the whole workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891418+00:00"
+    },
+    {
+      "id": "39244481aec1",
+      "name": "Deepmark",
+      "url": "https://www.producthunt.com/products/deepmark",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search your bookmarks by what's inside them, not the title\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891514+00:00"
+    },
+    {
+      "id": "b343fb2d53d3",
+      "name": "Gauge",
+      "url": "https://www.producthunt.com/products/gauge",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent Led Growth: Get written into every customer's codebase\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891590+00:00"
+    },
+    {
+      "id": "45dd021f541e",
+      "name": "Shepherd Terminal",
+      "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "terminal",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A persistent terminal for Codex and Claude side by side\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891666+00:00"
+    },
+    {
+      "id": "adf9e00c3fd7",
+      "name": "Reckon",
+      "url": "https://www.producthunt.com/products/reckon",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The decision journal that helps you calibrate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891719+00:00"
+    },
+    {
+      "id": "e02b6fe2b8a3",
+      "name": "Skim Recap",
+      "url": "https://www.producthunt.com/products/skim-recap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Recaps what you skipped and explains where you get stuck\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891772+00:00"
+    },
+    {
+      "id": "9429927c5113",
+      "name": "LayerProof Matte 3.0",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "erp",
+        "content",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grow your social media content: posts, carousels and stories\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891846+00:00"
+    },
+    {
+      "id": "bb708089d1b9",
+      "name": "Taku AI",
+      "url": "https://www.producthunt.com/products/taku-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Borrow the best AI setups and make them yours.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891897+00:00"
+    },
+    {
+      "id": "63bee7b64f72",
+      "name": "Dates by Agenda Hero",
+      "url": "https://www.producthunt.com/products/dates-by-agenda-hero",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Create a plan for anything. Share it with anyone. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.891952+00:00"
+    },
+    {
+      "id": "05d8ac291fb7",
+      "name": "Transept AI",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI translation software with translation memory\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.892004+00:00"
+    },
+    {
+      "id": "b5177dff6a42",
+      "name": "Tiny Funnel",
+      "url": "https://www.producthunt.com/products/tiny-funnel",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Funnel analytics you'll actually understand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.892075+00:00"
+    },
+    {
+      "id": "d8ce337500a6",
+      "name": "ElevenLabs MCP in Claude",
+      "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "claude",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create and manage ElevenLabs voice agents in your chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.892148+00:00"
+    },
+    {
+      "id": "73f87b799eb9",
+      "name": "Hubble",
+      "url": "https://www.producthunt.com/products/hubble-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Intelligence layer for patient information\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-18T07:36:59.892201+00:00"
     },
     {
       "id": "a563ce6067b2",
