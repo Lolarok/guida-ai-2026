@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T07:37:00.152365+00:00",
-  "total": 2332,
+  "updated_at": "2026-08-19T07:36:31.108186+00:00",
+  "total": 2352,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "034f2def5c8b",
+      "name": "KiHub",
+      "url": "https://www.producthunt.com/products/kihub",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hardware review platform for KiCad projects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982365+00:00"
+    },
+    {
+      "id": "e05366b074f2",
+      "name": "AgentR 3.0",
+      "url": "https://www.producthunt.com/products/agentr",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hiring evaluation built for the AI cheating era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982474+00:00"
+    },
+    {
+      "id": "b9f55c30df87",
+      "name": "Zyntax",
+      "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor",
+        "git",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Code Editor, Terminal, Git, AI Agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982542+00:00"
+    },
+    {
+      "id": "8932183dbf98",
+      "name": "Basedash Public Sharing",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Live dashboards for anyone you send the link to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982597+00:00"
+    },
+    {
+      "id": "cede65f53249",
+      "name": "Hexel Editor",
+      "url": "https://www.producthunt.com/products/hexel-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native macOS hex editor with a brain for file formats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982667+00:00"
+    },
+    {
+      "id": "770ef7756863",
+      "name": "Expert Chase 2.0",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Where human life runs with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982716+00:00"
+    },
+    {
+      "id": "29ff988b0279",
+      "name": "Origin by Cursor",
+      "url": "https://www.producthunt.com/products/cursor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Git forge built for the age of coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982792+00:00"
+    },
+    {
+      "id": "d790dc0052d2",
+      "name": "Edgemetry",
+      "url": "https://www.producthunt.com/products/edgemetry",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Privacy-first web analytics on Cloudflare's free tier\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982871+00:00"
+    },
+    {
+      "id": "5c181e86441b",
+      "name": "OmniVibe",
+      "url": "https://www.producthunt.com/products/omnivibe",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Marketplace for agent creators & users\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.982939+00:00"
+    },
+    {
+      "id": "b19cdd8389b0",
+      "name": "Ressearch AI",
+      "url": "https://www.producthunt.com/products/ressearch-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI workspace for reproducible scientific research\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983009+00:00"
+    },
+    {
+      "id": "8856488968e9",
+      "name": "Mochi",
+      "url": "https://www.producthunt.com/products/githumochib",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A tiny animated cat for every browser tab.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983058+00:00"
+    },
+    {
+      "id": "107fe5bf7755",
+      "name": "Claude Watermark",
+      "url": "https://www.producthunt.com/products/claude-watermark",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find and remove every trace AI leaves in your text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983137+00:00"
+    },
+    {
+      "id": "11028b745223",
+      "name": "Paper Critters",
+      "url": "https://www.producthunt.com/products/paper-critters",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Kid friendly paper toys, free to decorate and COPPA safe.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983191+00:00"
+    },
+    {
+      "id": "239908b178cd",
+      "name": "Sider 6.0",
+      "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI Agent for the Browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983253+00:00"
+    },
+    {
+      "id": "837e401a9da0",
+      "name": "Clipto MCP",
+      "url": "https://www.producthunt.com/products/clipto-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "video",
+        "clip",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let agents source clips from terabytes of your local video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983319+00:00"
+    },
+    {
+      "id": "ae964b6a6325",
+      "name": "Cronloop AI",
+      "url": "https://www.producthunt.com/products/cronloop-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that run in a loop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983382+00:00"
+    },
+    {
+      "id": "c40e6aac5a3d",
+      "name": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate your B2B brand going viral, with new media creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983461+00:00"
+    },
+    {
+      "id": "df9975590f99",
+      "name": "Cherry Blossom",
+      "url": "https://www.producthunt.com/products/cherry-blossom",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Build Fab-ready Custom PCBs with one prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983530+00:00"
+    },
+    {
+      "id": "ae49bb70377e",
+      "name": "Loopcase",
+      "url": "https://www.producthunt.com/products/loopcase",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "image",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Looping case study videos from your images, no keyframes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983598+00:00"
+    },
+    {
+      "id": "9585a8000355",
+      "name": "Fairphone Gen 6+",
+      "url": "https://www.producthunt.com/products/fairphone",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A modular phone built to last through 2033\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-19T07:36:30.983648+00:00"
     },
     {
       "id": "703d7cbb99fb",
