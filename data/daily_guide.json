@@ -1,9 +1,9 @@
 {
-  "title": "Retrieval: come l'AI cerca informazioni",
-  "level": "intermedio",
-  "tag": "architettura",
+  "title": "LangChain vs LlamaIndex vs Semantic Kernel",
+  "level": "avanzato",
+  "tag": "strumenti",
   "content_html": "<p>Questa guida sarà generata automaticamente dal sistema AI. Controlla domani!</p>",
-  "selected_at": "2026-08-19T07:36:31.197112+00:00",
-  "day_of_year": 231,
-  "topic_index": 21
+  "selected_at": "2026-08-20T07:40:50.596951+00:00",
+  "day_of_year": 232,
+  "topic_index": 22
 }

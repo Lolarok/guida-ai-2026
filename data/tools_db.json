@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T07:36:31.108186+00:00",
-  "total": 2352,
+  "updated_at": "2026-08-20T07:40:50.507079+00:00",
+  "total": 2372,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "f4d642cf4198",
+      "name": "Revy",
+      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The ownership layer for fashion, shopping, and your wardrobe\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.249804+00:00"
+    },
+    {
+      "id": "76283e6b90e1",
+      "name": "MiniMax Design",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your own agent team for open-ended creation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.249923+00:00"
+    },
+    {
+      "id": "953d94d23074",
+      "name": "bitdrift.ai",
+      "url": "https://www.producthunt.com/products/bitdrift",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world’s first agentic mobile observability platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250025+00:00"
+    },
+    {
+      "id": "63c79dff0e3e",
+      "name": "Checksum AI",
+      "url": "https://www.producthunt.com/products/checksum-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your coding agent’s testing buddy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250113+00:00"
+    },
+    {
+      "id": "8f37018eadac",
+      "name": "Aloud",
+      "url": "https://www.producthunt.com/products/aloud-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "talk",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Talk through your app, your coding agents get the plan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250193+00:00"
+    },
+    {
+      "id": "1b54f290a658",
+      "name": "Berd",
+      "url": "https://www.producthunt.com/products/berd",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Weird, playful desktop app for building with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250270+00:00"
+    },
+    {
+      "id": "b3bcfff7f0d0",
+      "name": "The New Calendly",
+      "url": "https://www.producthunt.com/products/calendly",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Handle all of the work before, during, and after meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250353+00:00"
+    },
+    {
+      "id": "e80204341f2c",
+      "name": "Shape",
+      "url": "https://www.producthunt.com/products/shape-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agentic IDE for designers and programmers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250436+00:00"
+    },
+    {
+      "id": "dd141bfb049b",
+      "name": "ProtoNote",
+      "url": "https://www.producthunt.com/products/protonote",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share AI-built prototypes, get feedback pinned to the page\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250515+00:00"
+    },
+    {
+      "id": "b35e3f457fdf",
+      "name": "Roveri",
+      "url": "https://www.producthunt.com/products/roveri",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A riding journal for iPhone every ride, painted on a map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250588+00:00"
+    },
+    {
+      "id": "5e4a9868b424",
+      "name": "Glasp for Firefox",
+      "url": "https://www.producthunt.com/products/glasp-for-firefox",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "summarize"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Highlight and summarize any page, PDF, or video in Firefox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250664+00:00"
+    },
+    {
+      "id": "f6d390e76aae",
+      "name": "Lifelong",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your whole family’s health in one place.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250730+00:00"
+    },
+    {
+      "id": "10fc9930ca82",
+      "name": "Zoho Cliq 7.0",
+      "url": "https://www.producthunt.com/products/zoho",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Uninterrupted work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250796+00:00"
+    },
+    {
+      "id": "42a932d1ca4c",
+      "name": "HyNote for Mac",
+      "url": "https://www.producthunt.com/products/hynote-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "transcri",
+        "note"
+      ],
+      "pricing": "Free",
+      "description_it": "Free local transcription that is 100% Private\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250889+00:00"
+    },
+    {
+      "id": "8e554e213b5e",
+      "name": "MeetStream AI",
+      "url": "https://www.producthunt.com/products/meetstream-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "stream",
+        "agent",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Unified API & Infra for AI Meeting Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.250965+00:00"
+    },
+    {
+      "id": "5b80e412f114",
+      "name": "Prized",
+      "url": "https://www.producthunt.com/products/prized",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Let non-engineers build secure internal tools \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.251021+00:00"
+    },
+    {
+      "id": "47aecd8fc045",
+      "name": "Hermai Brand API",
+      "url": "https://www.producthunt.com/products/hermai-brand-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "White label your B2B SaaS with every customer's brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.251095+00:00"
+    },
+    {
+      "id": "5716a17a4e4f",
+      "name": "Peach Co",
+      "url": "https://www.producthunt.com/products/peach-co-pilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "WhatsApp Sidekick for busy professionals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.251168+00:00"
+    },
+    {
+      "id": "7b22d9ef3de2",
+      "name": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Frontier Intelligence for Long-Running Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.251239+00:00"
+    },
+    {
+      "id": "c0c11a0b029d",
+      "name": "Cloudways Managed AI Agents",
+      "url": "https://www.producthunt.com/products/cloudways",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Skip the setup and run OpenClaw & Hermes, fully managed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-20T07:40:50.251316+00:00"
     },
     {
       "id": "034f2def5c8b",
