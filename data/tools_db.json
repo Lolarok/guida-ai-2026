@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T07:40:50.507079+00:00",
-  "total": 2372,
+  "updated_at": "2026-08-21T07:42:27.724333+00:00",
+  "total": 2391,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,309 @@
       "featured": false
     },
     {
+      "id": "86640b3f9805",
+      "name": "Wizstar",
+      "url": "https://www.producthunt.com/products/wizstar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "avatar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Digital avatars that move and act like professional actors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.551816+00:00"
+    },
+    {
+      "id": "de31c37d0e3e",
+      "name": "Antigravity IDE Extensions",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Antigravity agents now live inside your existing editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.551924+00:00"
+    },
+    {
+      "id": "101190f2f58e",
+      "name": "Supernova",
+      "url": "https://www.producthunt.com/products/supernova-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "All your data in Claude and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.551996+00:00"
+    },
+    {
+      "id": "e9c23069753d",
+      "name": "PixelRead AI OCR",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture, translate, and understand any text on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552072+00:00"
+    },
+    {
+      "id": "e427858aee21",
+      "name": "Mindcase",
+      "url": "https://www.producthunt.com/products/mindcase",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Extract data from anywhere on the web within minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552143+00:00"
+    },
+    {
+      "id": "a538e95f33bf",
+      "name": "Local",
+      "url": "https://www.producthunt.com/products/local-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Zero (!) friction local AI for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552194+00:00"
+    },
+    {
+      "id": "15bd2baaaec6",
+      "name": "Dockhand",
+      "url": "https://www.producthunt.com/products/dockhand",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Docker management for everyone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552251+00:00"
+    },
+    {
+      "id": "0760a2ba1d7c",
+      "name": "Epho",
+      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Claude Code, Codex or Opencode in cloud with your repo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552331+00:00"
+    },
+    {
+      "id": "fb537afbd56b",
+      "name": "Actx0",
+      "url": "https://www.producthunt.com/products/actx0",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Memory infrastructure for AI agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552397+00:00"
+    },
+    {
+      "id": "dc2b264d8a48",
+      "name": "Project SKY",
+      "url": "https://www.producthunt.com/products/project-sky",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ambient AI companion for Windows.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552464+00:00"
+    },
+    {
+      "id": "ce6b04b2f8c8",
+      "name": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your personal AGI on your PC. Built to finish real work.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552516+00:00"
+    },
+    {
+      "id": "b5876cb5a3a9",
+      "name": "Flunkey",
+      "url": "https://www.producthunt.com/products/flunkey",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice-first AI layer for Windows (beta)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552580+00:00"
+    },
+    {
+      "id": "624fedbd959c",
+      "name": "fx (by Vercel)",
+      "url": "https://www.producthunt.com/products/fx-by-vercel",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Vercel's tiny, open-source coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552649+00:00"
+    },
+    {
+      "id": "8f80e939e20b",
+      "name": "Outlook Google Calendar Sync for Mac",
+      "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sync Outlook calendars to Google on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552723+00:00"
+    },
+    {
+      "id": "a17502d39390",
+      "name": "Router by Ramp",
+      "url": "https://www.producthunt.com/products/ramp-router",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tokens are money. Save both.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552808+00:00"
+    },
+    {
+      "id": "0ba93961f418",
+      "name": "OneCLI",
+      "url": "https://www.producthunt.com/products/onecli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "assistant",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give every employee a secured, sandboxed pro assistant agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552886+00:00"
+    },
+    {
+      "id": "bac47dafc4e1",
+      "name": "Plow Latch",
+      "url": "https://www.producthunt.com/products/plow-latch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Safely drive your Mac with AI  (Live demo in comments)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.552942+00:00"
+    },
+    {
+      "id": "2eaa8e423189",
+      "name": "Lynqo",
+      "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your machine is a P2P server, review suite & clipboard sync.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.553016+00:00"
+    },
+    {
+      "id": "88ac5ee58082",
+      "name": "Surfdeck",
+      "url": "https://www.producthunt.com/products/surfdeck",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your tabs, within reach.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.553080+00:00"
+    },
+    {
+      "id": "47aecd8fc045",
+      "name": "Hermai Brand API",
+      "url": "https://www.producthunt.com/products/hermai-brand-api",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "White label your B2B SaaS with every customer's brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-21T07:42:27.553152+00:00"
+    },
+    {
       "id": "f4d642cf4198",
       "name": "Revy",
       "url": "https://www.producthunt.com/products/revy-the-fashion-app",
@@ -622,22 +925,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-20T07:40:50.251021+00:00"
-    },
-    {
-      "id": "47aecd8fc045",
-      "name": "Hermai Brand API",
-      "url": "https://www.producthunt.com/products/hermai-brand-api",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "api",
-        "brand"
-      ],
-      "pricing": "Free tier",
-      "description_it": "White label your B2B SaaS with every customer's brand\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-20T07:40:50.251095+00:00"
     },
     {
       "id": "5716a17a4e4f",
