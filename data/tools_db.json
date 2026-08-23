@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T07:30:39.853284+00:00",
-  "total": 2403,
+  "updated_at": "2026-08-23T07:32:10.629262+00:00",
+  "total": 2416,
   "tools": [
     {
       "name": "Cursor",
@@ -378,19 +378,226 @@
       "featured": false
     },
     {
-      "id": "7f1613a8bd45",
-      "name": "Open Analytics",
-      "url": "https://www.producthunt.com/products/open-analytics-2",
+      "id": "4a7ecdb6875d",
+      "name": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A physical slider to-do board, faithfully rebuilt in 3D\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496442+00:00"
+    },
+    {
+      "id": "7ed4688d5424",
+      "name": "Tab Notes",
+      "url": "https://www.producthunt.com/products/tab-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action",
+        "note",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Turn your browser new tab into a distraction-free notepad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496567+00:00"
+    },
+    {
+      "id": "5dc33a6937fd",
+      "name": "Claude Academy",
+      "url": "https://www.producthunt.com/products/claude-academy",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Official Learning Hub by Anthropic\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496647+00:00"
+    },
+    {
+      "id": "64c9138ad1f6",
+      "name": "Local Music Organizer for Mac",
+      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ultimate toolkit for local Apple Music library maintenance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496730+00:00"
+    },
+    {
+      "id": "71a3fa54f9db",
+      "name": "ANCBuddy for Bose QC Ultra",
+      "url": "https://www.producthunt.com/products/ancbuddy-for-bose-qc-ultra",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Control Bose QC Ultra from your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496788+00:00"
+    },
+    {
+      "id": "2245e814d019",
+      "name": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI coworker gets a computer. You get your day back.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496846+00:00"
+    },
+    {
+      "id": "532c860a6e06",
+      "name": "Aximote for iOS",
+      "url": "https://www.producthunt.com/products/aximote",
       "source": "Product Hunt AI (feed)",
       "category": "ricerca",
       "tags": [
-        "analyt"
+        "data"
       ],
       "pricing": "Free tier",
-      "description_it": "AI-Native Google Analytics alternative for the modern web\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your car data, finally in your pocket\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.597592+00:00"
+      "discovered_at": "2026-08-23T07:32:10.496923+00:00"
+    },
+    {
+      "id": "3800c21de7e1",
+      "name": "Plask",
+      "url": "https://www.producthunt.com/products/plask-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Have little ducks show how deep you dive on your Apple Watch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497002+00:00"
+    },
+    {
+      "id": "27977e3210d6",
+      "name": "Flown",
+      "url": "https://www.producthunt.com/products/flown",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every flight you've ever taken, on one private map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497057+00:00"
+    },
+    {
+      "id": "de2b0133f3c3",
+      "name": "FetchSandbox MCP",
+      "url": "https://www.producthunt.com/products/fetchsandbox-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The MCP that proves your AI's integration fixes work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497129+00:00"
+    },
+    {
+      "id": "9894d42a725f",
+      "name": "KanaSensei",
+      "url": "https://www.producthunt.com/products/kanasensei",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Read Japanese kana in two weeks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497196+00:00"
+    },
+    {
+      "id": "511a449971b1",
+      "name": "Yatko",
+      "url": "https://www.producthunt.com/products/yatko",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The download button Github forgot to add\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497265+00:00"
+    },
+    {
+      "id": "813fb1aa25e7",
+      "name": "OpenLogi",
+      "url": "https://www.producthunt.com/products/openlogi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local-first alternative to Logitech Options+\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497336+00:00"
+    },
+    {
+      "id": "7e7c5c6c0330",
+      "name": "Pawvis",
+      "url": "https://www.producthunt.com/products/pawvis",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Control your Mac via camera & train gestures, local & FOSS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497391+00:00"
+    },
+    {
+      "id": "45379506f98a",
+      "name": "VeloFiler",
+      "url": "https://www.producthunt.com/products/velofiler",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keyboard-first dual-pane file manager for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497445+00:00"
     },
     {
       "id": "756fd1de0810",
@@ -406,7 +613,7 @@
       "description_it": "Vercel's programming language built for AI agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.597692+00:00"
+      "discovered_at": "2026-08-23T07:32:10.497530+00:00"
     },
     {
       "id": "d57b6c3e6f96",
@@ -418,10 +625,26 @@
         "ide"
       ],
       "pricing": "Free tier",
-      "description_it": "Track your App Store Ranking Worldwide\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Track your App Store ranking worldwide\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.597768+00:00"
+      "discovered_at": "2026-08-23T07:32:10.497600+00:00"
+    },
+    {
+      "id": "61abd15148a1",
+      "name": "Maccess",
+      "url": "https://www.producthunt.com/products/maccess",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac, in your pocket — trackpad, screen, and AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.497696+00:00"
     },
     {
       "id": "5e4f3526a217",
@@ -437,7 +660,7 @@
       "description_it": "Vibe-code games, then share them like TikToks\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.597843+00:00"
+      "discovered_at": "2026-08-23T07:32:10.497767+00:00"
     },
     {
       "id": "ae33a1ea34c6",
@@ -453,20 +676,22 @@
       "description_it": "An AI work agent across desktop, browser, and chat\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.597921+00:00"
+      "discovered_at": "2026-08-23T07:32:10.497839+00:00"
     },
     {
-      "id": "7e7c5c6c0330",
-      "name": "Pawvis",
-      "url": "https://www.producthunt.com/products/pawvis",
+      "id": "7f1613a8bd45",
+      "name": "Open Analytics",
+      "url": "https://www.producthunt.com/products/open-analytics-2",
       "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "Open-source local webcam hand-tracked mouse/gesture control\n          \n          \n            Discussion\n            |\n            Link",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-Native Google Analytics alternative for the modern web\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.598002+00:00"
+      "discovered_at": "2026-08-22T07:30:39.597592+00:00"
     },
     {
       "id": "eecbbb19f89c",
@@ -502,19 +727,6 @@
       "discovered_at": "2026-08-22T07:30:39.598204+00:00"
     },
     {
-      "id": "45379506f98a",
-      "name": "VeloFiler",
-      "url": "https://www.producthunt.com/products/velofiler",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Keyboard-first dual-pane file manager for macOS\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.598264+00:00"
-    },
-    {
       "id": "852db8f51f3d",
       "name": "Agents Never Sleep",
       "url": "https://www.producthunt.com/products/agents-never-sleep",
@@ -541,22 +753,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-22T07:30:39.598394+00:00"
-    },
-    {
-      "id": "61abd15148a1",
-      "name": "Maccess",
-      "url": "https://www.producthunt.com/products/maccess",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your Mac, in your pocket — trackpad, screen, and AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-22T07:30:39.598484+00:00"
     },
     {
       "id": "8f80e939e20b",
