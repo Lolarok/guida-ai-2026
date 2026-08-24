@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T07:32:10.629262+00:00",
-  "total": 2416,
+  "updated_at": "2026-08-24T07:58:37.186354+00:00",
+  "total": 2434,
   "tools": [
     {
       "name": "Cursor",
@@ -378,20 +378,269 @@
       "featured": false
     },
     {
-      "id": "4a7ecdb6875d",
-      "name": "Yattayo",
-      "url": "https://www.producthunt.com/products/yattayo",
+      "id": "02565831bc23",
+      "name": "Trama",
+      "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk plainly and create macOS native automations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919057+00:00"
+    },
+    {
+      "id": "8f169e60c158",
+      "name": "Offloop",
+      "url": "https://www.producthunt.com/products/offloop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A shared workspace where people and AI agents get work done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919142+00:00"
+    },
+    {
+      "id": "98f8bf33ff49",
+      "name": "Destiny Rings",
+      "url": "https://www.producthunt.com/products/destiny-rings",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Proximity-powered dating, social & networking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919190+00:00"
+    },
+    {
+      "id": "bb95d31a869a",
+      "name": "Contrive",
+      "url": "https://www.producthunt.com/products/contrive",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free",
+      "description_it": "Search and act across all your work apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919251+00:00"
+    },
+    {
+      "id": "cf8f06f5c5d0",
+      "name": "Wavepocket ▶︎•၊",
+      "url": "https://www.producthunt.com/products/wavepocket-free-ios-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Synth, drum kit, a 4-track tape loop, and FX app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919307+00:00"
+    },
+    {
+      "id": "4258e733a8f1",
+      "name": "Bumply",
+      "url": "https://www.producthunt.com/products/bumply",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Update your dependencies and undo anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919349+00:00"
+    },
+    {
+      "id": "48130ca3a791",
+      "name": "Cortex by SKYNETLAB",
+      "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "ide",
-        "slide"
+        "ide"
       ],
       "pricing": "Free tier",
-      "description_it": "A physical slider to-do board, faithfully rebuilt in 3D\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The memory layer that decides what's worth remembering\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-23T07:32:10.496442+00:00"
+      "discovered_at": "2026-08-24T07:58:36.919419+00:00"
+    },
+    {
+      "id": "320e51961e3b",
+      "name": "Decawork",
+      "url": "https://www.producthunt.com/products/decawork",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your company's internal AI agents and tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919485+00:00"
+    },
+    {
+      "id": "649240cfd55b",
+      "name": "Antigravity Remote Control",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drive Antigravity agents from any browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919548+00:00"
+    },
+    {
+      "id": "d9cee331f25d",
+      "name": "Phoenix",
+      "url": "https://www.producthunt.com/products/phoenix-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI coding agent built for iOS, macOS app development\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919608+00:00"
+    },
+    {
+      "id": "c6eb88e7234b",
+      "name": "Navigara",
+      "url": "https://www.producthunt.com/products/navigara",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Connect Your AI Spend Directly to Your Roadmap\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919696+00:00"
+    },
+    {
+      "id": "63a2b9245b15",
+      "name": "Lucid Train",
+      "url": "https://www.producthunt.com/products/lucid-train",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build system design for new and existing codebase\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919767+00:00"
+    },
+    {
+      "id": "ceea1cd59b0d",
+      "name": "Dropstone",
+      "url": "https://www.producthunt.com/products/dropstone-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI runtime that remembers, learns, and acts everywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919812+00:00"
+    },
+    {
+      "id": "b14181304dae",
+      "name": "WorldMap.lol",
+      "url": "https://www.producthunt.com/products/worldmap-lol",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put your startup on the map. Literally.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919869+00:00"
+    },
+    {
+      "id": "d55b0bb2ad2e",
+      "name": "PaymentKit",
+      "url": "https://www.producthunt.com/products/paymentkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Billing that survives a processor shutdown\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919909+00:00"
+    },
+    {
+      "id": "04968f7d45e2",
+      "name": "Treebar",
+      "url": "https://www.producthunt.com/products/treebar-where-is-codex",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Treebar gives you one view of every active worktree\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.919950+00:00"
+    },
+    {
+      "id": "64411a274151",
+      "name": "Localdock",
+      "url": "https://www.producthunt.com/products/localdock",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every local project gets a real address.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.920010+00:00"
+    },
+    {
+      "id": "b93a0d5314bd",
+      "name": "IFAH",
+      "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound",
+        "instrument"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instruments for composing and experiencing sound as a space\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.920072+00:00"
     },
     {
       "id": "7ed4688d5424",
@@ -408,7 +657,39 @@
       "description_it": "Turn your browser new tab into a distraction-free notepad\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-23T07:32:10.496567+00:00"
+      "discovered_at": "2026-08-24T07:58:36.920133+00:00"
+    },
+    {
+      "id": "64c9138ad1f6",
+      "name": "Local Music Organizer for Mac",
+      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ultimate toolkit for local Apple Music library maintenance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-24T07:58:36.920199+00:00"
+    },
+    {
+      "id": "4a7ecdb6875d",
+      "name": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A physical slider to-do board, faithfully rebuilt in 3D\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-23T07:32:10.496442+00:00"
     },
     {
       "id": "5dc33a6937fd",
@@ -425,22 +706,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-23T07:32:10.496647+00:00"
-    },
-    {
-      "id": "64c9138ad1f6",
-      "name": "Local Music Organizer for Mac",
-      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
-      "source": "Product Hunt AI (feed)",
-      "category": "musica",
-      "tags": [
-        "music",
-        "organiz"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Ultimate toolkit for local Apple Music library maintenance\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-23T07:32:10.496730+00:00"
     },
     {
       "id": "71a3fa54f9db",
