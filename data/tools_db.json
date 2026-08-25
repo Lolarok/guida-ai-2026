@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T07:58:37.186354+00:00",
-  "total": 2434,
+  "updated_at": "2026-08-25T07:41:25.816860+00:00",
+  "total": 2453,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,325 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "6ebc5ba5ceb2",
+      "name": "Flare",
+      "url": "https://www.producthunt.com/products/flare-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The graph-first IDE and interactive map for agentic coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.645720+00:00"
+    },
+    {
+      "id": "10c1de6af0c2",
+      "name": "Postaway.space",
+      "url": "https://www.producthunt.com/products/postaway-space",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A little piece of the past, sent your way.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.645804+00:00"
+    },
+    {
+      "id": "98a936d55acb",
+      "name": "session",
+      "url": "https://www.producthunt.com/products/session-indexer",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "search",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Semantic search over your own Claude Code session history\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.645890+00:00"
+    },
+    {
+      "id": "4acf3cee3088",
+      "name": "Memoria",
+      "url": "https://www.producthunt.com/products/memoria-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "speech",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search photos by text, speech, object & faces. 100% offline.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.645972+00:00"
+    },
+    {
+      "id": "718718fedbc9",
+      "name": "DockDuck",
+      "url": "https://www.producthunt.com/products/dockduck",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The native macOS file manager Finder should be\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646050+00:00"
+    },
+    {
+      "id": "22a946e1d478",
+      "name": "Alchemize",
+      "url": "https://www.producthunt.com/products/alchemize",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship more code with confidence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646124+00:00"
+    },
+    {
+      "id": "ded38cf4a7a6",
+      "name": "coolplugz",
+      "url": "https://www.producthunt.com/products/coolplugz",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "claude",
+        "orchestrat",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Claude orchestrator that saves developers loads of time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646209+00:00"
+    },
+    {
+      "id": "25a72ea50174",
+      "name": "Marble MCP",
+      "url": "https://www.producthunt.com/products/marble-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage your CMS content from Claude, Cursor, and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646315+00:00"
+    },
+    {
+      "id": "9af24122480d",
+      "name": "Buddy Visual Tests",
+      "url": "https://www.producthunt.com/products/buddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every UI change, reviewed before merge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646392+00:00"
+    },
+    {
+      "id": "8526cda1e836",
+      "name": "Splitsense",
+      "url": "https://www.producthunt.com/products/splitsense",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn user behaviour into higher conversions with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646453+00:00"
+    },
+    {
+      "id": "e6702f0564da",
+      "name": "Diet Claude",
+      "url": "https://www.producthunt.com/products/diet-claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Never get blindsided by Claude's usage limits again\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646532+00:00"
+    },
+    {
+      "id": "59f6cf772832",
+      "name": "Agnost AI",
+      "url": "https://www.producthunt.com/products/agnost-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Catch agent failures your evals miss\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646609+00:00"
+    },
+    {
+      "id": "e8152880ee25",
+      "name": "akta.pro",
+      "url": "https://www.producthunt.com/products/akta-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private company data and signals API for the agent economy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646689+00:00"
+    },
+    {
+      "id": "e2e00938285c",
+      "name": "Nimbia",
+      "url": "https://www.producthunt.com/products/nimbia",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI screen-sharing calls for user onboarding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646766+00:00"
+    },
+    {
+      "id": "8bcf302b2a23",
+      "name": "Hacktron Automations",
+      "url": "https://www.producthunt.com/products/hacktron",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Close the loop between vulnerability discovery and patching.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646847+00:00"
+    },
+    {
+      "id": "eca34c191c9a",
+      "name": "Jotform AI Data Assistant",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "assistant",
+        "insight",
+        "data",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn form data into insights and action with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.646928+00:00"
+    },
+    {
+      "id": "4ea81e8821b9",
+      "name": "Ninjō AI",
+      "url": "https://www.producthunt.com/products/ninjo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI sales agents on any channel that runs from Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.647023+00:00"
+    },
+    {
+      "id": "d4cd650b187f",
+      "name": "Altar II",
+      "url": "https://www.producthunt.com/products/electronic-materials-office-altar-i",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The mechanical keyboard Apple never made\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.647102+00:00"
+    },
+    {
+      "id": "e0dc8a8fec96",
+      "name": "Keymap",
+      "url": "https://www.producthunt.com/products/keymap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every shortcut, one ⌘⌘ away.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.647167+00:00"
+    },
+    {
+      "id": "50571c8fda2f",
+      "name": "Particle Studio",
+      "url": "https://www.producthunt.com/products/particle-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "art",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transform Static Images Into Dynamic Particle Experiences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-25T07:41:25.647260+00:00"
     },
     {
       "id": "02565831bc23",
@@ -1934,23 +2253,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-18T07:36:59.890886+00:00"
-    },
-    {
-      "id": "4acf3cee3088",
-      "name": "Memoria",
-      "url": "https://www.producthunt.com/products/memoria-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "photo",
-        "speech",
-        "search"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Search photos by text, speech, object & faces. 100% offline.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-18T07:36:59.890985+00:00"
     },
     {
       "id": "d5638614d4ea",
