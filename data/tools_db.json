@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T07:41:25.816860+00:00",
-  "total": 2453,
+  "updated_at": "2026-08-26T07:42:54.115361+00:00",
+  "total": 2471,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,295 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "16de1440aa52",
+      "name": "Screenify Studio",
+      "url": "https://www.producthunt.com/products/screenify-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Polished product demos on Mac recorded by an AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820399+00:00"
+    },
+    {
+      "id": "dc705d7d0501",
+      "name": "ReWeaver AI DriftDetector",
+      "url": "https://www.producthunt.com/products/reweaver-driftdetector",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drift score for any GitHub repo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820500+00:00"
+    },
+    {
+      "id": "432df95d8807",
+      "name": "TaskShell 2.0",
+      "url": "https://www.producthunt.com/products/taskshell",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "agent",
+        "productivity",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent-first task management for more agentic productivity\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820585+00:00"
+    },
+    {
+      "id": "6d945d9702d2",
+      "name": "ChatCut Desktop",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "editor",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Video editor built for humans & AI. Edit with GPT & Claude.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820654+00:00"
+    },
+    {
+      "id": "101363d4433c",
+      "name": "Lore Machine",
+      "url": "https://www.producthunt.com/products/lore-machine",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Substack For World Builders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820709+00:00"
+    },
+    {
+      "id": "b0ae973487cb",
+      "name": "DeployHermes",
+      "url": "https://www.producthunt.com/products/deployhermes",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hire persistent Hermes agents with roles, memory + skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820786+00:00"
+    },
+    {
+      "id": "d6453c3791aa",
+      "name": "Message Album",
+      "url": "https://www.producthunt.com/products/message-album",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save one iMessage conversation as a private offline album\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820870+00:00"
+    },
+    {
+      "id": "6d61a29aaf85",
+      "name": "Tellie Prompter 1.5",
+      "url": "https://www.producthunt.com/products/tellie-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The teleprompter that knows what you haven't said\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.820940+00:00"
+    },
+    {
+      "id": "b664e5d587a7",
+      "name": "EasySwitch",
+      "url": "https://www.producthunt.com/products/easyswitch",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One mouse, keyboard and second screen for all your computers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821017+00:00"
+    },
+    {
+      "id": "64f7e61524c4",
+      "name": "BaudBuddy",
+      "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native macOS serial terminal with a file server built in\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821119+00:00"
+    },
+    {
+      "id": "d0cc99a2e088",
+      "name": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Firebase for Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821189+00:00"
+    },
+    {
+      "id": "c78d5e468680",
+      "name": "Arena AI Agent",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get real work done, moving from idea to shipping in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821266+00:00"
+    },
+    {
+      "id": "966e098b8d03",
+      "name": "choclift for iPad",
+      "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "the touch (chocolate) bar to control Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821339+00:00"
+    },
+    {
+      "id": "2e22649b807f",
+      "name": "ify",
+      "url": "https://www.producthunt.com/products/ify-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Resolution AI that works on top of your existing helpdesk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821396+00:00"
+    },
+    {
+      "id": "60c098222bc1",
+      "name": "Termy",
+      "url": "https://www.producthunt.com/products/termy-language-learning",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn languages from games, videos, and websites\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821467+00:00"
+    },
+    {
+      "id": "b97c8366d8e8",
+      "name": "Mac mini",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Now with M6 and M5 Pro chips\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821518+00:00"
+    },
+    {
+      "id": "6c26601661b3",
+      "name": "HEVN U.S.",
+      "url": "https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hold USD and pay globally through U.S. sponsor banks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821572+00:00"
+    },
+    {
+      "id": "8b8fe2439b3a",
+      "name": "macadress",
+      "url": "https://www.producthunt.com/products/macadress",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "MAC address intelligence for apps, networks and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821651+00:00"
+    },
+    {
+      "id": "ae0a3440a344",
+      "name": "PostHog Desktop",
+      "url": "https://www.producthunt.com/products/posthog",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The product editor for product builders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-26T07:42:53.821725+00:00"
     },
     {
       "id": "6ebc5ba5ceb2",
@@ -8067,22 +8356,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-26T09:12:00.890213+00:00"
-    },
-    {
-      "id": "d0cc99a2e088",
-      "name": "OpenComputer",
-      "url": "https://www.producthunt.com/products/opencomputer",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "deploy",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The easiest way to deploy a managed agent.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-26T09:12:00.890286+00:00"
     },
     {
       "id": "967a415fb399",
