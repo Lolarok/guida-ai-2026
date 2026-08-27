@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T07:42:54.115361+00:00",
-  "total": 2471,
+  "updated_at": "2026-08-27T18:08:49.540216+00:00",
+  "total": 2489,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "3ecdffe72158",
+      "name": "IQ Routing",
+      "url": "https://www.producthunt.com/products/iq-routing",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Trajectory-aware LLM routing that cuts agent cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.306973+00:00"
+    },
+    {
+      "id": "037596692c0b",
+      "name": "SpacebarX",
+      "url": "https://www.producthunt.com/products/spacebarx",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "note",
+        "task",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A keyboard-first outliner for notes, tasks and projects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307074+00:00"
+    },
+    {
+      "id": "8b6ecff78671",
+      "name": "Speko",
+      "url": "https://www.producthunt.com/products/speko",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenRouter for Voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307145+00:00"
+    },
+    {
+      "id": "20fa570315d0",
+      "name": "Skydive",
+      "url": "https://www.producthunt.com/products/skydive",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Build cloud agents that work across your tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307223+00:00"
+    },
+    {
+      "id": "6708015cffec",
+      "name": "Enter Pro",
+      "url": "https://www.producthunt.com/products/enter-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI-native platform to build and scale your apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307298+00:00"
+    },
+    {
+      "id": "896a2f2818c7",
+      "name": "The Million Sad Ducks",
+      "url": "https://www.producthunt.com/products/the-million-sad-ducks",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "$1 makes one of them permanently happy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307373+00:00"
+    },
+    {
+      "id": "d30a561ebd4c",
+      "name": "Traccia",
+      "url": "https://www.producthunt.com/products/traccia",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Finally, a vendor-neutral AI Agent Control Plane.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307454+00:00"
+    },
+    {
+      "id": "0e3a59e1cddd",
+      "name": "GitNexus (Akon Labs)",
+      "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source kernel for coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307539+00:00"
+    },
+    {
+      "id": "7376334be563",
+      "name": "Lenz",
+      "url": "https://www.producthunt.com/products/lenz-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Independent, multi-model fact-checking API for AI workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307616+00:00"
+    },
+    {
+      "id": "533a4d81e219",
+      "name": "Pluto",
+      "url": "https://www.producthunt.com/products/pluto-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your professional profile is now an AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307689+00:00"
+    },
+    {
+      "id": "b631ae871db2",
+      "name": "Ojin",
+      "url": "https://www.producthunt.com/products/ojin",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to an AI Agent with a real face and voice, in real time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307765+00:00"
+    },
+    {
+      "id": "ff6f87657816",
+      "name": "Savvy",
+      "url": "https://www.producthunt.com/products/savvy-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An assistant that whispers what to say during a meeting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307840+00:00"
+    },
+    {
+      "id": "5e695f0f78ac",
+      "name": "Wondering Canvas",
+      "url": "https://www.producthunt.com/products/wondering-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual ChatGPT in Parallel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307911+00:00"
+    },
+    {
+      "id": "8c57773a3857",
+      "name": "Qwen3.8",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The open-weight preview of Qwen4\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.307962+00:00"
+    },
+    {
+      "id": "d686dae976e6",
+      "name": "Ticket Fairy CLI",
+      "url": "https://www.producthunt.com/products/the-ticket-fairy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ticket Fairy event ticketing CLI & MCP server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308034+00:00"
+    },
+    {
+      "id": "23f8a1861dbe",
+      "name": "HFlow",
+      "url": "https://www.producthunt.com/products/hflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Scalable multimodal data pipelines for robotics\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308105+00:00"
+    },
+    {
+      "id": "dd19d1803965",
+      "name": "GLM",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The first natively multimodal model in GLM-5 series\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308159+00:00"
+    },
+    {
+      "id": "de8a6dc0a053",
+      "name": "Gemini 3.5 Transcribe",
+      "url": "https://www.producthunt.com/products/gemini-3-5-transcribe",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "gemini",
+        "speech",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Our most precise speech-to-text model yet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308252+00:00"
+    },
+    {
+      "id": "22a49eb3bc18",
+      "name": "Sendra",
+      "url": "https://www.producthunt.com/products/sendra",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design emails in Figma, export HTML that works everywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308328+00:00"
+    },
+    {
+      "id": "1e71c7827768",
+      "name": "Kraa 2.0",
+      "url": "https://www.producthunt.com/products/kraa",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Text editor and a publishing platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-27T18:08:49.308396+00:00"
     },
     {
       "id": "16de1440aa52",
@@ -3283,21 +3592,6 @@
       "discovered_at": "2026-08-16T07:30:37.559058+00:00"
     },
     {
-      "id": "dd19d1803965",
-      "name": "GLM",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Coding leap from scaled post-training on the same base\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-16T07:30:37.559136+00:00"
-    },
-    {
       "id": "5314b4c77433",
       "name": "Openmotion",
       "url": "https://www.producthunt.com/products/openmotion",
@@ -6184,21 +6478,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-03T10:42:21.159091+00:00"
-    },
-    {
-      "id": "8c57773a3857",
-      "name": "Qwen3.8",
-      "url": "https://www.producthunt.com/products/qwen3",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Qwen’s most capable model for coding and cowork\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-03T10:42:21.159186+00:00"
     },
     {
       "id": "2eea828a48a5",
