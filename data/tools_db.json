@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T18:08:49.540216+00:00",
-  "total": 2489,
+  "updated_at": "2026-08-28T19:14:23.180459+00:00",
+  "total": 2509,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,311 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5f9cfda1a65e",
+      "name": "Microduck",
+      "url": "https://www.producthunt.com/products/hugging-face",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "A tiny open-source biped you can train yourself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892116+00:00"
+    },
+    {
+      "id": "1165d4e231cc",
+      "name": "Revalvo",
+      "url": "https://www.producthunt.com/products/revalvo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run prompts on every model at once. Score. Version. Ship.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892207+00:00"
+    },
+    {
+      "id": "97403caefe39",
+      "name": "SnakeRank",
+      "url": "https://www.producthunt.com/products/snakerank",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The leaderboard is a snake. Bid your way to the head.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892317+00:00"
+    },
+    {
+      "id": "9b14232c3226",
+      "name": "Play with Putty",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Simple, Collaborative Vibe Coding \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892394+00:00"
+    },
+    {
+      "id": "d5da0b393878",
+      "name": "OpenTag",
+      "url": "https://www.producthunt.com/products/opentag",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI coworker lives on Slack and Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892449+00:00"
+    },
+    {
+      "id": "38d7832eac5c",
+      "name": "AureaCam",
+      "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real-time scoring to master the rule of thirds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892505+00:00"
+    },
+    {
+      "id": "46915c41287a",
+      "name": "Aramb",
+      "url": "https://www.producthunt.com/products/aramb",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, launch and monetize your AI agents in 20 minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892582+00:00"
+    },
+    {
+      "id": "404c5381462f",
+      "name": "Spline V2",
+      "url": "https://www.producthunt.com/products/spline",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Best 3D platform for the agentic era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892661+00:00"
+    },
+    {
+      "id": "07f8a46f2fd1",
+      "name": "CrowdVolt",
+      "url": "https://www.producthunt.com/products/crowdvolt",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "You're coming out tonight\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892714+00:00"
+    },
+    {
+      "id": "229e8f464dc7",
+      "name": "Gemini Omni 1.1 Flash",
+      "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "gemini",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Our newest multimodal model for video generation and editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892792+00:00"
+    },
+    {
+      "id": "21dd4f16c112",
+      "name": "PageIndex",
+      "url": "https://www.producthunt.com/products/pageindexai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "rust",
+        "answer",
+        "index",
+        "document"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Accurate, trustworthy answers across professional documents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892871+00:00"
+    },
+    {
+      "id": "518544055c96",
+      "name": "Glisio",
+      "url": "https://www.producthunt.com/products/glisio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac Recorder & Snap editor w/auto-zoom, audio, local MP4\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.892944+00:00"
+    },
+    {
+      "id": "e81ea435428f",
+      "name": "Almanac",
+      "url": "https://www.producthunt.com/products/almanac-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The agent with a second brain\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893011+00:00"
+    },
+    {
+      "id": "e322d76a0afc",
+      "name": "NotchDrop",
+      "url": "https://www.producthunt.com/products/notchdrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A Dynamic Island experience for your Mac notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893064+00:00"
+    },
+    {
+      "id": "ac1317835643",
+      "name": "screenpipe",
+      "url": "https://www.producthunt.com/products/screenpipe",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that records your computer work to power agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893135+00:00"
+    },
+    {
+      "id": "f0ca214c9f8f",
+      "name": "CTRL Micro",
+      "url": "https://www.producthunt.com/products/ctrl-micro",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Haptic control deck for your Mac and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893206+00:00"
+    },
+    {
+      "id": "6e2b44fff26b",
+      "name": "Firecrawl Developer Index",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "developer",
+        "dev",
+        "art",
+        "index"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A curated index of 70M+ artifacts for coding agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893293+00:00"
+    },
+    {
+      "id": "53f03df72fc1",
+      "name": "Caddi",
+      "url": "https://www.producthunt.com/products/caddi-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent that builds agents by only showing your work only once\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893376+00:00"
+    },
+    {
+      "id": "1abc18cfbf1f",
+      "name": "SuperIntern",
+      "url": "https://www.producthunt.com/products/super-intern-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "chat",
+        "assistant",
+        "email",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your email and meeting assistant, inside your chat apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893449+00:00"
+    },
+    {
+      "id": "e56e84dd504e",
+      "name": "Fide Island",
+      "url": "https://www.producthunt.com/products/fide-island",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make your MacBook notch actually useful\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-28T19:14:22.893517+00:00"
     },
     {
       "id": "3ecdffe72158",
