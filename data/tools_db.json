@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T19:14:23.180459+00:00",
-  "total": 2509,
+  "updated_at": "2026-08-29T12:57:57.755476+00:00",
+  "total": 2525,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,243 @@
       "featured": false
     },
     {
+      "id": "322540870c9c",
+      "name": "Tiles",
+      "url": "https://www.producthunt.com/products/tiles-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turning desktop chaos into curated spaces.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559453+00:00"
+    },
+    {
+      "id": "6d19ffe524db",
+      "name": "Neo",
+      "url": "https://www.producthunt.com/products/neo",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "novel"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A novel-writing tool from the author of Silo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559528+00:00"
+    },
+    {
+      "id": "d5a0b974f1d5",
+      "name": "1752vc Pitch Deck Analyzer",
+      "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck",
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know what investors will say before you ever hit send.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559592+00:00"
+    },
+    {
+      "id": "1b4f658728ef",
+      "name": "Einfall",
+      "url": "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture fugitive thoughts + route them to where they belong\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559647+00:00"
+    },
+    {
+      "id": "fad114ee00bf",
+      "name": "Cohere Parse 5",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn complex docs, tables & images into AI-ready data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559701+00:00"
+    },
+    {
+      "id": "188bf4504958",
+      "name": "Mossy",
+      "url": "https://www.producthunt.com/products/mossy-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "A desk plant that wilts when you need a break\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559745+00:00"
+    },
+    {
+      "id": "abc403afc581",
+      "name": "Lubb",
+      "url": "https://www.producthunt.com/products/lubb-heartbeat-for-sleep",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "beat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A realistic heartbeat for falling asleep\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559801+00:00"
+    },
+    {
+      "id": "255dd5dd44b9",
+      "name": "Hy4 preview",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Tencent’s 770B open model for long-horizon work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559857+00:00"
+    },
+    {
+      "id": "e02e875743e7",
+      "name": "Any Command",
+      "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your phone into a second screen and trackpad for PC\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559912+00:00"
+    },
+    {
+      "id": "4026cffc02fe",
+      "name": "publicdesktop.lol",
+      "url": "https://www.producthunt.com/products/publicdesktop-lol",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Public computer of the internet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.559948+00:00"
+    },
+    {
+      "id": "037d13994adc",
+      "name": "God’s Eye View",
+      "url": "https://www.producthunt.com/products/god-s-eye-view",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spy satellite simulator in your browser but the data is real\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560012+00:00"
+    },
+    {
+      "id": "54f0d84a0999",
+      "name": "Cursor Craft v2",
+      "url": "https://www.producthunt.com/products/cursor-craft",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Custom Mac cursors, rebuilt for v2\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560046+00:00"
+    },
+    {
+      "id": "b97ab0b06e33",
+      "name": "WIT",
+      "url": "https://www.producthunt.com/products/wit-will-it-travel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Spot potential misunderstandings across global Englishes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560083+00:00"
+    },
+    {
+      "id": "c3d9bb539c53",
+      "name": "RawToHEIC",
+      "url": "https://www.producthunt.com/products/rawtoheic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "photo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Convert RAW to HEIC inside Apple Photos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560133+00:00"
+    },
+    {
+      "id": "84cb35631f08",
+      "name": "Staats",
+      "url": "https://www.producthunt.com/products/staats-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ask",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask your coding agent how your site is doing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560182+00:00"
+    },
+    {
+      "id": "5802c9e304a8",
+      "name": "seendiff",
+      "url": "https://www.producthunt.com/products/seendiff",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Code diff viewer with progress tracking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560243+00:00"
+    },
+    {
       "id": "5f9cfda1a65e",
       "name": "Microduck",
       "url": "https://www.producthunt.com/products/hugging-face",
@@ -388,7 +625,54 @@
       "description_it": "A tiny open-source biped you can train yourself\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-28T19:14:22.892116+00:00"
+      "discovered_at": "2026-08-29T12:57:57.560281+00:00"
+    },
+    {
+      "id": "21dd4f16c112",
+      "name": "PageIndex",
+      "url": "https://www.producthunt.com/products/pageindexai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "rust",
+        "answer",
+        "index",
+        "document"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Accurate, trustworthy answers across professional documents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560337+00:00"
+    },
+    {
+      "id": "f0ca214c9f8f",
+      "name": "CTRL Micro",
+      "url": "https://www.producthunt.com/products/ctrl-micro",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Haptic control deck for your Mac and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560388+00:00"
+    },
+    {
+      "id": "e322d76a0afc",
+      "name": "NotchDrop",
+      "url": "https://www.producthunt.com/products/notchdrop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A Dynamic Island experience for your Mac notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-29T12:57:57.560422+00:00"
     },
     {
       "id": "1165d4e231cc",
@@ -520,24 +804,6 @@
       "discovered_at": "2026-08-28T19:14:22.892792+00:00"
     },
     {
-      "id": "21dd4f16c112",
-      "name": "PageIndex",
-      "url": "https://www.producthunt.com/products/pageindexai",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "rust",
-        "answer",
-        "index",
-        "document"
-      ],
-      "pricing": "Freemium",
-      "description_it": "Accurate, trustworthy answers across professional documents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-28T19:14:22.892871+00:00"
-    },
-    {
       "id": "518544055c96",
       "name": "Glisio",
       "url": "https://www.producthunt.com/products/glisio",
@@ -569,19 +835,6 @@
       "discovered_at": "2026-08-28T19:14:22.893011+00:00"
     },
     {
-      "id": "e322d76a0afc",
-      "name": "NotchDrop",
-      "url": "https://www.producthunt.com/products/notchdrop",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A Dynamic Island experience for your Mac notch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-28T19:14:22.893064+00:00"
-    },
-    {
       "id": "ac1317835643",
       "name": "screenpipe",
       "url": "https://www.producthunt.com/products/screenpipe",
@@ -596,22 +849,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-28T19:14:22.893135+00:00"
-    },
-    {
-      "id": "f0ca214c9f8f",
-      "name": "CTRL Micro",
-      "url": "https://www.producthunt.com/products/ctrl-micro",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "deck"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Haptic control deck for your Mac and AI agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-28T19:14:22.893206+00:00"
     },
     {
       "id": "6e2b44fff26b",
