@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T12:36:17.881550+00:00",
-  "total": 2543,
+  "updated_at": "2026-08-31T14:51:06.790869+00:00",
+  "total": 2554,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,224 @@
       "featured": false
     },
     {
+      "id": "6c421d04655e",
+      "name": "Video Agent by Fotor",
+      "url": "https://www.producthunt.com/products/fotor",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "chat",
+        "graphic",
+        "video",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create and edit precision motion graphics & video with chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.636770+00:00"
+    },
+    {
+      "id": "68a81bff0e79",
+      "name": "Tether",
+      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A ball for boring meetings to keep you busy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.636873+00:00"
+    },
+    {
+      "id": "981dc8cc773a",
+      "name": "BrandJet",
+      "url": "https://www.producthunt.com/products/brandjet-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn public buying signals into sales pipeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.636952+00:00"
+    },
+    {
+      "id": "59858707b83c",
+      "name": "Radar by Particle",
+      "url": "https://www.producthunt.com/products/particle-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "podcast",
+        "search",
+        "ad",
+        "article"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Podcast Search Engine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637027+00:00"
+    },
+    {
+      "id": "9353caeebf2b",
+      "name": "StackScope",
+      "url": "https://www.producthunt.com/products/stackscope-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See what new sites are built with, the week they launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637108+00:00"
+    },
+    {
+      "id": "bd3a135d4561",
+      "name": "Ask My Wardrobe",
+      "url": "https://www.producthunt.com/products/ask-my-wardrobe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The complete digital wardrobe experience\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637212+00:00"
+    },
+    {
+      "id": "409b18aed10d",
+      "name": "Interactive Sessions",
+      "url": "https://www.producthunt.com/products/revolte",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drive the full SDLC with AI agents, step by step\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637293+00:00"
+    },
+    {
+      "id": "b47218316ec5",
+      "name": "BrandMyLaptop",
+      "url": "https://www.producthunt.com/products/brandmylaptop",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sell ad space on your laptop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637377+00:00"
+    },
+    {
+      "id": "1369a2ea50fe",
+      "name": "Orato",
+      "url": "https://www.producthunt.com/products/orato-speech-coach",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Practice speaking with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637430+00:00"
+    },
+    {
+      "id": "8f983df4c819",
+      "name": "WebTerm Learn",
+      "url": "https://www.producthunt.com/products/webterm",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn the terminal like a game — in a browser sandbox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637529+00:00"
+    },
+    {
+      "id": "943055662cb1",
+      "name": "FrameOS",
+      "url": "https://www.producthunt.com/products/frameos-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record your iOS & Android screen from your Mac.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637620+00:00"
+    },
+    {
+      "id": "7982bf23ee3f",
+      "name": "Maritime",
+      "url": "https://www.producthunt.com/products/maritime",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Dedicated computers for AI agents, starting at $1/month\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637700+00:00"
+    },
+    {
+      "id": "61982c307880",
+      "name": "RIP MY BUILD",
+      "url": "https://www.producthunt.com/products/rip-my-build",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your abandoned side project one last launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637776+00:00"
+    },
+    {
+      "id": "7849b26e02a6",
+      "name": "Murfy AI",
+      "url": "https://www.producthunt.com/products/murfy",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write, review, and publish to arXiv 10x faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637848+00:00"
+    },
+    {
       "id": "1c1bf38850ca",
       "name": "Retro Y2K Theme",
       "url": "https://www.producthunt.com/products/retro-y2k-theme-90s-web-aesthetic",
@@ -388,7 +606,53 @@
       "description_it": "Customize any website with a vintage 90s & Y2K retro theme\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.642459+00:00"
+      "discovered_at": "2026-08-31T14:51:06.637905+00:00"
+    },
+    {
+      "id": "21f9daf21a4c",
+      "name": "Sayscroll",
+      "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI Teleprompter that scrolls as you speak\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.637959+00:00"
+    },
+    {
+      "id": "78288951be41",
+      "name": "Ulpaso",
+      "url": "https://www.producthunt.com/products/ulpaso",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop paying just to take meeting notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.638028+00:00"
+    },
+    {
+      "id": "cf1a6e190186",
+      "name": "Caplio",
+      "url": "https://www.producthunt.com/products/caplio",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "find",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find, organize, and reuse every image on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-08-31T14:51:06.638104+00:00"
     },
     {
       "id": "c5faaed88e31",
@@ -405,7 +669,7 @@
       "description_it": "Create launch videos without touching After Effects\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.642566+00:00"
+      "discovered_at": "2026-08-31T14:51:06.638183+00:00"
     },
     {
       "id": "5f8cb79d333b",
@@ -498,50 +762,6 @@
       "discovered_at": "2026-08-30T12:36:17.642990+00:00"
     },
     {
-      "id": "7849b26e02a6",
-      "name": "Murfy AI",
-      "url": "https://www.producthunt.com/products/murfy",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "write"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Write, review, and publish to arXiv 10x faster\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643061+00:00"
-    },
-    {
-      "id": "21f9daf21a4c",
-      "name": "Sayscroll",
-      "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The AI Teleprompter that scrolls as you speak\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643115+00:00"
-    },
-    {
-      "id": "7982bf23ee3f",
-      "name": "Maritime",
-      "url": "https://www.producthunt.com/products/maritime",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "art",
-        "agent"
-      ],
-      "pricing": "Freemium",
-      "description_it": "Dedicated computers for AI agents, starting at $1/month\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643189+00:00"
-    },
-    {
       "id": "f44539c740e6",
       "name": "oMLX",
       "url": "https://www.producthunt.com/products/omlx",
@@ -555,55 +775,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-30T12:36:17.643261+00:00"
-    },
-    {
-      "id": "61982c307880",
-      "name": "RIP MY BUILD",
-      "url": "https://www.producthunt.com/products/rip-my-build",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "project"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Give your abandoned side project one last launch\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643355+00:00"
-    },
-    {
-      "id": "cf1a6e190186",
-      "name": "Caplio",
-      "url": "https://www.producthunt.com/products/caplio",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "image",
-        "find",
-        "organiz"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Find, organize, and reuse every image on your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643428+00:00"
-    },
-    {
-      "id": "78288951be41",
-      "name": "Ulpaso",
-      "url": "https://www.producthunt.com/products/ulpaso",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "note",
-        "meeting"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Stop paying just to take meeting notes\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-30T12:36:17.643496+00:00"
     },
     {
       "id": "d476c2ff164e",
