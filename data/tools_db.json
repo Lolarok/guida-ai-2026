@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T14:51:06.790869+00:00",
-  "total": 2554,
+  "updated_at": "2026-09-01T12:22:56.676416+00:00",
+  "total": 2573,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9a9b86806bf1",
+      "name": "Sider Code",
+      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Reshape any website with plain words via Sider extension\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531113+00:00"
+    },
+    {
+      "id": "a8ea6fbcd404",
+      "name": "Sourclip 2.0",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "cli",
+        "gemini",
+        "clip",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The research workspace built around Gemini Notebook\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531211+00:00"
+    },
+    {
+      "id": "4ce38113b0b0",
+      "name": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "ide",
+        "music",
+        "song"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Alibaba's AI music generator for turning ideas into songs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531316+00:00"
+    },
+    {
+      "id": "2bf3eaa2b246",
+      "name": "Folio",
+      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A read-later app sending a typeset digest to your e-reader\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531398+00:00"
+    },
+    {
+      "id": "297c2c373523",
+      "name": "ChannelOS",
+      "url": "https://www.producthunt.com/products/channelos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your local media library into cable-style TV\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531456+00:00"
+    },
+    {
+      "id": "6b4e0d4ad7b8",
+      "name": "WaseiGo",
+      "url": "https://www.producthunt.com/products/waseigo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn the 1,000+ Japanese words that only look like English\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531513+00:00"
+    },
+    {
+      "id": "a022ef4b90d0",
+      "name": "Superset Mobile",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your parallel coding agents from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531593+00:00"
+    },
+    {
+      "id": "fcc452685110",
+      "name": "Murmell",
+      "url": "https://www.producthunt.com/products/murmell",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google docs for AI agents, and you can close your laptop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531676+00:00"
+    },
+    {
+      "id": "29cbfe133472",
+      "name": "Gauth AI Course",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI courses you can watch, quiz through, and create\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531733+00:00"
+    },
+    {
+      "id": "66e1698931f8",
+      "name": "EAS Observe",
+      "url": "https://www.producthunt.com/products/expo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Performance monitoring built for Expo and React Native\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531806+00:00"
+    },
+    {
+      "id": "cf66d1b2c462",
+      "name": "ThunderPhone",
+      "url": "https://www.producthunt.com/products/thunderphone",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A self-serve platform for building AI phone agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531877+00:00"
+    },
+    {
+      "id": "0033dda9894c",
+      "name": "TrustedRouter",
+      "url": "https://www.producthunt.com/products/trustedrouter",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every model with a unified interface. Privacy with proof. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.531952+00:00"
+    },
+    {
+      "id": "9d8d2953cccf",
+      "name": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The phone that literally has a gimbal built in\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532022+00:00"
+    },
+    {
+      "id": "4fcd9cf9be05",
+      "name": "Computable GPU Index (CGI)",
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "index"
+      ],
+      "pricing": "Free",
+      "description_it": "The first open-source price index for GPU compute\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532098+00:00"
+    },
+    {
+      "id": "c1cfc5fb86ef",
+      "name": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Fully native, open-source coding agent built for JetBrains\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532176+00:00"
+    },
+    {
+      "id": "4801c76eb5aa",
+      "name": "Tovel AI",
+      "url": "https://www.producthunt.com/products/tovel-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From conversation to action, in three steps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532245+00:00"
+    },
+    {
+      "id": "da0978525c2a",
+      "name": "Naseem",
+      "url": "https://www.producthunt.com/products/naseem-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native AI agent that does real work on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532334+00:00"
+    },
+    {
+      "id": "402b7e674532",
+      "name": "BobVault for BobCLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "CLI based Zero-Knowledge Architecture for code repositories\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532417+00:00"
+    },
+    {
+      "id": "cba65933ca3f",
+      "name": "ARC",
+      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multitrack synth, sampler, drum machine, and looper for iOS.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532472+00:00"
+    },
+    {
+      "id": "6c6a2cc6114c",
+      "name": "Impractical",
+      "url": "https://www.producthunt.com/products/impractical",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "design",
+        "video",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Motion Design - Every feature deserves an amazing video. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-01T12:22:56.532547+00:00"
     },
     {
       "id": "6c421d04655e",
@@ -7481,21 +7789,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-03T10:42:21.159263+00:00"
-    },
-    {
-      "id": "fcc452685110",
-      "name": "Murmell",
-      "url": "https://www.producthunt.com/products/murmell",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Cloud canvas where your team and AI agents works together\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-03T10:42:21.159332+00:00"
     },
     {
       "id": "bc875c101a1c",
