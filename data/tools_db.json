@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T11:58:16.486288+00:00",
-  "total": 2593,
+  "updated_at": "2026-09-03T11:56:27.584629+00:00",
+  "total": 2610,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,305 @@
       "featured": false
     },
     {
+      "id": "7408a02234f0",
+      "name": "Omi",
+      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask your computer anything you saw or heard\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.330931+00:00"
+    },
+    {
+      "id": "16fc14cdb71f",
+      "name": "MagiCrew",
+      "url": "https://www.producthunt.com/products/magicrew",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Give everyone their own AI workforce in one platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331017+00:00"
+    },
+    {
+      "id": "543e4b2635a9",
+      "name": "Grove",
+      "url": "https://www.producthunt.com/products/grove-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One terminal for you and your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331093+00:00"
+    },
+    {
+      "id": "cd733d48efe6",
+      "name": "Higgsfield Genjutsu",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Recast motion with your characters, locations & products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331174+00:00"
+    },
+    {
+      "id": "3a2e15e67594",
+      "name": "ARBR",
+      "url": "https://www.producthunt.com/products/arbr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Control Every AI Request\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331226+00:00"
+    },
+    {
+      "id": "099ad9b78c8b",
+      "name": "Tidy",
+      "url": "https://www.producthunt.com/products/tidy-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "grammar"
+      ],
+      "pricing": "Free",
+      "description_it": "Fix grammar in any Mac app with free on-device AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331299+00:00"
+    },
+    {
+      "id": "5bed3201e048",
+      "name": "Causal",
+      "url": "https://www.producthunt.com/products/causal-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "project"
+      ],
+      "pricing": "Freemium",
+      "description_it": "AI Powered Canvas for planning visual projects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331401+00:00"
+    },
+    {
+      "id": "78628b20d691",
+      "name": "Readr",
+      "url": "https://www.producthunt.com/products/readr-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "question",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "A free reader that answers your questions and reads aloud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331486+00:00"
+    },
+    {
+      "id": "0d79ee43c371",
+      "name": "Agent Builder by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build agents that heal themselves. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331561+00:00"
+    },
+    {
+      "id": "191f0aec330c",
+      "name": "Tabbit AI",
+      "url": "https://www.producthunt.com/products/tabbitai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "question",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your browser a task, not just a question\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331631+00:00"
+    },
+    {
+      "id": "048778500c6f",
+      "name": "Thaw",
+      "url": "https://www.producthunt.com/products/thaw-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The only app that owns your whole menu bar, in and out\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331685+00:00"
+    },
+    {
+      "id": "757eac990d0e",
+      "name": "Blume.codes",
+      "url": "https://www.producthunt.com/products/blume-codes",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turns coding agent sessions into better rules and skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331759+00:00"
+    },
+    {
+      "id": "933ecd0f6a2a",
+      "name": "CodeLook",
+      "url": "https://www.producthunt.com/products/codelook",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Quick Look code previews with 700+ editor themes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331829+00:00"
+    },
+    {
+      "id": "db3f154aa511",
+      "name": "Atlas by World Labs",
+      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn text, pics, video, + 3D into camera-controlled HD video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331904+00:00"
+    },
+    {
+      "id": "8a4d3a4ed793",
+      "name": "Fillo",
+      "url": "https://www.producthunt.com/products/fillo-native-forms-without-the-backend",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build forms into your product with your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.331973+00:00"
+    },
+    {
+      "id": "bc14d8f3e296",
+      "name": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Cowork for high-volume GTM workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.332039+00:00"
+    },
+    {
+      "id": "5a92e04941a6",
+      "name": "Porte",
+      "url": "https://www.producthunt.com/products/porte",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Control your local Grok sessions from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.332091+00:00"
+    },
+    {
+      "id": "55e9f783c8d4",
+      "name": "GhostReply",
+      "url": "https://www.producthunt.com/products/ghostreply-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI auto-replier for iMessage on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.332146+00:00"
+    },
+    {
+      "id": "961192c17080",
+      "name": "deepeye by deepidv",
+      "url": "https://www.producthunt.com/products/deepidv",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The deepfake detector that goes where you browse\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.332201+00:00"
+    },
+    {
+      "id": "030645e649bb",
+      "name": "OpenClaw 2.0",
+      "url": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI that really does things\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-03T11:56:27.332251+00:00"
+    },
+    {
       "id": "55531aef8f1c",
       "name": "Dyson CameraJet",
       "url": "https://www.producthunt.com/products/dyson-humidifier",
@@ -532,32 +831,6 @@
       "discovered_at": "2026-09-02T11:58:16.325442+00:00"
     },
     {
-      "id": "961192c17080",
-      "name": "deepeye by deepidv",
-      "url": "https://www.producthunt.com/products/deepidv",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The deepfake detector that goes where you browse\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-02T11:58:16.325499+00:00"
-    },
-    {
-      "id": "55e9f783c8d4",
-      "name": "GhostReply",
-      "url": "https://www.producthunt.com/products/ghostreply-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "AI auto-replier for iMessage on your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-02T11:58:16.325554+00:00"
-    },
-    {
       "id": "07e108b68302",
       "name": "RoundOS",
       "url": "https://www.producthunt.com/products/roundos-data-room",
@@ -585,19 +858,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-02T11:58:16.325676+00:00"
-    },
-    {
-      "id": "030645e649bb",
-      "name": "OpenClaw 2.0",
-      "url": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The AI that really does things\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-02T11:58:16.325728+00:00"
     },
     {
       "id": "ce53cf884cd1",
