@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T11:59:24.496277+00:00",
-  "total": 2625,
+  "updated_at": "2026-09-05T11:08:40.069603+00:00",
+  "total": 2637,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,305 @@
       "featured": false
     },
     {
+      "id": "457f7bdffef2",
+      "name": "BrickForgerAI",
+      "url": "https://www.producthunt.com/products/brickforgerai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918209+00:00"
+    },
+    {
+      "id": "913e5ffe6a60",
+      "name": "CommuteBar",
+      "url": "https://www.producthunt.com/products/commutebar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Live commute times in your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918304+00:00"
+    },
+    {
+      "id": "402eeb301273",
+      "name": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug",
+        "deploy",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lets your AI agents debug production without redeploying\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918390+00:00"
+    },
+    {
+      "id": "40fed4a4a5b9",
+      "name": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Behavioral learning that makes AI agents better over time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918468+00:00"
+    },
+    {
+      "id": "7d69cfd0b748",
+      "name": "at8pm",
+      "url": "https://www.producthunt.com/products/at8pm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your honest journal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918521+00:00"
+    },
+    {
+      "id": "d42d4a089560",
+      "name": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open source AI gateway turning traffic into a better model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918584+00:00"
+    },
+    {
+      "id": "831a86a0aa83",
+      "name": "Queuebrick",
+      "url": "https://www.producthunt.com/products/queuebrick",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Letterboxd alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918643+00:00"
+    },
+    {
+      "id": "42e3cd184f2b",
+      "name": "Retold",
+      "url": "https://www.producthunt.com/products/retold",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "film",
+        "voice",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn family voices into hand-drawn story films\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918724+00:00"
+    },
+    {
+      "id": "6486cbc7d90f",
+      "name": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review code with your coding agents before committing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918800+00:00"
+    },
+    {
+      "id": "cabfd1993609",
+      "name": "PostBox",
+      "url": "https://www.producthunt.com/products/postbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stage and post designs from your mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918867+00:00"
+    },
+    {
+      "id": "ac1aec5ccff2",
+      "name": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.918933+00:00"
+    },
+    {
+      "id": "57016235b10c",
+      "name": "dif.sh",
+      "url": "https://www.producthunt.com/products/dif-sh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Markdown feature flags your coding agent installs for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919005+00:00"
+    },
+    {
+      "id": "9ccbc4c78e7a",
+      "name": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919077+00:00"
+    },
+    {
+      "id": "34acafdbc934",
+      "name": "Chalked for Mac",
+      "url": "https://www.producthunt.com/products/chalked",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your replies ready with your work's full context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919149+00:00"
+    },
+    {
+      "id": "b44f467e8ca9",
+      "name": "Clockwork",
+      "url": "https://www.producthunt.com/products/clockwork-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The calendar where your AI agents show up for work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919219+00:00"
+    },
+    {
+      "id": "9a8f52d3b1b8",
+      "name": "Offline JS Playground",
+      "url": "https://www.producthunt.com/products/offline-js-playground",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "javascript",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write, run, and test JavaScript snippets & JSON offline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919312+00:00"
+    },
+    {
+      "id": "ea608aa413d2",
+      "name": "WeatherNext 3",
+      "url": "https://www.producthunt.com/products/weathernext-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Our most advanced and accurate global weather AI model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919390+00:00"
+    },
+    {
+      "id": "51e49751a746",
+      "name": "Omarchy",
+      "url": "https://www.producthunt.com/products/omarchy-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The malleable OS for the age of agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919463+00:00"
+    },
+    {
+      "id": "1f394b081c64",
+      "name": "Inline",
+      "url": "https://www.producthunt.com/products/inline-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer work with AI, teammates, and friends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919518+00:00"
+    },
+    {
+      "id": "f6f94844a6bd",
+      "name": "cmmnts",
+      "url": "https://www.producthunt.com/products/cmmnts",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add a powerful comment section to any website\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-05T11:08:39.919587+00:00"
+    },
+    {
       "id": "a6ec8ab06ecb",
       "name": "sidebranch",
       "url": "https://www.producthunt.com/products/sidebranch",
@@ -393,19 +692,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-04T11:59:24.232489+00:00"
-    },
-    {
-      "id": "1f394b081c64",
-      "name": "Inline",
-      "url": "https://www.producthunt.com/products/inline-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Multiplayer work with AI, teammates, and friends\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.232574+00:00"
     },
     {
       "id": "e316dffcc7cb",
@@ -436,82 +722,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-04T11:59:24.232723+00:00"
-    },
-    {
-      "id": "ea608aa413d2",
-      "name": "WeatherNext 3",
-      "url": "https://www.producthunt.com/products/weathernext-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Our most advanced and accurate global weather AI model\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.232800+00:00"
-    },
-    {
-      "id": "f6f94844a6bd",
-      "name": "cmmnts",
-      "url": "https://www.producthunt.com/products/cmmnts",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Add a powerful comment section to any website\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.232873+00:00"
-    },
-    {
-      "id": "9ccbc4c78e7a",
-      "name": "myAIcademy",
-      "url": "https://www.producthunt.com/products/myaicademy",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.232951+00:00"
-    },
-    {
-      "id": "34acafdbc934",
-      "name": "Chalked for Mac",
-      "url": "https://www.producthunt.com/products/chalked",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your replies ready with your work's full context\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.233071+00:00"
-    },
-    {
-      "id": "b44f467e8ca9",
-      "name": "Clockwork",
-      "url": "https://www.producthunt.com/products/clockwork-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "calendar"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The calendar where your AI agents show up for work\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.233150+00:00"
     },
     {
       "id": "2753a7707922",
@@ -561,37 +771,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-04T11:59:24.233386+00:00"
-    },
-    {
-      "id": "9a8f52d3b1b8",
-      "name": "Offline JS Playground",
-      "url": "https://www.producthunt.com/products/offline-js-playground",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "javascript",
-        "write"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Write, run, and test JavaScript snippets & JSON offline\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.233463+00:00"
-    },
-    {
-      "id": "51e49751a746",
-      "name": "Omarchy",
-      "url": "https://www.producthunt.com/products/omarchy-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The malleable OS for the age of agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.233531+00:00"
     },
     {
       "id": "17a3bdf1dccf",
