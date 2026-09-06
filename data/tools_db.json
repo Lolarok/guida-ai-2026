@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T11:08:40.069603+00:00",
-  "total": 2637,
+  "updated_at": "2026-09-06T11:30:36.838654+00:00",
+  "total": 2644,
   "tools": [
     {
       "name": "Cursor",
@@ -378,48 +378,118 @@
       "featured": false
     },
     {
-      "id": "457f7bdffef2",
-      "name": "BrickForgerAI",
-      "url": "https://www.producthunt.com/products/brickforgerai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918209+00:00"
-    },
-    {
-      "id": "913e5ffe6a60",
-      "name": "CommuteBar",
-      "url": "https://www.producthunt.com/products/commutebar",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Live commute times in your menu bar\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918304+00:00"
-    },
-    {
-      "id": "402eeb301273",
-      "name": "Hyperprobe",
-      "url": "https://www.producthunt.com/products/hyperprobe",
+      "id": "fd48949494e5",
+      "name": "Kit by Speakeasy",
+      "url": "https://www.producthunt.com/products/speakeasydev",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "debug",
-        "deploy",
-        "agent",
-        "erp"
+        "coding",
+        "claude",
+        "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Lets your AI agents debug production without redeploying\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your coding agent runtime. Claude but fast, cheap, concise.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918390+00:00"
+      "discovered_at": "2026-09-06T11:30:36.703060+00:00"
+    },
+    {
+      "id": "d8a643dd9778",
+      "name": "box 3.0",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "search",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search, organize and export every AI chat in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703167+00:00"
+    },
+    {
+      "id": "8cf8372d8e48",
+      "name": "Notify.domains",
+      "url": "https://www.producthunt.com/products/notify-domains",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703230+00:00"
+    },
+    {
+      "id": "411033c40a96",
+      "name": "Agentic Video Understanding in Gemini",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ide",
+        "gemini",
+        "art",
+        "video",
+        "analysis"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic video analysis for faster, smarter Gemini insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703315+00:00"
+    },
+    {
+      "id": "fdc11cbd08aa",
+      "name": "H3 Max by fal",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "fal's post-trained MiniMax H3 for quality video production\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703396+00:00"
+    },
+    {
+      "id": "05ff7bf9233f",
+      "name": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI employee in Slack that reads the room.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703473+00:00"
+    },
+    {
+      "id": "9f7492103078",
+      "name": "DocsAlot Visual Editor",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create beautiful docs, by typing. No AI required. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703558+00:00"
     },
     {
       "id": "40fed4a4a5b9",
@@ -434,63 +504,7 @@
       "description_it": "Behavioral learning that makes AI agents better over time\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918468+00:00"
-    },
-    {
-      "id": "7d69cfd0b748",
-      "name": "at8pm",
-      "url": "https://www.producthunt.com/products/at8pm",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your honest journal\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918521+00:00"
-    },
-    {
-      "id": "d42d4a089560",
-      "name": "Experiential Labs",
-      "url": "https://www.producthunt.com/products/experiential-labs",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free",
-      "description_it": "Open source AI gateway turning traffic into a better model\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918584+00:00"
-    },
-    {
-      "id": "831a86a0aa83",
-      "name": "Queuebrick",
-      "url": "https://www.producthunt.com/products/queuebrick",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The Letterboxd alternative\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918643+00:00"
-    },
-    {
-      "id": "42e3cd184f2b",
-      "name": "Retold",
-      "url": "https://www.producthunt.com/products/retold",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "film",
-        "voice",
-        "story"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn family voices into hand-drawn story films\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918724+00:00"
+      "discovered_at": "2026-09-06T11:30:36.703645+00:00"
     },
     {
       "id": "6486cbc7d90f",
@@ -508,7 +522,25 @@
       "description_it": "Review code with your coding agents before committing\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918800+00:00"
+      "discovered_at": "2026-09-06T11:30:36.703737+00:00"
+    },
+    {
+      "id": "402eeb301273",
+      "name": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "debug",
+        "deploy",
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lets your AI agents debug production without redeploying\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703815+00:00"
     },
     {
       "id": "cabfd1993609",
@@ -523,22 +555,20 @@
       "description_it": "Stage and post designs from your mac\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918867+00:00"
+      "discovered_at": "2026-09-06T11:30:36.703886+00:00"
     },
     {
-      "id": "ac1aec5ccff2",
-      "name": "Ponytail",
-      "url": "https://www.producthunt.com/products/ponytail",
+      "id": "7d69cfd0b748",
+      "name": "at8pm",
+      "url": "https://www.producthunt.com/products/at8pm",
       "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code"
-      ],
+      "category": "altro",
+      "tags": [],
       "pricing": "Free tier",
-      "description_it": "Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your honest journal\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.918933+00:00"
+      "discovered_at": "2026-09-06T11:30:36.703937+00:00"
     },
     {
       "id": "57016235b10c",
@@ -554,7 +584,106 @@
       "description_it": "Markdown feature flags your coding agent installs for you\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-05T11:08:39.919005+00:00"
+      "discovered_at": "2026-09-06T11:30:36.704010+00:00"
+    },
+    {
+      "id": "913e5ffe6a60",
+      "name": "CommuteBar",
+      "url": "https://www.producthunt.com/products/commutebar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Live commute times in your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704062+00:00"
+    },
+    {
+      "id": "d42d4a089560",
+      "name": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open source AI gateway turning traffic into a better model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704123+00:00"
+    },
+    {
+      "id": "42e3cd184f2b",
+      "name": "Retold",
+      "url": "https://www.producthunt.com/products/retold",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "film",
+        "voice",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn family voices into hand-drawn story films\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704195+00:00"
+    },
+    {
+      "id": "457f7bdffef2",
+      "name": "BrickForgerAI",
+      "url": "https://www.producthunt.com/products/brickforgerai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704251+00:00"
+    },
+    {
+      "id": "ac1aec5ccff2",
+      "name": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704322+00:00"
+    },
+    {
+      "id": "831a86a0aa83",
+      "name": "Queuebrick",
+      "url": "https://www.producthunt.com/products/queuebrick",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Letterboxd alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704374+00:00"
+    },
+    {
+      "id": "e316dffcc7cb",
+      "name": "TrackMCP",
+      "url": "https://www.producthunt.com/products/trackmcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google Analytics for MCP Servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.704441+00:00"
     },
     {
       "id": "9ccbc4c78e7a",
@@ -692,21 +821,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-04T11:59:24.232489+00:00"
-    },
-    {
-      "id": "e316dffcc7cb",
-      "name": "TrackMCP",
-      "url": "https://www.producthunt.com/products/trackmcp",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "analyt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Google Analytics for MCP Servers\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-04T11:59:24.232648+00:00"
     },
     {
       "id": "11959292cbd4",
