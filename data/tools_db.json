@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T11:30:36.838654+00:00",
-  "total": 2644,
+  "updated_at": "2026-09-07T13:17:05.248739+00:00",
+  "total": 2654,
   "tools": [
     {
       "name": "Cursor",
@@ -378,21 +378,173 @@
       "featured": false
     },
     {
-      "id": "fd48949494e5",
-      "name": "Kit by Speakeasy",
-      "url": "https://www.producthunt.com/products/speakeasydev",
+      "id": "299a30473c45",
+      "name": "PR Lens by Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See code through a new lens\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.087621+00:00"
+    },
+    {
+      "id": "01b2f8e6139e",
+      "name": "Nina by Antalpha",
+      "url": "https://www.producthunt.com/products/antalpha",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Non-custodial AI Agent: research, predict & trade crypto\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.087729+00:00"
+    },
+    {
+      "id": "d530a2be5a68",
+      "name": "Scriptly",
+      "url": "https://www.producthunt.com/products/sciptly",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An iOS teleprompter app controlled by your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.087824+00:00"
+    },
+    {
+      "id": "24ef7e7d3803",
+      "name": "Tucky",
+      "url": "https://www.producthunt.com/products/tucky",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "screen",
+        "agent",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes docked to your screen edge, with an AI agent inside\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.087904+00:00"
+    },
+    {
+      "id": "f63c1d3ecbbd",
+      "name": "Clipnote",
+      "url": "https://www.producthunt.com/products/clipnote-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "conversation",
+        "clip",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save your AI conversations so they persist after closing tab\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.087985+00:00"
+    },
+    {
+      "id": "198d5c50f149",
+      "name": "Remind",
+      "url": "https://www.producthunt.com/products/remind-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full-screen meeting reminders with AI briefings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088060+00:00"
+    },
+    {
+      "id": "8133d9b02b24",
+      "name": "Bloop",
+      "url": "https://www.producthunt.com/products/bloop-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any Mac audio into a visual you can actually export\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088142+00:00"
+    },
+    {
+      "id": "9e502052d25e",
+      "name": "Assist",
+      "url": "https://www.producthunt.com/products/assist-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "screenshot",
+        "clip",
+        "screen",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice annotate your Mac, get screenshots + clipboard manager\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088225+00:00"
+    },
+    {
+      "id": "6d33d85838c7",
+      "name": "Airuncode",
+      "url": "https://www.producthunt.com/products/airuncode",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
         "coding",
-        "claude",
         "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "Your coding agent runtime. Claude but fast, cheap, concise.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Run multiple local coding agents on your machine\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703060+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088302+00:00"
+    },
+    {
+      "id": "7aa7b57476af",
+      "name": "Routines by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analysis",
+        "data",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI Analyst that runs analysis and reports on a schedule\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088381+00:00"
     },
     {
       "id": "d8a643dd9778",
@@ -409,20 +561,39 @@
       "description_it": "Search, organize and export every AI chat in one place\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703167+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088457+00:00"
     },
     {
-      "id": "8cf8372d8e48",
-      "name": "Notify.domains",
-      "url": "https://www.producthunt.com/products/notify-domains",
+      "id": "05ff7bf9233f",
+      "name": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata",
       "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
       "pricing": "Free tier",
-      "description_it": "Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The AI employee in Slack that reads the room.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703230+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088531+00:00"
+    },
+    {
+      "id": "fdc11cbd08aa",
+      "name": "H3 Max by fal",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "fal's post-trained MiniMax H3 for quality video production\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088607+00:00"
     },
     {
       "id": "411033c40a96",
@@ -441,39 +612,37 @@
       "description_it": "Agentic video analysis for faster, smarter Gemini insights\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703315+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088685+00:00"
     },
     {
-      "id": "fdc11cbd08aa",
-      "name": "H3 Max by fal",
-      "url": "https://www.producthunt.com/products/fal-ai",
+      "id": "8cf8372d8e48",
+      "name": "Notify.domains",
+      "url": "https://www.producthunt.com/products/notify-domains",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.088740+00:00"
+    },
+    {
+      "id": "fd48949494e5",
+      "name": "Kit by Speakeasy",
+      "url": "https://www.producthunt.com/products/speakeasydev",
       "source": "Product Hunt AI (feed)",
       "category": "coding",
       "tags": [
-        "ide",
-        "video"
+        "coding",
+        "claude",
+        "agent"
       ],
       "pricing": "Free tier",
-      "description_it": "fal's post-trained MiniMax H3 for quality video production\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Your coding agent runtime. Claude but fast, cheap, concise.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703396+00:00"
-    },
-    {
-      "id": "05ff7bf9233f",
-      "name": "Tadata",
-      "url": "https://www.producthunt.com/products/tadata",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The AI employee in Slack that reads the room.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703473+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088827+00:00"
     },
     {
       "id": "9f7492103078",
@@ -489,40 +658,7 @@
       "description_it": "Create beautiful docs, by typing. No AI required. \n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703558+00:00"
-    },
-    {
-      "id": "40fed4a4a5b9",
-      "name": "Reflexio",
-      "url": "https://www.producthunt.com/products/reflexio-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Behavioral learning that makes AI agents better over time\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703645+00:00"
-    },
-    {
-      "id": "6486cbc7d90f",
-      "name": "GitWarren",
-      "url": "https://www.producthunt.com/products/gitwarren",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "coding",
-        "git",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Review code with your coding agents before committing\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703737+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088904+00:00"
     },
     {
       "id": "402eeb301273",
@@ -540,7 +676,56 @@
       "description_it": "Lets your AI agents debug production without redeploying\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.703815+00:00"
+      "discovered_at": "2026-09-07T13:17:05.088983+00:00"
+    },
+    {
+      "id": "57016235b10c",
+      "name": "dif.sh",
+      "url": "https://www.producthunt.com/products/dif-sh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Markdown feature flags your coding agent installs for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.089057+00:00"
+    },
+    {
+      "id": "6486cbc7d90f",
+      "name": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review code with your coding agents before committing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-07T13:17:05.089132+00:00"
+    },
+    {
+      "id": "40fed4a4a5b9",
+      "name": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Behavioral learning that makes AI agents better over time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-06T11:30:36.703645+00:00"
     },
     {
       "id": "cabfd1993609",
@@ -569,22 +754,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-06T11:30:36.703937+00:00"
-    },
-    {
-      "id": "57016235b10c",
-      "name": "dif.sh",
-      "url": "https://www.producthunt.com/products/dif-sh",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Markdown feature flags your coding agent installs for you\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-06T11:30:36.704010+00:00"
     },
     {
       "id": "913e5ffe6a60",
