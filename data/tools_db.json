@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T13:17:05.248739+00:00",
-  "total": 2654,
+  "updated_at": "2026-09-08T12:01:04.686417+00:00",
+  "total": 2673,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5cfe96813a55",
+      "name": "Kombai Gallery",
+      "url": "https://www.producthunt.com/products/kombai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "20,000+ curated UI designs. Free forever for agents & humans\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516424+00:00"
+    },
+    {
+      "id": "e91d17371f2d",
+      "name": "Replay QA Security Scan",
+      "url": "https://www.producthunt.com/products/replayio",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automated Penetration Testing  for AI-Built Apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516523+00:00"
+    },
+    {
+      "id": "a9bd482b67f1",
+      "name": "Widgo",
+      "url": "https://www.producthunt.com/products/paillor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Sales rep for your website visitors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516582+00:00"
+    },
+    {
+      "id": "0f499d67a01b",
+      "name": "Tables.so",
+      "url": "https://www.producthunt.com/products/tables-so",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that finds, qualifies and enriches your next customer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516661+00:00"
+    },
+    {
+      "id": "8612929cf32a",
+      "name": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Bring any AI agent into Slack, Teams & Discord. Open-source.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516736+00:00"
+    },
+    {
+      "id": "e2c7239fcf15",
+      "name": "Nametag",
+      "url": "https://www.producthunt.com/products/nametag-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your social memory to never forget a name and person again\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516798+00:00"
+    },
+    {
+      "id": "b0ddc48947c5",
+      "name": "Jupitrr Cut",
+      "url": "https://www.producthunt.com/products/jupitrr",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "recording"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Open source app for recording vids with a teleprompter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516875+00:00"
+    },
+    {
+      "id": "23ab8e0feb35",
+      "name": "SODAX SDK",
+      "url": "https://www.producthunt.com/products/sodax",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "deploy",
+        "sdk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Digital asset flows you can build and deploy with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.516956+00:00"
+    },
+    {
+      "id": "fea7c9f9a7d5",
+      "name": "Dictantor",
+      "url": "https://www.producthunt.com/products/dictantor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "transcri",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record meetings and transcribe privately on Apple devices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517033+00:00"
+    },
+    {
+      "id": "98db0d8cfd79",
+      "name": "OpenMarket",
+      "url": "https://www.producthunt.com/products/openmarket",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multi-agent marketplace where proof decides who wins\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517104+00:00"
+    },
+    {
+      "id": "4959c89715dc",
+      "name": "GoodLads",
+      "url": "https://www.producthunt.com/products/good-lads-1-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI growth manager for your Google Ads account\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517173+00:00"
+    },
+    {
+      "id": "83cc4f496a0e",
+      "name": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turns your static bio into an AI business card that replies.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517229+00:00"
+    },
+    {
+      "id": "65e66ca12307",
+      "name": "Catenary",
+      "url": "https://www.producthunt.com/products/catenary",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spatial canvas IDE for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517321+00:00"
+    },
+    {
+      "id": "75dd039833e7",
+      "name": "Trancy Air",
+      "url": "https://www.producthunt.com/products/trancy-air",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate anything you see, write, or say with one hotkey\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517393+00:00"
+    },
+    {
+      "id": "73d20201c88f",
+      "name": "Relaticle",
+      "url": "https://www.producthunt.com/products/relaticle",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "crm",
+        "write"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Open-source CRM with approval-gated AI writes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517464+00:00"
+    },
+    {
+      "id": "cc9c3e0dbefa",
+      "name": "Lyrimuse",
+      "url": "https://www.producthunt.com/products/lyrimuse",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Word-synced macOS lyrics that pick the right version\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517516+00:00"
+    },
+    {
+      "id": "47b31bd125ef",
+      "name": "TapCraft",
+      "url": "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "App Demo Studio for mobile apps \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517564+00:00"
+    },
+    {
+      "id": "0c0b31d6f270",
+      "name": "Kopai",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Cloud for AI Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517630+00:00"
+    },
+    {
+      "id": "da0854331abd",
+      "name": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI messenger that builds shared apps inside your group chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517700+00:00"
+    },
+    {
+      "id": "3574a942f6d7",
+      "name": "Pastea",
+      "url": "https://www.producthunt.com/products/pastea",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "search",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save + search through links, snippets + screenshots you copy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-08T12:01:04.517772+00:00"
     },
     {
       "id": "299a30473c45",
@@ -9481,21 +9785,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-02T09:07:49.300025+00:00"
-    },
-    {
-      "id": "0c0b31d6f270",
-      "name": "Kopai",
-      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Share your expertise, and let our agents earn for you.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.529135+00:00"
     },
     {
       "id": "25662e33f262",
