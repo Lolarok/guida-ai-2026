@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:01:04.686417+00:00",
-  "total": 2673,
+  "updated_at": "2026-09-09T12:11:28.666098+00:00",
+  "total": 2689,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,279 @@
       "featured": false
     },
     {
+      "id": "c1971d8f4793",
+      "name": "AlphaGenome Atlas",
+      "url": "https://www.producthunt.com/products/alphagenome-atlas",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Google's AI map of every possible human DNA mutation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381031+00:00"
+    },
+    {
+      "id": "c603bf69ebbb",
+      "name": "AdScope",
+      "url": "https://www.producthunt.com/products/adscope-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Understand your ad performance in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381130+00:00"
+    },
+    {
+      "id": "b000f3911ac9",
+      "name": "ChatGPT Images 2.5",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "image",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sharper visuals, faster flow, better creative control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381214+00:00"
+    },
+    {
+      "id": "54a6c449b7a3",
+      "name": "Muse",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal AI agent that gets things done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381288+00:00"
+    },
+    {
+      "id": "f2d66f3da365",
+      "name": "Harden",
+      "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A security layer for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381359+00:00"
+    },
+    {
+      "id": "be9aa9be9ce5",
+      "name": "DuckFightClub",
+      "url": "https://www.producthunt.com/products/duckfightclub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Train your MicroDuck and win the Golden Beak Belt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381417+00:00"
+    },
+    {
+      "id": "39af26a2a672",
+      "name": "Ass Auction",
+      "url": "https://www.producthunt.com/products/ass-auction",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "logo",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Brands outbid each other to put their logo on my ass\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381498+00:00"
+    },
+    {
+      "id": "5d079151d15b",
+      "name": "GoModel",
+      "url": "https://www.producthunt.com/products/gomodel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source OpenRouter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381560+00:00"
+    },
+    {
+      "id": "c984058fd271",
+      "name": "Diiverge",
+      "url": "https://www.producthunt.com/products/diiverge-co",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "picture",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any picture into a playable AI adventure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381634+00:00"
+    },
+    {
+      "id": "5fdbc58a17e8",
+      "name": "Basedash in Español Français & Português",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Work with your data in your language\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381715+00:00"
+    },
+    {
+      "id": "75dbe6a81d1c",
+      "name": "Type.com",
+      "url": "https://www.producthunt.com/products/type-com",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A shared workspace for Claude, Codex, and your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381789+00:00"
+    },
+    {
+      "id": "621c65abc285",
+      "name": "Frigade Assist API",
+      "url": "https://www.producthunt.com/products/frigade",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "api",
+        "cli",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent guides that show users where to click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381864+00:00"
+    },
+    {
+      "id": "7fe69454e6b4",
+      "name": "WorkID.ai",
+      "url": "https://www.producthunt.com/products/workid-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Where verified talent meets opportunity. Hire with trust!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.381980+00:00"
+    },
+    {
+      "id": "d13fe0241a66",
+      "name": "Noodle Seed",
+      "url": "https://www.producthunt.com/products/noodle-seed",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your product in AI and AI in your product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382039+00:00"
+    },
+    {
+      "id": "b8ee67419f4f",
+      "name": "Mastra Factory",
+      "url": "https://www.producthunt.com/products/mastra",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From issue to production, run by agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382111+00:00"
+    },
+    {
+      "id": "9538f13e12d5",
+      "name": "49agents IDE",
+      "url": "https://www.producthunt.com/products/49agents-ide",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent",
+        "project"
+      ],
+      "pricing": "Freemium",
+      "description_it": "2D IDE for running agents across projects without fatigue\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382186+00:00"
+    },
+    {
+      "id": "83cc4f496a0e",
+      "name": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turns your static bio into an AI business card that replies\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382242+00:00"
+    },
+    {
+      "id": "8612929cf32a",
+      "name": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring any AI agent into Slack, Teams & Discord\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382316+00:00"
+    },
+    {
       "id": "5cfe96813a55",
       "name": "Kombai Gallery",
       "url": "https://www.producthunt.com/products/kombai",
@@ -387,11 +660,27 @@
         "design",
         "agent"
       ],
-      "pricing": "Free",
-      "description_it": "20,000+ curated UI designs. Free forever for agents & humans\n          \n          \n            Discussion\n            |\n            Link",
+      "pricing": "Free tier",
+      "description_it": "20,000+ curated UI designs for agents and humans\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-08T12:01:04.516424+00:00"
+      "discovered_at": "2026-09-09T12:11:28.382389+00:00"
+    },
+    {
+      "id": "da0854331abd",
+      "name": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI messenger that builds shared apps inside your group chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-09T12:11:28.382462+00:00"
     },
     {
       "id": "e91d17371f2d",
@@ -435,21 +724,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-08T12:01:04.516661+00:00"
-    },
-    {
-      "id": "8612929cf32a",
-      "name": "Switch",
-      "url": "https://www.producthunt.com/products/switch-11",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "Bring any AI agent into Slack, Teams & Discord. Open-source.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-08T12:01:04.516736+00:00"
     },
     {
       "id": "e2c7239fcf15",
@@ -546,19 +820,6 @@
       "discovered_at": "2026-09-08T12:01:04.517173+00:00"
     },
     {
-      "id": "83cc4f496a0e",
-      "name": "Knockin'",
-      "url": "https://www.producthunt.com/products/knockin",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Turns your static bio into an AI business card that replies.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-08T12:01:04.517229+00:00"
-    },
-    {
       "id": "65e66ca12307",
       "name": "Catenary",
       "url": "https://www.producthunt.com/products/catenary",
@@ -646,22 +907,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-08T12:01:04.517630+00:00"
-    },
-    {
-      "id": "da0854331abd",
-      "name": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "chat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI messenger that builds shared apps inside your group chats\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-08T12:01:04.517700+00:00"
     },
     {
       "id": "3574a942f6d7",
