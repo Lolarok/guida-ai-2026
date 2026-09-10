@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T12:11:28.666098+00:00",
-  "total": 2689,
+  "updated_at": "2026-09-10T12:02:43.319282+00:00",
+  "total": 2709,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a355476d2bd8",
+      "name": "Athenic AI",
+      "url": "https://www.producthunt.com/products/athenic-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "beat",
+        "analysis",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Beat the market with 90+ datasets and AI made for analysis\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962444+00:00"
+    },
+    {
+      "id": "94af4cf8ac5e",
+      "name": "Mock Magic: Video Presets",
+      "url": "https://www.producthunt.com/products/mockmagic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "video",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use saved presets to quickly get a branded device video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962551+00:00"
+    },
+    {
+      "id": "769a512fbf20",
+      "name": "Typewise Nova",
+      "url": "https://www.producthunt.com/products/typewise",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI customer experience that builds and improves itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962615+00:00"
+    },
+    {
+      "id": "4bd25a44c877",
+      "name": "Suno v6",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The first Suno model built with the music industry\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962690+00:00"
+    },
+    {
+      "id": "26e6c0556385",
+      "name": "Desert Ant Labs",
+      "url": "https://www.producthunt.com/products/desert-ant-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Small specialized AI models for speech, text, vision\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962769+00:00"
+    },
+    {
+      "id": "07974350708b",
+      "name": "Live Captions by Subanana",
+      "url": "https://www.producthunt.com/products/subanana",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "caption"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your whole audience follows, in their own language\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962846+00:00"
+    },
+    {
+      "id": "ad7f28739e72",
+      "name": "Thousand",
+      "url": "https://www.producthunt.com/products/thousand",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Git-backed docs for humans and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.962924+00:00"
+    },
+    {
+      "id": "ee96aafc63af",
+      "name": "Speechmark",
+      "url": "https://www.producthunt.com/products/speechmark",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "speech",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private, on-device meeting notes for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963007+00:00"
+    },
+    {
+      "id": "8be3ae8c0152",
+      "name": "AirPods 5",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "noise"
+      ],
+      "pricing": "Free tier",
+      "description_it": "1.5x Active Noise Cancellation, AI Siri, Live Translation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963106+00:00"
+    },
+    {
+      "id": "a53cdf2d3e14",
+      "name": "hob",
+      "url": "https://www.producthunt.com/products/hob-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The professional workspace for your whole agent stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963181+00:00"
+    },
+    {
+      "id": "fb37508af385",
+      "name": "Gojo",
+      "url": "https://www.producthunt.com/products/gojo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Local dictation and everyday Mac tools in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963238+00:00"
+    },
+    {
+      "id": "49158d2492c1",
+      "name": "Whip",
+      "url": "https://www.producthunt.com/products/whip",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Youtube for interactive web experiences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963306+00:00"
+    },
+    {
+      "id": "8616ab8cd72c",
+      "name": "Vibe Eyes",
+      "url": "https://www.producthunt.com/products/vibe-eyes",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Put your pets in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963358+00:00"
+    },
+    {
+      "id": "c3db6baf1205",
+      "name": "Wealthfolio",
+      "url": "https://www.producthunt.com/products/wealthfolio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Private, local-first personal finance\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963410+00:00"
+    },
+    {
+      "id": "618fe50046bd",
+      "name": "AI Observability by OpenObserve",
+      "url": "https://www.producthunt.com/products/openobserve",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenTelemetry-native observability for agents and LLMs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963487+00:00"
+    },
+    {
+      "id": "e0145df1d072",
+      "name": "Modeinspect",
+      "url": "https://www.producthunt.com/products/modeinspect-1-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "design"
+      ],
+      "pricing": "Freemium",
+      "description_it": "99 Days Free AI Credits - Design product UI in your codebase\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963563+00:00"
+    },
+    {
+      "id": "b590bac3c9d4",
+      "name": "iPhone Duo",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The largest iPhone display ever. In a thin, foldable design.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963637+00:00"
+    },
+    {
+      "id": "c029af29ce73",
+      "name": "Viso Now",
+      "url": "https://www.producthunt.com/products/viso-now",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build computer vision applications with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963695+00:00"
+    },
+    {
+      "id": "cdb5aa1d6fe5",
+      "name": "FreeScan.app",
+      "url": "https://www.producthunt.com/products/freescan-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free",
+      "description_it": "Fix what’s hurting your visibility, trust, and conversions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963789+00:00"
+    },
+    {
+      "id": "b2deed4bb31a",
+      "name": "Drive",
+      "url": "https://www.producthunt.com/products/drive-gforce-telemetry",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Vehicle telemetry for your next weekend drive with LPR alert\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-10T12:02:42.963848+00:00"
     },
     {
       "id": "c1971d8f4793",
