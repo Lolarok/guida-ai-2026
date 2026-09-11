@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T12:02:43.319282+00:00",
-  "total": 2709,
+  "updated_at": "2026-09-11T12:01:06.399218+00:00",
+  "total": 2728,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "83d5ed12768f",
+      "name": "TIM PG",
+      "url": "https://www.producthunt.com/products/tim-pg",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Anonymize sensitive data before pasting into AI tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140099+00:00"
+    },
+    {
+      "id": "8a5e75b31763",
+      "name": "Wisry",
+      "url": "https://www.producthunt.com/products/wisry",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clone the ads already winning in your market - at scale.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140196+00:00"
+    },
+    {
+      "id": "58f51ff5c3d3",
+      "name": "GLYPH Immersive",
+      "url": "https://www.producthunt.com/products/glyph-immersive",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "a free tool for modular grid lettering\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140258+00:00"
+    },
+    {
+      "id": "54be1f1cfbd0",
+      "name": "Sliick",
+      "url": "https://www.producthunt.com/products/sliick",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "ide",
+        "screenshot",
+        "mockup",
+        "video",
+        "screen"
+      ],
+      "pricing": "Free",
+      "description_it": "Free 3D mockups for your screenshots and videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140326+00:00"
+    },
+    {
+      "id": "26a9d605332d",
+      "name": "Jackalope",
+      "url": "https://www.producthunt.com/products/jackalope",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Codex, Claude Code, Grok, + OpenCode in one shared workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140409+00:00"
+    },
+    {
+      "id": "f7edd6e5f02c",
+      "name": "Spaces",
+      "url": "https://www.producthunt.com/products/spaces-21",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One shared space where your team and AI agents work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140484+00:00"
+    },
+    {
+      "id": "ecb229d36de4",
+      "name": "Formesign",
+      "url": "https://www.producthunt.com/products/formesign",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add legally binding signature to your Google Form\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140563+00:00"
+    },
+    {
+      "id": "9783990f8e43",
+      "name": "sizeless",
+      "url": "https://www.producthunt.com/products/sizeless",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Spatial AI for underground infrastructure\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140626+00:00"
+    },
+    {
+      "id": "c91568614f60",
+      "name": "easyspecs.ai",
+      "url": "https://www.producthunt.com/products/easyspecs-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The spec review platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140678+00:00"
+    },
+    {
+      "id": "be2aa84fa30a",
+      "name": "Raycast 2.0",
+      "url": "https://www.producthunt.com/products/raycast",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The next generation of Raycast is here\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140730+00:00"
+    },
+    {
+      "id": "b3a3e906f184",
+      "name": "Design Studio by Monday Merch",
+      "url": "https://www.producthunt.com/products/design-studio-by-monday-merch",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A browser canvas to design merch with over 1.000+ products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140807+00:00"
+    },
+    {
+      "id": "315afc944a84",
+      "name": "Loqua",
+      "url": "https://www.producthunt.com/products/loqua",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Speak naturally and move from thoughts to being done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140860+00:00"
+    },
+    {
+      "id": "a7b9b4cd96cc",
+      "name": "chat",
+      "url": "https://www.producthunt.com/products/chat-recall",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "conversation",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ctrl+F for every conversation you've had with an AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.140930+00:00"
+    },
+    {
+      "id": "453a3e1ab142",
+      "name": "Cadenya",
+      "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "A hosted agentic loop to bring agentic possibilities to life\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141005+00:00"
+    },
+    {
+      "id": "5e00c5196055",
+      "name": "Cline Desktop App",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free",
+      "description_it": "An open-source app for open-weight models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141095+00:00"
+    },
+    {
+      "id": "ce5a8da39ba0",
+      "name": "Accordio",
+      "url": "https://www.producthunt.com/products/accordio",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Claude your hours, invoices and contracts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141169+00:00"
+    },
+    {
+      "id": "ac914a93606a",
+      "name": "Anysite.io",
+      "url": "https://www.producthunt.com/products/anysite",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and enrich B2B lists by chatting to your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141241+00:00"
+    },
+    {
+      "id": "7f8220b01415",
+      "name": "Devin Voice",
+      "url": "https://www.producthunt.com/products/devin-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "You say it, Devin ships it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141310+00:00"
+    },
+    {
+      "id": "57bedb8c7f47",
+      "name": "LiveGrid",
+      "url": "https://www.producthunt.com/products/livegrid-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Watch multiple live streams at once, never miss a thing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141380+00:00"
+    },
+    {
+      "id": "3d86257ccb86",
+      "name": "ChatHop",
+      "url": "https://www.producthunt.com/products/chathop",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take your conversation anywhere.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-11T12:01:06.141445+00:00"
     },
     {
       "id": "a355476d2bd8",
@@ -2311,19 +2613,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-02T11:58:16.325131+00:00"
-    },
-    {
-      "id": "315afc944a84",
-      "name": "Loqua",
-      "url": "https://www.producthunt.com/products/loqua",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Speak naturally. Move from thoughts to done.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-02T11:58:16.325197+00:00"
     },
     {
       "id": "f56b1968f4e0",
