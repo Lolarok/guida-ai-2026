@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:01:06.399218+00:00",
-  "total": 2728,
+  "updated_at": "2026-09-12T11:29:48.392994+00:00",
+  "total": 2747,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,304 @@
       "featured": false
     },
     {
+      "id": "21ce1e4f429f",
+      "name": "Captain Kill Switch",
+      "url": "https://www.producthunt.com/products/captain-kill-switch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Close all your open apps in one click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.267766+00:00"
+    },
+    {
+      "id": "42243876e269",
+      "name": "Wokyintosh",
+      "url": "https://www.producthunt.com/products/wokyintosh",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn a spare Mac display into a retro system dashboard!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.267831+00:00"
+    },
+    {
+      "id": "0ff1d626dc7e",
+      "name": "Pascal’s Pager",
+      "url": "https://www.producthunt.com/products/pascal-s-pager",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn webhook JSON into readable iPhone push notifications\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.267910+00:00"
+    },
+    {
+      "id": "ea75ce7a7a92",
+      "name": "LinkFlick",
+      "url": "https://www.producthunt.com/products/linkflick",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop re-pairing your Magic Keyboard between Macs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.267956+00:00"
+    },
+    {
+      "id": "b88e73fd0790",
+      "name": "FrameSketch",
+      "url": "https://www.producthunt.com/products/framesketch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Scrub vids frame-by-frame and sketch on them at 60fps \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268001+00:00"
+    },
+    {
+      "id": "5107443ca66d",
+      "name": "QApilot MCP for Android",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Android app testing inside your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268142+00:00"
+    },
+    {
+      "id": "8ba517a8f3e8",
+      "name": "Kabza",
+      "url": "https://www.producthunt.com/products/kabza",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Take over a real city map with your friends\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268211+00:00"
+    },
+    {
+      "id": "fe6028df3d2a",
+      "name": "DockFix 5.0",
+      "url": "https://www.producthunt.com/products/dockfix",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Replace the macOS Dock with one that is truly yours.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268277+00:00"
+    },
+    {
+      "id": "90124f778b3a",
+      "name": "Cortex",
+      "url": "https://www.producthunt.com/products/cortex-25",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "sdk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn API specs into docs, SDKs, and MCP servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268356+00:00"
+    },
+    {
+      "id": "67e2c691c2c7",
+      "name": "Marked Share",
+      "url": "https://www.producthunt.com/products/marked-share",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Markdown and TextBundle editing, review, and sharing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268413+00:00"
+    },
+    {
+      "id": "d08fed9b13d4",
+      "name": "ABrush",
+      "url": "https://www.producthunt.com/products/abrush-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Studio for Digital Artists\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268479+00:00"
+    },
+    {
+      "id": "e47d6e80eddf",
+      "name": "Stackness",
+      "url": "https://www.producthunt.com/products/stackness",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Show your stack! The social home for your dev tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268551+00:00"
+    },
+    {
+      "id": "885ae4581c12",
+      "name": "Calerto for Mac",
+      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full-screen meeting alerts for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268626+00:00"
+    },
+    {
+      "id": "58b2e855e600",
+      "name": "Youkti",
+      "url": "https://www.producthunt.com/products/youkti",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Finds who's ready to buy, then tells you what to do next \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268706+00:00"
+    },
+    {
+      "id": "8b6b6205c437",
+      "name": "VoxelWall",
+      "url": "https://www.producthunt.com/products/voxelwall",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Music-reactive live wallpapers for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268771+00:00"
+    },
+    {
+      "id": "157283b7648e",
+      "name": "SUDARI",
+      "url": "https://www.producthunt.com/products/sudari",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A pixel otter desktop pet that reacts to how you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268827+00:00"
+    },
+    {
+      "id": "4aa580adfcff",
+      "name": "Relic",
+      "url": "https://www.producthunt.com/products/relic-copy-vault",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private, synced vault of everything you copy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268881+00:00"
+    },
+    {
+      "id": "2750c8b7da54",
+      "name": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "ask",
+        "task",
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every task, every calendar, one app. Private on-device AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268946+00:00"
+    },
+    {
+      "id": "3c63db0ba0a9",
+      "name": "Moji",
+      "url": "https://www.producthunt.com/products/moji-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Open Markdown files like PDFs.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.268984+00:00"
+    },
+    {
+      "id": "3d86257ccb86",
+      "name": "ChatHop",
+      "url": "https://www.producthunt.com/products/chathop",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take your conversation anywhere.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-12T11:29:48.269037+00:00"
+    },
+    {
       "id": "83d5ed12768f",
       "name": "TIM PG",
       "url": "https://www.producthunt.com/products/tim-pg",
@@ -662,22 +960,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-11T12:01:06.141380+00:00"
-    },
-    {
-      "id": "3d86257ccb86",
-      "name": "ChatHop",
-      "url": "https://www.producthunt.com/products/chathop",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "conversation"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Take your conversation anywhere.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-11T12:01:06.141445+00:00"
     },
     {
       "id": "a355476d2bd8",
