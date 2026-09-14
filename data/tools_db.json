@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T12:32:30.221597+00:00",
-  "total": 2759,
+  "updated_at": "2026-09-14T13:38:21.622502+00:00",
+  "total": 2777,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,318 @@
       "featured": false
     },
     {
+      "id": "c1ca82b70007",
+      "name": "Hello Inbox",
+      "url": "https://www.producthunt.com/products/helloinbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "marketing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get more marketing emails into the inbox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457027+00:00"
+    },
+    {
+      "id": "71cdd7fb60fe",
+      "name": "Elva",
+      "url": "https://www.producthunt.com/products/elva",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Goodbye, Postman. Your APIs have new consumers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457127+00:00"
+    },
+    {
+      "id": "161ece897851",
+      "name": "Naoma AI Demo Agent V2",
+      "url": "https://www.producthunt.com/products/naoma",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turns website traffic into booked, qualified meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457210+00:00"
+    },
+    {
+      "id": "d824661754bc",
+      "name": "Slashy Assistant",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI assistant that does email for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457286+00:00"
+    },
+    {
+      "id": "1f4e204c7cce",
+      "name": "Oats",
+      "url": "https://www.producthunt.com/products/oats-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, open-source, and on device meeting notetaker\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457387+00:00"
+    },
+    {
+      "id": "c78c3211b960",
+      "name": "Web Search Agents by Nimble",
+      "url": "https://www.producthunt.com/products/nimbleway",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-learning agents automate web research + retrieval\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457470+00:00"
+    },
+    {
+      "id": "92449a3eba00",
+      "name": "Aside",
+      "url": "https://www.producthunt.com/products/aside-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI browser that actually gets work done for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457551+00:00"
+    },
+    {
+      "id": "76c8f81aab68",
+      "name": "Zapper 3000",
+      "url": "https://www.producthunt.com/products/appzapper",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The uninstaller Apple forgot.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457614+00:00"
+    },
+    {
+      "id": "63ef7801c02c",
+      "name": "OzBrain",
+      "url": "https://www.producthunt.com/products/ozbrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your knowledge shared with every AI agent & any teammate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457691+00:00"
+    },
+    {
+      "id": "5c444dfeb918",
+      "name": "LLMagnet",
+      "url": "https://www.producthunt.com/products/llmagnet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make your WordPress site visible to AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457745+00:00"
+    },
+    {
+      "id": "82bb84253d85",
+      "name": "Image to ASCII",
+      "url": "https://www.producthunt.com/products/image-to-ascii-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "art",
+        "visual",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make ASCII art for READMEs, Discord & creative visuals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457822+00:00"
+    },
+    {
+      "id": "62adc31b0698",
+      "name": "Juggler",
+      "url": "https://www.producthunt.com/products/juggler",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A visual AI coding harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457891+00:00"
+    },
+    {
+      "id": "8cef09f00838",
+      "name": "designs",
+      "url": "https://www.producthunt.com/products/appdesigns",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free",
+      "description_it": "Design amazing appstore screenshots for free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.457964+00:00"
+    },
+    {
+      "id": "94a1e7098a28",
+      "name": "TryCase",
+      "url": "https://www.producthunt.com/products/trycase",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI tests your PRs. Get a video walkthrough before you merge.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458040+00:00"
+    },
+    {
+      "id": "cb3a99f3ec01",
+      "name": "OVO",
+      "url": "https://www.producthunt.com/products/ovo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "music",
+        "stream"
+      ],
+      "pricing": "Free",
+      "description_it": "Play music from files, iCloud & streams across Apple devices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458115+00:00"
+    },
+    {
+      "id": "7b7ab52f1474",
+      "name": "Marqly 6.0",
+      "url": "https://www.producthunt.com/products/marqly",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask your bookmarks. Bring them to your AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458184+00:00"
+    },
+    {
+      "id": "d07e642d534f",
+      "name": "Afterglow",
+      "url": "https://www.producthunt.com/products/afterglow-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run classic After Dark screen savers on modern macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458258+00:00"
+    },
+    {
+      "id": "51c08079afcf",
+      "name": "MemoryPet 2.0",
+      "url": "https://www.producthunt.com/products/memorypet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your browsers toolbar into an animated usage monitor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458318+00:00"
+    },
+    {
+      "id": "51e698133bfd",
+      "name": "Deplo",
+      "url": "https://www.producthunt.com/products/deplo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A simple-to-use alternative to cloud deployments\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458401+00:00"
+    },
+    {
+      "id": "d59738983c95",
+      "name": "Epilude Notetaker",
+      "url": "https://www.producthunt.com/products/epilude",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "100% private meeting notes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-14T13:38:21.458469+00:00"
+    },
+    {
       "id": "aa53c8d1dd2e",
       "name": "Perplexity Hybrid Compute",
       "url": "https://www.producthunt.com/products/perplexity-ai",
@@ -470,22 +782,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-13T12:32:30.028088+00:00"
-    },
-    {
-      "id": "d59738983c95",
-      "name": "Epilude Notetaker",
-      "url": "https://www.producthunt.com/products/epilude",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "note",
-        "meeting"
-      ],
-      "pricing": "Free tier",
-      "description_it": "100% private meeting notes\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-13T12:32:30.028166+00:00"
     },
     {
       "id": "785a3bc9d32a",
@@ -17299,22 +17595,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-06T11:28:59.983934+00:00"
-    },
-    {
-      "id": "94a1e7098a28",
-      "name": "TryCase",
-      "url": "https://www.producthunt.com/products/trycase",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Disposable test environments for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-06T11:28:59.984000+00:00"
     },
     {
       "id": "a37c53935009",
