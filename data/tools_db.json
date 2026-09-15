@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T13:38:21.622502+00:00",
-  "total": 2777,
+  "updated_at": "2026-09-15T12:28:09.933693+00:00",
+  "total": 2797,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "b1fbc04919ef",
+      "name": "Grimo AI",
+      "url": "https://www.producthunt.com/products/grimo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "note",
+        "task",
+        "calendar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Say it once and all tasks, calendar and notes are sorted\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.717757+00:00"
+    },
+    {
+      "id": "9ebdd2c9bae7",
+      "name": "Multimodal Agents by Sierra",
+      "url": "https://www.producthunt.com/products/sierra",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that switch between voice, text, and visuals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.717840+00:00"
+    },
+    {
+      "id": "1144340185b8",
+      "name": "Proofrr",
+      "url": "https://www.producthunt.com/products/proofrr",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One workspace for creative feedback, reviews, and approvals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.717888+00:00"
+    },
+    {
+      "id": "864bc432a93f",
+      "name": "Anthropologic",
+      "url": "https://www.producthunt.com/products/anthropologic",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The zero distance consumer research platform.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.717949+00:00"
+    },
+    {
+      "id": "8cde9f623d4e",
+      "name": "Axari",
+      "url": "https://www.producthunt.com/products/axari",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Assign your security busywork to your AI twin\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.717993+00:00"
+    },
+    {
+      "id": "878fde4ddfc4",
+      "name": "Narrative",
+      "url": "https://www.producthunt.com/products/narrative-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "chat",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-first video editor, just describe edits & refine in chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718055+00:00"
+    },
+    {
+      "id": "200005b8021e",
+      "name": "Kodro",
+      "url": "https://www.producthunt.com/products/kodro",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "python",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Code robots in an offline Python learning simulator\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718117+00:00"
+    },
+    {
+      "id": "05409f9f40cd",
+      "name": "Portfolio Frame",
+      "url": "https://www.producthunt.com/products/portfolio-frame",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Frame, annotate, and export screenshots that look designed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718185+00:00"
+    },
+    {
+      "id": "1097e77e72fd",
+      "name": "The Minimalist Entrepreneur Skills",
+      "url": "https://www.producthunt.com/products/the-minimalist-entrepreneur-skills",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Book playbook as Claude Code slash skills\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718248+00:00"
+    },
+    {
+      "id": "c97223273686",
+      "name": "Idlen",
+      "url": "https://www.producthunt.com/products/idlen",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Earn while you work with AI in any IDE or browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718304+00:00"
+    },
+    {
+      "id": "731e2cf19521",
+      "name": "PortAura",
+      "url": "https://www.producthunt.com/products/portaura",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See what’s listening on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718359+00:00"
+    },
+    {
+      "id": "183551b87441",
+      "name": "Fifi",
+      "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An alarm that calls you, and reads you your day\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718414+00:00"
+    },
+    {
+      "id": "9edbaa65a785",
+      "name": "Mailyte",
+      "url": "https://www.producthunt.com/products/mailyte",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email for your team, your app, and your customers.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718471+00:00"
+    },
+    {
+      "id": "a7b0ff30d377",
+      "name": "PeekPaste",
+      "url": "https://www.producthunt.com/products/lucidbit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your clipboard, within reach\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718535+00:00"
+    },
+    {
+      "id": "edc6811cf4cc",
+      "name": "Buddy AI Access (MCP)",
+      "url": "https://www.producthunt.com/products/buddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your agent needs more than your repo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718591+00:00"
+    },
+    {
+      "id": "99004b6d5563",
+      "name": "tiun.",
+      "url": "https://www.producthunt.com/products/tiun-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Auth, billing, and payments for AI builders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718632+00:00"
+    },
+    {
+      "id": "b596dc7c6caa",
+      "name": "is.team",
+      "url": "https://www.producthunt.com/products/is-team",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI agent joins the board like a teammate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718686+00:00"
+    },
+    {
+      "id": "b9bb9692991a",
+      "name": "Tangerine",
+      "url": "https://www.producthunt.com/products/tangerine-zero-click-file-converter",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Offline file modifier for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718728+00:00"
+    },
+    {
+      "id": "676787da480e",
+      "name": "Payflip",
+      "url": "https://www.producthunt.com/products/payflip",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pay anyone you can name. No IBAN, no wallet address.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718783+00:00"
+    },
+    {
+      "id": "877eb2666c20",
+      "name": "OpenAI Agents API",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloud agents, run on OpenAI's Codex harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-15T12:28:09.718840+00:00"
     },
     {
       "id": "c1ca82b70007",
