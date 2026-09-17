@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T12:25:31.957159+00:00",
-  "total": 2814,
+  "updated_at": "2026-09-17T12:25:58.491320+00:00",
+  "total": 2833,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,290 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a4823f1c6b3a",
+      "name": "NovaSynth by Noveum",
+      "url": "https://www.producthunt.com/products/novasynth-by-noveum",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Test your voice agent on the callers you can’t stage.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.294878+00:00"
+    },
+    {
+      "id": "24d9f492c1c4",
+      "name": "CREEM 2.0",
+      "url": "https://www.producthunt.com/products/creem",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build with AI. Sell and Grow with CREEM.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.294953+00:00"
+    },
+    {
+      "id": "2dfa76f426bf",
+      "name": "Modaal for Android",
+      "url": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship on both stores from one project using Swift + Kotlin\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295036+00:00"
+    },
+    {
+      "id": "76ee55f2948a",
+      "name": "Die With Me",
+      "url": "https://www.producthunt.com/products/die-with-me-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AIM buddy list for your friends’ Claude Code and Codex usage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295129+00:00"
+    },
+    {
+      "id": "12c72d6d5cca",
+      "name": "Pitchfire for Startups",
+      "url": "https://www.producthunt.com/products/pitchfire-for-startups",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Reach investors that are aligned with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295208+00:00"
+    },
+    {
+      "id": "1c219d731f80",
+      "name": "MacSentinel",
+      "url": "https://www.producthunt.com/products/macsentinel",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find what’s slowing your Mac then clean it safely\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295296+00:00"
+    },
+    {
+      "id": "5a4d8fae5b3b",
+      "name": "The Forge by Bob's Workshop",
+      "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe your idea & your team builds, deploys & operates it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295387+00:00"
+    },
+    {
+      "id": "89b36464d3cb",
+      "name": "QuietHint®",
+      "url": "https://www.producthunt.com/products/quiethint",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The meeting assistant that stays on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295470+00:00"
+    },
+    {
+      "id": "73fc8062e274",
+      "name": "Opyt",
+      "url": "https://www.producthunt.com/products/opyt",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn what you follow on X and Substack into a knowledge base\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295528+00:00"
+    },
+    {
+      "id": "d58d9e5a34a2",
+      "name": "Portal",
+      "url": "https://www.producthunt.com/products/portal-14",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Links to try any product at any moment with no setup\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295588+00:00"
+    },
+    {
+      "id": "5263706e87d6",
+      "name": "MCPJam",
+      "url": "https://www.producthunt.com/products/mcpjam-inspector",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The testing & evaluations platform for MCP servers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295642+00:00"
+    },
+    {
+      "id": "aafb1b1cf485",
+      "name": "TinyKPI",
+      "url": "https://www.producthunt.com/products/tinykpi",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your business analytics directly in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295728+00:00"
+    },
+    {
+      "id": "388777f31785",
+      "name": "Zella",
+      "url": "https://www.producthunt.com/products/zella",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Video recorder that edits itself on Mac and iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295809+00:00"
+    },
+    {
+      "id": "a80165356ea1",
+      "name": "Figo",
+      "url": "https://www.producthunt.com/products/figo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See every move your competitors make\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295861+00:00"
+    },
+    {
+      "id": "986f92fe2874",
+      "name": "Higgsfield API",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One async API for 50+ generative media models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.295931+00:00"
+    },
+    {
+      "id": "68371ea5521e",
+      "name": "AskDeck",
+      "url": "https://www.producthunt.com/products/askdeck",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "ide",
+        "ask",
+        "video",
+        "erp",
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Call an AI to get a PowerPoint and a narrated video back\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.296003+00:00"
+    },
+    {
+      "id": "f4a7a3ab49b7",
+      "name": "Amy by Jellyfish",
+      "url": "https://www.producthunt.com/products/amy-by-jellyfish",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI sourcing employee for recruiting teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.296064+00:00"
+    },
+    {
+      "id": "5de163700d43",
+      "name": "worldsplat",
+      "url": "https://www.producthunt.com/products/worldsplat",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn 3D sketches into worlds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.296115+00:00"
+    },
+    {
+      "id": "1cd13cb812d8",
+      "name": "Analytiics",
+      "url": "https://www.producthunt.com/products/analytiics",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "analyt",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Web and product analytics, set up by your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-17T12:25:58.296189+00:00"
     },
     {
       "id": "5d8855aab2a2",
