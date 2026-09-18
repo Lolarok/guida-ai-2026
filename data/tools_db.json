@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T12:25:58.491320+00:00",
-  "total": 2833,
+  "updated_at": "2026-09-18T12:04:26.281066+00:00",
+  "total": 2853,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,298 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "52044889fed9",
+      "name": "Reactor Atlas",
+      "url": "https://www.producthunt.com/products/reactor-atlas",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every nuclear reactor on Earth, mapped since 1954\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138068+00:00"
+    },
+    {
+      "id": "1cd9afd868e8",
+      "name": "DungeonQ",
+      "url": "https://www.producthunt.com/products/dungeonq-astra-safety-rehearsal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Divert suspicious sessions into persistent decoy worlds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138150+00:00"
+    },
+    {
+      "id": "2c2c2d4e8235",
+      "name": "Wingman",
+      "url": "https://www.producthunt.com/products/wingman-8",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A little nudge to text your girlfriend\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138208+00:00"
+    },
+    {
+      "id": "155451af8224",
+      "name": "Verity Score",
+      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "blog"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Track what AI says about your store, fix it, generate blog\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138286+00:00"
+    },
+    {
+      "id": "fc3effb07876",
+      "name": "AI Class by Kanary",
+      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Knight or Ninja? Your Codex & Claude logs decide\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138363+00:00"
+    },
+    {
+      "id": "ccd68ff9d6d4",
+      "name": "Lastbox",
+      "url": "https://www.producthunt.com/products/lastbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Put your AI to work on physical junk mail\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138418+00:00"
+    },
+    {
+      "id": "54a8d948f022",
+      "name": "M9R",
+      "url": "https://www.producthunt.com/products/m9r",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer space for your AI coding agents and teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138502+00:00"
+    },
+    {
+      "id": "4daea90612b3",
+      "name": "Forma",
+      "url": "https://www.producthunt.com/products/forma-oss",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "urn a prompt or image into an editable hardware project\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138580+00:00"
+    },
+    {
+      "id": "4383d4d52b3b",
+      "name": "Unvendor",
+      "url": "https://www.producthunt.com/products/unvendor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI that morphs the interface to you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138632+00:00"
+    },
+    {
+      "id": "30532ee25575",
+      "name": "illusions",
+      "url": "https://www.producthunt.com/products/illusions-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A Japanese-first writing editor for focused fiction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138703+00:00"
+    },
+    {
+      "id": "0bed95bc762d",
+      "name": "Wombo",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "graphic",
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI game studio for 2D graphics assets, sounds, and sfx\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138792+00:00"
+    },
+    {
+      "id": "80e9024b5426",
+      "name": "Holon",
+      "url": "https://www.producthunt.com/products/holon-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that act and follow through\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138861+00:00"
+    },
+    {
+      "id": "547f54bc4558",
+      "name": "LokalBot",
+      "url": "https://www.producthunt.com/products/lokalbot",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find what you said or saw on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138925+00:00"
+    },
+    {
+      "id": "fbdc88c61145",
+      "name": "Nina's Little Universe",
+      "url": "https://www.producthunt.com/products/nina-s-little-universe",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Interactive 3D space science for curious little minds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.138981+00:00"
+    },
+    {
+      "id": "a4d895ae50d0",
+      "name": "Rolequiry",
+      "url": "https://www.producthunt.com/products/rolequiry",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know what to ask before you join\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139044+00:00"
+    },
+    {
+      "id": "e24b7431da91",
+      "name": "MiRemoteBridge",
+      "url": "https://www.producthunt.com/products/miremotebridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "a $5 build that lets a Bluetooth remote run your PC\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139098+00:00"
+    },
+    {
+      "id": "f9980cfb0471",
+      "name": "ProductBridge",
+      "url": "https://www.producthunt.com/products/productbridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native customer support and feedback agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139174+00:00"
+    },
+    {
+      "id": "511500fdb950",
+      "name": "Open Analytics 1.0",
+      "url": "https://www.producthunt.com/products/open-analytics-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google Analytics, minus the cookies, plus AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139243+00:00"
+    },
+    {
+      "id": "7a9b7dd57105",
+      "name": "Keysake",
+      "url": "https://www.producthunt.com/products/keysake-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn English as you type Chinese\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139293+00:00"
+    },
+    {
+      "id": "79e1f8d3e315",
+      "name": "CodaBridge",
+      "url": "https://www.producthunt.com/products/codabridge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hear, shape, and investigate sperm whale codas with Astra\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-18T12:04:26.139346+00:00"
     },
     {
       "id": "a4823f1c6b3a",
