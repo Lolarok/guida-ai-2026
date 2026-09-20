@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T11:47:47.211872+00:00",
-  "total": 2870,
+  "updated_at": "2026-09-20T12:01:07.405477+00:00",
+  "total": 2884,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,307 @@
       "featured": false
     },
     {
+      "id": "4908f229e2ac",
+      "name": "Answers by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "dev",
+        "answer",
+        "ask",
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give it a research task + the JSON shape you want back.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022625+00:00"
+    },
+    {
+      "id": "1685fe9d3998",
+      "name": "Minicart",
+      "url": "https://www.producthunt.com/products/minicart",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch your store. Let AI run the busywork.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022718+00:00"
+    },
+    {
+      "id": "bb901ffc2a4a",
+      "name": "Mycel",
+      "url": "https://www.producthunt.com/products/mycel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Bring one past deliverable. Mycel drafts every future one.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022773+00:00"
+    },
+    {
+      "id": "626c7dd522c1",
+      "name": "ManyPI",
+      "url": "https://www.producthunt.com/products/manypi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "10x your revenue by finding your ideal customers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022855+00:00"
+    },
+    {
+      "id": "4cc9e5e2458a",
+      "name": "Embedful",
+      "url": "https://www.producthunt.com/products/embedful",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Launch customer dashboards in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022904+00:00"
+    },
+    {
+      "id": "a64cdbea1b2d",
+      "name": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Evernote alternative that puts its price in writing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.022977+00:00"
+    },
+    {
+      "id": "a5a2fb4fecc4",
+      "name": "YABAI",
+      "url": "https://www.producthunt.com/products/yabai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real Japanese slang, one giant word at a time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023035+00:00"
+    },
+    {
+      "id": "247a31d5df9b",
+      "name": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GTM and AI visibility workflows for developer tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023107+00:00"
+    },
+    {
+      "id": "8691ea2e2a71",
+      "name": "SmartPause",
+      "url": "https://www.producthunt.com/products/smartpause-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The play/pause key, finally aimed at what's playing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023175+00:00"
+    },
+    {
+      "id": "09b2972b8976",
+      "name": "The 101 Plays Itself",
+      "url": "https://www.producthunt.com/products/the-101-plays-itself",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "instrument"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Five lanes of LA highway turned into an instrument\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023246+00:00"
+    },
+    {
+      "id": "ca04b877b017",
+      "name": "Scrapboard Cloud 4",
+      "url": "https://www.producthunt.com/products/scrapboard-cloud-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Digital family refrigerator door, now pocket-sized n synced\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023320+00:00"
+    },
+    {
+      "id": "73ef721259a6",
+      "name": "Launchie 1.6.1",
+      "url": "https://www.producthunt.com/products/launchie",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launchpad Replacement for MacOS 27 Golden Gate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023388+00:00"
+    },
+    {
+      "id": "51713b16861a",
+      "name": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SSH client with sessions that never drop.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023453+00:00"
+    },
+    {
+      "id": "8f890272b9bd",
+      "name": "Epismo OS",
+      "url": "https://www.producthunt.com/products/epismo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep your work when you switch AI tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023499+00:00"
+    },
+    {
+      "id": "ba9f15b9de30",
+      "name": "Ruby UTCP",
+      "url": "https://www.producthunt.com/products/utcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The scalable, secure alternative to MCP for tool calling\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023549+00:00"
+    },
+    {
+      "id": "f25978296bcd",
+      "name": "BiBimba",
+      "url": "https://www.producthunt.com/products/bibimba",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "screenshot",
+        "clip",
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clipboard history that can read your screenshots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023615+00:00"
+    },
+    {
+      "id": "6260084aa94e",
+      "name": "Punch",
+      "url": "https://www.producthunt.com/products/punch-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save your group chat's important stuff\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023678+00:00"
+    },
+    {
+      "id": "87805d3886d1",
+      "name": "Lull",
+      "url": "https://www.producthunt.com/products/lull-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tell it what is on your mind. It writes the meditation.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023746+00:00"
+    },
+    {
+      "id": "a81f7bf2a037",
+      "name": "Mantra Timer",
+      "url": "https://www.producthunt.com/products/transcendence",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A minimalist mantra meditation timer for iOS.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023795+00:00"
+    },
+    {
+      "id": "3f3eb32465cf",
+      "name": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recordings that edit themselves with Auto Zoom-Pan \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-20T12:01:07.023871+00:00"
+    },
+    {
       "id": "e355663c1871",
       "name": "VoiceCap",
       "url": "https://www.producthunt.com/products/voicecap",
@@ -393,21 +694,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-19T11:47:47.067848+00:00"
-    },
-    {
-      "id": "6260084aa94e",
-      "name": "Punch",
-      "url": "https://www.producthunt.com/products/punch-4",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Save your group chat's important stuff\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.067946+00:00"
     },
     {
       "id": "a64aa43eb662",
@@ -434,32 +720,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-19T11:47:47.068066+00:00"
-    },
-    {
-      "id": "ba9f15b9de30",
-      "name": "Ruby UTCP",
-      "url": "https://www.producthunt.com/products/utcp",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The scalable, secure alternative to MCP for tool calling\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.068126+00:00"
-    },
-    {
-      "id": "a81f7bf2a037",
-      "name": "Mantra Timer",
-      "url": "https://www.producthunt.com/products/transcendence",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A minimalist mantra meditation timer for iOS.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.068184+00:00"
     },
     {
       "id": "4572a6bc70cb",
@@ -492,37 +752,6 @@
       "discovered_at": "2026-09-19T11:47:47.068356+00:00"
     },
     {
-      "id": "3f3eb32465cf",
-      "name": "Lumiko",
-      "url": "https://www.producthunt.com/products/lumiko",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "screen",
-        "recording"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Screen recordings that edit themselves with Auto Zoom-Pan \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.068440+00:00"
-    },
-    {
-      "id": "87805d3886d1",
-      "name": "Lull",
-      "url": "https://www.producthunt.com/products/lull-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "write"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Tell it what is on your mind. It writes the meditation.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.068515+00:00"
-    },
-    {
       "id": "c09592b5f462",
       "name": "Basedash Models",
       "url": "https://www.producthunt.com/products/basedash",
@@ -547,25 +776,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-19T11:47:47.068623+00:00"
-    },
-    {
-      "id": "f25978296bcd",
-      "name": "BiBimba",
-      "url": "https://www.producthunt.com/products/bibimba",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "cli",
-        "screenshot",
-        "clip",
-        "screen",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Clipboard history that can read your screenshots\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-19T11:47:47.068695+00:00"
     },
     {
       "id": "3cf682cca3c6",
