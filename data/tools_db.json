@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T12:01:07.405477+00:00",
-  "total": 2884,
+  "updated_at": "2026-09-21T13:37:41.278753+00:00",
+  "total": 2902,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,296 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a022ef4b90d0",
+      "name": "Superset Mobile",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your coding agents, now in your pocket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.036762+00:00"
+    },
+    {
+      "id": "3e32e197a0bf",
+      "name": "PostSider",
+      "url": "https://www.producthunt.com/products/postsider",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Social media scheduling platform for humans and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.036887+00:00"
+    },
+    {
+      "id": "776dcf5a1ed1",
+      "name": "Sai",
+      "url": "https://www.producthunt.com/products/simular",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The autonomous computer fleet at your command\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.036986+00:00"
+    },
+    {
+      "id": "e469eeadc787",
+      "name": "Sell to State",
+      "url": "https://www.producthunt.com/products/sell-to-state",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search 3M government contracts in 64 countries\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037072+00:00"
+    },
+    {
+      "id": "718af23fd5af",
+      "name": "SecAIQ Watch",
+      "url": "https://www.producthunt.com/products/secaiq-watch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "What are your AI tools really doing on your machine?\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037132+00:00"
+    },
+    {
+      "id": "578d6cec05a1",
+      "name": "Jev",
+      "url": "https://www.producthunt.com/products/jev-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast, structured AI decisions for software automation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037213+00:00"
+    },
+    {
+      "id": "426e4c1bfa20",
+      "name": "slop",
+      "url": "https://www.producthunt.com/products/slop-grader",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Jev-AI CLI tool that evaluates text against custom rulesets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037297+00:00"
+    },
+    {
+      "id": "ce6bf6aaff63",
+      "name": "Turfs",
+      "url": "https://www.producthunt.com/products/turfs-fences-on-the-mac-desktop",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz",
+        "content"
+      ],
+      "pricing": "Free",
+      "description_it": "Keep content across your Mac organized in defined areas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037378+00:00"
+    },
+    {
+      "id": "3c76f52b7ab4",
+      "name": "Google Flow for iOS & Android",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Google's AI creative studio now on mobile\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037437+00:00"
+    },
+    {
+      "id": "ffb861ccc721",
+      "name": "Arcjet",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Secure the AI agents you're building at runtime\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037508+00:00"
+    },
+    {
+      "id": "686ddc33b754",
+      "name": "Plume",
+      "url": "https://www.producthunt.com/products/plume-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Import your old CV, get a polished ATS-ready one in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037579+00:00"
+    },
+    {
+      "id": "75245a685be3",
+      "name": "Osmotic",
+      "url": "https://www.producthunt.com/products/osmotic-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Download your DJI Osmo footage to your Mac over Wi-Fi\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037650+00:00"
+    },
+    {
+      "id": "af56f6d4545d",
+      "name": "GrowthKit",
+      "url": "https://www.producthunt.com/products/appgrowthkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "automat",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate your App Store Screenshots and print money...\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037725+00:00"
+    },
+    {
+      "id": "8929b9605249",
+      "name": "Cronhq",
+      "url": "https://www.producthunt.com/products/cronhq",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Cron jobs that actually run\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037776+00:00"
+    },
+    {
+      "id": "1ca06878c5f7",
+      "name": "Milliseconds.ai",
+      "url": "https://www.producthunt.com/products/milliseconds-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast AI decisions on text and images, via one API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037867+00:00"
+    },
+    {
+      "id": "8e666496d449",
+      "name": "Lead Sparker",
+      "url": "https://www.producthunt.com/products/lead-sparker",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "insight",
+        "deck",
+        "ad",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any brand URL into a ready-to-send insight deck\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.037943+00:00"
+    },
+    {
+      "id": "bacf6602efa3",
+      "name": "NiubiGEO",
+      "url": "https://www.producthunt.com/products/niubigeo",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "growth"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source AI visibility. Human-powered growth.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.038020+00:00"
+    },
+    {
+      "id": "6ce4f5043e71",
+      "name": "OmniDICOM",
+      "url": "https://www.producthunt.com/products/omnidicom",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "DICOM viewing and metadata editing on Mac and Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.038092+00:00"
+    },
+    {
+      "id": "49ca7c8c3bcb",
+      "name": "Simha Digital",
+      "url": "https://www.producthunt.com/products/simha-digital",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "seo"
+      ],
+      "pricing": "Freemium",
+      "description_it": "SEO workspace that tells you what to fix with a plan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-21T13:37:41.038165+00:00"
     },
     {
       "id": "4908f229e2ac",
@@ -5245,22 +5535,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-01T12:22:56.531513+00:00"
-    },
-    {
-      "id": "a022ef4b90d0",
-      "name": "Superset Mobile",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Run your parallel coding agents from your phone\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-01T12:22:56.531593+00:00"
     },
     {
       "id": "fcc452685110",
