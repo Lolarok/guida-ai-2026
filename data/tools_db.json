@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T13:37:41.278753+00:00",
-  "total": 2902,
+  "updated_at": "2026-09-22T12:21:34.454110+00:00",
+  "total": 2920,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5925b14a6bb4",
+      "name": "Xem",
+      "url": "https://www.producthunt.com/products/xem",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "email",
+        "marketing",
+        "email marketing"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source email marketing with managed SMTP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247028+00:00"
+    },
+    {
+      "id": "a27e9b094a5b",
+      "name": "Googlebook",
+      "url": "https://www.producthunt.com/products/googlebook-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The laptop your Android phone has been waiting for\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247111+00:00"
+    },
+    {
+      "id": "4e3b41c351a0",
+      "name": "Clueprint",
+      "url": "https://www.producthunt.com/products/clueprint",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See what your agents left running on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247186+00:00"
+    },
+    {
+      "id": "bb889feb9233",
+      "name": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI agent memory served via MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247282+00:00"
+    },
+    {
+      "id": "9c6738c8d90a",
+      "name": "Prowler Cloud",
+      "url": "https://www.producthunt.com/products/prowler",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Where your AI agent becomes a cloud security defender\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247361+00:00"
+    },
+    {
+      "id": "e7308ee039da",
+      "name": "Reeno",
+      "url": "https://www.producthunt.com/products/reeno",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI calls you randomly to practice speaking a new language\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247419+00:00"
+    },
+    {
+      "id": "d362284539fb",
+      "name": "Freebuff Ads",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "developer",
+        "dev",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Advertise to 500k developers in our coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247503+00:00"
+    },
+    {
+      "id": "50f139727f59",
+      "name": "Jev Wrapped",
+      "url": "https://www.producthunt.com/products/jev-wrapped",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how much of a Telegram channel is ads and clickbait\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247580+00:00"
+    },
+    {
+      "id": "7d8296c4ce31",
+      "name": "Fez",
+      "url": "https://www.producthunt.com/products/fez-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that work as a team and make decisions together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247653+00:00"
+    },
+    {
+      "id": "17fa167e1c31",
+      "name": "Brev",
+      "url": "https://www.producthunt.com/products/brev-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Set your goals. Brev does the rest.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247703+00:00"
+    },
+    {
+      "id": "b3f1416c72e9",
+      "name": "PixelCrew",
+      "url": "https://www.producthunt.com/products/pixelcrew",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Production-ready design from a crew of AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247772+00:00"
+    },
+    {
+      "id": "df5616ddcc52",
+      "name": "Fulvid",
+      "url": "https://www.producthunt.com/products/fulvid",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A standalone desktop editor for Markdown and MDX\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247841+00:00"
+    },
+    {
+      "id": "8ced2acef30f",
+      "name": "Hola AI",
+      "url": "https://www.producthunt.com/products/hola-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "answer",
+        "voice",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI voicemail assistant that answers calls when you can’t.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.247936+00:00"
+    },
+    {
+      "id": "a74c7739f4e5",
+      "name": "vgpu",
+      "url": "https://www.producthunt.com/products/vgpu",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The WebGPU library, designed for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248001+00:00"
+    },
+    {
+      "id": "1e251ec6ae61",
+      "name": "MiMo",
+      "url": "https://www.producthunt.com/products/mimo-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Open omnimodal intelligence, trained in public\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248053+00:00"
+    },
+    {
+      "id": "72eac3413734",
+      "name": "WeWeb MCP",
+      "url": "https://www.producthunt.com/products/weweb-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI agent builds the app. You stay in control.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248120+00:00"
+    },
+    {
+      "id": "a0b2ab86d7c3",
+      "name": "Keet",
+      "url": "https://www.producthunt.com/products/keet-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Video Courses on Anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248185+00:00"
+    },
+    {
+      "id": "ec3c953a95ff",
+      "name": "PewCB",
+      "url": "https://www.producthunt.com/products/pewcb-in-house-pcb-prototyping-machine",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Vibe-routing is coming. Desktop PCB Factory is here.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248259+00:00"
+    },
+    {
+      "id": "e2457f53ba9d",
+      "name": "Walkie",
+      "url": "https://www.producthunt.com/products/walkie-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "meeting",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dictation + meetings + read aloud in one app on-device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248333+00:00"
+    },
+    {
+      "id": "86c31238d022",
+      "name": "ResumeContext",
+      "url": "https://www.producthunt.com/products/resumecontext",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared memory for coding agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-22T12:21:34.248399+00:00"
     },
     {
       "id": "a022ef4b90d0",
@@ -29800,21 +30107,6 @@
       "discovered_at": "2026-05-20T10:27:43.369886+00:00"
     },
     {
-      "id": "bb889feb9233",
-      "name": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn your work into AI agent memory, served over MCP\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-20T10:27:43.370001+00:00"
-    },
-    {
       "id": "3d4d5c688c99",
       "name": "mailX by mailwarm (YC S20)",
       "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
@@ -36537,21 +36829,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-23T08:55:58.336234+00:00"
-    },
-    {
-      "id": "1e251ec6ae61",
-      "name": "MiMo",
-      "url": "https://www.producthunt.com/products/mimo-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Frontier agent capability with better token efficiency\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-23T08:55:58.336304+00:00"
     },
     {
       "id": "0fac555635a1",
