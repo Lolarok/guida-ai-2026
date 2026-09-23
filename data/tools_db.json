@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T12:21:34.454110+00:00",
-  "total": 2920,
+  "updated_at": "2026-09-23T12:34:16.974703+00:00",
+  "total": 2939,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,306 @@
       "featured": false
     },
     {
+      "id": "a6126cd0e502",
+      "name": "RankControl",
+      "url": "https://www.producthunt.com/products/rankcontrol",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get Cited by ChatGPT & Ranked on Google\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.759926+00:00"
+    },
+    {
+      "id": "31025dd76e81",
+      "name": "Naise AI",
+      "url": "https://www.producthunt.com/products/naise-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "marketing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Autonomous marketing agents that actually execute\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760022+00:00"
+    },
+    {
+      "id": "e1ef0c61596a",
+      "name": "Solid",
+      "url": "https://www.producthunt.com/products/solid-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agents with their own computers, accounts, and budgets.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760100+00:00"
+    },
+    {
+      "id": "eb179b087afd",
+      "name": "Linguo Translate",
+      "url": "https://www.producthunt.com/products/linguo-translate-for-macos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Offline & AI Translation for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760157+00:00"
+    },
+    {
+      "id": "6cc3295f0156",
+      "name": "Claude Opus 5.5",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Anthropic's first model in their new Claude 5.5 family\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760230+00:00"
+    },
+    {
+      "id": "3c50dd7c2a1d",
+      "name": "CodeSpotlight",
+      "url": "https://www.producthunt.com/products/codespotlight",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free",
+      "description_it": "Make your code impossible to miss.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760300+00:00"
+    },
+    {
+      "id": "6173f83f9631",
+      "name": "Koreshield",
+      "url": "https://www.producthunt.com/products/koreshield",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Security and evidence for AI support agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760383+00:00"
+    },
+    {
+      "id": "c8749feb62a6",
+      "name": "AgentScore",
+      "url": "https://www.producthunt.com/products/latitude-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Daily score to see if your agent gets better\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760459+00:00"
+    },
+    {
+      "id": "0d1e9865d33a",
+      "name": "Speechka",
+      "url": "https://www.producthunt.com/products/speechka",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "sound",
+        "voice",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time voice translation that sounds like you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760531+00:00"
+    },
+    {
+      "id": "7159d5a2a4f4",
+      "name": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The room where creative teams align and AI takes action\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760604+00:00"
+    },
+    {
+      "id": "4984d6019cce",
+      "name": "Dub Program Marketplace",
+      "url": "https://www.producthunt.com/products/dub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Browse and apply to the best SaaS affiliate programs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760660+00:00"
+    },
+    {
+      "id": "92d16e35719f",
+      "name": "GBrain",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Plug your own memory, tools, and skills into any AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760712+00:00"
+    },
+    {
+      "id": "4c2d6b5d278b",
+      "name": "Alexandria by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The knowledge library for superintelligence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760766+00:00"
+    },
+    {
+      "id": "c15fc6a46f5d",
+      "name": "Jev State",
+      "url": "https://www.producthunt.com/products/jev-state",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn AI conversations into tests and runnable code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760854+00:00"
+    },
+    {
+      "id": "bbb463e241dc",
+      "name": "ToneBird",
+      "url": "https://www.producthunt.com/products/tonebird",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI reply assistant that remembers your relationships\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760928+00:00"
+    },
+    {
+      "id": "0b4fc1cc64a3",
+      "name": "Lightmeter",
+      "url": "https://www.producthunt.com/products/lightmeter-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "film"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Film Camera designed for everyday moments\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.760997+00:00"
+    },
+    {
+      "id": "5e4a2d931228",
+      "name": "Pulsetic RUM",
+      "url": "https://www.producthunt.com/products/pulsetic",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Uptime monitoring that measures your real visitors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.761055+00:00"
+    },
+    {
+      "id": "1aad73a63ea6",
+      "name": "Anomalo",
+      "url": "https://www.producthunt.com/products/anomalo",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your data is always talking. Don't miss what it's saying.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.761125+00:00"
+    },
+    {
+      "id": "4870dba1341b",
+      "name": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create and edit videos by chatting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.761194+00:00"
+    },
+    {
+      "id": "17fa167e1c31",
+      "name": "Brev",
+      "url": "https://www.producthunt.com/products/brev-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI coworker that drives action on your goals\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-23T12:34:16.761262+00:00"
+    },
+    {
       "id": "5925b14a6bb4",
       "name": "Xem",
       "url": "https://www.producthunt.com/products/xem",
@@ -514,19 +814,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-22T12:21:34.247653+00:00"
-    },
-    {
-      "id": "17fa167e1c31",
-      "name": "Brev",
-      "url": "https://www.producthunt.com/products/brev-io",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Set your goals. Brev does the rest.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-22T12:21:34.247703+00:00"
     },
     {
       "id": "b3f1416c72e9",
