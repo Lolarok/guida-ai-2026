@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T12:34:16.974703+00:00",
-  "total": 2939,
+  "updated_at": "2026-09-24T12:33:06.252137+00:00",
+  "total": 2959,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "92cfe9881410",
+      "name": "Scholé Learn by Building",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learning should be more than \"click next\"\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.050693+00:00"
+    },
+    {
+      "id": "8e6e32f55142",
+      "name": "Floot MCP",
+      "url": "https://www.producthunt.com/products/floot",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and ship web and mobile apps inside Claude or ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.050811+00:00"
+    },
+    {
+      "id": "aaeaefce9c52",
+      "name": "CtrlOps 1.0",
+      "url": "https://www.producthunt.com/products/ctrlops",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your server. Audited, managed, and deployed with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.050896+00:00"
+    },
+    {
+      "id": "e89cec010196",
+      "name": "Harness Manager",
+      "url": "https://www.producthunt.com/products/harness-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI coding stack manager, all in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.050972+00:00"
+    },
+    {
+      "id": "a3f3929aa201",
+      "name": "Opaline",
+      "url": "https://www.producthunt.com/products/rudel",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "PostHog for team Claude Code and Codex sessions.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051045+00:00"
+    },
+    {
+      "id": "e4f6fd540faf",
+      "name": "ChoreDivider",
+      "url": "https://www.producthunt.com/products/choredivider",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Split chores by what each of you actually minds doing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051120+00:00"
+    },
+    {
+      "id": "eec01bf85db3",
+      "name": "Subscrr",
+      "url": "https://www.producthunt.com/products/subscrrr",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Build a financial plan and ask what to cancel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051202+00:00"
+    },
+    {
+      "id": "b4cf10023fec",
+      "name": "NOAN",
+      "url": "https://www.producthunt.com/products/noan-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fact layer for your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051275+00:00"
+    },
+    {
+      "id": "3bbdfdbff183",
+      "name": "minimi 2.0",
+      "url": "https://www.producthunt.com/products/shram",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI cat that closes your open loops\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051329+00:00"
+    },
+    {
+      "id": "8d7f17f95b6f",
+      "name": "IntellAgents.io",
+      "url": "https://www.producthunt.com/products/intellagents-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI agent for every call, chat, and DM\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051402+00:00"
+    },
+    {
+      "id": "9bb0ff622141",
+      "name": "Storytailor®",
+      "url": "https://www.producthunt.com/products/storytailor",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A personal world built around your child’s imagination\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051499+00:00"
+    },
+    {
+      "id": "186cfab99701",
+      "name": "NotchPop",
+      "url": "https://www.producthunt.com/products/notchpop",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Dynamic Island your MacBook notch was missing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051555+00:00"
+    },
+    {
+      "id": "28d939c0afdb",
+      "name": "Opencontroller by lyzr",
+      "url": "https://www.producthunt.com/products/opencontroller-by-lyzr",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Govern All your agents with a unified control plane\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051632+00:00"
+    },
+    {
+      "id": "fbe65758fb67",
+      "name": "Autonomous Product Delivery",
+      "url": "https://www.producthunt.com/products/autonomyai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Discover, plan, build, ship, repeat. Product teams run it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051713+00:00"
+    },
+    {
+      "id": "a60dec494e45",
+      "name": "Maximem Synap",
+      "url": "https://www.producthunt.com/products/maximem-synap",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fastest, most accurate memory layer for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051798+00:00"
+    },
+    {
+      "id": "a79dade20845",
+      "name": "LockLines",
+      "url": "https://www.producthunt.com/products/locklines",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design Mac lock screen messages that fit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051870+00:00"
+    },
+    {
+      "id": "323935449192",
+      "name": "jev",
+      "url": "https://www.producthunt.com/products/jev-seo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "rust",
+        "seo"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Rust CLI SEO/GEO auditor, no subscription needed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.051948+00:00"
+    },
+    {
+      "id": "ede965bced85",
+      "name": "Hookest",
+      "url": "https://www.producthunt.com/products/hookest",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your swipe file for viral video hooks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.052017+00:00"
+    },
+    {
+      "id": "611589e93c7a",
+      "name": "Parall",
+      "url": "https://www.producthunt.com/products/parall",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run multiple instances of the same app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.052071+00:00"
+    },
+    {
+      "id": "3c7ab5eb82fc",
+      "name": "Gemini 3.8 text",
+      "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "tts"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-24T12:33:06.052144+00:00"
     },
     {
       "id": "a6126cd0e502",
