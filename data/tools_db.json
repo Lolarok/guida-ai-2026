@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T12:34:00.907704+00:00",
-  "total": 2979,
+  "updated_at": "2026-09-26T12:03:29.544337+00:00",
+  "total": 2995,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,310 @@
       "featured": false
     },
     {
+      "id": "da44acd4a9fa",
+      "name": "Kleanly",
+      "url": "https://www.producthunt.com/products/kleanly",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One tap in the notch locks your keyboard and trackpad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.220846+00:00"
+    },
+    {
+      "id": "3414e2b53390",
+      "name": "SOUND",
+      "url": "https://www.producthunt.com/products/sound",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give every Mac app its own EQ, volume, and speaker.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.220979+00:00"
+    },
+    {
+      "id": "7dc5d5153a7f",
+      "name": "Lisen",
+      "url": "https://www.producthunt.com/products/lisen",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Free Read Aloud with Cartesia Voices\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221063+00:00"
+    },
+    {
+      "id": "f5dbbaae8394",
+      "name": "Psst",
+      "url": "https://www.producthunt.com/products/psst-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A shared shopping list that remembers what things cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221123+00:00"
+    },
+    {
+      "id": "55fa3f28e27c",
+      "name": "MakerMap",
+      "url": "https://www.producthunt.com/products/makermap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A living map of makers and what they’re building\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221197+00:00"
+    },
+    {
+      "id": "5bd625dacfda",
+      "name": "Paragraph Notes",
+      "url": "https://www.producthunt.com/products/paragraph-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private Markdown notes app for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221270+00:00"
+    },
+    {
+      "id": "1c54b12bc44b",
+      "name": "Fewer",
+      "url": "https://www.producthunt.com/products/fewer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The launcher that counts how often you pick up your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221339+00:00"
+    },
+    {
+      "id": "b7f01af9b5e7",
+      "name": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A printed receipt of your day in Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221414+00:00"
+    },
+    {
+      "id": "2ecb5fba6004",
+      "name": "Hemory",
+      "url": "https://www.producthunt.com/products/hemory",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep listening. Searchable memory for your AI agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221487+00:00"
+    },
+    {
+      "id": "6bfe7fde7ad7",
+      "name": "Eclatira",
+      "url": "https://www.producthunt.com/products/eclatira",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "conversation",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Conversational Video Agent That Plugs Into Any Stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221559+00:00"
+    },
+    {
+      "id": "037fc8fc9848",
+      "name": "GoodSocials",
+      "url": "https://www.producthunt.com/products/goodsocials",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI social media manager for LinkedIn. Only authentic content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221634+00:00"
+    },
+    {
+      "id": "10c8960ddce5",
+      "name": "Decktly",
+      "url": "https://www.producthunt.com/products/decktly",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "erp",
+        "presentation",
+        "deck",
+        "powerpoint"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit HTML presentations like PowerPoint\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221704+00:00"
+    },
+    {
+      "id": "86c29d3d739d",
+      "name": "Wand",
+      "url": "https://www.producthunt.com/products/wand-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build software at the speed of thought\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221755+00:00"
+    },
+    {
+      "id": "f7798ded829d",
+      "name": "Stimly",
+      "url": "https://www.producthunt.com/products/stimly",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real-time caffeine metabolism curve and bedtime estimate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221808+00:00"
+    },
+    {
+      "id": "68a516f2b583",
+      "name": "Kelam",
+      "url": "https://www.producthunt.com/products/kelam",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your agent make the calls you don't want to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221875+00:00"
+    },
+    {
+      "id": "b12e6b18c0a9",
+      "name": "Squints",
+      "url": "https://www.producthunt.com/products/squints",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design tools for the live web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.221975+00:00"
+    },
+    {
+      "id": "f92ba9236458",
+      "name": "Donna",
+      "url": "https://www.producthunt.com/products/donna-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Schedule multiple meetings with one link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.222054+00:00"
+    },
+    {
+      "id": "2fd9654979cc",
+      "name": "ShroomPen",
+      "url": "https://www.producthunt.com/products/shroompen",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write",
+        "grammar"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Reply, rewrite, fix grammar, translate with single extension\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.222128+00:00"
+    },
+    {
+      "id": "c53c8b8eea68",
+      "name": "SocialGPT",
+      "url": "https://www.producthunt.com/products/socialgpt",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ide",
+        "chat",
+        "gpt",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit videos by chatting with your timeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.222197+00:00"
+    },
+    {
+      "id": "9844be8dcb81",
+      "name": "Promptic",
+      "url": "https://www.producthunt.com/products/promptic-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Optimize GenAI applications for quality and cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-26T12:03:29.222249+00:00"
+    },
+    {
       "id": "3b4af9b8ae6f",
       "name": "PixVerse R2",
       "url": "https://www.producthunt.com/products/pixverse-r2",
@@ -548,21 +852,6 @@
       "discovered_at": "2026-09-25T12:34:00.759383+00:00"
     },
     {
-      "id": "68a516f2b583",
-      "name": "Kelam",
-      "url": "https://www.producthunt.com/products/kelam",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Let your agent make the calls you don't want to\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-25T12:34:00.759453+00:00"
-    },
-    {
       "id": "2a62603f1fe7",
       "name": "Bleetz Network",
       "url": "https://www.producthunt.com/products/bleetz-network",
@@ -635,50 +924,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-25T12:34:00.759785+00:00"
-    },
-    {
-      "id": "86c29d3d739d",
-      "name": "Wand",
-      "url": "https://www.producthunt.com/products/wand-6",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Build software at the speed of thought\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-25T12:34:00.759837+00:00"
-    },
-    {
-      "id": "2fd9654979cc",
-      "name": "ShroomPen",
-      "url": "https://www.producthunt.com/products/shroompen",
-      "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "write",
-        "grammar"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Reply, rewrite, fix grammar, translate with single extension\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-25T12:34:00.759912+00:00"
-    },
-    {
-      "id": "b12e6b18c0a9",
-      "name": "Squints",
-      "url": "https://www.producthunt.com/products/squints",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "design"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Design tools for the live web\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-25T12:34:00.759976+00:00"
     },
     {
       "id": "92cfe9881410",
