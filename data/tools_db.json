@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T12:03:29.544337+00:00",
-  "total": 2995,
+  "updated_at": "2026-09-27T12:44:42.464239+00:00",
+  "total": 3003,
   "tools": [
     {
       "name": "Cursor",
@@ -378,34 +378,115 @@
       "featured": false
     },
     {
-      "id": "da44acd4a9fa",
-      "name": "Kleanly",
-      "url": "https://www.producthunt.com/products/kleanly",
+      "id": "a13ecd3b6289",
+      "name": "Clicks Communicator",
+      "url": "https://www.producthunt.com/products/clicks",
       "source": "Product Hunt AI (feed)",
-      "category": "marketing",
+      "category": "coding",
       "tags": [
-        "ad"
+        "cli",
+        "design"
       ],
       "pricing": "Free tier",
-      "description_it": "One tap in the notch locks your keyboard and trackpad\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "A new kind of mobile communicator designed for doing\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.220846+00:00"
+      "discovered_at": "2026-09-27T12:44:42.205779+00:00"
     },
     {
-      "id": "3414e2b53390",
-      "name": "SOUND",
-      "url": "https://www.producthunt.com/products/sound",
+      "id": "e5d979b918fa",
+      "name": "KiwiDesk",
+      "url": "https://www.producthunt.com/products/kiwidesk",
       "source": "Product Hunt AI (feed)",
-      "category": "musica",
+      "category": "coding",
       "tags": [
-        "sound"
+        "ide"
       ],
       "pricing": "Free tier",
-      "description_it": "Give every Mac app its own EQ, volume, and speaker.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "Tiling that feels like it shipped with macOS.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.220979+00:00"
+      "discovered_at": "2026-09-27T12:44:42.205879+00:00"
+    },
+    {
+      "id": "e548cfce8400",
+      "name": "Harmony",
+      "url": "https://www.producthunt.com/products/harmony-it",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that resolve IT/HR tickets inside Slack and Teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.205965+00:00"
+    },
+    {
+      "id": "733f9f771dd0",
+      "name": "Humalike x GTA RP",
+      "url": "https://www.producthunt.com/products/humalike-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI NPCs that talk, remember & act on their own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206044+00:00"
+    },
+    {
+      "id": "b731b4bb9cae",
+      "name": "Superhuman Go",
+      "url": "https://www.producthunt.com/products/superhuman-go",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI assistant that works where you do\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206118+00:00"
+    },
+    {
+      "id": "1f26d1686700",
+      "name": "Cuey",
+      "url": "https://www.producthunt.com/products/cuey-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude",
+        "gemini",
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Compare ChatGPT, Claude & Gemini answers in one tab.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206182+00:00"
+    },
+    {
+      "id": "31d23650ff05",
+      "name": "GPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Frontier AI intelligence, now at half the price\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206269+00:00"
     },
     {
       "id": "7dc5d5153a7f",
@@ -422,7 +503,7 @@
       "description_it": "Free Read Aloud with Cartesia Voices\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221063+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206346+00:00"
     },
     {
       "id": "f5dbbaae8394",
@@ -435,20 +516,7 @@
       "description_it": "A shared shopping list that remembers what things cost\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221123+00:00"
-    },
-    {
-      "id": "55fa3f28e27c",
-      "name": "MakerMap",
-      "url": "https://www.producthunt.com/products/makermap",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A living map of makers and what they’re building\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221197+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206410+00:00"
     },
     {
       "id": "5bd625dacfda",
@@ -463,7 +531,7 @@
       "description_it": "A private Markdown notes app for Mac\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221270+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206516+00:00"
     },
     {
       "id": "1c54b12bc44b",
@@ -476,23 +544,7 @@
       "description_it": "The launcher that counts how often you pick up your phone\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221339+00:00"
-    },
-    {
-      "id": "b7f01af9b5e7",
-      "name": "Chit",
-      "url": "https://www.producthunt.com/products/chit-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A printed receipt of your day in Claude Code\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221414+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206580+00:00"
     },
     {
       "id": "2ecb5fba6004",
@@ -508,7 +560,51 @@
       "description_it": "Keep listening. Searchable memory for your AI agents.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221487+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206655+00:00"
+    },
+    {
+      "id": "da44acd4a9fa",
+      "name": "Kleanly",
+      "url": "https://www.producthunt.com/products/kleanly",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One tap in the notch locks your keyboard and trackpad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206726+00:00"
+    },
+    {
+      "id": "037fc8fc9848",
+      "name": "GoodSocials",
+      "url": "https://www.producthunt.com/products/goodsocials",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "content",
+        "social media"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI social media manager for LinkedIn. Only authentic content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206802+00:00"
+    },
+    {
+      "id": "55fa3f28e27c",
+      "name": "MakerMap",
+      "url": "https://www.producthunt.com/products/makermap",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A living map of makers and what they’re building\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.206871+00:00"
     },
     {
       "id": "6bfe7fde7ad7",
@@ -526,23 +622,67 @@
       "description_it": "Conversational Video Agent That Plugs Into Any Stack\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221559+00:00"
+      "discovered_at": "2026-09-27T12:44:42.206944+00:00"
     },
     {
-      "id": "037fc8fc9848",
-      "name": "GoodSocials",
-      "url": "https://www.producthunt.com/products/goodsocials",
+      "id": "b7f01af9b5e7",
+      "name": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2",
       "source": "Product Hunt AI (feed)",
-      "category": "marketing",
+      "category": "coding",
       "tags": [
-        "content",
-        "social media"
+        "code",
+        "claude"
       ],
       "pricing": "Free tier",
-      "description_it": "AI social media manager for LinkedIn. Only authentic content\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "A printed receipt of your day in Claude Code\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-09-26T12:03:29.221634+00:00"
+      "discovered_at": "2026-09-27T12:44:42.207020+00:00"
+    },
+    {
+      "id": "3414e2b53390",
+      "name": "SOUND",
+      "url": "https://www.producthunt.com/products/sound",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give every Mac app its own EQ, volume, and speaker.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.207091+00:00"
+    },
+    {
+      "id": "9cc63693b635",
+      "name": "shadow",
+      "url": "https://www.producthunt.com/products/shadow-planner",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project",
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "AI-assisted gantt project planning that runs on your machine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.207168+00:00"
+    },
+    {
+      "id": "2a9070fccf58",
+      "name": "WebDecoy for Vercel",
+      "url": "https://www.producthunt.com/products/webdecoy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know which crawlers hit your Vercel app, and which are fake\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-27T12:44:42.207225+00:00"
     },
     {
       "id": "10c8960ddce5",
@@ -19778,21 +19918,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-12T09:04:05.904326+00:00"
-    },
-    {
-      "id": "31d23650ff05",
-      "name": "GPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "gpt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A new standard for intelligence and efficiency\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-12T09:04:05.904395+00:00"
     },
     {
       "id": "0d14a32789bb",
