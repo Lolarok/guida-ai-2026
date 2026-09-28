@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T12:44:42.464239+00:00",
-  "total": 3003,
+  "updated_at": "2026-09-28T14:56:46.104332+00:00",
+  "total": 3023,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,307 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "e2dc21354f44",
+      "name": "Ryu Journal",
+      "url": "https://www.producthunt.com/products/ryu-journal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A journal to help busy minds let go\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.971599+00:00"
+    },
+    {
+      "id": "57caf036eca3",
+      "name": "FaveNest",
+      "url": "https://www.producthunt.com/products/favenest",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bookmarks that organize themselves with Apple Intelligence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.971701+00:00"
+    },
+    {
+      "id": "ec8339728448",
+      "name": "Microsoft Copilot",
+      "url": "https://www.producthunt.com/products/microsoft-copilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Al built for work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.971777+00:00"
+    },
+    {
+      "id": "83b1dfc22deb",
+      "name": "SaleSmartly",
+      "url": "https://www.producthunt.com/products/salesmartly",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation",
+        "art"
+      ],
+      "pricing": "Free",
+      "description_it": "Turn conversations across every channel into customers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.971859+00:00"
+    },
+    {
+      "id": "a9b34fda57c9",
+      "name": "Mochi",
+      "url": "https://www.producthunt.com/products/mochi-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A cute Mac desktop pet that organizes your loose files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.971936+00:00"
+    },
+    {
+      "id": "51877ce9f359",
+      "name": "MCP Connectors by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI Analyst context to explain performance and act\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972018+00:00"
+    },
+    {
+      "id": "13f994ebaa75",
+      "name": "VibeDefend by CybeDefend",
+      "url": "https://www.producthunt.com/products/cybedefend",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The one command line to secure your Cursor and Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972111+00:00"
+    },
+    {
+      "id": "406e8f7dce1a",
+      "name": "Statable Analytics",
+      "url": "https://www.producthunt.com/products/statable-analytics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Web analytics built for you and your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972191+00:00"
+    },
+    {
+      "id": "461bc274c8ed",
+      "name": "Vitals ",
+      "url": "https://www.producthunt.com/products/vitals-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A Mac activity monitor that thinks in apps, not processes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972263+00:00"
+    },
+    {
+      "id": "f2a1255bc9ed",
+      "name": "Arc",
+      "url": "https://www.producthunt.com/products/arc-ai-screen-assistant",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your mobile AI assistant on any screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972335+00:00"
+    },
+    {
+      "id": "14f04794c6d3",
+      "name": "MuM",
+      "url": "https://www.producthunt.com/products/mum-multi-project-markdown",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A reading-first Markdown engine for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972404+00:00"
+    },
+    {
+      "id": "a24c3d7617ab",
+      "name": "Harness Router",
+      "url": "https://www.producthunt.com/products/harness-103",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Fast AI tool routing powered by Jev.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972476+00:00"
+    },
+    {
+      "id": "97b043af1dfa",
+      "name": "Stash",
+      "url": "https://www.producthunt.com/products/stash-24",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hidden controls for your Mac.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972531+00:00"
+    },
+    {
+      "id": "fced346ccef3",
+      "name": "Zerg Router",
+      "url": "https://www.producthunt.com/products/zerg-router",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run DeepSeek in Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972596+00:00"
+    },
+    {
+      "id": "daaf25daddcd",
+      "name": "Okara",
+      "url": "https://www.producthunt.com/products/okara-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The world's first AI CMO\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972646+00:00"
+    },
+    {
+      "id": "267aab727902",
+      "name": "Dina 4.5",
+      "url": "https://www.producthunt.com/products/dina",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screenshot",
+        "motion",
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Beautiful screen recordings, screenshots, and 3D motion\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972720+00:00"
+    },
+    {
+      "id": "ddd2b94f5468",
+      "name": "vantage.ai",
+      "url": "https://www.producthunt.com/products/vantage-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See and control what your coding agent does.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972796+00:00"
+    },
+    {
+      "id": "ba27a6dcc201",
+      "name": "GenCode",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A coding agent inside the Genspark Super App\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972867+00:00"
+    },
+    {
+      "id": "1387c5d6ee7b",
+      "name": "Shotcandy",
+      "url": "https://www.producthunt.com/products/shotcandy",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make Your Screenshots Look Amazing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972936+00:00"
+    },
+    {
+      "id": "4185bc76776e",
+      "name": "PIP",
+      "url": "https://www.producthunt.com/products/pip-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI buddy on your computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-28T14:56:45.972986+00:00"
     },
     {
       "id": "a13ecd3b6289",
