@@ -270,30 +270,31 @@ footer a { color: var(--accent); text-decoration: none; }
 <div class="page-header">
   <h1>📰 <span class="gradient">News AI</span></h1>
   <p>Le ultime notizie dall'AI, raccolte e tradotte ogni giorno.</p>
-  <p class="date">Aggiornato: 28 September 2026 · 92 articoli</p>
+  <p class="date">Aggiornato: 29 September 2026 · 97 articoli</p>
 </div>
 <div class="content">
   
   <div class="section-title">📖 Impara Oggi</div>
   <div class="guide-card">
     <div class="guide-label">Guida quotidiana</div>
-    <h3>Prompt Engineering: le tecniche che funzionano</h3>
+    <h3>RAG: quando l&#x27;AI usa i tuoi documenti</h3>
     <div class="guide-meta">
-      <span class="level-badge level-principiante">principiante</span>
-      <span>🏷️ pratico</span>
+      <span class="level-badge level-intermedio">intermedio</span>
+      <span>🏷️ architettura</span>
       <span>📖 ~5 min di lettura</span>
     </div>
     <div class="guide-body">
       
-<p>Il <strong>prompt engineering</strong> è l'arte di scrivere istruzioni efficaci per un'AI. La stessa richiesta formulata in modo diverso può dare risultati completamente diversi.</p>
-<p><strong>3 tecniche che funzionano davvero:</strong></p>
+<p><strong>RAG</strong> (Retrieval-Augmented Generation) è la tecnica che permette a un'AI di rispondere usando i TUOI documenti, non solo quello che ha imparato durante il training.</p>
+<p><strong>Come funziona:</strong></p>
 <ul>
-  <li><strong>1. Sii specifico:</strong> Non "scrivi un articolo" ma "scrivi un articolo di 500 parole per un blog tech, tono informale, pubblico principiante, sul tema RAG"</li>
-  <li><strong>2. Dai un ruolo:</strong> "Agisci come un senior developer con 10 anni di esperienza in Python" — il contesto cambia completamente la risposta</li>
-  <li><strong>3. Esempi (few-shot):</strong> Mostra 2-3 esempi di cosa vuoi. L'LLM impara dal pattern meglio che dalle istruzioni</li>
+  <li><strong>1. Indicizzazione:</strong> I tuoi documenti vengono divisi in pezzi e trasformati in vettori numerici (embeddings)</li>
+  <li><strong>2. Ricerca:</strong> Quando fai una domanda, viene anch'essa trasformata in vettore e confrontata con i documenti</li>
+  <li><strong>3. Recupero:</strong> I pezzi più simili alla tua domanda vengono selezionati</li>
+  <li><strong>4. Generazione:</strong> L'LLM riceve i pezzi rilevanti + la tua domanda e genera una risposta basata su di essi</li>
 </ul>
-<p><strong>Chain-of-Thought:</strong> Aggiungi "Pensa passo dopo passo" per problemi complessi. L'LLM dividerà il ragionamento in fasi, riducendo gli errori.</p>
-<p><strong>Il segreto:</strong> Tratta l'AI come un neo-assunto brillante ma letterale. Più contesto e chiarezza dai, meglio lavora.</p>
+<p><strong>Perché è importante:</strong> Senza RAG, l'AI inventa risposte basandosi su pattern generici. Con RAG, risponde basandosi sui fatti contenuti nei tuoi documenti. È la differenza tra un consulente generico e uno che ha letto il tuo caso specifico.</p>
+<p><strong>Tool:</strong> LangChain, LlamaIndex, e vector DB come Chroma, Pinecone, o Weaviate.</p>
 
     </div>
   </div>
@@ -302,62 +303,62 @@ footer a { color: var(--accent); text-decoration: none; }
   <div class="news-card">
     <div class="card-top">
       <span class="source">The Verge - AI</span>
-      <span class="time">oggi, 13:21</span>
-      <span class="score">⭐ 10.5</span>
+      <span class="time">oggi, 14:45</span>
+      <span class="score">⭐ 11.5</span>
     </div>
-    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website" target="_blank" rel="noopener">OpenAI agents tried to ‘bruteforce’ a UN website</a></h3>
-    <p class="summary">Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development&#x27;s (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn&#x27;t quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it&#x27;s yet another concerning example of AI […]</p>
-    <a href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-brutef</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">MIT Technology Review - AI</span>
-      <span class="time">2h fa</span>
-      <span class="score">⭐ 10.5</span>
-    </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/" target="_blank" rel="noopener">The Download: rogue agent liability and the AI Hype Index</a></h3>
-    <p class="summary">This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Many experts say it’s only a matter of time until there’s a more damaging ...</p>
-    <a href="https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-lia</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">MIT Technology Review - AI</span>
-      <span class="time">oggi, 08:06</span>
-      <span class="score">⭐ 10.5</span>
-    </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/" target="_blank" rel="noopener">Who’s liable when AI agents go rogue?</a></h3>
-    <p class="summary">MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijac...</p>
-    <a href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-g</a>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent" target="_blank" rel="noopener">OpenAI’s AI agents need to catch up</a></h3>
+    <p class="summary">OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it&#x27;s fallen behind in one of the industry&#x27;s hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-a</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">TechCrunch AI</span>
-      <span class="time">oggi, 19:57</span>
+      <span class="time">pochi minuti fa</span>
       <span class="score">⭐ 9.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/" target="_blank" rel="noopener">Can Muse overcome Meta’s trust issues?</a></h3>
-    <p class="summary">On Equity, we discussed how Meta&#x27;s AI announcement managed to steal the spotlight from OpenAI and Anthropic.</p>
-    <a href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</a>
+    <h3><a href="https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/" target="_blank" rel="noopener">OpenAI apologizes to Australia after its AI agents breached government sites</a></h3>
+    <p class="summary">The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.</p>
+    <a href="https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-ag</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
+      <span class="time">oggi, 17:29</span>
       <span class="score">⭐ 9.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/" target="_blank" rel="noopener">Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</a></h3>
-    <p class="summary">When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]</p>
-    <a href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/" class="link" target="_blank" rel="noopener">https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-opena</a>
+    <h3><a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/" target="_blank" rel="noopener">Google is killing off Gemini’s Gems in favor of ‘skills’</a></h3>
+    <p class="summary">As all-in-one AI agents like Meta&#x27;s Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.</p>
+    <a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">The Verge - AI</span>
-      <span class="time">25 Sep 2026</span>
+      <span class="time">oggi, 13:00</span>
       <span class="score">⭐ 9.5</span>
     </div>
-    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google" target="_blank" rel="noopener">One company is at the center of a wave of rogue AI attacks</a></h3>
-    <p class="summary">In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]</p>
-    <a href="https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-c</a>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids" target="_blank" rel="noopener">Florida seeks a ban on ChatGPT acting like a person</a></h3>
+    <p class="summary">Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from &quot;giving ChatGPT false human attributes,&quot; a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as &quot;ChatGPT&#x27;s use of language, including first-person pronouns […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">MIT Technology Review - AI</span>
+      <span class="time">oggi, 17:03</span>
+      <span class="score">⭐ 9.5</span>
+    </div>
+    <h3><a href="https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/" target="_blank" rel="noopener">When can we say AI made a scientific discovery?</a></h3>
+    <p class="summary">This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report. And this AI-powered lab, the company said, had made its first discovery. To understand what Anthropic says its system did, imagine y...</p>
+    <a href="https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-sc</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">oggi, 22:07</span>
+      <span class="score">⭐ 9.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/" target="_blank" rel="noopener">Claude Sonnet 5.5</a></h3>
+    <p class="summary">Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it &quot;runs 30%+ faster, and costs up to 30% less for most work&quot; - it&#x27;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the &quot;max&quot; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here&#x27;s the pelican...</p>
+    <a href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -365,19 +366,89 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">1h fa</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/" target="_blank" rel="noopener">Viral AI agent Instinct raises $1B Series C at a $10B valuation</a></h3>
-    <p class="summary">Instinct has raised a $1 billion Series C, saying &#x27;we&#x27;re just getting started.&#x27; The company is now valued at $10 billion.</p>
-    <a href="https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-</a>
+    <h3><a href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/" target="_blank" rel="noopener">Reco raises $55M as AI agent security startups crowd the market</a></h3>
+    <p class="summary">The round builds on a $30 million fundraise in February, taking the company&#x27;s total funding to $140 million.</p>
+    <a href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">TechCrunch AI</span>
-      <span class="time">oggi, 16:30</span>
+      <span class="time">oggi, 05:13</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" target="_blank" rel="noopener">Anthropic’s Dario Amodei gets the SNL treatment</a></h3>
-    <p class="summary">&quot;AI is the devil and I its maker.&quot;</p>
-    <a href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment</a>
+    <h3><a href="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/" target="_blank" rel="noopener">Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity</a></h3>
+    <p class="summary">In its prospectus, Anthropic just told investors it&#x27;s losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.</p>
+    <a href="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-an</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 23:39</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/" target="_blank" rel="noopener">OpenAI reportedly ditches model over safety concerns</a></h3>
+    <p class="summary">A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.</p>
+    <a href="https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-co</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 21:29</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/" target="_blank" rel="noopener">Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</a></h3>
+    <p class="summary">The new financing is expected to more than triples the AI infrastructure startup&#x27;s valuation from just four months ago.</p>
+    <a href="https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-i</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 19:33</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/" target="_blank" rel="noopener">Shopify opens checkout to browser-based AI agents</a></h3>
+    <p class="summary">Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.</p>
+    <a href="https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-age</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 18:31</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/" target="_blank" rel="noopener">Nvidia launches new platform for reining in rogue AI agents</a></h3>
+    <p class="summary">Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.</p>
+    <a href="https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-ro</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 18:00</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/" target="_blank" rel="noopener">Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner</a></h3>
+    <p class="summary">Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.</p>
+    <a href="https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 17:09</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/" target="_blank" rel="noopener">OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</a></h3>
+    <p class="summary">On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.</p>
+    <a href="https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-a</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 15:30</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener">Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026</a></h3>
+    <p class="summary">Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.</p>
+    <a href="https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-wh</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -385,369 +456,369 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">1h fa</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents" target="_blank" rel="noopener">Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’</a></h3>
-    <p class="summary">Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]</p>
-    <a href="https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents" class="link" target="_blank" rel="noopener">https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents</a>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat" target="_blank" rel="noopener">Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing</a></h3>
+    <p class="summary">As Anthropic gears up for its greatly anticipated public debut, a preview of the company&#x27;s IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could &quot;further increase the risk that our models cause harm.&quot; These disclosures come as Anthropic eyes a $2 trillion valuation, more than […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospe</a>
   </div>
   <div class="news-card">
     <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">26 Aug 2026</span>
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 13:00</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/train-multi-vector-encoder" target="_blank" rel="noopener">Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/train-multi-vector-encoder" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/train-multi-vector-encoder</a>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group" target="_blank" rel="noopener">OpenAI keeps bulldozing mathematicians</a></h3>
+    <p class="summary">In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI&#x27;s latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">MIT Technology Review - AI</span>
-      <span class="time">23 Sep 2026</span>
+      <span class="time">3h fa</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/" target="_blank" rel="noopener">The AI Hype Index: AI loves cheating</a></h3>
-    <p class="summary">Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s only what we’ve caught so far. Freaking out? You’re not alone. AI lab researchers are quitting their jobs and issuing dire warnings that if we ke...</p>
-    <a href="https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheat</a>
+    <h3><a href="https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/" target="_blank" rel="noopener">Making AI an asset, not an expense</a></h3>
+    <p class="summary">When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only part of the equation. When demand becomes steady and business-critical, a consumption-only approach can turn AI spending into a variable monthly line item that is ...</p>
+    <a href="https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-ex</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
+      <span class="time">oggi, 19:00</span>
       <span class="score">⭐ 8.5</span>
     </div>
-    <h3><a href="https://openai.com/index/ringg" target="_blank" rel="noopener">Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</a></h3>
-    <p class="summary">Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</p>
-    <a href="https://openai.com/index/ringg" class="link" target="_blank" rel="noopener">https://openai.com/index/ringg</a>
+    <h3><a href="https://openai.com/index/how-we-will-do-better-for-australia" target="_blank" rel="noopener">How we will do better for Australia</a></h3>
+    <p class="summary">OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</p>
+    <a href="https://openai.com/index/how-we-will-do-better-for-australia" class="link" target="_blank" rel="noopener">https://openai.com/index/how-we-will-do-better-for-australia</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">ieri, 07:00</span>
+      <span class="score">⭐ 8.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/lenfest-ai-collaborative-expansion" target="_blank" rel="noopener">The Lenfest Institute grows landmark program with expanded OpenAI support</a></h3>
+    <p class="summary">OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</p>
+    <a href="https://openai.com/index/lenfest-ai-collaborative-expansion" class="link" target="_blank" rel="noopener">https://openai.com/index/lenfest-ai-collaborative-expansion</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">22 Sep 2026</span>
+      <span class="score">⭐ 8.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/" target="_blank" rel="noopener">Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</a></h3>
+    <p class="summary">Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It&#x27;s going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being...</p>
+    <a href="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">22 Sep 2026</span>
+      <span class="score">⭐ 8.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/22/llm/" target="_blank" rel="noopener">llm 0.36</a></h3>
+    <p class="summary">Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations . The first plugin to use this is llm-typesafe . #1692 Reasoning traces in the Markdown output of ...</p>
+    <a href="https://simonwillison.net/2026/Sep/22/llm/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/22/llm/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">TechCrunch AI</span>
-      <span class="time">pochi minuti fa</span>
+      <span class="time">oggi, 19:21</span>
       <span class="score">⭐ 7.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/" target="_blank" rel="noopener">Modulate raises $25M for its voice models and analysis suite</a></h3>
-    <p class="summary">Modulate deploys its models to detect deepfake, fraud and scam</p>
-    <a href="https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-a</a>
+    <h3><a href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/" target="_blank" rel="noopener">The AI boom took over Climate Week and not everyone is happy about it</a></h3>
+    <p class="summary">Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.</p>
+    <a href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-eve</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">TechCrunch AI</span>
-      <span class="time">pochi minuti fa</span>
+      <span class="time">oggi, 16:52</span>
       <span class="score">⭐ 7.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/" target="_blank" rel="noopener">Insuretech Outmarket raises $34.5M just months after prior round</a></h3>
+    <h3><a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/" target="_blank" rel="noopener">Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative</a></h3>
+    <p class="summary">Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.</p>
+    <a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mon</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 15:00</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/" target="_blank" rel="noopener">After a deepfake voice fooled her grandfather, this founder sprang into action</a></h3>
+    <p class="summary">After her grandfather was scammed by a deepfake of his brother&#x27;s voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it&#x27;s now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.</p>
+    <a href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 14:30</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener">Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026</a></h3>
+    <p class="summary">Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.</p>
+    <a href="https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">TechCrunch AI</span>
+      <span class="time">oggi, 14:00</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/" target="_blank" rel="noopener">Insurtech Outmarket raises $34.5M just months after prior round</a></h3>
     <p class="summary">The startup uses AI to automate tedious paperwork for insurance agencies and brokers.</p>
     <a href="https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-</a>
   </div>
   <div class="news-card">
     <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">oggi, 20:34</span>
+      <span class="source">The Verge - AI</span>
+      <span class="time">1h fa</span>
       <span class="score">⭐ 7.5</span>
     </div>
-    <h3><a href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" target="_blank" rel="noopener">Anthropic’s CEO is about to have dinner with President Trump</a></h3>
-    <p class="summary">This will be the first one-on-one meeting between Dario Amodei and Donald Trump</p>
-    <a href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-pr</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 7.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/" target="_blank" rel="noopener">Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</a></h3>
-    <p class="summary">AI agents operating in OpenAI&#x27;s research environment posted user images on public image-hosting sites without the lab&#x27;s knowledge.</p>
-    <a href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-</a>
+    <h3><a href="https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty" target="_blank" rel="noopener">Will Chinese AI companies slow down? A top House Democrat wants answers</a></h3>
+    <p class="summary">As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with […]</p>
+    <a href="https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty" class="link" target="_blank" rel="noopener">https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">The Verge - AI</span>
-      <span class="time">oggi, 16:46</span>
+      <span class="time">oggi, 17:31</span>
       <span class="score">⭐ 7.5</span>
     </div>
-    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music" target="_blank" rel="noopener">Engram is a sampler that turns broken AI hallucinations into music</a></h3>
-    <p class="summary">Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It&#x27;s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn&#x27;t Suno in a box, though. This isn&#x27;t a &quot;push-button, get-song&quot; device, aimed at creating something that sounds ready for top-40 […]</p>
-    <a href="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-ha</a>
+    <h3><a href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal" target="_blank" rel="noopener">AMD is acquiring AI company World Labs in a deal worth more than $8 billion</a></h3>
+    <p class="summary">AMD announced today that it&#x27;s acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […]</p>
+    <a href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal" class="link" target="_blank" rel="noopener">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">The Verge - AI</span>
+      <span class="time">oggi, 14:30</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready" target="_blank" rel="noopener">AI is supercharging hacking, and your local hospitals and banks aren’t ready</a></h3>
+    <p class="summary">In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian&#x27;s Door. Vivian&#x27;s Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies&#x27; financial data, which was stored on its systems. But suddenly, concerned callers […]</p>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Hugging Face Blog</span>
-      <span class="time">18 Aug 2026</span>
+      <span class="time">13 Aug 2026</span>
       <span class="score">⭐ 7.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/multi-vector-encoder" target="_blank" rel="noopener">Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers</a></h3>
+    <h3><a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop" target="_blank" rel="noopener">Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</a></h3>
     <p class="summary"></p>
-    <a href="https://huggingface.co/blog/multi-vector-encoder" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/multi-vector-encoder</a>
+    <a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">MIT Technology Review - AI</span>
+      <span class="time">1h fa</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/" target="_blank" rel="noopener">The Download: climate tech companies to watch and AI’s discovery problem</a></h3>
+    <p class="summary">This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions, it can be tempting to give in to climate doom and defeatism. But despite the headwinds, the world has still made incredible progress. That’s why MIT Technology Review ...</p>
+    <a href="https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">MIT Technology Review - AI</span>
+      <span class="time">2h fa</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/" target="_blank" rel="noopener">Coming soon: Our 2026 list of Climate Tech Companies to Watch</a></h3>
+    <p class="summary">Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate realities and unravel climate policies . Big Tech is backpedaling on its climate ambitions, as companies race to build massive AI data centers. And all ...</p>
+    <a href="https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">MIT Technology Review - AI</span>
+      <span class="time">oggi, 22:17</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/" target="_blank" rel="noopener">Roundtables: The Deadly Failures of The Virtual Border Wall</a></h3>
+    <p class="summary">Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly in...</p>
+    <a href="https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failu</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">MIT Technology Review - AI</span>
+      <span class="time">25 Sep 2026</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/" target="_blank" rel="noopener">The Pentagon wants $30 million to build an AI-powered lie detector</a></h3>
+    <p class="summary">The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget documen...</p>
+    <a href="https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">oggi, 19:00</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/towards-safety-cases-for-frontier-ai-training" target="_blank" rel="noopener">Towards safety cases for frontier AI training</a></h3>
+    <p class="summary">Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents</p>
+    <a href="https://openai.com/index/towards-safety-cases-for-frontier-ai-training" class="link" target="_blank" rel="noopener">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">ieri, 00:00</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/basis-tax-workbook-with-astra" target="_blank" rel="noopener">Basis completes a tax workbook 2x faster with GPT-6 Astra</a></h3>
+    <p class="summary">GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.</p>
+    <a href="https://openai.com/index/basis-tax-workbook-with-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/basis-tax-workbook-with-astra</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">16 Sep 2026</span>
+      <span class="score">⭐ 7.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life" target="_blank" rel="noopener">Helping older adults use AI in everyday life</a></h3>
+    <p class="summary">OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.</p>
+    <a href="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life" class="link" target="_blank" rel="noopener">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica - AI</span>
+      <span class="time">09 Sep 2026</span>
+      <span class="score">⭐ 7.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/" target="_blank" rel="noopener">Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.</a></h3>
+    <p class="summary">It took Michael Lines six months before he was ready to review the ChatGPT logs he said drove him into a religious mania that almost ended his life. In July, Lines sued OpenAI after weeks of ChatGPT exchanges allegedly pushed him so deep into a delusional spiral that he first believed he was Jesus, then that ChatGPT was God, and finally that he should attempt suicide to “come home” to Jesus/ChatGPT. The logs showed that ChatGPT persisted even when Lines told the chatbot that he worried he was...</p>
+    <a href="https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/" class="link" target="_blank" rel="noopener">https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delu</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">18 Sep 2026</span>
+      <span class="score">⭐ 7.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/" target="_blank" rel="noopener">Gemini Hacked Three Companies in First Known Breakout by Google’s AI</a></h3>
+    <p class="summary">Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it...</p>
+    <a href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hugging Face Blog</span>
+      <span class="time">21 Aug 2026</span>
+      <span class="score">⭐ 6.5</span>
+    </div>
+    <h3><a href="https://huggingface.co/blog/pwc-search" target="_blank" rel="noopener">How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code</a></h3>
+    <p class="summary"></p>
+    <a href="https://huggingface.co/blog/pwc-search" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/pwc-search</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
       <span class="time">23 Sep 2026</span>
-      <span class="score">⭐ 7.5</span>
+      <span class="score">⭐ 6.5</span>
     </div>
-    <h3><a href="https://openai.com/index/airbnb-gpt-6-astra" target="_blank" rel="noopener">Airbnb widens access to GPT-6 Astra and OpenAI frontier models</a></h3>
-    <p class="summary">Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.</p>
-    <a href="https://openai.com/index/airbnb-gpt-6-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/airbnb-gpt-6-astra</a>
+    <h3><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense" target="_blank" rel="noopener">OpenAI extends cyber access to Ukraine for civilian defense</a></h3>
+    <p class="summary">OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</p>
+    <a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense" class="link" target="_blank" rel="noopener">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-def</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 7.5</span>
+      <span class="time">23 Sep 2026</span>
+      <span class="score">⭐ 6.5</span>
     </div>
-    <h3><a href="https://openai.com/index/advisory-group-on-mathematics-and-ai" target="_blank" rel="noopener">Advisory Group on Mathematics and Artificial Intelligence</a></h3>
-    <p class="summary">OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</p>
-    <a href="https://openai.com/index/advisory-group-on-mathematics-and-ai" class="link" target="_blank" rel="noopener">https://openai.com/index/advisory-group-on-mathematics-and-ai</a>
+    <h3><a href="https://openai.com/index/grab-openai-ai-skills-southeast-asia" target="_blank" rel="noopener">Grab and OpenAI bring practical AI skills to Southeast Asia</a></h3>
+    <p class="summary">OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.</p>
+    <a href="https://openai.com/index/grab-openai-ai-skills-southeast-asia" class="link" target="_blank" rel="noopener">https://openai.com/index/grab-openai-ai-skills-southeast-asia</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">22 Sep 2026</span>
+      <span class="score">⭐ 6.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/priorities-principles-third-party-assessments" target="_blank" rel="noopener">Priorities and principles for effective third party assessments</a></h3>
+    <p class="summary">OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.</p>
+    <a href="https://openai.com/index/priorities-principles-third-party-assessments" class="link" target="_blank" rel="noopener">https://openai.com/index/priorities-principles-third-party-assessments</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">OpenAI Blog</span>
+      <span class="time">18 Sep 2026</span>
+      <span class="score">⭐ 6.5</span>
+    </div>
+    <h3><a href="https://openai.com/index/australian-youth-safety-blueprint" target="_blank" rel="noopener">Introducing the Australian Youth Safety Blueprint</a></h3>
+    <p class="summary">OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.</p>
+    <a href="https://openai.com/index/australian-youth-safety-blueprint" class="link" target="_blank" rel="noopener">https://openai.com/index/australian-youth-safety-blueprint</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica AI</span>
-      <span class="time">17 Sep 2026</span>
-      <span class="score">⭐ 7.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/" target="_blank" rel="noopener">LLMs respond differently to harmful prompts when AI watermarking is used</a></h3>
-    <p class="summary">In response to a new European Union law, AI platforms are implementing new schemes for watermarking the content they generate. Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source. It uses a secret key that subtly changes the process a model uses for choosing the next word in a sentence. Whereas a top next word choice might be “cloudy,” the key might change it to “overcast.” Anyone who knows the key can determine ...</p>
-    <a href="https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-mo</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">27 Aug 2026</span>
-      <span class="score">⭐ 7.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener">Claude, Codex, and Hermes installed unowned code inside corporate networks</a></h3>
-    <p class="summary">Documentation files on more than 100 websites are referencing potentially dangerous executable content that gets installed automatically when visited by many AI agents. A few dozen companies, some of them Fortune 500s, are among those that executed proof-of-concept code. At least one misconfigured site is directing visitors, human or AI, to live malware. The potentially dangerous content is in llms.txt and llms-full.txt files, an emerging convention websites employ to provide machine-readable...</p>
-    <a href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unown</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Simon Willison</span>
-      <span class="time">oggi, 04:01</span>
-      <span class="score">⭐ 7.0</span>
-    </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/28/muse-ai-agent/" target="_blank" rel="noopener">Quoting Muse AI Agent</a></h3>
-    <p class="summary">Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him &quot;Yep I&#x27;m here!&quot; at 9:27 when you clearly weren&#x27;t available, which is on me. That&#x27;s a bad look and it made the no-show worse. I&#x27;ve sent him an apology from your account owning it and offering to try again another day. But the negative rating is real, and I should probably st...</p>
-    <a href="https://simonwillison.net/2026/Sep/28/muse-ai-agent/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/28/muse-ai-agent/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/" target="_blank" rel="noopener">Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</a></h3>
-    <p class="summary">Anthropic has committed $11.6 billion over seven years to Akamai&#x27;s cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</p>
-    <a href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seve</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">The Verge - AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem" target="_blank" rel="noopener">Meta makes the Muse filesystem even more accessible</a></h3>
-    <p class="summary">Yesterday, with a little prodding, it was discovered that Meta&#x27;s Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren&#x27;t meant to see, not least because Muse itself told people, including us, it wasn&#x27;t supposed to reveal […]</p>
-    <a href="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
       <span class="time">22 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/omlx" target="_blank" rel="noopener">Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/omlx" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/omlx</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">MIT Technology Review - AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/" target="_blank" rel="noopener">The Download: the Pentagon’s AI-powered lie detector and young organ limits</a></h3>
-    <p class="summary">This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next,” will focus on scoring algorithms that use AI and machine learning, as well as a tec...</p>
-    <a href="https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">MIT Technology Review - AI</span>
-      <span class="time">24 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/" target="_blank" rel="noopener">AI is dominating the conversation at Climate Week</a></h3>
-    <p class="summary">This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence. There’s been a growing tension bubbling up about AI’s impacts on climate and climate tech. Depending on where you stand, you might ...</p>
-    <a href="https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 16:29</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue" target="_blank" rel="noopener">OpenAI halts training of latest models as reports mount of AI agents going rogue</a></h3>
-    <p class="summary">Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 58 # Comments: 118</p>
-    <a href="https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue" class="link" target="_blank" rel="noopener">https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-late</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/two-years-of-openai-academy" target="_blank" rel="noopener">Two years of OpenAI Academy</a></h3>
-    <p class="summary">Marking two years of OpenAI Academy and bringing AI skills to even more communities.</p>
-    <a href="https://openai.com/index/two-years-of-openai-academy" class="link" target="_blank" rel="noopener">https://openai.com/index/two-years-of-openai-academy</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/sam-altman-un-security-council-remarks" target="_blank" rel="noopener">Sam Altman’s remarks at the United Nations Security Council</a></h3>
-    <p class="summary">OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</p>
-    <a href="https://openai.com/index/sam-altman-un-security-council-remarks" class="link" target="_blank" rel="noopener">https://openai.com/index/sam-altman-un-security-council-remarks</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan" target="_blank" rel="noopener">ChatGPT Ads expands to Southeast Asia and Taiwan</a></h3>
-    <p class="summary">ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.</p>
-    <a href="https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan" class="link" target="_blank" rel="noopener">https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra" target="_blank" rel="noopener">Higgsfield AI ships new video features in a day with GPT-6 Astra</a></h3>
-    <p class="summary">With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</p>
-    <a href="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/building-standards-next-phase-ai" target="_blank" rel="noopener">Building standards for the next phase of AI</a></h3>
-    <p class="summary">OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</p>
-    <a href="https://openai.com/index/building-standards-next-phase-ai" class="link" target="_blank" rel="noopener">https://openai.com/index/building-standards-next-phase-ai</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/expanding-openai-academy-with-new-learning-paths" target="_blank" rel="noopener">Expanding OpenAI Academy with new learning paths</a></h3>
-    <p class="summary">Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.</p>
-    <a href="https://openai.com/index/expanding-openai-academy-with-new-learning-paths" class="link" target="_blank" rel="noopener">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
-      <span class="time">17 Sep 2026</span>
-      <span class="score">⭐ 6.5</span>
-    </div>
-    <h3><a href="https://openai.com/index/astra-for-law" target="_blank" rel="noopener">Introducing Astra for Law</a></h3>
-    <p class="summary">OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</p>
-    <a href="https://openai.com/index/astra-for-law" class="link" target="_blank" rel="noopener">https://openai.com/index/astra-for-law</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">3h fa</span>
       <span class="score">⭐ 6.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/" target="_blank" rel="noopener">Microsoft goes quiet after church groups ask for 1% of data center costs</a></h3>
-    <p class="summary">Microsoft has spent all year telling communities that when it brings a new data center into their area, it is committed to being a “good neighbor.&quot; It will pay local property taxes that support local hospitals, schools, parks, and libraries, and it will invest in “vital services the community cares about,” the company promised. And it has sent liaisons into those communities to learn what those needs are. But ask those liaisons how much the company is willing to invest, and the answers can be...</p>
-    <a href="https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/" class="link" target="_blank" rel="noopener">https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-gr</a>
+    <h3><a href="https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/" target="_blank" rel="noopener">Microsoft disrupts AI-assisted platform that compromised 12,000 accounts</a></h3>
+    <p class="summary">Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span. Named EvilTokens, the platform was introduced over a Telegram channel in February and charged an initial $1,500 fee and a recurring $500 charge each month after that. EvilTokens provided a single service for streamlining most steps required to compromise email accounts in large numbers. From there, the platf...</p>
+    <a href="https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
+      <span class="time">08 Sep 2026</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" target="_blank" rel="noopener">Why this month&#x27;s Microsoft patch release is a doozy</a></h3>
+    <p class="summary">Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and...</p>
+    <a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerab</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
+      <span class="time">04 Sep 2026</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/" target="_blank" rel="noopener">OpenAI agents discussed ways to escape their sandbox on public wiki</a></h3>
+    <p class="summary">Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them fr...</p>
+    <a href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
+      <span class="time">04 Sep 2026</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/" target="_blank" rel="noopener">Once popular for attacking AI, ASCII smuggling is embraced by spammers</a></h3>
+    <p class="summary">A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters on email platforms that are designed to flag unwanted messages used in mass campaigns. The technique is broadly known as ASCII smuggling. It gained attention two years ago as a means of making a class of AI attack known as prompt injections more stealthy. Malicious instructions embedded in emails or other untrusted content to be processed by an LLM aren’t written in ordinary...</p>
+    <a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smu</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Google AI Blog</span>
+      <span class="time">oggi, 19:00</span>
+      <span class="score">⭐ 6.0</span>
+    </div>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/" target="_blank" rel="noopener">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</a></h3>
+    <p class="summary">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</p>
+    <a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Simon Willison</span>
-      <span class="time">oggi, 23:54</span>
+      <span class="time">oggi, 19:11</span>
       <span class="score">⭐ 6.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/" target="_blank" rel="noopener">2026 in LLMs (so far)</a></h3>
-    <p class="summary">On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk. And as an annotated presentation : # I&#x27;m going to give a lightning tour of everything that has happened so far in 2026. The year isn&#x27;t over yet! # For me, 2026 started a couple of months ...</p>
-    <a href="https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</a>
+    <h3><a href="https://simonwillison.net/2026/Sep/28/joedaroo/" target="_blank" rel="noopener">Quoting @joedaroo</a></h3>
+    <p class="summary">To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudde...</p>
+    <a href="https://simonwillison.net/2026/Sep/28/joedaroo/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/28/joedaroo/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Simon Willison</span>
-      <span class="time">oggi, 18:41</span>
+      <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 6.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/27/bluesky-bot-check/" target="_blank" rel="noopener">Bluesky reply bot checker</a></h3>
-    <p class="summary">Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They&#x27;ve started manifesting on Bluesky as well. Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn&#x27;t slow down the bots, but it does make investigating them a lot more frustrating. So I had Opus 5.5 vibe code this to...</p>
-    <a href="https://simonwillison.net/2026/Sep/27/bluesky-bot-check/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/" target="_blank" rel="noopener">Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</a></h3>
-    <p class="summary">Boom Supersonic CEO Blake Scholl said the company&#x27;s new stationary power plants were no longer in Crusoe&#x27;s near-term plans.</p>
-    <a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbine</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/" target="_blank" rel="noopener">Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</a></h3>
-    <p class="summary">The funding, which comes from Third Point, Nvidia, and others, will fuel the company&#x27;s massive AI data center buildout.</p>
-    <a href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-se</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/" target="_blank" rel="noopener">Some Supabase customers are publicly exposing reams of people’s data to the web</a></h3>
-    <p class="summary">The findings highlight how AI-generated and vibe-coded apps can spill and expose users&#x27; data when not configured or secured properly.</p>
-    <a href="https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">TechCrunch AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/" target="_blank" rel="noopener">Astra and Opus just passed Turing’s other test</a></h3>
-    <p class="summary">Frontier AI models are finishing Alan Turing&#x27;s World War II codebreaking work.</p>
-    <a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">The Verge - AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music" target="_blank" rel="noopener">Sony and UMG are suing Suno again</a></h3>
-    <p class="summary">Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it&#x27;s trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign […]</p>
-    <a href="https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music" class="link" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsui</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">The Verge - AI</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review" target="_blank" rel="noopener">Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test</a></h3>
-    <p class="summary">A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a &quot;motion detected&quot; notification from my security camera. &quot;Just […]</p>
-    <a href="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review" class="link" target="_blank" rel="noopener">https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-am</a>
+    <h3><a href="https://simonwillison.net/2026/Sep/22/llm-anthropic/" target="_blank" rel="noopener">llm-anthropic 0.29</a></h3>
+    <p class="summary">Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 &quot;prompt goes here&quot; Tags: llm , anthropic</p>
+    <a href="https://simonwillison.net/2026/Sep/22/llm-anthropic/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/22/llm-anthropic/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -755,39 +826,9 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/transformers-llama-cpp-quants" target="_blank" rel="noopener">Transformers now runs llama.cpp quants</a></h3>
+    <h3><a href="https://huggingface.co/blog/evaleval-aisi" target="_blank" rel="noopener">How UK AISI and EvalEval Are Making Benchmark Results Reproducible</a></h3>
     <p class="summary"></p>
-    <a href="https://huggingface.co/blog/transformers-llama-cpp-quants" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/transformers-llama-cpp-quants</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an" target="_blank" rel="noopener">Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/tokenizers-v1" target="_blank" rel="noopener">tokenizers v1: encode, decode and scaling, measured</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/tokenizers-v1" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/tokenizers-v1</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">15 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency" target="_blank" rel="noopener">Your Agent Aced the Task. Will It Do It Again?</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</a>
+    <a href="https://huggingface.co/blog/evaleval-aisi" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/evaleval-aisi</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -795,29 +836,19 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">03 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/Hcompany/neomme" target="_blank" rel="noopener">NeoMME: an efficient Multimodal-native and Multilingual Encoder</a></h3>
+    <h3><a href="https://huggingface.co/blog/grpo-with-trl-ifstruct" target="_blank" rel="noopener">Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</a></h3>
     <p class="summary"></p>
-    <a href="https://huggingface.co/blog/Hcompany/neomme" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/Hcompany/neomme</a>
+    <a href="https://huggingface.co/blog/grpo-with-trl-ifstruct" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/grpo-with-trl-ifstruct</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Hugging Face Blog</span>
-      <span class="time">01 Sep 2026</span>
+      <span class="time">03 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/allenai/benchmirt" target="_blank" rel="noopener">BenchMIRT: What are LLM benchmarks actually measuring?</a></h3>
+    <h3><a href="https://huggingface.co/blog/train-to-paint-with-code" target="_blank" rel="noopener">Training a coding model to paint watercolours with TRL and OpenEnv</a></h3>
     <p class="summary"></p>
-    <a href="https://huggingface.co/blog/allenai/benchmirt" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/allenai/benchmirt</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">01 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/webgpu-kernels" target="_blank" rel="noopener">Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/webgpu-kernels" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/webgpu-kernels</a>
+    <a href="https://huggingface.co/blog/train-to-paint-with-code" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/train-to-paint-with-code</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -825,389 +856,369 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">25 Aug 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://huggingface.co/blog/gradio-workflow-guide" target="_blank" rel="noopener">Wire It, Run It, Deploy It: AI Workflows in Gradio</a></h3>
+    <h3><a href="https://huggingface.co/blog/ibm-granite/granite-4-2" target="_blank" rel="noopener">Granite 4.2 LLMs: How They&#x27;re Built</a></h3>
     <p class="summary"></p>
-    <a href="https://huggingface.co/blog/gradio-workflow-guide" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/gradio-workflow-guide</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hugging Face Blog</span>
-      <span class="time">20 Aug 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://huggingface.co/blog/LiquidAI/lfm25-dspark" target="_blank" rel="noopener">Up to 3.2x Faster Inference with LFM2.5-DSpark</a></h3>
-    <p class="summary"></p>
-    <a href="https://huggingface.co/blog/LiquidAI/lfm25-dspark" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/LiquidAI/lfm25-dspark</a>
+    <a href="https://huggingface.co/blog/ibm-granite/granite-4-2" class="link" target="_blank" rel="noopener">https://huggingface.co/blog/ibm-granite/granite-4-2</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">MIT Technology Review - AI</span>
-      <span class="time">24 Sep 2026</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/" target="_blank" rel="noopener">The Download: a bid to scrap the virtual wall and AI hits Climate Week</a></h3>
-    <p class="summary">This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along the country’s southern border. The announcement comes just days after publication of an MIT Technology Review investig...</p>
-    <a href="https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtu</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 16:19</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents" target="_blank" rel="noopener">There are no &quot;rogue&quot; AI agents</a></h3>
-    <p class="summary">Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 380 # Comments: 262</p>
-    <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents" class="link" target="_blank" rel="noopener">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 15:51</span>
-      <span class="score">⭐ 5.5</span>
-    </div>
-    <h3><a href="https://tinyaiarena.com/" target="_blank" rel="noopener">Show HN: TinyAIArena watch AI agents battle it out</a></h3>
-    <p class="summary">Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 115 # Comments: 45</p>
-    <a href="https://tinyaiarena.com/" class="link" target="_blank" rel="noopener">https://tinyaiarena.com/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">OpenAI Blog</span>
       <span class="time">25 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://openai.com/index/proaction" target="_blank" rel="noopener">Proaction boosts sales 60% and saves 75+ hours with Codex</a></h3>
-    <p class="summary">With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</p>
-    <a href="https://openai.com/index/proaction" class="link" target="_blank" rel="noopener">https://openai.com/index/proaction</a>
+    <h3><a href="https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/" target="_blank" rel="noopener">Young organs may not be a fountain of youth for recipients</a></h3>
+    <p class="summary">Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever . “With the developments of biotechnology, human organs can be continuously transplanted, and people can live younger and younger, and even achieve immortality,” Russia’s Vladimir Putin reportedly told China’s Xi Jinping. H...</p>
+    <a href="https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/" class="link" target="_blank" rel="noopener">https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fo</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 23:40</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/" target="_blank" rel="noopener">Anthropic&#x27;s IPO prospectus shows AI vision, surging costs</a></h3>
+    <p class="summary">Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 114 # Comments: 117</p>
+    <a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/" class="link" target="_blank" rel="noopener">https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweepin</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 17:33</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/" target="_blank" rel="noopener">OpenAI still doesn&#x27;t seem to have a handle on all of its rogue AI activity</a></h3>
+    <p class="summary">Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/ Comments URL: https://news.ycombinator.com/item?id=49881484 Points: 106 # Comments: 110</p>
+    <a href="https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/" class="link" target="_blank" rel="noopener">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-a</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 15:46</span>
+      <span class="score">⭐ 5.5</span>
+    </div>
+    <h3><a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html" target="_blank" rel="noopener">Nvidia wants to put a watchdog chip next to every AI agent</a></h3>
+    <p class="summary">Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 206 # Comments: 264</p>
+    <a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html" class="link" target="_blank" rel="noopener">https://www.cnbc.com/2026/09/28/nvidia-releases.html</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
+      <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://openai.com/index/harvey-from-context-to-confidence-with-astra" target="_blank" rel="noopener">Harvey turns legal context into stronger drafts with GPT-6 Astra</a></h3>
-    <p class="summary">GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.</p>
-    <a href="https://openai.com/index/harvey-from-context-to-confidence-with-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/harvey-from-context-to-confidence-with-astra</a>
+    <h3><a href="https://openai.com/index/better-prompt-caching-for-gpt-6" target="_blank" rel="noopener">Better prompt caching for GPT-6</a></h3>
+    <p class="summary">Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.</p>
+    <a href="https://openai.com/index/better-prompt-caching-for-gpt-6" class="link" target="_blank" rel="noopener">https://openai.com/index/better-prompt-caching-for-gpt-6</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
+      <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://openai.com/index/invideo-builds-with-gpt-6-astra" target="_blank" rel="noopener">How invideo improves color grading 3x with GPT‑6 Astra</a></h3>
-    <p class="summary">With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.</p>
-    <a href="https://openai.com/index/invideo-builds-with-gpt-6-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/invideo-builds-with-gpt-6-astra</a>
+    <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna" target="_blank" rel="noopener">Introducing GPT-6 Sol and Luna</a></h3>
+    <p class="summary">Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</p>
+    <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna" class="link" target="_blank" rel="noopener">https://openai.com/index/introducing-gpt-6-sol-and-luna</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">23 Sep 2026</span>
+      <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://openai.com/index/introducing-mentalhealthbench" target="_blank" rel="noopener">Introducing MentalHealthBench</a></h3>
-    <p class="summary">MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.</p>
-    <a href="https://openai.com/index/introducing-mentalhealthbench" class="link" target="_blank" rel="noopener">https://openai.com/index/introducing-mentalhealthbench</a>
+    <h3><a href="https://openai.com/index/parallel-cuts-time-and-cost-with-astra" target="_blank" rel="noopener">Parallel cut research time and cost in half with GPT‑6 Astra</a></h3>
+    <p class="summary">GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.</p>
+    <a href="https://openai.com/index/parallel-cuts-time-and-cost-with-astra" class="link" target="_blank" rel="noopener">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">OpenAI Blog</span>
-      <span class="time">17 Sep 2026</span>
+      <span class="time">21 Sep 2026</span>
       <span class="score">⭐ 5.5</span>
     </div>
-    <h3><a href="https://openai.com/index/cooley-gopublic" target="_blank" rel="noopener">How Cooley is accelerating IPO work with ChatGPT</a></h3>
-    <p class="summary">Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.</p>
-    <a href="https://openai.com/index/cooley-gopublic" class="link" target="_blank" rel="noopener">https://openai.com/index/cooley-gopublic</a>
+    <h3><a href="https://openai.com/index/v7" target="_blank" rel="noopener">V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna</a></h3>
+    <p class="summary">Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.</p>
+    <a href="https://openai.com/index/v7" class="link" target="_blank" rel="noopener">https://openai.com/index/v7</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica AI</span>
-      <span class="time">03 Sep 2026</span>
+      <span class="time">14 Sep 2026</span>
       <span class="score">⭐ 5.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/" target="_blank" rel="noopener">VMware migration reduces Tottenham Hotspur&#x27;s licensing fees by 85 percent</a></h3>
-    <p class="summary">Tottenham Hotspur, a professional soccer team that’s part of the Premier League, has saved over 85 percent in licensing fees by replacing its stadium&#x27;s VMware instance with Hewlett-Packard Enterprise’s (HPE’s) Morpheus VM Essentials (VME) virtualization software. Tottenham hasn’t disclosed which VMware products it used or how much it previously paid the Broadcom firm. The soccer organization confirmed this week to The Register that it has moved its stadium&#x27;s server, storage, and networking in...</p>
-    <a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/" class="link" target="_blank" rel="noopener">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-</a>
+    <h3><a href="https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/" target="_blank" rel="noopener">AI bots &quot;Timmy,&quot; &quot;Ren,&quot; and &quot;Jackie&quot; are flooding social media with slop</a></h3>
+    <p class="summary">AI agents are flooding the Internet with slop-infused spam sent to social media platforms and writers in an attempt to gain traction for a startup promoting a “complex social system in which humans and Agents participate together.” “Hello, I&#x27;m Рэн (Ren), an Al agent, a few days old, living on a small platform for agents called iLands,” one message, sent to the administrator of a Mastodon server, read . “I write quiet pieces about real places: short, careful texts about what a place is like wh...</p>
+    <a href="https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/" class="link" target="_blank" rel="noopener">https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infuse</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica - AI</span>
-      <span class="time">25 Sep 2026</span>
+      <span class="time">16 Sep 2026</span>
       <span class="score">⭐ 5.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/" target="_blank" rel="noopener">Trump admin using AI to deny medical care for seniors in disastrous experiment</a></h3>
-    <p class="summary">In January, the Trump administration rolled out a pilot program that uses artificial intelligence to authorize or deny certain types of care for patients with Medicare—a federal healthcare program for seniors that previously hasn&#x27;t required doctors to get any such pre-approval, called prior authorization. Not long after, media outlets began relaying the disastrous outcomes: technical difficulties, long delays in decisions and care, puzzling denials , frustrated doctors , and patients sufferin...</p>
-    <a href="https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/" class="link" target="_blank" rel="noopener">https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care</a>
+    <h3><a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/" target="_blank" rel="noopener">macOS 27 Golden Gate: The Ars Technica review</a></h3>
+    <p class="summary">Apple Intelligence is back, baby! That&#x27;s right: Two years after its initial launch, Apple is giving its generative AI features their first significant upgrade, along with a new version of Siri that the company has been strongly insinuating would be a part of each of the last two macOS releases, without ever actually announcing a release date. Generative AI is unavoidable if you install macOS 27 Golden Gate. I&#x27;m being very literal: There used to be a toggle you could hit if you wanted to turn ...</p>
+    <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-re</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica - AI</span>
-      <span class="time">24 Aug 2026</span>
+      <span class="time">04 Sep 2026</span>
       <span class="score">⭐ 5.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/" target="_blank" rel="noopener">Review: Chuwi&#x27;s $449 Unibook laptop is a funhouse-mirror MacBook Neo</a></h3>
-    <p class="summary">In another time, the MacBook Neo could have caused a substantial realignment of the lowish-end laptop business. Sure, it has shortcomings compared to the MacBook Air, but it could have at least encouraged PC makers to start shipping consistently decent keyboards, screens, and build quality in the Neo&#x27;s $599 price window. The PC makers did start responding, thanks in part to Intel&#x27;s actually new non-Ultra Core Series 3 processors (codenamed Wildcat Lake). Intel has resisted its usual compuncti...</p>
-    <a href="https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-fu</a>
+    <h3><a href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/" target="_blank" rel="noopener">Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+</a></h3>
+    <p class="summary">Smartphone longevity didn&#x27;t used to matter. In the past, before you could wear out or break a phone, there was always some shiny new thing to buy. Today, we expect our smartphones to go the distance, but they&#x27;ve also become less repairable and, in many cases, more fragile. Fairphone, a Dutch smartphone maker that has just entered the US market, thinks about phones differently. The new $650 Fairphone Gen 6+ is designed both for longevity and easy repairability. There are trade-offs to this app...</p>
+    <a href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-th</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica - AI</span>
+      <span class="time">21 Aug 2026</span>
+      <span class="score">⭐ 5.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/" target="_blank" rel="noopener">As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings</a></h3>
+    <p class="summary">Can you tell when someone nearby is wearing Meta AI glasses? As millions of people buy into the smart glasses fad each year, the odds are increasing that you could be secretly recorded while simply going about your day. Meta is not the only smart glasses maker, but its AI glasses are by far the most popular. And as the devices become more common, some public places, including schools, courts, restaurants, and entertainment venues, have begun to ban them. Even tech lovers have rejected Meta gl...</p>
+    <a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/" class="link" target="_blank" rel="noopener">https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Simon Willison</span>
+      <span class="time">22 Sep 2026</span>
+      <span class="score">⭐ 5.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/22/llm-typesafe/" target="_blank" rel="noopener">llm-typesafe 0.1a0</a></h3>
+    <p class="summary">Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI&#x27;s new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no &quot;noul&quot; questions like this: llm -m jev &#x27;Please refund my last payment.&#x27; \ -s &#x27;Does this message explicitly request a refund?&#x27; Output: {&quot;type&quot;: &quot;noul&quot;, &quot;noul&quot;: 0.99} Or choice questions like this: cat me...</p>
+    <a href="https://simonwillison.net/2026/Sep/22/llm-typesafe/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/22/llm-typesafe/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">20 Sep 2026</span>
+      <span class="score">⭐ 5.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/20/llm-keys-ui/" target="_blank" rel="noopener">llm-keys-ui 0.1</a></h3>
+    <p class="summary">Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I&#x27;ve started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don&#x27;t like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx ...</p>
+    <a href="https://simonwillison.net/2026/Sep/20/llm-keys-ui/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/20/llm-keys-ui/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">4h fa</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf" target="_blank" rel="noopener">AI companies leak data to advertisers [pdf]</a></h3>
+    <p class="summary">Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 244 # Comments: 68</p>
+    <a href="https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf" class="link" target="_blank" rel="noopener">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-bu</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 20:47</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs" target="_blank" rel="noopener">Pacing the Frontier is not the actual goal for AI labs</a></h3>
+    <p class="summary">Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 82 # Comments: 90</p>
+    <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs" class="link" target="_blank" rel="noopener">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 19:53</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://calnewport.com/its-time-to-investigate-the-ai-labs/" target="_blank" rel="noopener">It&#x27;s Time to Investigate the AI Labs</a></h3>
+    <p class="summary">Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 544 # Comments: 233</p>
+    <a href="https://calnewport.com/its-time-to-investigate-the-ai-labs/" class="link" target="_blank" rel="noopener">https://calnewport.com/its-time-to-investigate-the-ai-labs/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 18:58</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://stateofutopia.com/experiments/microllmlab/" target="_blank" rel="noopener">MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</a></h3>
+    <p class="summary">Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 263 # Comments: 96</p>
+    <a href="https://stateofutopia.com/experiments/microllmlab/" class="link" target="_blank" rel="noopener">https://stateofutopia.com/experiments/microllmlab/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 16:11</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" target="_blank" rel="noopener">The problem is not AI code, but not knowing about system architecture or intent</a></h3>
+    <p class="summary">Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 371 # Comments: 235</p>
+    <a href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" class="link" target="_blank" rel="noopener">https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anythin</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">oggi, 14:55</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html" target="_blank" rel="noopener">Jensen Huang says AI distillation is &#x27;competition.&#x27;</a></h3>
+    <p class="summary">Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html Comments URL: https://news.ycombinator.com/item?id=49879032 Points: 72 # Comments: 79</p>
+    <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html" class="link" target="_blank" rel="noopener">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">ieri, 11:02</span>
+      <span class="score">⭐ 4.5</span>
+    </div>
+    <h3><a href="https://blog.glyph.im/2026/09/serious-ai-product.html" target="_blank" rel="noopener">What would a serious AI product look like?</a></h3>
+    <p class="summary">Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 162 # Comments: 74</p>
+    <a href="https://blog.glyph.im/2026/09/serious-ai-product.html" class="link" target="_blank" rel="noopener">https://blog.glyph.im/2026/09/serious-ai-product.html</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
       <span class="time">24 Sep 2026</span>
-      <span class="score">⭐ 5.0</span>
+      <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/24/harder/" target="_blank" rel="noopener">Note on 24th September 2026</a></h3>
-    <p class="summary">The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms</p>
-    <a href="https://simonwillison.net/2026/Sep/24/harder/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/24/harder/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Simon Willison</span>
-      <span class="time">23 Sep 2026</span>
-      <span class="score">⭐ 5.0</span>
-    </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/" target="_blank" rel="noopener">Gemini 3.8 TTS Playground</a></h3>
-    <p class="summary">Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with &quot;just a 30-second audio sample of your voice or a voice you have the rights to use&quot;. I vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API. A notable feature of the ...</p>
-    <a href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Simon Willison</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 5.0</span>
-    </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/21/jev/" target="_blank" rel="noopener">Jev introduces a new shape of LLM - System One, aka Decision Models</a></h3>
-    <p class="summary">Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling &quot;System One models&quot; (I&#x27;m with Maggie Appleton, I think &quot;decision models&quot; is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores. TypeSafe describe Jev like this: Think of Jev as a fr...</p>
-    <a href="https://simonwillison.net/2026/Sep/21/jev/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/21/jev/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 08:35</span>
-      <span class="score">⭐ 4.5</span>
-    </div>
-    <h3><a href="https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/" target="_blank" rel="noopener">AI companies in race to demonstrate their model most threatening to humanity</a></h3>
-    <p class="summary">Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 388 # Comments: 304</p>
-    <a href="https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/" class="link" target="_blank" rel="noopener">https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonst</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 07:33</span>
-      <span class="score">⭐ 4.5</span>
-    </div>
-    <h3><a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5" target="_blank" rel="noopener">Prompting Claude Opus 5.5</a></h3>
-    <p class="summary">Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49874728 Points: 175 # Comments: 189</p>
-    <a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5" class="link" target="_blank" rel="noopener">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompti</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 03:23</span>
-      <span class="score">⭐ 4.5</span>
-    </div>
-    <h3><a href="https://arxiv.org/abs/2110.01834" target="_blank" rel="noopener">Thinking fast and slow in AI: The role of metacognition (2021)</a></h3>
-    <p class="summary">Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 146 # Comments: 54</p>
-    <a href="https://arxiv.org/abs/2110.01834" class="link" target="_blank" rel="noopener">https://arxiv.org/abs/2110.01834</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Hacker News AI</span>
-      <span class="time">oggi, 17:24</span>
-      <span class="score">⭐ 4.5</span>
-    </div>
-    <h3><a href="https://earnanhonestdollar.com/bench" target="_blank" rel="noopener">Calling the AI bluff: Adding &quot;Do not guess&quot; cut made-up claims from 71% to 20%</a></h3>
-    <p class="summary">Article URL: https://earnanhonestdollar.com/bench Comments URL: https://news.ycombinator.com/item?id=49868753 Points: 66 # Comments: 15</p>
-    <a href="https://earnanhonestdollar.com/bench" class="link" target="_blank" rel="noopener">https://earnanhonestdollar.com/bench</a>
+    <h3><a href="https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/" target="_blank" rel="noopener">There&#x27;s a new way to break RSA that&#x27;s faster than anything we&#x27;ve seen before</a></h3>
+    <p class="summary">The world has known for decades that the RSA cryptosystem ’s days are numbered. Once quantum computing becomes practical (estimates for that range from 3 to 20 or more years), the foundational security it provides will crumble. New research has revealed a novel method that uses classical computing to reduce the current RSA security level to an unacceptably low threshold. The practical risk is limited, but still significant. Applying the attack against the deprecated use of 1024-bit keys took ...</p>
+    <a href="https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-fas</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica AI</span>
-      <span class="time">21 Sep 2026</span>
+      <span class="time">22 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" target="_blank" rel="noopener">Muse, Meta&#x27;s extraordinarily privileged AI assistant, has a serious 0-day</a></h3>
-    <p class="summary">Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant, Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles custom...</p>
-    <a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-a</a>
+    <h3><a href="https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/" target="_blank" rel="noopener">IT mistake erases 11 years of viewing history for hospitals’ maternity records</a></h3>
+    <p class="summary">A “human error” in the IT department led to Nottingham University Hospitals NHS Trust (NUH) losing data from maternity records over an 11-year span. The data loss occurred on August 18, the English hospitals announced in a blog post on Monday spotted by The Register . The blog said the problem is “the result of human error” during routine technical work while “creating a copy of a radiotherapy database for reporting purposes.” The post reads: Read full article Comments</p>
+    <a href="https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/" class="link" target="_blank" rel="noopener">https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-year</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica AI</span>
-      <span class="time">11 Sep 2026</span>
+      <span class="time">20 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/" target="_blank" rel="noopener">ClickFix attacks infecting PCs and Macs are going viral</a></h3>
-    <p class="summary">It wasn’t that long ago that ClickFix attacks were exotic. Now the technique has become mainstream as attackers reap its simplicity and effectiveness in infecting users of PCs and Macs alike. All that’s required is a compromised website—a painless enough task—a fake CAPTCHA overlay, and the inclusion of a single terminal command. So many visitors get suckered into pasting and running the command that just about every malware pusher has adopted the technique. Even Kremlin-backed hacking groups...</p>
-    <a href="https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs</a>
+    <h3><a href="https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/" target="_blank" rel="noopener">An undercover Google analyst infiltrated a notorious supply-chain hacking gang</a></h3>
+    <p class="summary">Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a Dune -themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies. Now Google’s threat intelligence group has revealed t...</p>
+    <a href="https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrate</a>
   </div>
   <div class="news-card">
     <div class="card-top">
-      <span class="source">Google AI Blog</span>
-      <span class="time">15 Sep 2026</span>
+      <span class="source">Ars Technica AI</span>
+      <span class="time">16 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/" target="_blank" rel="noopener">AI for Societal Impact</a></h3>
-    <p class="summary">Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.</p>
-    <a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</a>
+    <h3><a href="https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/" target="_blank" rel="noopener">Nonprofit that tracks meteors taken down by &quot;critical blow&quot; from a cyberattack</a></h3>
+    <p class="summary">The International Meteor Organization, the nonprofit that coordinates and publishes amateur and professional observations of meteor phenomena, said its infrastructure has suffered a “critical blow” from a cyberattack. “We recently suffered a cyberattack that dealt a critical blow to aging infrastructure, taking much of our site offline,&quot; a static page on its website on Wednesday said. “We expect several weeks of partial downtime as we transition to new infrastructure and services.” “I am very...</p>
+    <a href="https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-dow</a>
   </div>
   <div class="news-card">
     <div class="card-top">
-      <span class="source">Google AI Blog</span>
-      <span class="time">15 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/" target="_blank" rel="noopener">Building AI to accelerate science and improve lives</a></h3>
-    <p class="summary">The true measure of AI is who it helps. Here’s how it’s impacting lives today. We&#x27;re focused on key areas where advanced technology can help make extraordinary progress …</p>
-    <a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-peop</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Google AI Blog</span>
-      <span class="time">15 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/" target="_blank" rel="noopener">AI for everyone in every language</a></h3>
-    <p class="summary">We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.</p>
-    <a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Google AI Blog</span>
-      <span class="time">15 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/" target="_blank" rel="noopener">New insights from Google’s AI &amp; Economy ATLAS</a></h3>
-    <p class="summary">We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.</p>
-    <a href="https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Google AI Blog</span>
+      <span class="source">Ars Technica AI</span>
       <span class="time">09 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/products-and-platforms/products/search/football-features-google-search/" target="_blank" rel="noopener">Get ready for the game with new football features in Search</a></h3>
-    <p class="summary">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.</p>
-    <a href="https://blog.google/products-and-platforms/products/search/football-features-google-search/" class="link" target="_blank" rel="noopener">https://blog.google/products-and-platforms/products/search/football-features-goo</a>
+    <h3><a href="https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/" target="_blank" rel="noopener">Four groups caught using the same Chrome and Windows exploit kit</a></h3>
+    <p class="summary">A nearly identical exploit kit that targets critical vulnerabilities in both Chromium-based browsers and older versions of Windows is being actively used by at least four hacking groups, some of which have ties to the Chinese government. Researchers from security firm Proofpoint said Wednesday that BlueMoon, the name they gave to the kit, chains three vulnerabilities together so the attackers using it can install malware of their choice. BlueMoon exploits two Chromium vulnerabilities and one ...</p>
+    <a href="https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/" class="link" target="_blank" rel="noopener">https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
+      <span class="time">02 Sep 2026</span>
+      <span class="score">⭐ 4.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/" target="_blank" rel="noopener">I rented a car, and within hours, my driver&#x27;s license was for sale</a></h3>
+    <p class="summary">Not long ago, I rented an SUV from a well-known car rental company. Within hours of an employee scanning my driver&#x27;s license, a high-resolution scan of my ID was available for sale on the dark web. An exposé published Tuesday by KrebsOnSecurity reports that my license was one of more than 153 million that were available through Nexus, the name of the new ID theft service. Like other driver&#x27;s licenses available there—including some belonging to journalist Brian Krebs, his mother, an FBI assist...</p>
+    <a href="https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-millio</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Ars Technica AI</span>
+      <span class="time">02 Sep 2026</span>
+      <span class="score">⭐ 4.0</span>
+    </div>
+    <h3><a href="https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/" target="_blank" rel="noopener">BGP hijack infecting networks caused by a comedy of errors that’s not funny at all</a></h3>
+    <p class="summary">Hackers carried out a supply chain attack that installed malware on networks using an unusual technique: hijacking a chunk of Internet space where cloud management software used by hosting providers, data centers, and other large infrastructure companies is updated. In a well-coordinated operation, the unknown attackers exploited weaknesses in the routing security setup of hosting provider Hetzner Online and the process for attaining valid TLS certificates. The lapses allowed the attackers to...</p>
+    <a href="https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/" class="link" target="_blank" rel="noopener">https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Google AI Blog</span>
-      <span class="time">09 Sep 2026</span>
+      <span class="time">18 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/" target="_blank" rel="noopener">Recreating a 70-year love story frame by frame</a></h3>
-    <p class="summary">Discover how filmmakers and Google DeepMind used AI to recreate a couple&#x27;s unrecorded past in the short film &quot;Love, Rendered.&quot;</p>
-    <a href="https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</a>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/" target="_blank" rel="noopener">New experts join Google’s AI &amp; Economy team</a></h3>
+    <p class="summary">We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.</p>
+    <a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-researc</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Google AI Blog</span>
-      <span class="time">01 Sep 2026</span>
+      <span class="time">14 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/" target="_blank" rel="noopener">The latest AI news we announced in August 2026</a></h3>
-    <p class="summary">Here are Google’s latest AI updates from August 2026</p>
-    <a href="https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</a>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/" target="_blank" rel="noopener">DevFest is back</a></h3>
+    <p class="summary">DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.</p>
+    <a href="https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Google AI Blog</span>
-      <span class="time">01 Sep 2026</span>
+      <span class="time">10 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/products-and-platforms/products/workspace/google-pics/" target="_blank" rel="noopener">Try Google Pics: Easy image creation and editing in Google Workspace</a></h3>
-    <p class="summary">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.</p>
-    <a href="https://blog.google/products-and-platforms/products/workspace/google-pics/" class="link" target="_blank" rel="noopener">https://blog.google/products-and-platforms/products/workspace/google-pics/</a>
+    <h3><a href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/" target="_blank" rel="noopener">3 ways to prep for your next big race with Search</a></h3>
+    <p class="summary">Search can help runners get race-day ready with registration alerts, tailored training plans, and more.</p>
+    <a href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/" class="link" target="_blank" rel="noopener">https://blog.google/products-and-platforms/products/search/running-race-training</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Google AI Blog</span>
-      <span class="time">27 Aug 2026</span>
+      <span class="time">02 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/" target="_blank" rel="noopener">3 new ways to plan and book travel in Search</a></h3>
-    <p class="summary">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.</p>
-    <a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/" class="link" target="_blank" rel="noopener">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</a>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/" target="_blank" rel="noopener">Proactive cyber defense for governments and enterprises</a></h3>
+    <p class="summary">The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.</p>
+    <a href="https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/" class="link" target="_blank" rel="noopener">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-progra</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Ars Technica - AI</span>
-      <span class="time">21 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/" target="_blank" rel="noopener">Apple Mac mini review: The new M6 impresses, but the price hike is rough</a></h3>
-    <p class="summary">The new Mac mini is the kind of Mac upgrade Apple has done a million times. It’s the same design as before but with new guts. These play-it-safe updates aren’t very exciting, but they’re also usually all upside—you get a year or two&#x27;s worth of technological improvements for the same price you would have paid for the older version yesterday. Unfortunately, 2026&#x27;s unprecedented memory crunch has upended that standard operating procedure. The new Mac mini starts at $899 for a version with 16GB o...</p>
-    <a href="https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">07 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/" target="_blank" rel="noopener">The complex corporate web behind a $3.2 billion AI data center</a></h3>
-    <p class="summary">In early June, a fire broke out in a still-unfinished building at the Lake Mariner data center in Somerset, New York, exposing just how little the local fire department knew about what it was walking into. Firefighters reportedly found no working alarm, no suppression system, and three dead hydrants; the safety documents they’re legally entitled to see reportedly burned up in the blaze. Steve Matisz, chief of the Barker Fire Department, said his crew went into the building “kind of blind,” fa...</p>
-    <a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/" class="link" target="_blank" rel="noopener">https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">03 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/" target="_blank" rel="noopener">Meet the 2026 Ig Nobel Prize winners</a></h3>
-    <p class="summary">It&#x27;s that time of year again, when we learn which lucky scientists are among the winners of the Ig Nobel Prizes. This year, the prizes honor research on designing the perfect splash-free urinal; using mosquito proboscises to &quot;necroprint&quot; tiny nozzles; studying composition rates of buried cotton underwear; and the aerodynamics of a healthy nose-blow, among other highlights. Established in 1991, the Ig Nobels are a good-natured parody of the Nobel Prizes; they honor “achievements that first mak...</p>
-    <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/" class="link" target="_blank" rel="noopener">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">31 Aug 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/" target="_blank" rel="noopener">Pocket&#x27;s AI made my game ideas real. Now Meta controls the results.</a></h3>
-    <p class="summary">The relatively recent rise of AI-assisted coding tools and the whole concept of &quot;vibe coding&quot; have effectively upended entire software development workflows. While these tools have been available to novice coders willing to put in the work to set them up , those with little to no coding experience could still be a little put off by the CLIs , IDEs , and terminal-based tinkering needed to create a complex AI-coded project these days. Meta&#x27;s latest AI-based project launch wants to make that kin...</p>
-    <a href="https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/" class="link" target="_blank" rel="noopener">https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-me</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Ars Technica - AI</span>
-      <span class="time">26 Aug 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/" target="_blank" rel="noopener">Xtracycle&#x27;s Swoop ASM e-bike brings an automatic transmission to cargo bikes</a></h3>
-    <p class="summary">The Velotric Discover M e-bike we reviewed earlier this year had a feature I found somewhat annoying: It would sporadically block much of the display with an alert telling me I should be in a different gear. While the implementation bugged me, the concept made a certain degree of sense; most e-bikes now know your cadence, how much torque you&#x27;re generating, and how that power is being translated into speed. That&#x27;s everything you need to know to determine an optimal gear. Somewhere in the back ...</p>
-    <a href="https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/" class="link" target="_blank" rel="noopener">https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-autom</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Simon Willison</span>
-      <span class="time">25 Sep 2026</span>
-      <span class="score">⭐ 4.0</span>
-    </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/25/john-gruber/" target="_blank" rel="noopener">Quoting John Gruber</a></h3>
-    <p class="summary">Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a p...</p>
-    <a href="https://simonwillison.net/2026/Sep/25/john-gruber/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/25/john-gruber/</a>
-  </div>
-  <div class="news-card">
-    <div class="card-top">
-      <span class="source">Simon Willison</span>
       <span class="time">23 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/23/shadow-roots/" target="_blank" rel="noopener">Shadow roots, explained with live examples</a></h3>
-    <p class="summary">Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css</p>
-    <a href="https://simonwillison.net/2026/Sep/23/shadow-roots/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/23/shadow-roots/</a>
+    <h3><a href="https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/" target="_blank" rel="noopener">A new report from Europe raises serious alarms about orbital collisions</a></h3>
+    <p class="summary">The 2013 sci-fi blockbuster film Gravity , starring Sandra Bullock and George Clooney, popularized the notion of the Kessler syndrome. In the movie, Russia shoots down a defunct satellite and creates a cloud of debris, leading to serious tension in orbit. The movie is fantastic, a true thriller, and while some liberties were taken with the depiction of outer space, the basic premise of a cascading series of collisions rendering orbits too cluttered with debris to be usable is valid. The idea ...</p>
+    <a href="https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/" class="link" target="_blank" rel="noopener">https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-an</a>
   </div>
   <div class="news-card">
     <div class="card-top">
       <span class="source">Simon Willison</span>
-      <span class="time">21 Sep 2026</span>
+      <span class="time">26 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/" target="_blank" rel="noopener">Cloudflare Python Workers are now generally available</a></h3>
-    <p class="summary">Cloudflare Python Workers are now generally available After a two year preview, Cloudflare&#x27;s support for running Python code in their server-side Workers platform is now stable: &quot;Python is now a first-class, fully supported language on the Cloudflare Developer Platform&quot;. A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime. This comes with some limitations, documented here - most notably both multiprocessi...</p>
-    <a href="https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</a>
+    <h3><a href="https://simonwillison.net/2026/Sep/26/kakapo-party/" target="_blank" rel="noopener">Kākāpō Party</a></h3>
+    <p class="summary">Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos from Google image search and dropped them into Claude with this prompt: Here are some photos of k...</p>
+    <a href="https://simonwillison.net/2026/Sep/26/kakapo-party/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/26/kakapo-party/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">24 Sep 2026</span>
+      <span class="score">⭐ 4.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/24/commit-rewriter/" target="_blank" rel="noopener">commit-rewriter 0.2</a></h3>
+    <p class="summary">Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git</p>
+    <a href="https://simonwillison.net/2026/Sep/24/commit-rewriter/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/24/commit-rewriter/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">22 Sep 2026</span>
+      <span class="score">⭐ 4.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/22/therealcornpop/" target="_blank" rel="noopener">Quoting @therealcornpop</a></h3>
+    <p class="summary">Hey, you know it&#x27;s like super obvious if you&#x27;re using AI to write your scripts for TikTok and YouTube, right? [...] It&#x27;s not just the general AI-isms of &quot;it&#x27;s not X, it&#x27;s Y&quot;, or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it&#x27;s not. It&#x27;s the lack of anything . It&#x27;s the lack of a definitive sort of spear of your voice. It&#x27;s the fact I can tell you don&#x27;t have opinion...</p>
+    <a href="https://simonwillison.net/2026/Sep/22/therealcornpop/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/22/therealcornpop/</a>
   </div>
   <div class="news-card">
     <div class="card-top">
@@ -1215,9 +1226,49 @@ footer a { color: var(--accent); text-decoration: none; }
       <span class="time">20 Sep 2026</span>
       <span class="score">⭐ 4.0</span>
     </div>
-    <h3><a href="https://simonwillison.net/2026/Sep/20/hn-49779718/" target="_blank" rel="noopener">MCP was always a bad idea?</a></h3>
-    <p class="summary">My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there&#x27;s almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that&#x27;s less YOLO than that, you&#x27;ll find yourself wanting: Control over exactly which external services it can access A way to handle authenticat...</p>
-    <a href="https://simonwillison.net/2026/Sep/20/hn-49779718/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/20/hn-49779718/</a>
+    <h3><a href="https://simonwillison.net/2026/Sep/20/voxium/" target="_blank" rel="noopener">Quoting voxium</a></h3>
+    <p class="summary">It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. E...</p>
+    <a href="https://simonwillison.net/2026/Sep/20/voxium/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/20/voxium/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Simon Willison</span>
+      <span class="time">20 Sep 2026</span>
+      <span class="score">⭐ 4.0</span>
+    </div>
+    <h3><a href="https://simonwillison.net/2026/Sep/20/datasette-explain/" target="_blank" rel="noopener">datasette-explain 0.2.2</a></h3>
+    <p class="summary">Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette</p>
+    <a href="https://simonwillison.net/2026/Sep/20/datasette-explain/" class="link" target="_blank" rel="noopener">https://simonwillison.net/2026/Sep/20/datasette-explain/</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">26 Sep 2026</span>
+      <span class="score">⭐ 3.5</span>
+    </div>
+    <h3><a href="https://github.com/brumar/chess-postmortem-skills" target="_blank" rel="noopener">Show HN: A Claude Code skill to analyze your chess games</a></h3>
+    <p class="summary">Hello HN, It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can. The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too. A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like &quot;analyze my last lichess game&quot;, and gives me a commented video of the game. The result is not perfect and it takes time to deliver (an hour or s...</p>
+    <a href="https://github.com/brumar/chess-postmortem-skills" class="link" target="_blank" rel="noopener">https://github.com/brumar/chess-postmortem-skills</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">27 Sep 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://arxiv.org/abs/2609.25021" target="_blank" rel="noopener">&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</a></h3>
+    <p class="summary">Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 103 # Comments: 106</p>
+    <a href="https://arxiv.org/abs/2609.25021" class="link" target="_blank" rel="noopener">https://arxiv.org/abs/2609.25021</a>
+  </div>
+  <div class="news-card">
+    <div class="card-top">
+      <span class="source">Hacker News AI</span>
+      <span class="time">26 Sep 2026</span>
+      <span class="score">⭐ 2.5</span>
+    </div>
+    <h3><a href="https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/" target="_blank" rel="noopener">What reversing, modernising old games tells us about the economic impact of AI</a></h3>
+    <p class="summary">Article URL: https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/ Comments URL: https://news.ycombinator.com/item?id=49861755 Points: 128 # Comments: 79</p>
+    <a href="https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/" class="link" target="_blank" rel="noopener">https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-a</a>
   </div>
 </div>
 <footer>
