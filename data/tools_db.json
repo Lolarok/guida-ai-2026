@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T13:44:32.320945+00:00",
-  "total": 3043,
+  "updated_at": "2026-09-30T13:21:09.399469+00:00",
+  "total": 3063,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,312 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "92a974a87334",
+      "name": "Pexo",
+      "url": "https://www.producthunt.com/products/pexo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "pitch"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Produce pitch perfect launch videos with precise control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.159932+00:00"
+    },
+    {
+      "id": "5993fd6103a1",
+      "name": "Ship It: Idle Dev Tycoon",
+      "url": "https://www.producthunt.com/products/ship-it-idle-dev-tycoon",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The idle game where App Review can reject you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160043+00:00"
+    },
+    {
+      "id": "747a7c282bbd",
+      "name": "jambuild",
+      "url": "https://www.producthunt.com/products/jambuild",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Near instant multiplayer vibecoding, just point and talk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160123+00:00"
+    },
+    {
+      "id": "1c9e2311d20f",
+      "name": "Campfire",
+      "url": "https://www.producthunt.com/products/campfire-12",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The shared workspace for humans and coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160202+00:00"
+    },
+    {
+      "id": "1cb0bef1b58f",
+      "name": "CoIsland",
+      "url": "https://www.producthunt.com/products/coisland",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your whole engineering stack, in a notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160253+00:00"
+    },
+    {
+      "id": "4b349f3c3b14",
+      "name": "NotchDodo",
+      "url": "https://www.producthunt.com/products/notchdodo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "NotchDodo turns your notch into a full-blown dashboard.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160318+00:00"
+    },
+    {
+      "id": "b0b1ba4d01cf",
+      "name": "OpenShip",
+      "url": "https://www.producthunt.com/products/openship-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open source PaaS on your server or in the cloud. No lock in.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160383+00:00"
+    },
+    {
+      "id": "608a767c5daf",
+      "name": "Evlat",
+      "url": "https://www.producthunt.com/products/evlat",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know which AI coding agent is waiting on you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160458+00:00"
+    },
+    {
+      "id": "49ada4fb3d07",
+      "name": "Datastory",
+      "url": "https://www.producthunt.com/products/datastory-data-visualization-platform",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn the world's data into stories worth sharing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160533+00:00"
+    },
+    {
+      "id": "cfccca3618f7",
+      "name": "lurk",
+      "url": "https://www.producthunt.com/products/lurk",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, open-source Reddit and Twitter lead monitoring \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160607+00:00"
+    },
+    {
+      "id": "195c86f15bce",
+      "name": "GitBot",
+      "url": "https://www.producthunt.com/products/gitbot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "git",
+        "agent",
+        "bot",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build bots on the coding agent you already use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160675+00:00"
+    },
+    {
+      "id": "f3d254d57571",
+      "name": "Bruto",
+      "url": "https://www.producthunt.com/products/bruto",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A task board that lives in your repo, for you and your AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160746+00:00"
+    },
+    {
+      "id": "1c258ab4014f",
+      "name": "Ferndesk",
+      "url": "https://www.producthunt.com/products/ferndesk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The help center that never goes out of date\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160794+00:00"
+    },
+    {
+      "id": "be101e2e6a80",
+      "name": "Upsolve Data Models",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Teach AI your metric definitions and business vocabulary\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160871+00:00"
+    },
+    {
+      "id": "0413d6b38d84",
+      "name": "Speek",
+      "url": "https://www.producthunt.com/products/speek-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "voice"
+      ],
+      "pricing": "Free",
+      "description_it": "A context aware FOSS voice assistant and dictation for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.160944+00:00"
+    },
+    {
+      "id": "497079643fb7",
+      "name": "Macaly Cloud",
+      "url": "https://www.producthunt.com/products/macaly",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and publish sites with your Claude or ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.161014+00:00"
+    },
+    {
+      "id": "29e688a4f9eb",
+      "name": "Overpath",
+      "url": "https://www.producthunt.com/products/overpath-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI Teammate for Revenue Execution\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.161081+00:00"
+    },
+    {
+      "id": "40f03fa86685",
+      "name": "Flocker Agent Profiles",
+      "url": "https://www.producthunt.com/products/flocker-agent-profiles",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Profile Pages for Agents: your live AI collaboration network\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.161158+00:00"
+    },
+    {
+      "id": "7818557220f0",
+      "name": "Cyluma",
+      "url": "https://www.producthunt.com/products/cyluma",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your Mac’s battery as a living, breathing landscape\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.161231+00:00"
+    },
+    {
+      "id": "6da5d3c07e56",
+      "name": "m’kay",
+      "url": "https://www.producthunt.com/products/m-kay",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One voice for all your coding agents, from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-09-30T13:21:09.161328+00:00"
     },
     {
       "id": "291ff01f60a4",
