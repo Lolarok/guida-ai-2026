@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T13:21:09.399469+00:00",
-  "total": 3063,
+  "updated_at": "2026-10-01T14:10:42.742363+00:00",
+  "total": 3083,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "94f81ade3815",
+      "name": "Monospace from Directus",
+      "url": "https://www.producthunt.com/products/directus",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The governed API layer for every app, person, and agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.607754+00:00"
+    },
+    {
+      "id": "1c59397b49c0",
+      "name": "Dots by OpenAI",
+      "url": "https://www.producthunt.com/products/dots-by-openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Always on agents built to handle everything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.607864+00:00"
+    },
+    {
+      "id": "c505bc733c29",
+      "name": "Omnia Agent",
+      "url": "https://www.producthunt.com/products/omnia-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI Agent that does 95% of your GEO work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.607941+00:00"
+    },
+    {
+      "id": "fb7786f76021",
+      "name": "Vitra.ai",
+      "url": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic content platform to create and localize content\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608026+00:00"
+    },
+    {
+      "id": "9964032a4e4a",
+      "name": "DSH Desktop",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Official app for DeepSeek’s open-source agent harness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608125+00:00"
+    },
+    {
+      "id": "9533ccee533b",
+      "name": "Chat.sh",
+      "url": "https://www.producthunt.com/products/chat-sh",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The help center I built after Intercom's search broke\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608226+00:00"
+    },
+    {
+      "id": "58c0e032714b",
+      "name": "Starlie",
+      "url": "https://www.producthunt.com/products/starlie",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fast, native Jira client for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608306+00:00"
+    },
+    {
+      "id": "1eda32cdbf90",
+      "name": "ShareCube",
+      "url": "https://www.producthunt.com/products/sharecube",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share what your agents make, get feedback on the exact line\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608385+00:00"
+    },
+    {
+      "id": "9cc265450126",
+      "name": "Lume",
+      "url": "https://www.producthunt.com/products/lume-floating-notes-for-windows",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes that appear with a mouse shake\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608455+00:00"
+    },
+    {
+      "id": "54e78ea01ecb",
+      "name": "Kholo",
+      "url": "https://www.producthunt.com/products/kholo",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take a car, a rocket, even your body apart in 3D\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608525+00:00"
+    },
+    {
+      "id": "ea0c991fa8e0",
+      "name": "Yedric.ai",
+      "url": "https://www.producthunt.com/products/yedric-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Let users control your SaaS with natural language\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608579+00:00"
+    },
+    {
+      "id": "7d9de898369d",
+      "name": "Bracket",
+      "url": "https://www.producthunt.com/products/bracket-2027",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The memory layer for your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608630+00:00"
+    },
+    {
+      "id": "b17d85c914f3",
+      "name": "Rate.fm",
+      "url": "https://www.producthunt.com/products/rate-fm",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Letterboxd for music, on iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608696+00:00"
+    },
+    {
+      "id": "adf32c7f2930",
+      "name": "Twin",
+      "url": "https://www.producthunt.com/products/twin-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "a tiny buddy that lives on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608751+00:00"
+    },
+    {
+      "id": "54dbc3369f28",
+      "name": "Buddy Drop",
+      "url": "https://www.producthunt.com/products/buddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Drop the files, get a live URL in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608803+00:00"
+    },
+    {
+      "id": "1614a822e2f3",
+      "name": "OpenCompanion",
+      "url": "https://www.producthunt.com/products/opencompanion",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "cli",
+        "answer",
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Start, watch and answer AI coding CLIs from one desktop app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608878+00:00"
+    },
+    {
+      "id": "8e147f2f4292",
+      "name": "UTTER IN",
+      "url": "https://www.producthunt.com/products/utter-in",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Say it once and your AI assistant plans the rest\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.608950+00:00"
+    },
+    {
+      "id": "d2d8abc5fb1f",
+      "name": "Semitexa",
+      "url": "https://www.producthunt.com/products/semitexa",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The PHP framework your AI agent can actually inspect\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.609021+00:00"
+    },
+    {
+      "id": "951309a44933",
+      "name": "Helo",
+      "url": "https://www.producthunt.com/products/helo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An independent email API from former Postmark folks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.609091+00:00"
+    },
+    {
+      "id": "87797dc25b6d",
+      "name": "Formalini",
+      "url": "https://www.producthunt.com/products/formalini",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Business or Personal, Put Your Documents to Work very simply\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-01T14:10:42.609164+00:00"
     },
     {
       "id": "92a974a87334",
