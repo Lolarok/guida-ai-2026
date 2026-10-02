@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T14:10:42.742363+00:00",
-  "total": 3083,
+  "updated_at": "2026-10-02T13:34:17.125086+00:00",
+  "total": 3103,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,322 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "91f90e44a605",
+      "name": "Lloyal",
+      "url": "https://www.producthunt.com/products/lloyal",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn open-weight models into AI apps people can download\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793064+00:00"
+    },
+    {
+      "id": "74ee0a8f9843",
+      "name": "Sayonic",
+      "url": "https://www.producthunt.com/products/sayonic",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "ask",
+        "voice",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A voice assistant in your Mac's notch that does the task\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793169+00:00"
+    },
+    {
+      "id": "80ca424c3970",
+      "name": "Open Inspector",
+      "url": "https://www.producthunt.com/products/open-inspector",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hover any website, get its design system. No permissions.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793249+00:00"
+    },
+    {
+      "id": "f39349183371",
+      "name": "Mintlify Desktop",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "document",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI-native app for writing documentation and knowledge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793329+00:00"
+    },
+    {
+      "id": "4cc438d4929c",
+      "name": "Anthroposcaper",
+      "url": "https://www.producthunt.com/products/anthroposcaper",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Tag a 2D plan, get a 3D urban environment model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793382+00:00"
+    },
+    {
+      "id": "ec1a071982e7",
+      "name": "Famulor",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your agent to answer calls and follow ups on WhatsApp\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793453+00:00"
+    },
+    {
+      "id": "360a1082b0f1",
+      "name": "Audryo",
+      "url": "https://www.producthunt.com/products/audryo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Customer email your agent can operate.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793525+00:00"
+    },
+    {
+      "id": "140f3eba6200",
+      "name": "GitSync",
+      "url": "https://www.producthunt.com/products/gitsync",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sync branches between GitHub repos, right from Chrome\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793599+00:00"
+    },
+    {
+      "id": "8e1efdd4b576",
+      "name": "esigna",
+      "url": "https://www.producthunt.com/products/esigna",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A design studio for your email signature\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793666+00:00"
+    },
+    {
+      "id": "56c0a0157fc5",
+      "name": "WeftCut",
+      "url": "https://www.producthunt.com/products/weftcut",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source video editor your AI agent can drive\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793736+00:00"
+    },
+    {
+      "id": "6ef35d7a1176",
+      "name": "Clef",
+      "url": "https://www.producthunt.com/products/cloudflare-clef",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source decision models from Cloudflare\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793796+00:00"
+    },
+    {
+      "id": "6114117b8215",
+      "name": "Moxie",
+      "url": "https://www.producthunt.com/products/moxie-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use any AI with Claude Code, switch accounts mid-task\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793867+00:00"
+    },
+    {
+      "id": "914b787c041e",
+      "name": "JarvisCore",
+      "url": "https://www.producthunt.com/products/jarviscore",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build agents as peers in a mesh network with zero-trust\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793938+00:00"
+    },
+    {
+      "id": "900eeb5f7881",
+      "name": "WMail",
+      "url": "https://www.producthunt.com/products/wmail-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Beautifully native iPhone app for Fastmail\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.793990+00:00"
+    },
+    {
+      "id": "04351c4a39ae",
+      "name": "Globestudio",
+      "url": "https://www.producthunt.com/products/globestudio",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source dotted maps and 3D globes for designers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794059+00:00"
+    },
+    {
+      "id": "0686591257af",
+      "name": "Communicate",
+      "url": "https://www.producthunt.com/products/communicate",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI support agents grounded in your knowledge, with handoff\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794130+00:00"
+    },
+    {
+      "id": "7da41a9771d8",
+      "name": "Never Boring AI",
+      "url": "https://www.producthunt.com/products/never-boring-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI agent that writes your LinkedIn posts in your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794202+00:00"
+    },
+    {
+      "id": "dc505f01f366",
+      "name": "Finbar",
+      "url": "https://www.producthunt.com/products/finbar-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic investment research\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794263+00:00"
+    },
+    {
+      "id": "ad71f17964d8",
+      "name": "Earlyn",
+      "url": "https://www.producthunt.com/products/earlyn",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "search",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Searchable memory of your screen and meetings, on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794332+00:00"
+    },
+    {
+      "id": "2ba2bcb388df",
+      "name": "slash",
+      "url": "https://www.producthunt.com/products/slash-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notion-style block editor for React. MIT, UI you own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-02T13:34:16.794400+00:00"
     },
     {
       "id": "94f81ade3815",
