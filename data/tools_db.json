@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T13:34:17.125086+00:00",
-  "total": 3103,
+  "updated_at": "2026-10-03T12:13:39.433382+00:00",
+  "total": 3123,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,300 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "bce2ff0b8db3",
+      "name": "WattMate",
+      "url": "https://www.producthunt.com/products/wattmate",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "tts"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Which app is draining your Mac, in watts and minutes saved\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.174694+00:00"
+    },
+    {
+      "id": "01fb0738499d",
+      "name": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Meta's open-source kit for building your own AI gadgets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.174798+00:00"
+    },
+    {
+      "id": "287769ed216f",
+      "name": "Prefer",
+      "url": "https://www.producthunt.com/products/prefer-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The execution layer for AEO\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.174855+00:00"
+    },
+    {
+      "id": "7c8c3e840ce0",
+      "name": "miso.com",
+      "url": "https://www.producthunt.com/products/miso-com",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Book flights and hotels through iMessage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.174916+00:00"
+    },
+    {
+      "id": "3e484946b98e",
+      "name": "ZooWork",
+      "url": "https://www.producthunt.com/products/zoowork",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI agent delivery platform for FDEs and domain experts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.174992+00:00"
+    },
+    {
+      "id": "42bddb1ddbfc",
+      "name": "Kilo",
+      "url": "https://www.producthunt.com/products/kilo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your agentic fitness coach in iMessage\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175099+00:00"
+    },
+    {
+      "id": "8276a081c66f",
+      "name": "una mano",
+      "url": "https://www.producthunt.com/products/una-mano",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A familiar iPhone keyboard that moves to your thumb\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175165+00:00"
+    },
+    {
+      "id": "a32f1bede7f8",
+      "name": "MacCam",
+      "url": "https://www.producthunt.com/products/maccam",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The camera app Apple never shipped for the Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175224+00:00"
+    },
+    {
+      "id": "8d313de7e143",
+      "name": "Crowny!",
+      "url": "https://www.producthunt.com/products/crowny-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex, music, your day & 20+ apps in your notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175298+00:00"
+    },
+    {
+      "id": "62cf13d49408",
+      "name": "Agent Activity",
+      "url": "https://www.producthunt.com/products/agent-activity",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See what your AI agents do behind\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175371+00:00"
+    },
+    {
+      "id": "67f6e4ae22b2",
+      "name": "eu/jev",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The first Jev-like model hosted in the EU\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175426+00:00"
+    },
+    {
+      "id": "170411be3f5d",
+      "name": "Deskcord.chat",
+      "url": "https://www.producthunt.com/products/deskcord-chat",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A widget to chat with customers from your Discord server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175502+00:00"
+    },
+    {
+      "id": "8d0ff5833135",
+      "name": "FeelMyMac",
+      "url": "https://www.producthunt.com/products/feelmymac",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lets you feel different textures through your Mac’s trackpad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175604+00:00"
+    },
+    {
+      "id": "32b039d64e86",
+      "name": "SCMD",
+      "url": "https://www.producthunt.com/products/scmd",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Manage what Claude Remembers and Keeps as Memory.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175681+00:00"
+    },
+    {
+      "id": "cb06cf3594d5",
+      "name": "Cubicle",
+      "url": "https://www.producthunt.com/products/cubicle-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A live office for your AI agents, read-only by design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175755+00:00"
+    },
+    {
+      "id": "1843c68acfd1",
+      "name": "FoundrRadio",
+      "url": "https://www.producthunt.com/products/foundrradio",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pick a frequency, launch your radio station and go on air\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175828+00:00"
+    },
+    {
+      "id": "fdffc6f29de4",
+      "name": "Notchware",
+      "url": "https://www.producthunt.com/products/notchware",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Music and AI agent alerts in your MacBook notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175900+00:00"
+    },
+    {
+      "id": "73279d85730e",
+      "name": "Thanor AI",
+      "url": "https://www.producthunt.com/products/thanor-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make your AI-built sites look expensive and not like slop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.175958+00:00"
+    },
+    {
+      "id": "5351e4c989b1",
+      "name": "Singularity",
+      "url": "https://www.producthunt.com/products/singularity-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run AI coding agents in parallel, one ticket at a time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.176063+00:00"
+    },
+    {
+      "id": "36c57f7fad3e",
+      "name": "Yubi",
+      "url": "https://www.producthunt.com/products/yubi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your Mac and let Yubi do the typing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-03T12:13:39.176139+00:00"
     },
     {
       "id": "91f90e44a605",
