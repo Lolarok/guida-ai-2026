@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T12:13:39.433382+00:00",
-  "total": 3123,
+  "updated_at": "2026-10-04T13:03:40.426553+00:00",
+  "total": 3143,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,302 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "3427f5522b6d",
+      "name": "CoreSpeed",
+      "url": "https://www.producthunt.com/products/corespeed",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One MCP for everything your agents need: apps, memory, tools\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204589+00:00"
+    },
+    {
+      "id": "6d722e6c0fbe",
+      "name": "Sellio",
+      "url": "https://www.producthunt.com/products/sellio-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI customer support in one shared inbox powered by AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204670+00:00"
+    },
+    {
+      "id": "66623278b18d",
+      "name": "FlexChords",
+      "url": "https://www.producthunt.com/products/flexchords",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any YouTube video into accurate, playable guitar chords\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204749+00:00"
+    },
+    {
+      "id": "19263b3709ea",
+      "name": "Quven",
+      "url": "https://www.producthunt.com/products/quven",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The self-hosted media server that puts native playback first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204802+00:00"
+    },
+    {
+      "id": "600baedfa04a",
+      "name": "Translate Like Me",
+      "url": "https://www.producthunt.com/products/translate-like-me",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate selected text on Mac, in your own writing style\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204867+00:00"
+    },
+    {
+      "id": "a4e4a7b8426f",
+      "name": "Poddle",
+      "url": "https://www.producthunt.com/products/poddle-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Swing your phone, play pickleball on any computer!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204912+00:00"
+    },
+    {
+      "id": "1bad9af2ef96",
+      "name": "Control My Mac",
+      "url": "https://www.producthunt.com/products/control-my-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A shortcut deck for every Mac app, on your iPhone or iPad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.204978+00:00"
+    },
+    {
+      "id": "f12754a258f4",
+      "name": "WikiFix for Confluence",
+      "url": "https://www.producthunt.com/products/wikifix",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find and fix issues in your knowledge base\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205039+00:00"
+    },
+    {
+      "id": "1a2d84bc5448",
+      "name": "ChatGPT Space",
+      "url": "https://www.producthunt.com/products/chatgpt-space",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create, collaborate, and build together with AI in Space\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205101+00:00"
+    },
+    {
+      "id": "b1bb924ef96d",
+      "name": "Blenny",
+      "url": "https://www.producthunt.com/products/blenny",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Organize your macOS 27 menu bar without moving your pointer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205159+00:00"
+    },
+    {
+      "id": "efe079adbd5a",
+      "name": "Aperture",
+      "url": "https://www.producthunt.com/products/aperture-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI code editor that checks its own work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205217+00:00"
+    },
+    {
+      "id": "f20aad4cdb54",
+      "name": "opensend.cc",
+      "url": "https://www.producthunt.com/products/opensend-cc",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free",
+      "description_it": "The open source email platform that runs on your server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205279+00:00"
+    },
+    {
+      "id": "6dc5cb047ca4",
+      "name": "Blume 2.0",
+      "url": "https://www.producthunt.com/products/blume-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source docs framework for humans and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205337+00:00"
+    },
+    {
+      "id": "64cc26278330",
+      "name": "Cursor Remote Lite",
+      "url": "https://www.producthunt.com/products/cursor-remote-lite",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Use the Cursor on your computer from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205383+00:00"
+    },
+    {
+      "id": "6fffc4ac5dc6",
+      "name": "Pixel Soup",
+      "url": "https://www.producthunt.com/products/pixel-soup",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dithered live wallpapers your Mac cooks up itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205425+00:00"
+    },
+    {
+      "id": "89701b7e73d1",
+      "name": "Eat Train Feel",
+      "url": "https://www.producthunt.com/products/eat-train-feel",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A coach for you Workouts, food, and how you feel\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205467+00:00"
+    },
+    {
+      "id": "a58b4169cf03",
+      "name": "Art4",
+      "url": "https://www.producthunt.com/products/art4",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Small Art Museum for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205518+00:00"
+    },
+    {
+      "id": "4109c9b08624",
+      "name": "Clair",
+      "url": "https://www.producthunt.com/products/clair-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Answer Claude Code from your wrist\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205571+00:00"
+    },
+    {
+      "id": "2914391365bd",
+      "name": "JOGAK",
+      "url": "https://www.producthunt.com/products/jogak",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make everyday vlogs with less editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205612+00:00"
+    },
+    {
+      "id": "14ea8e09f786",
+      "name": "Smooth Recorder",
+      "url": "https://www.producthunt.com/products/smooth-recorder",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac screen recordings that look edited when you hit stop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-04T13:03:40.205672+00:00"
     },
     {
       "id": "bce2ff0b8db3",
