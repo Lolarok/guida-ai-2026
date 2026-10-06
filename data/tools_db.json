@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T15:33:16.973536+00:00",
-  "total": 3163,
+  "updated_at": "2026-10-06T13:55:37.103094+00:00",
+  "total": 3182,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,310 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "8ec3c8129d2e",
+      "name": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "Grok Bot alternative: free, local, open-source, multiplayer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973448+00:00"
+    },
+    {
+      "id": "d7615cb4edfb",
+      "name": "Rill Browser",
+      "url": "https://www.producthunt.com/products/rill-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The browser where Claude Code and Codex work beside you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973550+00:00"
+    },
+    {
+      "id": "c34f1260677e",
+      "name": "AUDR by Chargebee",
+      "url": "https://www.producthunt.com/products/chargebee",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Open standard for tracking agent run costs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973629+00:00"
+    },
+    {
+      "id": "a9a93bde45db",
+      "name": "Ghostifier",
+      "url": "https://www.producthunt.com/products/ghostifier",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Companies have your data. Ghostifier gets them to delete it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973712+00:00"
+    },
+    {
+      "id": "d47b7a47a584",
+      "name": "ruOS",
+      "url": "https://www.producthunt.com/products/ruos",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A cloud desktop where AI agents do the work for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973785+00:00"
+    },
+    {
+      "id": "6729248ee72a",
+      "name": "EasyCut",
+      "url": "https://www.producthunt.com/products/easycut-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "claude",
+        "video",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit your Claude motion videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973854+00:00"
+    },
+    {
+      "id": "ddca10017aba",
+      "name": "NoteWorthy",
+      "url": "https://www.producthunt.com/products/noteworthy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes supercharged with AI, all on-device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.973930+00:00"
+    },
+    {
+      "id": "162f91a3e7dd",
+      "name": "Incredible",
+      "url": "https://www.producthunt.com/products/incredible",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Vibe computing. Control your computer with your voice.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974005+00:00"
+    },
+    {
+      "id": "445c5ab30567",
+      "name": "Coddy",
+      "url": "https://www.producthunt.com/products/coddy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn to code 20+ languages in a fun way with short lessons\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974107+00:00"
+    },
+    {
+      "id": "32ac8c475522",
+      "name": "Fuse AI",
+      "url": "https://www.producthunt.com/products/fuseai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build a Custom GTM Stack. One SDK. One MCP.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974181+00:00"
+    },
+    {
+      "id": "2fe48dc27275",
+      "name": "Brnch",
+      "url": "https://www.producthunt.com/products/brnch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Modern code hosting for the agent era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974250+00:00"
+    },
+    {
+      "id": "40d292c9ebcd",
+      "name": "Cosmic AI Support Agent",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI support agent that stays in sync with your site\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974326+00:00"
+    },
+    {
+      "id": "a666bd2f2b11",
+      "name": "Doco",
+      "url": "https://www.producthunt.com/products/doco-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Good Company. Music that fits.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974391+00:00"
+    },
+    {
+      "id": "cb50b22dac88",
+      "name": "Scumble",
+      "url": "https://www.producthunt.com/products/scumble",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source editor for AI inpainting\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974469+00:00"
+    },
+    {
+      "id": "d6e5ecdd2123",
+      "name": "Chunk",
+      "url": "https://www.producthunt.com/products/chunk-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The time-blocking app for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974522+00:00"
+    },
+    {
+      "id": "0845988ee3dd",
+      "name": "iphone",
+      "url": "https://www.producthunt.com/products/iphone-use",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI agents drive a real iPhone, even apps with no API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974594+00:00"
+    },
+    {
+      "id": "c7fff2c86438",
+      "name": "Extrovert",
+      "url": "https://www.producthunt.com/products/extrovert",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run LinkedIn outreach from your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974663+00:00"
+    },
+    {
+      "id": "b30c0993d07b",
+      "name": "mcpgawk",
+      "url": "https://www.producthunt.com/products/mcpgawk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Catch MCP servers that change after you approved them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974718+00:00"
+    },
+    {
+      "id": "b126737f5126",
+      "name": "The Sentient World",
+      "url": "https://www.producthunt.com/products/the-sentient-world",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A living world of AI characters. You can only watch.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974774+00:00"
+    },
+    {
+      "id": "33c048997800",
+      "name": "Ari Helper 7",
+      "url": "https://www.producthunt.com/products/ari-helper",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "photo",
+        "film"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private AI assistant, now with photo and film studios\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-06T13:55:36.974844+00:00"
     },
     {
       "id": "2b9698d22448",
@@ -46109,21 +46413,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-04-02T08:07:37.535296+00:00"
-    },
-    {
-      "id": "d6e5ecdd2123",
-      "name": "Chunk",
-      "url": "https://www.producthunt.com/products/chunk-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "visual"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Visual timeblocking app for MacOS\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-04-02T08:07:37.535358+00:00"
     },
     {
       "id": "99658f5764c3",
