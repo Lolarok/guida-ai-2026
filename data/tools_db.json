@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T13:55:37.103094+00:00",
-  "total": 3182,
+  "updated_at": "2026-10-07T14:12:46.368136+00:00",
+  "total": 3202,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "df647a0c3d6f",
+      "name": "Reika",
+      "url": "https://www.producthunt.com/products/reika",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "cli",
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A coding agent CLI designed around small local models first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141227+00:00"
+    },
+    {
+      "id": "0cf71a99ae4a",
+      "name": "Ana by Vertice",
+      "url": "https://www.producthunt.com/products/ana-by-vertice",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI negotiation agent for software purchases\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141331+00:00"
+    },
+    {
+      "id": "62a974c53c60",
+      "name": "Rhem Labs",
+      "url": "https://www.producthunt.com/products/rhem-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Health assistant robots for your parents’\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141430+00:00"
+    },
+    {
+      "id": "22d07183d101",
+      "name": "Kitbar",
+      "url": "https://www.producthunt.com/products/kitbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your dev tools, in one bar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141510+00:00"
+    },
+    {
+      "id": "c41d291be062",
+      "name": "Linda",
+      "url": "https://www.producthunt.com/products/linda",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your private AI coworker for the Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141566+00:00"
+    },
+    {
+      "id": "8f8c4551f8ca",
+      "name": "DailyHub",
+      "url": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "task",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A personal command center for projects, tasks, and habits.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141644+00:00"
+    },
+    {
+      "id": "1dbf04660a87",
+      "name": "Lofi Desk 2.0",
+      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A pixel-art focus companion and a room you decorate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141728+00:00"
+    },
+    {
+      "id": "c0bfc92415f4",
+      "name": "Vresk",
+      "url": "https://www.producthunt.com/products/vresk",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI workspace that picks the best model for each task\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141806+00:00"
+    },
+    {
+      "id": "7333094b4665",
+      "name": "Knuff App",
+      "url": "https://www.producthunt.com/products/knuff-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Family check-in app to know your people are okay\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141863+00:00"
+    },
+    {
+      "id": "cb121b5fd33b",
+      "name": "Featherweight Dictation",
+      "url": "https://www.producthunt.com/products/featherweight-dictation",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Dictation that weighs nothing, for Mac and Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.141922+00:00"
+    },
+    {
+      "id": "db7dabdf5675",
+      "name": "Walrus Console",
+      "url": "https://www.producthunt.com/products/walrus-console",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Store, Protect and Connect Your Data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142013+00:00"
+    },
+    {
+      "id": "222f36c7e27b",
+      "name": "StudyQuest",
+      "url": "https://www.producthunt.com/products/studyquest",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your notes into games\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142086+00:00"
+    },
+    {
+      "id": "37f3e87d98c4",
+      "name": "Redlamp",
+      "url": "https://www.producthunt.com/products/redlamp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free",
+      "description_it": "Native, open-source RAW Lightroom alternative editor for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142163+00:00"
+    },
+    {
+      "id": "7fe36cd69b1b",
+      "name": "Wabi",
+      "url": "https://www.producthunt.com/products/wabi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A new kind of messenger that gets things done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142223+00:00"
+    },
+    {
+      "id": "fe776124e522",
+      "name": "Postquel",
+      "url": "https://www.producthunt.com/products/postquel",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Free native Postgres app for Mac with your own AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142295+00:00"
+    },
+    {
+      "id": "44d13d3cae7c",
+      "name": "Figma Agent",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Prompt, edit and prototype without leaving the canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142367+00:00"
+    },
+    {
+      "id": "8fe75e3c85dd",
+      "name": "ParakeetAI 2.0",
+      "url": "https://www.producthunt.com/products/parakeetai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The ultimate way to prepare for your job interview\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142421+00:00"
+    },
+    {
+      "id": "acaad1ce8548",
+      "name": "Proofsource",
+      "url": "https://www.producthunt.com/products/proofsource",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI search visibility, with agents that fix the gaps \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142493+00:00"
+    },
+    {
+      "id": "79d8e76438a3",
+      "name": "Rool",
+      "url": "https://www.producthunt.com/products/rool",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private AI machine. Files, ideas, AI in one workspace.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142564+00:00"
+    },
+    {
+      "id": "5f80ecc26ea9",
+      "name": "GenPage 3.0",
+      "url": "https://www.producthunt.com/products/genpage",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build, personalize, and optimize landing pages with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-07T14:12:46.142619+00:00"
     },
     {
       "id": "8ec3c8129d2e",
