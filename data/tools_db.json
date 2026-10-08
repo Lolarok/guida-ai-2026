@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T14:12:46.368136+00:00",
-  "total": 3202,
+  "updated_at": "2026-10-08T14:22:58.104396+00:00",
+  "total": 3221,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "c401d107b28b",
+      "name": "OpenSwarm",
+      "url": "https://www.producthunt.com/products/openswarm-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A swarm of agents, in the same place you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918478+00:00"
+    },
+    {
+      "id": "a09256e87099",
+      "name": "OpenSEO",
+      "url": "https://www.producthunt.com/products/openseo",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "seo"
+      ],
+      "pricing": "Free",
+      "description_it": "The open source Semrush alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918576+00:00"
+    },
+    {
+      "id": "fe73d05ab254",
+      "name": "NOVA CLI v1.0",
+      "url": "https://www.producthunt.com/products/nova-18",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "cli",
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI developer in your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918652+00:00"
+    },
+    {
+      "id": "b1a656f34b34",
+      "name": "Hark",
+      "url": "https://www.producthunt.com/products/hark-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The personal AI that handles life before you have to\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918718+00:00"
+    },
+    {
+      "id": "fc440844de69",
+      "name": "KloudMate 2.0",
+      "url": "https://www.producthunt.com/products/kloudmate",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "full-stack",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-powered Full-Stack Observability & Agentic SRE-Ops\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918796+00:00"
+    },
+    {
+      "id": "f9a491ae6d38",
+      "name": "Claude Haiku 5.5",
+      "url": "https://www.producthunt.com/products/claude-haiku-5-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Anthropic's fastest and most capable Haiku yet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918871+00:00"
+    },
+    {
+      "id": "c47fdb217230",
+      "name": "pmtui",
+      "url": "https://www.producthunt.com/products/pmtui",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Autopilot for long-running AI sessions in terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.918951+00:00"
+    },
+    {
+      "id": "f0e41af03f0f",
+      "name": "Typeling",
+      "url": "https://www.producthunt.com/products/typeling",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Translate in your iPhone keyboard. Keep your tone.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919011+00:00"
+    },
+    {
+      "id": "7c0163068bd4",
+      "name": "aegis",
+      "url": "https://www.producthunt.com/products/aegis-14",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smart personal safety app connected to 24/7 dispatch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919086+00:00"
+    },
+    {
+      "id": "16999cb57dfc",
+      "name": "Claude for Google Workspace",
+      "url": "https://www.producthunt.com/products/claude-for-google-workspace",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "claude",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring Claude directly into Google Docs, Sheets & Slides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919167+00:00"
+    },
+    {
+      "id": "7e8dfdeed40b",
+      "name": "Clippo",
+      "url": "https://www.producthunt.com/products/clippo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "cli",
+        "visual",
+        "clip",
+        "agent",
+        "orchestrat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Orchestrate AI agent teams on a visual canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919236+00:00"
+    },
+    {
+      "id": "f869ec9c0253",
+      "name": "Liquid Inference",
+      "url": "https://www.producthunt.com/products/liquid-inference",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "LLM router where providers compete for every prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919325+00:00"
+    },
+    {
+      "id": "cdb06aff1963",
+      "name": "Paw",
+      "url": "https://www.producthunt.com/products/paw-paw",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A tiny desktop pet for your Mac that types along with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919380+00:00"
+    },
+    {
+      "id": "1e2baf9984ff",
+      "name": "Cekura Bench",
+      "url": "https://www.producthunt.com/products/vocera",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Speech-to-speech model benchmarks on live phone calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919458+00:00"
+    },
+    {
+      "id": "c1abddfcd346",
+      "name": "Strac Comply",
+      "url": "https://www.producthunt.com/products/strac-comply",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Get SOC 2 without the sales call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919509+00:00"
+    },
+    {
+      "id": "07deedae76ed",
+      "name": "Side",
+      "url": "https://www.producthunt.com/products/side",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A little AI chat panel that lives beside your Mac's Dock\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919581+00:00"
+    },
+    {
+      "id": "6d4fb37836d0",
+      "name": "Chime",
+      "url": "https://www.producthunt.com/products/chime-sms-categorized-on-device",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private SMS categorization that never leaves your device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919656+00:00"
+    },
+    {
+      "id": "de6fe15bbd48",
+      "name": "Mailwell",
+      "url": "https://www.producthunt.com/products/mailwell-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Native Mac mail for IMAP, JMAP and Microsoft 365\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919709+00:00"
+    },
+    {
+      "id": "80e4f83a8203",
+      "name": "Ahem! Unmissable Meeting Reminders",
+      "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "meeting",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Full screen reminders for ADHD, time-blind & focused brains\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919792+00:00"
+    },
+    {
+      "id": "e980ec1dff58",
+      "name": "ChickyTutor",
+      "url": "https://www.producthunt.com/products/chickytutor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A private language tutor that knows you better every day.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-08T14:22:57.919848+00:00"
     },
     {
       "id": "df647a0c3d6f",
@@ -21315,21 +21617,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-19T09:06:24.406872+00:00"
-    },
-    {
-      "id": "a09256e87099",
-      "name": "OpenSEO",
-      "url": "https://www.producthunt.com/products/openseo",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "seo"
-      ],
-      "pricing": "Free",
-      "description_it": "The open source Ahrefs alternative\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-19T09:06:24.406939+00:00"
     },
     {
       "id": "aecd16544bf6",
