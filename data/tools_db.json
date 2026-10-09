@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T14:22:58.104396+00:00",
-  "total": 3221,
+  "updated_at": "2026-10-09T14:08:35.642035+00:00",
+  "total": 3241,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9cd550161569",
+      "name": "Voicera",
+      "url": "https://www.producthunt.com/products/voicera-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn natural speech into polished text, perfected with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.413993+00:00"
+    },
+    {
+      "id": "2939eb420d6e",
+      "name": "Opposable",
+      "url": "https://www.producthunt.com/products/opposable",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Computer use for phones to give your AI thumbs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414049+00:00"
+    },
+    {
+      "id": "1a5a1da28a43",
+      "name": "Busabase",
+      "url": "https://www.producthunt.com/products/busabase",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The general system of record for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414100+00:00"
+    },
+    {
+      "id": "e54e436c1b88",
+      "name": "BrightBean Studio",
+      "url": "https://www.producthunt.com/products/brightbean-studio-social-media",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "social media"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source Buffer alternative for social media teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414153+00:00"
+    },
+    {
+      "id": "38429c6b2bb7",
+      "name": "Gemini Agent for Google Cloud",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "gemini",
+        "agent",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The work agent that runs on both Gemini and Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414204+00:00"
+    },
+    {
+      "id": "dda52f2e0297",
+      "name": "HeyPi",
+      "url": "https://www.producthunt.com/products/heypi",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and ship anything live, in-meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414248+00:00"
+    },
+    {
+      "id": "a7b56a133b31",
+      "name": "Porch",
+      "url": "https://www.producthunt.com/products/porch-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "local project summaries and cost tracking for AI coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414300+00:00"
+    },
+    {
+      "id": "928e77a01094",
+      "name": "Staffcoder",
+      "url": "https://www.producthunt.com/products/staffcoder",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build like a real engineer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414345+00:00"
+    },
+    {
+      "id": "01d60af23b5c",
+      "name": "Cakie",
+      "url": "https://www.producthunt.com/products/cakie-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn screen recordings into prompts for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414391+00:00"
+    },
+    {
+      "id": "6823a1fc4134",
+      "name": "Microsoft Surface Laptop Ultra",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Run 120B AI models locally on Microsoft's new Surface\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414429+00:00"
+    },
+    {
+      "id": "15b75c67b091",
+      "name": "Thravik",
+      "url": "https://www.producthunt.com/products/thravik",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The native Mac browser that remembers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414460+00:00"
+    },
+    {
+      "id": "fa84101f5797",
+      "name": "VocaScript",
+      "url": "https://www.producthunt.com/products/vocascript",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "recording",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transcribe hours-long recordings, reliable to the end\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414506+00:00"
+    },
+    {
+      "id": "6b37f091dc32",
+      "name": "OpenVids",
+      "url": "https://www.producthunt.com/products/openvids",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "chat",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source video editor you run by chatting with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414553+00:00"
+    },
+    {
+      "id": "94d15a2bb69d",
+      "name": "Murmur",
+      "url": "https://www.producthunt.com/products/murmur-15",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "note",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A private voice-first notepad for your thoughts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414596+00:00"
+    },
+    {
+      "id": "d9cd519d8cce",
+      "name": "Regunow",
+      "url": "https://www.producthunt.com/products/regunow",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn regulatory research into actionable compliance audits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414643+00:00"
+    },
+    {
+      "id": "42e91cfbd60a",
+      "name": "De Stash",
+      "url": "https://www.producthunt.com/products/de-stash",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See, search and clean up your Mac storage, 100% private\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414687+00:00"
+    },
+    {
+      "id": "2cd42c09e3b4",
+      "name": "Melete",
+      "url": "https://www.producthunt.com/products/melete",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An Always On Personal Agent With a Team Workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414731+00:00"
+    },
+    {
+      "id": "563961c2a21a",
+      "name": "Sorted",
+      "url": "https://www.producthunt.com/products/sorted-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private AI file organizer for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414772+00:00"
+    },
+    {
+      "id": "b5a2e319a4dd",
+      "name": "Refs",
+      "url": "https://www.producthunt.com/products/refs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "claude",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give Claude better references for your videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414815+00:00"
+    },
+    {
+      "id": "077b57fd47a5",
+      "name": "Phonable",
+      "url": "https://www.producthunt.com/products/phonable",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Missed calls, handled: callers get a text, you get the gist\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-09T14:08:35.414849+00:00"
     },
     {
       "id": "c401d107b28b",
