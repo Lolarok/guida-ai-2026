@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T14:08:35.642035+00:00",
-  "total": 3241,
+  "updated_at": "2026-10-10T13:17:28.830146+00:00",
+  "total": 3260,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,319 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "83082c7a8710",
+      "name": "PocketWebTools for Mac",
+      "url": "https://www.producthunt.com/products/pocketwebtools",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video",
+        "transcri"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI chat, transcription and video tools in one Mac app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570140+00:00"
+    },
+    {
+      "id": "a753e9c029b8",
+      "name": "GitGlow",
+      "url": "https://www.producthunt.com/products/gitglow-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review your code and your agents' changes before you ship\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570235+00:00"
+    },
+    {
+      "id": "5c5e8f0e963b",
+      "name": "TapNoise",
+      "url": "https://www.producthunt.com/products/tapnoise",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "noise"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A tiny desktop pet that reacts to every key you press\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570319+00:00"
+    },
+    {
+      "id": "c5b90c1916a9",
+      "name": "Claude Dashboards & Motion",
+      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ask",
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask Claude for live dashboards and animated explainers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570398+00:00"
+    },
+    {
+      "id": "1e4d0da55b23",
+      "name": "KernelAI",
+      "url": "https://www.producthunt.com/products/kernelai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "53 open models from 15 labs, running entirely on your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570454+00:00"
+    },
+    {
+      "id": "c7a11f16a0de",
+      "name": "The Computer Game",
+      "url": "https://www.producthunt.com/products/the-computer-game",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build the best computer, from stone tools to your own chips\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570510+00:00"
+    },
+    {
+      "id": "794cd5324aa7",
+      "name": "History Monk",
+      "url": "https://www.producthunt.com/products/history-monk-better-history-search",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast History Search, Export & Bulk Delete\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570585+00:00"
+    },
+    {
+      "id": "deea4ea5e72b",
+      "name": "Firefox 157",
+      "url": "https://www.producthunt.com/products/mozilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A brand new Firefox is here\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570651+00:00"
+    },
+    {
+      "id": "1445ba044129",
+      "name": "New Windows Search",
+      "url": "https://www.producthunt.com/products/new-windows-search",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "find",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Windows Search now takes action, not just finds files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570724+00:00"
+    },
+    {
+      "id": "bb289d97b43d",
+      "name": "Baby Desk",
+      "url": "https://www.producthunt.com/products/baby-desk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Let your baby smash the keyboard and your work stays safe\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570776+00:00"
+    },
+    {
+      "id": "b5a2fee611df",
+      "name": "Pawse",
+      "url": "https://www.producthunt.com/products/pawse-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A cute 3D pet that reminds you to drink water & take breaks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570829+00:00"
+    },
+    {
+      "id": "2731fe0042ac",
+      "name": "Cue",
+      "url": "https://www.producthunt.com/products/cue-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put your AirPods in, your Mac starts focusing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570912+00:00"
+    },
+    {
+      "id": "f13b9a2f5b83",
+      "name": "Onepin",
+      "url": "https://www.producthunt.com/products/onepin",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI voiceover with every name, price and date said right\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.570991+00:00"
+    },
+    {
+      "id": "22d07183d101",
+      "name": "Kitbar",
+      "url": "https://www.producthunt.com/products/kitbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your dev tools, in one bar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571053+00:00"
+    },
+    {
+      "id": "d461973403a0",
+      "name": "API Claws by Buda",
+      "url": "https://www.producthunt.com/products/buda-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build self-improving agent harness with one API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571122+00:00"
+    },
+    {
+      "id": "a5810226bde9",
+      "name": "ReSO AI",
+      "url": "https://www.producthunt.com/products/reso",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get discovered & recommended when customers ask AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571191+00:00"
+    },
+    {
+      "id": "f77f8ced4e3f",
+      "name": "Museum of Models",
+      "url": "https://www.producthunt.com/products/museum-of-models",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "question"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every answer 371 AI models gave to the same questions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571260+00:00"
+    },
+    {
+      "id": "b9463ebe9b79",
+      "name": "Lune",
+      "url": "https://www.producthunt.com/products/lune-research",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The search engine built for scientific AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571325+00:00"
+    },
+    {
+      "id": "9847a0cceec0",
+      "name": "Maildun for Mac",
+      "url": "https://www.producthunt.com/products/maildun-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "email",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design on-brand emails by hand, with AI, or over MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571394+00:00"
+    },
+    {
+      "id": "680e1b90f6d4",
+      "name": "AgentDock",
+      "url": "https://www.producthunt.com/products/agentdock",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "terminal",
+        "claude",
+        "answer",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Answer Claude Code & Codex from one Inbox, in any terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-10T13:17:28.571458+00:00"
     },
     {
       "id": "9cd550161569",
@@ -1037,21 +1350,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-07T14:12:46.141430+00:00"
-    },
-    {
-      "id": "22d07183d101",
-      "name": "Kitbar",
-      "url": "https://www.producthunt.com/products/kitbar",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "dev"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your dev tools, in one bar.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-07T14:12:46.141510+00:00"
     },
     {
       "id": "c41d291be062",
