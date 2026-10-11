@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T13:17:28.830146+00:00",
-  "total": 3260,
+  "updated_at": "2026-10-11T13:46:32.443552+00:00",
+  "total": 3280,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "213346bd4fa6",
+      "name": "Farol",
+      "url": "https://www.producthunt.com/products/farol-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The macOS terminal that shows which coding agent needs you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209417+00:00"
+    },
+    {
+      "id": "0a59f3bed693",
+      "name": "Edgee Mod for Claude Code",
+      "url": "https://www.producthunt.com/products/edgee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Use any model inside Claude Code, keep your Claude plan\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209514+00:00"
+    },
+    {
+      "id": "36264b5fa97b",
+      "name": "HireKey",
+      "url": "https://www.producthunt.com/products/hirekey",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your recruiter-informed AI copilot for tech job search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209594+00:00"
+    },
+    {
+      "id": "e5826e3ecc64",
+      "name": "Tori",
+      "url": "https://www.producthunt.com/products/tori-japanese-listening-srs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Japanese listening practice built from your own sentences\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209647+00:00"
+    },
+    {
+      "id": "f743a4a8c042",
+      "name": "shippedit.me",
+      "url": "https://www.producthunt.com/products/shippedit-me",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "insight",
+        "seo",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch Platform with SEO, AEO & Growth Insights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209716+00:00"
+    },
+    {
+      "id": "cdb759758958",
+      "name": "SimpleSpread",
+      "url": "https://www.producthunt.com/products/simplespread",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "spreadsheet",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Native, open source Mac spreadsheet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209786+00:00"
+    },
+    {
+      "id": "9ac657c27034",
+      "name": "Automations in Perplexity Computer",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "perplexity",
+        "automat",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automations that remember, act, and keep work moving\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209868+00:00"
+    },
+    {
+      "id": "aa7dcc8d31d9",
+      "name": "MePersona",
+      "url": "https://www.producthunt.com/products/mepersona",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Answer every fan comment in your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.209937+00:00"
+    },
+    {
+      "id": "6734b16d0bd2",
+      "name": "DevTerminal",
+      "url": "https://www.producthunt.com/products/devterminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "terminal",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A macOS terminal with a Run button that knows your project\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210008+00:00"
+    },
+    {
+      "id": "e630014a59aa",
+      "name": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your fingers stay put. The keys come around\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210057+00:00"
+    },
+    {
+      "id": "f98e3943fdca",
+      "name": "OpenScreen 2",
+      "url": "https://www.producthunt.com/products/openscreen-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Record your demo and let your AI agent do the edits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210124+00:00"
+    },
+    {
+      "id": "16f4c72db323",
+      "name": "kōdlo",
+      "url": "https://www.producthunt.com/products/kodlo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "End-to-end sales workspace with unified context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210220+00:00"
+    },
+    {
+      "id": "620d0e4070b1",
+      "name": "Foley",
+      "url": "https://www.producthunt.com/products/foley",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "voice"
+      ],
+      "pricing": "Freemium",
+      "description_it": "A voice to-do list that files, plans and asks first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210291+00:00"
+    },
+    {
+      "id": "cd298d8378c7",
+      "name": "Pickle Sensei",
+      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI pickleball coach for solo training, one swing at a time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210342+00:00"
+    },
+    {
+      "id": "985a54f99cec",
+      "name": "KarmaBoard",
+      "url": "https://www.producthunt.com/products/karmaboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A vintage split-flap message board for any TV\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210389+00:00"
+    },
+    {
+      "id": "17fabcf05743",
+      "name": "NotchPit",
+      "url": "https://www.producthunt.com/products/notchpit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your Mac's notch, rearranged into a control center\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210435+00:00"
+    },
+    {
+      "id": "2c9b3356a690",
+      "name": "EdgeVolume",
+      "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control your Mac’s volume from your trackpad edge\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210521+00:00"
+    },
+    {
+      "id": "8a6733a11469",
+      "name": "FocusWrite",
+      "url": "https://www.producthunt.com/products/focuswrite",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "writing",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A local-first writing app with focus modes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210587+00:00"
+    },
+    {
+      "id": "e89ece5e21fe",
+      "name": "Ayven",
+      "url": "https://www.producthunt.com/products/ayven",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Carries and drives your team's agenda\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210632+00:00"
+    },
+    {
+      "id": "c445a04684ee",
+      "name": "Kooler",
+      "url": "https://www.producthunt.com/products/kooler-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find cocktails you can make with what's in your bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-11T13:46:32.210694+00:00"
     },
     {
       "id": "83082c7a8710",
