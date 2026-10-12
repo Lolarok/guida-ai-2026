@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T13:46:32.443552+00:00",
-  "total": 3280,
+  "updated_at": "2026-10-12T16:29:59.401227+00:00",
+  "total": 3300,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "c642ffb50a5a",
+      "name": "Knocket",
+      "url": "https://www.producthunt.com/products/knocket-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with visitors from your website or link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.158989+00:00"
+    },
+    {
+      "id": "e7b14956b411",
+      "name": "Ancher 2.0",
+      "url": "https://www.producthunt.com/products/ancher-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn everything you read and save into work you can ship\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159090+00:00"
+    },
+    {
+      "id": "2e045249938e",
+      "name": "Scrape Anything by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "api",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any website into clean data with one API call.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159176+00:00"
+    },
+    {
+      "id": "8169472ae2d8",
+      "name": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI that finds money you're missing and gets it back\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159248+00:00"
+    },
+    {
+      "id": "4503db24ba1b",
+      "name": "guilds.run",
+      "url": "https://www.producthunt.com/products/guilds-run",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source Grok Bot alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159319+00:00"
+    },
+    {
+      "id": "1fee0ba91ca6",
+      "name": "Manifold MCP",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "answer",
+        "data",
+        "agent",
+        "seo",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SEO, AI answers, social, ads and leads data for your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159390+00:00"
+    },
+    {
+      "id": "f12877eaaf5e",
+      "name": "Milepost",
+      "url": "https://www.producthunt.com/products/milepost-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An iOS driving journal for your car, with an MCP server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159447+00:00"
+    },
+    {
+      "id": "63813ce00360",
+      "name": "Dropstone CLI",
+      "url": "https://www.producthunt.com/products/dropstone-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "cli",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The self-learning coding agent for your terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159520+00:00"
+    },
+    {
+      "id": "0a7649e801a0",
+      "name": "SalesRep.com",
+      "url": "https://www.producthunt.com/products/salesrep-com",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI sales rep: live prices, quotes & follow-ups 24/7\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159585+00:00"
+    },
+    {
+      "id": "2fa63dd0f5b7",
+      "name": "SquadRoom",
+      "url": "https://www.producthunt.com/products/squadroom",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI employees that work 24/7\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159647+00:00"
+    },
+    {
+      "id": "6d86a0ce6d83",
+      "name": "Bearconnect 2.0",
+      "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "connect",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-Powered LinkedIn Platform for Content and Outreach\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159720+00:00"
+    },
+    {
+      "id": "14e707fa9a36",
+      "name": "Hexis Cloud",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One company brain for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159784+00:00"
+    },
+    {
+      "id": "9bac1487baa0",
+      "name": "Cube Forms",
+      "url": "https://www.producthunt.com/products/cube-forms",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Forms that can be filled by agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159849+00:00"
+    },
+    {
+      "id": "482e7e67a2c1",
+      "name": "Understory Notes",
+      "url": "https://www.producthunt.com/products/understory-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes that tell thet ale\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159913+00:00"
+    },
+    {
+      "id": "0ef34234f2f9",
+      "name": "Invited",
+      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI reminder scanner for bills, invites & documents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.159981+00:00"
+    },
+    {
+      "id": "88b7e3784ff0",
+      "name": "Base Code",
+      "url": "https://www.producthunt.com/products/base44",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your whole team build on your product\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.160045+00:00"
+    },
+    {
+      "id": "b7e6eb5dd7b9",
+      "name": "ngram 2.0",
+      "url": "https://www.producthunt.com/products/ngram",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "avatar",
+        "video",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create explainers, screencasts, and AI avatar videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.160114+00:00"
+    },
+    {
+      "id": "250fab4f12ba",
+      "name": "Google EmbeddingGemma 2",
+      "url": "https://www.producthunt.com/products/embeddinggemma-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An open, lightweight multimodal embedding model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.160165+00:00"
+    },
+    {
+      "id": "298807dcbcb0",
+      "name": "ExcaliClaw",
+      "url": "https://www.producthunt.com/products/excaliclaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hand-drawn diagrams your AI agent can draw with you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.160230+00:00"
+    },
+    {
+      "id": "9a5ea1aaf25a",
+      "name": "Codemind",
+      "url": "https://www.producthunt.com/products/codemind-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Delegate coding. Get back code that works.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-12T16:29:59.160295+00:00"
     },
     {
       "id": "213346bd4fa6",
