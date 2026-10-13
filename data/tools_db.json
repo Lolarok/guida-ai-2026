@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T16:29:59.401227+00:00",
-  "total": 3300,
+  "updated_at": "2026-10-13T14:48:24.364523+00:00",
+  "total": 3320,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,320 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "742b91f3c2d1",
+      "name": "Music Dawn",
+      "url": "https://www.producthunt.com/products/music-dawn",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "ide",
+        "music",
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A recorder for musicians. Every idea sounds finished.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233101+00:00"
+    },
+    {
+      "id": "d9bd39a6130a",
+      "name": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-Native, Simple & Collaborative Wire Harness Design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233197+00:00"
+    },
+    {
+      "id": "39cb97250c15",
+      "name": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI agent that does the work on your files\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233278+00:00"
+    },
+    {
+      "id": "b2eff49d441b",
+      "name": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native macOS mail app with one-click sign-in codes and AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233353+00:00"
+    },
+    {
+      "id": "422fde24c336",
+      "name": "Agent Craft",
+      "url": "https://www.producthunt.com/products/agent-craft",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "100× your social engagement and leads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233431+00:00"
+    },
+    {
+      "id": "2ef7a2d9721d",
+      "name": "CLI Manager",
+      "url": "https://www.producthunt.com/products/cli-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let one AI agent open and drive your other CLI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233508+00:00"
+    },
+    {
+      "id": "f8a64ea37248",
+      "name": "OpenWhispr for iOS",
+      "url": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "transcri"
+      ],
+      "pricing": "Free",
+      "description_it": "100% open source, free & on device transcription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233589+00:00"
+    },
+    {
+      "id": "ec7b700a7b6b",
+      "name": "Google Fitbit Edge",
+      "url": "https://www.producthunt.com/products/google-fit-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google’s smartest fitness tracker ever with 7-day battery \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233691+00:00"
+    },
+    {
+      "id": "4e16663f327b",
+      "name": "MausBot",
+      "url": "https://www.producthunt.com/products/mausbot",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source Grok Bot: Free, Local\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233786+00:00"
+    },
+    {
+      "id": "d35bd86bdd8c",
+      "name": "PostNitro for Agents",
+      "url": "https://www.producthunt.com/products/postnitro",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your AI agent design and publish social posts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233864+00:00"
+    },
+    {
+      "id": "add489d985c0",
+      "name": "MentionBird",
+      "url": "https://www.producthunt.com/products/mentionbird",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ahrefs for AI Search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.233932+00:00"
+    },
+    {
+      "id": "3bf8d1808a7c",
+      "name": "Kai",
+      "url": "https://www.producthunt.com/products/hirekai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "assistant",
+        "design",
+        "email",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Autonomous assistant designed to handle meetings and email\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234008+00:00"
+    },
+    {
+      "id": "609d821b3d49",
+      "name": "Fina Business",
+      "url": "https://www.producthunt.com/products/fina",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "The flexible $20/mo QuickBooks alternative for founders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234068+00:00"
+    },
+    {
+      "id": "7e2b51a7571a",
+      "name": "Muse Wonder",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Meta’s most capable models for personal agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234156+00:00"
+    },
+    {
+      "id": "1833e3175af4",
+      "name": "Genchi",
+      "url": "https://www.producthunt.com/products/genchi",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Project delivery predictions, from the people doing the work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234229+00:00"
+    },
+    {
+      "id": "ab587cdf4d85",
+      "name": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react",
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how simulated buyers react, right in your agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234299+00:00"
+    },
+    {
+      "id": "42b91e22a710",
+      "name": "Vincentt",
+      "url": "https://www.producthunt.com/products/vincentt",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring your ideas to life through the camera.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234367+00:00"
+    },
+    {
+      "id": "fc8831432c32",
+      "name": "OpenFlowKit 2",
+      "url": "https://www.producthunt.com/products/openflowkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, open-source diagrams you and your agent edit together\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234440+00:00"
+    },
+    {
+      "id": "3d9edf1111b5",
+      "name": "Remocn Studio",
+      "url": "https://www.producthunt.com/products/remocn-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship a launch video without opening After Effects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234509+00:00"
+    },
+    {
+      "id": "908842a4f99d",
+      "name": "Mi Speaks 2.0",
+      "url": "https://www.producthunt.com/products/mi-speaks",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "voice",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Books and PDFs read aloud by neural voices, on device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-13T14:48:24.234578+00:00"
     },
     {
       "id": "c642ffb50a5a",
