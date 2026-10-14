@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T14:48:24.364523+00:00",
-  "total": 3320,
+  "updated_at": "2026-10-14T12:39:30.306974+00:00",
+  "total": 3338,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,306 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "f92c77373604",
+      "name": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Vercel for GTM\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874257+00:00"
+    },
+    {
+      "id": "bdc03c70d460",
+      "name": "NoteHouse",
+      "url": "https://www.producthunt.com/products/notehouse-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private lending, without the paperwork headache.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874358+00:00"
+    },
+    {
+      "id": "dec456417f4e",
+      "name": "Retriever AI",
+      "url": "https://www.producthunt.com/products/rtrvr-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Free AI browser agent: find leads, reach out, apply to jobs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874444+00:00"
+    },
+    {
+      "id": "8fb6487982c4",
+      "name": "Inferock",
+      "url": "https://www.producthunt.com/products/inferock",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Serverless inference, with credits back for failed calls.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874503+00:00"
+    },
+    {
+      "id": "386c3fee835c",
+      "name": "Etchv",
+      "url": "https://www.producthunt.com/products/etchv",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "image",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "invisible forensic watermarks in images, PDFs and videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874576+00:00"
+    },
+    {
+      "id": "38c7bf608681",
+      "name": "AdAnt 2.0",
+      "url": "https://www.producthunt.com/products/adant-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "social media",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Muse for Social Media Marketing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874645+00:00"
+    },
+    {
+      "id": "b5ef0fe27055",
+      "name": "Microsoft Maia 300",
+      "url": "https://www.producthunt.com/products/microsoft-maia-300",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "tts",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Microsoft’s own AI chip, headed to multi-gigawatts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874752+00:00"
+    },
+    {
+      "id": "e4c54d55bc26",
+      "name": "Diagramly",
+      "url": "https://www.producthunt.com/products/diagramly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Sketch systems at the speed you think\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874807+00:00"
+    },
+    {
+      "id": "30df6eb752e3",
+      "name": "Exodus for Google Cloud Run",
+      "url": "https://www.producthunt.com/products/exodus-by-elim-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Upgrade any app to Cloud Run, with your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874883+00:00"
+    },
+    {
+      "id": "46ee926d82eb",
+      "name": "daily.dev",
+      "url": "https://www.producthunt.com/products/daily-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "discover",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Where agents discover what's next\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.874950+00:00"
+    },
+    {
+      "id": "752346f55374",
+      "name": "Orbora",
+      "url": "https://www.producthunt.com/products/orbora",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create personalized guided audio: meditation, breath, ASMR\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875038+00:00"
+    },
+    {
+      "id": "9dd6ef5fde44",
+      "name": "Acyclic",
+      "url": "https://www.producthunt.com/products/acyclic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "cli",
+        "agent",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rapid agent swarms for any agentic workflow\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875107+00:00"
+    },
+    {
+      "id": "94ef1564d826",
+      "name": "Tiden",
+      "url": "https://www.producthunt.com/products/tiden",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Intent verification for coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875179+00:00"
+    },
+    {
+      "id": "515fc0e59464",
+      "name": "Elocuenti",
+      "url": "https://www.producthunt.com/products/elocuenti",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic commerce: sell on WhatsApp and AI assistants\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875252+00:00"
+    },
+    {
+      "id": "5218d872e1c5",
+      "name": "LegacyFixer",
+      "url": "https://www.producthunt.com/products/legacyfixer",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "python"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Python dependency security scans with optional fix PRs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875324+00:00"
+    },
+    {
+      "id": "a9141f40fec8",
+      "name": "Dashrendr",
+      "url": "https://www.producthunt.com/products/dashrendr",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build dashboards visually, embed them anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875394+00:00"
+    },
+    {
+      "id": "434de6ae2199",
+      "name": "Mira Tours",
+      "url": "https://www.producthunt.com/products/mira-tours",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Walking Tour Guide\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875455+00:00"
+    },
+    {
+      "id": "6c812471966e",
+      "name": "WriterzRoom",
+      "url": "https://www.producthunt.com/products/writerzroom",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "content",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Governed multi-agent AI content for regulated industries\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875529+00:00"
+    },
+    {
+      "id": "79e32c87ec17",
+      "name": "FamRelay",
+      "url": "https://www.producthunt.com/products/famrelay",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share facts between AI assistants — only what you approve\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-14T12:39:29.875621+00:00"
     },
     {
       "id": "742b91f3c2d1",
@@ -34436,19 +34736,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-28T10:58:03.717847+00:00"
-    },
-    {
-      "id": "f92c77373604",
-      "name": "Pancake",
-      "url": "https://www.producthunt.com/products/pancake-6",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "OpenClaw in Slack that makes your company autonomous\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-28T10:58:03.717900+00:00"
     },
     {
       "id": "ad1ddf20ecad",
