@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T12:27:52.373629+00:00",
-  "total": 3357,
+  "updated_at": "2026-10-16T12:06:22.057530+00:00",
+  "total": 3376,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,304 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "fc9790e4e44a",
+      "name": "FinderGit",
+      "url": "https://www.producthunt.com/products/findergit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every Git repo on your Mac: browse, commit, review, clean\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836051+00:00"
+    },
+    {
+      "id": "df179a1fdda2",
+      "name": "Lovable Growth Tools",
+      "url": "https://www.producthunt.com/products/lovable",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "From building your app to growing it, in one chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836112+00:00"
+    },
+    {
+      "id": "8b01106a0328",
+      "name": "DOYT",
+      "url": "https://www.producthunt.com/products/doyt",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The  Dynamic Island to-do app you don't have to open\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836149+00:00"
+    },
+    {
+      "id": "38f0cf0a90e4",
+      "name": "Harness by Autonomous",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every coding agent, every machine, one command center.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836196+00:00"
+    },
+    {
+      "id": "6ef595f81046",
+      "name": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A password manager for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836235+00:00"
+    },
+    {
+      "id": "fe07424d2596",
+      "name": "Taim",
+      "url": "https://www.producthunt.com/products/taim-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your thought-capture assistant that syncs with your AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836278+00:00"
+    },
+    {
+      "id": "6a852ba84696",
+      "name": "Jockey by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "search",
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your entire video library: organized, searchable, understood\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836329+00:00"
+    },
+    {
+      "id": "6aa4fe69eacc",
+      "name": "Agent Vault",
+      "url": "https://www.producthunt.com/products/agent-vault-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Superpowers for your Agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836370+00:00"
+    },
+    {
+      "id": "d38b6f0f1876",
+      "name": "Holm",
+      "url": "https://www.producthunt.com/products/holm",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A self hosted home page for everyone in the house\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836400+00:00"
+    },
+    {
+      "id": "302c2d0c439c",
+      "name": "Muse Spark Open",
+      "url": "https://www.producthunt.com/products/muse-spark-open",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The most capable US open weights model to date\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836432+00:00"
+    },
+    {
+      "id": "d506d90e2716",
+      "name": "Fish Audio Drama 3",
+      "url": "https://www.producthunt.com/products/fish-speech",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "audio",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI voice acting you can direct, not just generate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836474+00:00"
+    },
+    {
+      "id": "35a8e833b6fd",
+      "name": "Tesla Roadster",
+      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The hypercar that flies\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836511+00:00"
+    },
+    {
+      "id": "76ebe279e916",
+      "name": "Pomerado",
+      "url": "https://www.producthunt.com/products/pomerado",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any website into an API; Faster & reliable browser use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836555+00:00"
+    },
+    {
+      "id": "df714fda5568",
+      "name": "BOSS Console",
+      "url": "https://www.producthunt.com/products/boss-console",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "A tiny OS for your always-on agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836594+00:00"
+    },
+    {
+      "id": "832e3e54174e",
+      "name": "Maybloc",
+      "url": "https://www.producthunt.com/products/maybloc",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "audio",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "new SOTA for speech-to-text for multi-speaker audio\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836635+00:00"
+    },
+    {
+      "id": "57be3f09ab0a",
+      "name": "Tetriz Harness",
+      "url": "https://www.producthunt.com/products/tetriz-harness",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn what your team learns into everyone’s agent setup\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836692+00:00"
+    },
+    {
+      "id": "20b165129ec1",
+      "name": "Hintly for Google Meet™",
+      "url": "https://www.producthunt.com/products/hintly-for-google-meet",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Real-time hints for every term you miss on Google Meet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836732+00:00"
+    },
+    {
+      "id": "e0241634b6fb",
+      "name": "SignWith",
+      "url": "https://www.producthunt.com/products/signwith",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "E-signatures without the subscription. Pay per doc.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836763+00:00"
+    },
+    {
+      "id": "89b1225c4f4b",
+      "name": "Nemotron 3.5 Super VL",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "NVIDIA’s open multimodal model for specialized agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836815+00:00"
+    },
+    {
+      "id": "5f228868c58d",
+      "name": "Dottr",
+      "url": "https://www.producthunt.com/products/dottr",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent that drafts contracts, flags risks + gets them signed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-16T12:06:21.836855+00:00"
     },
     {
       "id": "55c327d8bf03",
@@ -23255,23 +23553,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-21T09:28:07.873074+00:00"
-    },
-    {
-      "id": "6a852ba84696",
-      "name": "Jockey by TwelveLabs",
-      "url": "https://www.producthunt.com/products/twelvelabs",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "video",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The video AI agent that understands your whole library\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-21T09:28:07.873170+00:00"
     },
     {
       "id": "65f7bea1cd6a",
