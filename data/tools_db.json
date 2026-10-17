@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T12:06:22.057530+00:00",
-  "total": 3376,
+  "updated_at": "2026-10-17T11:22:07.424084+00:00",
+  "total": 3394,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,301 @@
       "featured": false
     },
     {
+      "id": "283963b5c162",
+      "name": "Ultracite v8",
+      "url": "https://www.producthunt.com/products/ultracite",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "linter",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The linter and formatter for agentic development\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193362+00:00"
+    },
+    {
+      "id": "2c1cb13c6ce1",
+      "name": "Unfenced",
+      "url": "https://www.producthunt.com/products/unfenced",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Land for sale that actually borders public land\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193435+00:00"
+    },
+    {
+      "id": "eaebf35deed5",
+      "name": "GPU Terminal by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "dev",
+        "terminal"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Compare GPU rental prices across cloud providers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193506+00:00"
+    },
+    {
+      "id": "f37c62027818",
+      "name": "NitroStack",
+      "url": "https://www.producthunt.com/products/nitrostack",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build, test, and deploy MCP servers in one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193568+00:00"
+    },
+    {
+      "id": "26403654691e",
+      "name": "Spiralens",
+      "url": "https://www.producthunt.com/products/spiralens",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Golden ratio camera that tells you where to move your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193615+00:00"
+    },
+    {
+      "id": "b25e96459907",
+      "name": "Train with Pasta",
+      "url": "https://www.producthunt.com/products/train-with-pasta",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A personal trainer powered by Apple Intelligence\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193659+00:00"
+    },
+    {
+      "id": "27d505ab0ec6",
+      "name": "Emochi",
+      "url": "https://www.producthunt.com/products/emochi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice journal to understand yourself through art and science\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193722+00:00"
+    },
+    {
+      "id": "092da6087b0d",
+      "name": "LooGo",
+      "url": "https://www.producthunt.com/products/loogo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find public restrooms fast\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193776+00:00"
+    },
+    {
+      "id": "09913d4cac4c",
+      "name": "Caldera",
+      "url": "https://www.producthunt.com/products/caldera",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your Obsidian vault as a living profile and linked garden\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193819+00:00"
+    },
+    {
+      "id": "7fff3ab17f14",
+      "name": "Notion: Context for your agents",
+      "url": "https://www.producthunt.com/products/notion",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Switch AI agents without re-explaining your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193878+00:00"
+    },
+    {
+      "id": "cad1d01e88c5",
+      "name": "Salience",
+      "url": "https://www.producthunt.com/products/salience",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See every request to your website and how it responds.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193919+00:00"
+    },
+    {
+      "id": "2634c1139aac",
+      "name": "Earnote",
+      "url": "https://www.producthunt.com/products/earnote",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lecture & meeting notes, written on your device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.193974+00:00"
+    },
+    {
+      "id": "75649f4c7119",
+      "name": "Craft Agents",
+      "url": "https://www.producthunt.com/products/craft-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world's most powerful agents, with the UX they deserve\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194032+00:00"
+    },
+    {
+      "id": "c103d9e1aeaf",
+      "name": "CrewTower Mod for Claude Code",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "claude",
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to Claude Code right from your MacBook notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194090+00:00"
+    },
+    {
+      "id": "9ab73558ab20",
+      "name": "Korinotch",
+      "url": "https://www.producthunt.com/products/korinotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your MacBook notch, turned into a command center\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194131+00:00"
+    },
+    {
+      "id": "6dd486384fae",
+      "name": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "600B open weights, trained for long-running agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194186+00:00"
+    },
+    {
+      "id": "bcc48693a761",
+      "name": "Draper",
+      "url": "https://www.producthunt.com/products/draper",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Validate, plan, and launch a business, one step at a time.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194227+00:00"
+    },
+    {
+      "id": "85bba6382ef3",
+      "name": "Parrot",
+      "url": "https://www.producthunt.com/products/parrot-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "art",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smart Meeting Assistant for Mac that helps during the call \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194283+00:00"
+    },
+    {
+      "id": "6ef595f81046",
+      "name": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A password manager for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194320+00:00"
+    },
+    {
+      "id": "35a8e833b6fd",
+      "name": "Tesla Roadster",
+      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The hypercar that flies\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-17T11:22:07.194370+00:00"
+    },
+    {
       "id": "fc9790e4e44a",
       "name": "FinderGit",
       "url": "https://www.producthunt.com/products/findergit",
@@ -437,19 +732,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-16T12:06:21.836196+00:00"
-    },
-    {
-      "id": "6ef595f81046",
-      "name": "GBrain Tools",
-      "url": "https://www.producthunt.com/products/gbrain",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A password manager for AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-16T12:06:21.836235+00:00"
     },
     {
       "id": "fe07424d2596",
@@ -541,21 +823,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-16T12:06:21.836474+00:00"
-    },
-    {
-      "id": "35a8e833b6fd",
-      "name": "Tesla Roadster",
-      "url": "https://www.producthunt.com/products/tesla-roadster",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The hypercar that flies\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-16T12:06:21.836511+00:00"
     },
     {
       "id": "76ebe279e916",
