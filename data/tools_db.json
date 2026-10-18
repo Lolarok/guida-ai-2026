@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T11:22:07.424084+00:00",
-  "total": 3394,
+  "updated_at": "2026-10-18T11:57:09.453586+00:00",
+  "total": 3411,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,309 @@
       "featured": false
     },
     {
+      "id": "08dfe34731f9",
+      "name": "Inbox Zero",
+      "url": "https://www.producthunt.com/products/inbox-zero-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source Superhuman alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.232829+00:00"
+    },
+    {
+      "id": "8fd4876387dc",
+      "name": "MyLens",
+      "url": "https://www.producthunt.com/products/mylens-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "presentation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "1-1 Live Presentations at Scale with AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.232912+00:00"
+    },
+    {
+      "id": "997df199c0c0",
+      "name": "Latch",
+      "url": "https://www.producthunt.com/products/latch-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The app blocker you unlock by walking to your key\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.232970+00:00"
+    },
+    {
+      "id": "83fcb710a998",
+      "name": "Vampire Crawlers™",
+      "url": "https://www.producthunt.com/products/vampire-crawlers",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Turbo Wildcard from Vampire Survivors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233030+00:00"
+    },
+    {
+      "id": "ab67f0f8e085",
+      "name": "3AM Super Intelligence",
+      "url": "https://www.producthunt.com/products/3am-super-intelligence",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Production incidents: investigated, proven, fixed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233093+00:00"
+    },
+    {
+      "id": "31a677834714",
+      "name": "MeetPaw",
+      "url": "https://www.producthunt.com/products/meetpaw",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instant meetings from your mac menu bar \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233152+00:00"
+    },
+    {
+      "id": "85f478be1793",
+      "name": "PasteKit",
+      "url": "https://www.producthunt.com/products/pastekit-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Format JSON, YAML & SQL privately\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233199+00:00"
+    },
+    {
+      "id": "0f916534a62f",
+      "name": "SpeechFast",
+      "url": "https://www.producthunt.com/products/speechfast",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local Whisper for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233253+00:00"
+    },
+    {
+      "id": "ff373afcd9b3",
+      "name": "Gravity Notes",
+      "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One list of notes, for you and your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233311+00:00"
+    },
+    {
+      "id": "4ea7fb70593c",
+      "name": "Tower 18 for Mac",
+      "url": "https://www.producthunt.com/products/tower",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The most powerful Git client with a better CLI experience\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233371+00:00"
+    },
+    {
+      "id": "a7ecb9bb23c8",
+      "name": "Popcraft",
+      "url": "https://www.producthunt.com/products/popcraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "image",
+        "audio",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate video, images & audio from any AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233423+00:00"
+    },
+    {
+      "id": "79571554aeda",
+      "name": "Krea 3",
+      "url": "https://www.producthunt.com/products/krea",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Krea's AI image model: 2K edits in under 8 seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233488+00:00"
+    },
+    {
+      "id": "96cc0dfa8271",
+      "name": "Bee Frontier and Bee Eclipse",
+      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Amazon's personal AI memory, now on your wrist or phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233551+00:00"
+    },
+    {
+      "id": "51063db6d9aa",
+      "name": "Openbroca",
+      "url": "https://www.producthunt.com/products/openbroca",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lightweight AI dictation for Mac that sounds like you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233606+00:00"
+    },
+    {
+      "id": "0c647f9b12f3",
+      "name": "shim",
+      "url": "https://www.producthunt.com/products/shim-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ask",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See what your coding agent sends. Mask what you can.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233662+00:00"
+    },
+    {
+      "id": "5e7ecad02812",
+      "name": "XBOX Nano Controller",
+      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pocket-sized wireless gamepad with all 18 inputs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233721+00:00"
+    },
+    {
+      "id": "90e620c6e4e0",
+      "name": "Tomo for ChatGPT",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask anything. Then play it, Duolingo-style.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233777+00:00"
+    },
+    {
+      "id": "2634c1139aac",
+      "name": "Earnote",
+      "url": "https://www.producthunt.com/products/earnote",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "dev",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lecture & meeting notes, written on your device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233833+00:00"
+    },
+    {
+      "id": "6dd486384fae",
+      "name": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "600B open weights, trained for long-running agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233889+00:00"
+    },
+    {
+      "id": "9ab73558ab20",
+      "name": "Korinotch",
+      "url": "https://www.producthunt.com/products/korinotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your MacBook notch, turned into a command center\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-18T11:57:09.233933+00:00"
+    },
+    {
       "id": "283963b5c162",
       "name": "Ultracite v8",
       "url": "https://www.producthunt.com/products/ultracite",
@@ -538,23 +841,6 @@
       "discovered_at": "2026-10-17T11:22:07.193919+00:00"
     },
     {
-      "id": "2634c1139aac",
-      "name": "Earnote",
-      "url": "https://www.producthunt.com/products/earnote",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "dev",
-        "note",
-        "meeting"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Lecture & meeting notes, written on your device\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-17T11:22:07.193974+00:00"
-    },
-    {
       "id": "75649f4c7119",
       "name": "Craft Agents",
       "url": "https://www.producthunt.com/products/craft-agents",
@@ -585,34 +871,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-17T11:22:07.194090+00:00"
-    },
-    {
-      "id": "9ab73558ab20",
-      "name": "Korinotch",
-      "url": "https://www.producthunt.com/products/korinotch",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your MacBook notch, turned into a command center\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-17T11:22:07.194131+00:00"
-    },
-    {
-      "id": "6dd486384fae",
-      "name": "Step 5 Preview",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "600B open weights, trained for long-running agents\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-17T11:22:07.194186+00:00"
     },
     {
       "id": "bcc48693a761",
