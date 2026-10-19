@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T11:57:09.453586+00:00",
-  "total": 3411,
+  "updated_at": "2026-10-19T14:20:00.777474+00:00",
+  "total": 3430,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,312 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "7b9d6ab045ac",
+      "name": "Triwarden",
+      "url": "https://www.producthunt.com/products/triwarden",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Native Mac password manager for Vaultwarden & Bitwarden\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476039+00:00"
+    },
+    {
+      "id": "e686082bb9e7",
+      "name": "Framefields",
+      "url": "https://www.producthunt.com/products/framefields",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "video"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source code-first video for AGI era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476143+00:00"
+    },
+    {
+      "id": "eafb5b74070e",
+      "name": "Wally by Willow",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Scribe agent that learns how you write\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476228+00:00"
+    },
+    {
+      "id": "79d3b749a90a",
+      "name": "face2social",
+      "url": "https://www.producthunt.com/products/face2social",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search By Face. Know Who's Real.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476349+00:00"
+    },
+    {
+      "id": "13dff6203909",
+      "name": "Quello",
+      "url": "https://www.producthunt.com/products/quello",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "One place to ask, across everything you already use.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476435+00:00"
+    },
+    {
+      "id": "12087a5b843e",
+      "name": "croft",
+      "url": "https://www.producthunt.com/products/croft-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "typescript",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Data pipelines in TypeScript, on one DuckDB file\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476512+00:00"
+    },
+    {
+      "id": "dd8385141c39",
+      "name": "DoOne",
+      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Focus timer with integrations with GitHub, Gitlab & More\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476592+00:00"
+    },
+    {
+      "id": "51ed0bc797c3",
+      "name": "walkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "talk",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Talk to your AI coding agent over a walkie-talkie\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476668+00:00"
+    },
+    {
+      "id": "6f6bd3b55a1d",
+      "name": "Lookout (for Slack)",
+      "url": "https://www.producthunt.com/products/lookout-for-slack",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Urgent Slack messages, handled instantly. Powered by Jev.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476727+00:00"
+    },
+    {
+      "id": "e42c132cc9fa",
+      "name": "buddylist",
+      "url": "https://www.producthunt.com/products/buddylist-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "chat",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with your coding agents like it's 2005\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476796+00:00"
+    },
+    {
+      "id": "8ea6da696d81",
+      "name": "Beam.win",
+      "url": "https://www.producthunt.com/products/beam-win",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run AI agents on one Mac and use its windows on another\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476867+00:00"
+    },
+    {
+      "id": "c19d0c349d4c",
+      "name": "Starkomand",
+      "url": "https://www.producthunt.com/products/starkomand",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run your AI coding agents on an infinite canvas.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476936+00:00"
+    },
+    {
+      "id": "b4e9ba656241",
+      "name": "Switch Lab",
+      "url": "https://www.producthunt.com/products/switch-lab",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Hear and type on keyboard switches before you buy them\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.476993+00:00"
+    },
+    {
+      "id": "be9fc65c8edf",
+      "name": "Lancetta",
+      "url": "https://www.producthunt.com/products/lancetta",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know when to push your coding agents, and when to ease off\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477062+00:00"
+    },
+    {
+      "id": "da702accb2a9",
+      "name": "AutoChart.eu",
+      "url": "https://www.producthunt.com/products/autochart-eu",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "song"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any song into a full-band chart for YARG and Clone Hero\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477134+00:00"
+    },
+    {
+      "id": "fb425b16ff1f",
+      "name": "Own 1",
+      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Own your data. Own your AI. A mind of your own.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477200+00:00"
+    },
+    {
+      "id": "7a64a10d01f5",
+      "name": "Lazy AWS",
+      "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A keyboard-driven home for your AWS resources\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477250+00:00"
+    },
+    {
+      "id": "16a5c98a556b",
+      "name": "CrawlForge MCP",
+      "url": "https://www.producthunt.com/products/crawlforge-mcp",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent 31 web tools in one MCP server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477337+00:00"
+    },
+    {
+      "id": "a232b5076de8",
+      "name": "Figma Specs",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A container for your context that lives on the Figma canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477394+00:00"
+    },
+    {
+      "id": "44f2b04064fa",
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "assistant",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The senior personal assistant that works inside WhatsApp\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-19T14:20:00.477464+00:00"
     },
     {
       "id": "08dfe34731f9",
@@ -30028,21 +30334,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-22T12:51:05.772903+00:00"
-    },
-    {
-      "id": "44f2b04064fa",
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your 24/7 AI Chief of Staff for commitments and follow-ups\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-22T12:51:05.772976+00:00"
     },
     {
       "id": "d831b651b206",
