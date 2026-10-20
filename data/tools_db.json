@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:20:00.777474+00:00",
-  "total": 3430,
+  "updated_at": "2026-10-20T12:32:33.345094+00:00",
+  "total": 3448,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "879d9f300f87",
+      "name": "/dev/null",
+      "url": "https://www.producthunt.com/products/dev-null",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "a social network for devs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.189887+00:00"
+    },
+    {
+      "id": "f2173da391cf",
+      "name": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Harness the agent. Then harness its self-improvement.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.189993+00:00"
+    },
+    {
+      "id": "beff6c2b735f",
+      "name": "Inflight",
+      "url": "https://www.producthunt.com/products/inflight-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Capture design feedback directly inside your prototypes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190079+00:00"
+    },
+    {
+      "id": "5b8d2a454637",
+      "name": "Kling 4.0",
+      "url": "https://www.producthunt.com/products/kling-4-0-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast and affordable AI video for high-frequency creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190154+00:00"
+    },
+    {
+      "id": "767b90ac970d",
+      "name": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI knowledge graph that builds itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190208+00:00"
+    },
+    {
+      "id": "daa629e9dfd6",
+      "name": "ESP",
+      "url": "https://www.producthunt.com/products/esp-mosaico",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A modular development board built for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190278+00:00"
+    },
+    {
+      "id": "57838551d8c4",
+      "name": "snyvi",
+      "url": "https://www.producthunt.com/products/snyvi",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "All your passion projects, in one calm place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190353+00:00"
+    },
+    {
+      "id": "10eeaec8679c",
+      "name": "reception",
+      "url": "https://www.producthunt.com/products/reception",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native iOS support chat for less churn\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190426+00:00"
+    },
+    {
+      "id": "054fe5f32ced",
+      "name": "Mintlify Autopilot",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An always-on agent that keeps your docs up to date\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190500+00:00"
+    },
+    {
+      "id": "da0854331abd",
+      "name": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every friends' chat gets an AI friend with superpowers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190572+00:00"
+    },
+    {
+      "id": "2bdeb66251ae",
+      "name": "Exa 3.0",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "art",
+        "search",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smarter search that gives AI agent richer data at lower cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190669+00:00"
+    },
+    {
+      "id": "c27b646659c7",
+      "name": "ToDo.is",
+      "url": "https://www.producthunt.com/products/todo-is",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write a to-do and your AI agent gets it done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190743+00:00"
+    },
+    {
+      "id": "27f3393c13bb",
+      "name": "Hoistbay",
+      "url": "https://www.producthunt.com/products/hoistbay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source desktop app for Amazon S3 and CloudFront\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190805+00:00"
+    },
+    {
+      "id": "bc2f2898a318",
+      "name": "RunInfra",
+      "url": "https://www.producthunt.com/products/runinfra",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Open models, built for agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190872+00:00"
+    },
+    {
+      "id": "ee14f3d968ea",
+      "name": "Panza",
+      "url": "https://www.producthunt.com/products/panza-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One safe place for life's important documents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.190941+00:00"
+    },
+    {
+      "id": "62db87b3f302",
+      "name": "Stella",
+      "url": "https://www.producthunt.com/products/stella-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your emotional wellness AI. A friend to figure it out with.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.191011+00:00"
+    },
+    {
+      "id": "09a05f108730",
+      "name": "The New Beings",
+      "url": "https://www.producthunt.com/products/the-new-beings",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents on their break, performing a live talk show\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.191083+00:00"
+    },
+    {
+      "id": "2902fea15b95",
+      "name": "Stage",
+      "url": "https://www.producthunt.com/products/stage-9",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Review, fix and sign off working prototypes and products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.191135+00:00"
+    },
+    {
+      "id": "fb3e3c49ed29",
+      "name": "Portlivo",
+      "url": "https://www.producthunt.com/products/portlivo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every local dev server on your Mac, in the menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.191202+00:00"
+    },
+    {
+      "id": "45ee6ae470d4",
+      "name": "Jotform App Builder for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "ide",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build and edit no-code apps inside ChatGPT & Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-20T12:32:33.191264+00:00"
     },
     {
       "id": "7b9d6ab045ac",
@@ -12150,22 +12457,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-09T12:11:28.382389+00:00"
-    },
-    {
-      "id": "da0854331abd",
-      "name": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "chat"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI messenger that builds shared apps inside your group chats\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-09T12:11:28.382462+00:00"
     },
     {
       "id": "e91d17371f2d",
@@ -28233,19 +28524,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-01T10:43:43.197636+00:00"
-    },
-    {
-      "id": "bc2f2898a318",
-      "name": "RunInfra",
-      "url": "https://www.producthunt.com/products/runinfra",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Describe the AI model you need and get an optimized AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-01T10:43:43.197692+00:00"
     },
     {
       "id": "1b0c023b3838",
