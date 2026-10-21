@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T12:32:33.345094+00:00",
-  "total": 3448,
+  "updated_at": "2026-10-21T12:43:20.007136+00:00",
+  "total": 3468,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "f15648941e45",
+      "name": "NativeShip",
+      "url": "https://www.producthunt.com/products/nativeship",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The easy way to launch your n8n native integration\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.729758+00:00"
+    },
+    {
+      "id": "e2c377bf6742",
+      "name": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "developer",
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Coding agents, meet teamwork\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.729850+00:00"
+    },
+    {
+      "id": "e1efaf187ae6",
+      "name": "Scout by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI coworker for support teams, on Slack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.729915+00:00"
+    },
+    {
+      "id": "c83bed6cc7d1",
+      "name": "The Library",
+      "url": "https://www.producthunt.com/products/querri",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your business context organized by queries\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.729988+00:00"
+    },
+    {
+      "id": "754b9e12607c",
+      "name": "The Brains",
+      "url": "https://www.producthunt.com/products/the-brains",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Founders and investors as MCP servers, every answer cited\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730062+00:00"
+    },
+    {
+      "id": "91ef0feb929e",
+      "name": "ilha",
+      "url": "https://www.producthunt.com/products/ilha",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Claude Code and Codex limits, live in the notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730134+00:00"
+    },
+    {
+      "id": "d8edc30a9fa9",
+      "name": "UseIt Studio",
+      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "agent",
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI design agent for real, editable project files.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730235+00:00"
+    },
+    {
+      "id": "b2140a786d84",
+      "name": "Koi",
+      "url": "https://www.producthunt.com/products/koi-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every tool you need, in one Mac app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730294+00:00"
+    },
+    {
+      "id": "454dbf359fc7",
+      "name": "Intelli for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/intelli",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730372+00:00"
+    },
+    {
+      "id": "b8b9bd800840",
+      "name": "AskDoozy",
+      "url": "https://www.producthunt.com/products/askdoozy",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI coworker in Slack that does your real work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730440+00:00"
+    },
+    {
+      "id": "09ec15aa750c",
+      "name": "TwinMind for Desktop",
+      "url": "https://www.producthunt.com/products/twinmind",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "transcri",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Transcribe meetings and dictate anywhere on Mac & Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730513+00:00"
+    },
+    {
+      "id": "1602308fee61",
+      "name": "Tend",
+      "url": "https://www.producthunt.com/products/tend-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Personal AI for businesses and entrepreneurs.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730565+00:00"
+    },
+    {
+      "id": "dc5f8a815693",
+      "name": "Mouse",
+      "url": "https://www.producthunt.com/products/mouse-1",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A decision model for your agent harness. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730638+00:00"
+    },
+    {
+      "id": "12b695e695b8",
+      "name": "Nimbalyst Wiki",
+      "url": "https://www.producthunt.com/products/nimbalyst-wiki",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "organiz",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Wiki your agents write for you to think, organize, direct\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730712+00:00"
+    },
+    {
+      "id": "dd27e2f4725d",
+      "name": "LearnExcel",
+      "url": "https://www.producthunt.com/products/learnexcel",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn Excel by typing real formulas, graded instantly\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730782+00:00"
+    },
+    {
+      "id": "02708c8bc047",
+      "name": "Animatica Marionette",
+      "url": "https://www.producthunt.com/products/animatica-autoposer-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Pose humanoid rigs in Blender by dragging hands and feet\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730838+00:00"
+    },
+    {
+      "id": "5fc119178175",
+      "name": "PrivOS",
+      "url": "https://www.producthunt.com/products/privos",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat, Docs, Kanban Tasks and Al agents that act, self-hosted\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730908+00:00"
+    },
+    {
+      "id": "a3758dd2ad38",
+      "name": "Blooio",
+      "url": "https://www.producthunt.com/products/blooio-imessages-api-that-scales",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Apple Messages for Business made easy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.730972+00:00"
+    },
+    {
+      "id": "aaf8a655a9f4",
+      "name": "Notion Auto",
+      "url": "https://www.producthunt.com/products/notion-99",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notion’s rebuilt Agents run for hours and cost far less\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.731064+00:00"
+    },
+    {
+      "id": "a9aeb6d1e914",
+      "name": "Flyweel",
+      "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ad spend cards, cash-gap funding, and agent audit via MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-21T12:43:19.731135+00:00"
     },
     {
       "id": "879d9f300f87",
