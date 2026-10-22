@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T12:43:20.007136+00:00",
-  "total": 3468,
+  "updated_at": "2026-10-22T12:46:40.188217+00:00",
+  "total": 3488,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,324 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "37eab87dacd0",
+      "name": "Claire Mail",
+      "url": "https://www.producthunt.com/products/claire-mail",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "calendar",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.052927+00:00"
+    },
+    {
+      "id": "ddc630e6360b",
+      "name": "DeepCell",
+      "url": "https://www.producthunt.com/products/deepcell",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your deadline survival kit for office work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053054+00:00"
+    },
+    {
+      "id": "543c4421b614",
+      "name": "Loom Record for agents",
+      "url": "https://www.producthunt.com/products/loom",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053177+00:00"
+    },
+    {
+      "id": "43a864e716f5",
+      "name": "Causo",
+      "url": "https://www.producthunt.com/products/causo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "find",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find leads beyond database filters with AI research & MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053288+00:00"
+    },
+    {
+      "id": "f5127dfcc811",
+      "name": "Fastlane 2.0",
+      "url": "https://www.producthunt.com/products/fastlane-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create, launch and scale winning ads with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053409+00:00"
+    },
+    {
+      "id": "aba31d84efa1",
+      "name": "CutBay",
+      "url": "https://www.producthunt.com/products/cutbay",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI Video Agent: Turn Anything into Videos via Chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053517+00:00"
+    },
+    {
+      "id": "1280589d6540",
+      "name": "heal.dev",
+      "url": "https://www.producthunt.com/products/heal-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "dev",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find bugs and vulnerabilities code review misses\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053662+00:00"
+    },
+    {
+      "id": "51362239f3fa",
+      "name": "Bits",
+      "url": "https://www.producthunt.com/products/bits-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "An open-source personal agent that gets you things done\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053785+00:00"
+    },
+    {
+      "id": "e6b6dc2cd159",
+      "name": "Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Proactive agent that understands what needs your attention\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.053905+00:00"
+    },
+    {
+      "id": "0ed7535ae1f5",
+      "name": "Dadan",
+      "url": "https://www.producthunt.com/products/dadan",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "recording",
+        "meeting",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One AI video workspace for recordings, meetings and guides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054020+00:00"
+    },
+    {
+      "id": "655f6a809dc4",
+      "name": "ElevenLabs Realtime Translation",
+      "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "talk",
+        "audio",
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn live speech into translated audio as people talk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054144+00:00"
+    },
+    {
+      "id": "2ce257aa6f38",
+      "name": "Mercury 3",
+      "url": "https://www.producthunt.com/products/mercury-412",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The diffusion LLM that scaled 40x without slowing down\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054232+00:00"
+    },
+    {
+      "id": "41c770d09b30",
+      "name": "Voxelo 3.0",
+      "url": "https://www.producthunt.com/products/voxelo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "photo",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Phone video to photoreal 3D & JSON-LD in an hour\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054354+00:00"
+    },
+    {
+      "id": "81345df8e3dd",
+      "name": "Resend Inboxes",
+      "url": "https://www.producthunt.com/products/resend",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "workflow",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create shared inboxes, connect your agents, build workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054477+00:00"
+    },
+    {
+      "id": "762d547e2ef2",
+      "name": "Mistral Voxtral 3",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "mistral",
+        "speech",
+        "tts",
+        "transcri",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mistral’s speech models for transcription, TTS and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054658+00:00"
+    },
+    {
+      "id": "c3d63eb72c02",
+      "name": "Notif",
+      "url": "https://www.producthunt.com/products/notif-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI for your Apple Reminders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054745+00:00"
+    },
+    {
+      "id": "b9a5a078406b",
+      "name": "Concierge by Juniors AI",
+      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Omni-channel AI-first customer support (6 months free)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054833+00:00"
+    },
+    {
+      "id": "ea1fe7b726a4",
+      "name": "Doneas",
+      "url": "https://www.producthunt.com/products/doneas",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A daily accountability call with other entrepreneurs.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.054914+00:00"
+    },
+    {
+      "id": "11e936c80bc3",
+      "name": "Teclo",
+      "url": "https://www.producthunt.com/products/teclo",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mechanical keyboard sounds and a keycap pet for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.055018+00:00"
+    },
+    {
+      "id": "6e0e79f13254",
+      "name": "Whiteboard",
+      "url": "https://www.producthunt.com/products/whiteboard-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design"
+      ],
+      "pricing": "Free",
+      "description_it": "the open-source IDE for thoughtful software design \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-22T12:46:40.055124+00:00"
     },
     {
       "id": "f15648941e45",
