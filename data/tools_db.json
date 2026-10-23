@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T12:46:40.188217+00:00",
-  "total": 3488,
+  "updated_at": "2026-10-23T12:25:00.120933+00:00",
+  "total": 3506,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "f870b6e312aa",
+      "name": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI agents, live on your iPhone lock screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908462+00:00"
+    },
+    {
+      "id": "584e6a99f9a8",
+      "name": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A customizable workspace built into your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908512+00:00"
+    },
+    {
+      "id": "3156f04687e2",
+      "name": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The world's first long-form video agent for mobile\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908560+00:00"
+    },
+    {
+      "id": "75a8489d12b9",
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Use AI to defend against AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908591+00:00"
+    },
+    {
+      "id": "77413b56821c",
+      "name": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See your product change live before it ships\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908624+00:00"
+    },
+    {
+      "id": "bd16532313dc",
+      "name": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private ChatGPT alternative that sets itself up on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908668+00:00"
+    },
+    {
+      "id": "95718756dca2",
+      "name": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pause Claude Code and Codex before they burn your week\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908715+00:00"
+    },
+    {
+      "id": "e92a4426e343",
+      "name": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review your AI agent's Markdown specs like a pull request\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908760+00:00"
+    },
+    {
+      "id": "eb8da8fc5faa",
+      "name": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "flux",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908821+00:00"
+    },
+    {
+      "id": "7bb9b32ec829",
+      "name": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An AI on-call engineer for your Cloudflare apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908856+00:00"
+    },
+    {
+      "id": "abea3fb0953f",
+      "name": "Cloudflare Clairic",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908900+00:00"
+    },
+    {
+      "id": "1385a46bbad8",
+      "name": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See your launch as you build it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908941+00:00"
+    },
+    {
+      "id": "456fba141082",
+      "name": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One memory for your AI agents and human team members.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.908986+00:00"
+    },
+    {
+      "id": "45f0e8fe5365",
+      "name": "Headroom",
+      "url": "https://www.producthunt.com/products/headroom-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac on iPhone Duo: fold it, and the keyboard appears\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909027+00:00"
+    },
+    {
+      "id": "5bf545b4ffbd",
+      "name": "Inyon",
+      "url": "https://www.producthunt.com/products/inyon",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "answer",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Answer your coding agents from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909064+00:00"
+    },
+    {
+      "id": "918061e016dd",
+      "name": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Fix messy tags, covers and duplicates in your Mac library\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909093+00:00"
+    },
+    {
+      "id": "22a97801ba4b",
+      "name": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Watch AI agents code in 3D and hand off the work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909133+00:00"
+    },
+    {
+      "id": "470566034733",
+      "name": "Dub Startup Program",
+      "url": "https://www.producthunt.com/products/dub",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "growth"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launch your partner-led growth program\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909173+00:00"
+    },
+    {
+      "id": "ce6b04b2f8c8",
+      "name": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your personal AGI on your pc\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909200+00:00"
+    },
+    {
+      "id": "bcbcf3dfdd57",
+      "name": "Bloblings",
+      "url": "https://www.producthunt.com/products/bloblings",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A pet for every Claude Code session\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-23T12:24:59.909238+00:00"
     },
     {
       "id": "37eab87dacd0",
@@ -17601,19 +17903,6 @@
       "discovered_at": "2026-08-21T07:42:27.552331+00:00"
     },
     {
-      "id": "ce6b04b2f8c8",
-      "name": "ShogunAI",
-      "url": "https://www.producthunt.com/products/shogunai",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Your personal AGI on your PC. Built to finish real work.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-21T07:42:27.552516+00:00"
-    },
-    {
       "id": "a17502d39390",
       "name": "Router by Ramp",
       "url": "https://www.producthunt.com/products/ramp-router",
@@ -28555,22 +28844,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-06T11:28:59.984113+00:00"
-    },
-    {
-      "id": "22a97801ba4b",
-      "name": "Termi Protocol",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Watch your AI coding agents build, live in 3D\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-05T09:42:51.478689+00:00"
     },
     {
       "id": "69c16f50742b",
