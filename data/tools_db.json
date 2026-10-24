@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:25:00.120933+00:00",
-  "total": 3506,
+  "updated_at": "2026-10-24T11:51:34.033912+00:00",
+  "total": 3521,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,322 @@
       "featured": false
     },
     {
+      "id": "36bafcc17427",
+      "name": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "photo",
+        "film",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your route, photos and clips as a short film\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.810833+00:00"
+    },
+    {
+      "id": "85fc177ee1a2",
+      "name": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI 3D that creates real parts, not just shapes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.810935+00:00"
+    },
+    {
+      "id": "e2f2cee2b960",
+      "name": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "email",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask once. Get a fresh CSV in Slack or email every week.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811008+00:00"
+    },
+    {
+      "id": "947ab6241a94",
+      "name": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Vibe code, publish, and monetize games with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811065+00:00"
+    },
+    {
+      "id": "d6b0beca4a07",
+      "name": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI agents sign in for you without seeing your passwords\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811128+00:00"
+    },
+    {
+      "id": "9441b6ce5204",
+      "name": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "screen",
+        "write",
+        "novel"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A quiet Mac app for screenplays, stage plays and novels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811187+00:00"
+    },
+    {
+      "id": "c51d8563b46f",
+      "name": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ide",
+        "ask",
+        "background",
+        "task",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI for dictation, meetings, background tasks and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811251+00:00"
+    },
+    {
+      "id": "5bc7df253e66",
+      "name": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Zero clicks: windows back after sleep, unlock or replugging\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811314+00:00"
+    },
+    {
+      "id": "0588c6342ea3",
+      "name": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Know exactly how much data you use, on every network\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811370+00:00"
+    },
+    {
+      "id": "dfb993fdb380",
+      "name": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn prompts into design-ready images you can edit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811427+00:00"
+    },
+    {
+      "id": "1280a54b6424",
+      "name": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Every Claude Code agent, at a glance, in your Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811485+00:00"
+    },
+    {
+      "id": "ef8bc3e37f14",
+      "name": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A ’90s 5-disc CD changer on iPhone Duo \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811541+00:00"
+    },
+    {
+      "id": "03f8656e456d",
+      "name": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "node"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Get back the space Xcode, Docker and node_modules ate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811601+00:00"
+    },
+    {
+      "id": "354c5927a942",
+      "name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "insight"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Post insights delivered direct to your AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811656+00:00"
+    },
+    {
+      "id": "ec7c644afe8a",
+      "name": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fastest, most precise local AI Search for your files.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811714+00:00"
+    },
+    {
+      "id": "abea3fb0953f",
+      "name": "Cloudflare Clairic",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811772+00:00"
+    },
+    {
+      "id": "bcbcf3dfdd57",
+      "name": "Bloblings",
+      "url": "https://www.producthunt.com/products/bloblings",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A pet for every Claude Code session\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811825+00:00"
+    },
+    {
+      "id": "75a8489d12b9",
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Use AI to defend against AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811863+00:00"
+    },
+    {
+      "id": "bd16532313dc",
+      "name": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private ChatGPT alternative that sets itself up on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811939+00:00"
+    },
+    {
+      "id": "e92a4426e343",
+      "name": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Review your AI agent's Markdown specs like a pull request\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811998+00:00"
+    },
+    {
       "id": "f870b6e312aa",
       "name": "Monish",
       "url": "https://www.producthunt.com/products/monish",
@@ -424,19 +740,6 @@
       "discovered_at": "2026-10-23T12:24:59.908560+00:00"
     },
     {
-      "id": "75a8489d12b9",
-      "name": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Use AI to defend against AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-23T12:24:59.908591+00:00"
-    },
-    {
       "id": "77413b56821c",
       "name": "Ovren Live Preview",
       "url": "https://www.producthunt.com/products/ovren",
@@ -448,22 +751,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-23T12:24:59.908624+00:00"
-    },
-    {
-      "id": "bd16532313dc",
-      "name": "Gerty",
-      "url": "https://www.producthunt.com/products/gerty",
-      "source": "Product Hunt AI (feed)",
-      "category": "chat",
-      "tags": [
-        "chat",
-        "gpt"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Private ChatGPT alternative that sets itself up on your Mac\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-23T12:24:59.908668+00:00"
     },
     {
       "id": "95718756dca2",
@@ -480,21 +767,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-23T12:24:59.908715+00:00"
-    },
-    {
-      "id": "e92a4426e343",
-      "name": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Review your AI agent's Markdown specs like a pull request\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-23T12:24:59.908760+00:00"
     },
     {
       "id": "eb8da8fc5faa",
@@ -525,22 +797,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-23T12:24:59.908856+00:00"
-    },
-    {
-      "id": "abea3fb0953f",
-      "name": "Cloudflare Clairic",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "data",
-        "action"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-23T12:24:59.908900+00:00"
     },
     {
       "id": "1385a46bbad8",
@@ -662,22 +918,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-23T12:24:59.909200+00:00"
-    },
-    {
-      "id": "bcbcf3dfdd57",
-      "name": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "claude"
-      ],
-      "pricing": "Free tier",
-      "description_it": "A pet for every Claude Code session\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-23T12:24:59.909238+00:00"
     },
     {
       "id": "37eab87dacd0",
