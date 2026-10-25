@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T11:51:34.033912+00:00",
-  "total": 3521,
+  "updated_at": "2026-10-25T12:20:38.736766+00:00",
+  "total": 3534,
   "tools": [
     {
       "name": "Cursor",
@@ -378,55 +378,202 @@
       "featured": false
     },
     {
-      "id": "36bafcc17427",
-      "name": "How It Went",
-      "url": "https://www.producthunt.com/products/how-it-went",
+      "id": "f2497994b728",
+      "name": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
       "source": "Product Hunt AI (feed)",
-      "category": "video",
+      "category": "agent",
       "tags": [
-        "cli",
-        "photo",
-        "film",
-        "clip"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Your route, photos and clips as a short film\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.810833+00:00"
-    },
-    {
-      "id": "85fc177ee1a2",
-      "name": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "art",
+        "agent",
         "ad"
       ],
       "pricing": "Free tier",
-      "description_it": "AI 3D that creates real parts, not just shapes\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "The fastest headless browser for agents and harnesses\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.810935+00:00"
+      "discovered_at": "2026-10-25T12:20:38.505184+00:00"
     },
     {
-      "id": "e2f2cee2b960",
-      "name": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
+      "id": "2cbc9e3e0758",
+      "name": "pawl",
+      "url": "https://www.producthunt.com/products/pawl",
       "source": "Product Hunt AI (feed)",
-      "category": "produttività",
+      "category": "immagini",
       "tags": [
-        "ask",
-        "email",
-        "schedule"
+        "art"
       ],
       "pricing": "Free tier",
-      "description_it": "Ask once. Get a fresh CSV in Slack or email every week.\n          \n          \n            Discussion\n            |\n            Link",
+      "description_it": "a tiny mac focus timer you start by pulling a paw\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811008+00:00"
+      "discovered_at": "2026-10-25T12:20:38.505280+00:00"
+    },
+    {
+      "id": "c706f49b31e9",
+      "name": "Clips by Plastic",
+      "url": "https://www.producthunt.com/products/clips-by-plastic",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "art",
+        "song",
+        "beat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Lyric video ads for every part of your song, on the beat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505356+00:00"
+    },
+    {
+      "id": "d5454c6e93d3",
+      "name": "How It Spread",
+      "url": "https://www.producthunt.com/products/how-it-spread",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how anything went viral, from the first post\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505429+00:00"
+    },
+    {
+      "id": "45f4fa368ec0",
+      "name": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Product observability for teams shipping fast with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505484+00:00"
+    },
+    {
+      "id": "8e25e22ef9ad",
+      "name": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Secure data rooms your AI agents can run. Live in \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505553+00:00"
+    },
+    {
+      "id": "2aadac25b39f",
+      "name": "MRRaudit",
+      "url": "https://www.producthunt.com/products/mrraudit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Understand why your MRR differs and get a number you trust\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505651+00:00"
+    },
+    {
+      "id": "5dc767cc1f19",
+      "name": "Yourcast 2.0",
+      "url": "https://www.producthunt.com/products/yourcast",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI summaries with tap-to-jump timestamps, right in Telegram\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505714+00:00"
+    },
+    {
+      "id": "1ec2875fec7f",
+      "name": "Openstatus Incident Management",
+      "url": "https://www.producthunt.com/products/openstatus-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Incident management for small teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505787+00:00"
+    },
+    {
+      "id": "5b63855d5e83",
+      "name": "git",
+      "url": "https://www.producthunt.com/products/tower",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your favorite Git workflow. Reimagined.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505855+00:00"
+    },
+    {
+      "id": "98e26732bc70",
+      "name": "Badgey",
+      "url": "https://www.producthunt.com/products/badgey",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your iPhone becomes a name badge that faces the room\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505923+00:00"
+    },
+    {
+      "id": "fe2216b5316f",
+      "name": "AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared workspace for humans and agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.505990+00:00"
+    },
+    {
+      "id": "073efa02b324",
+      "name": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "llama"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One local AI server for all your Windows apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506063+00:00"
     },
     {
       "id": "947ab6241a94",
@@ -441,22 +588,7 @@
       "description_it": "Vibe code, publish, and monetize games with AI\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811065+00:00"
-    },
-    {
-      "id": "d6b0beca4a07",
-      "name": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Let AI agents sign in for you without seeing your passwords\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811128+00:00"
+      "discovered_at": "2026-10-25T12:20:38.506128+00:00"
     },
     {
       "id": "9441b6ce5204",
@@ -473,7 +605,103 @@
       "description_it": "A quiet Mac app for screenplays, stage plays and novels\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811187+00:00"
+      "discovered_at": "2026-10-25T12:20:38.506197+00:00"
+    },
+    {
+      "id": "85fc177ee1a2",
+      "name": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI 3D that creates real parts, not just shapes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506264+00:00"
+    },
+    {
+      "id": "ef8bc3e37f14",
+      "name": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A ’90s 5-disc CD changer on iPhone Duo \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506330+00:00"
+    },
+    {
+      "id": "dfb993fdb380",
+      "name": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image",
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn prompts into design-ready images you can edit\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506400+00:00"
+    },
+    {
+      "id": "36bafcc17427",
+      "name": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "cli",
+        "photo",
+        "film",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your route, photos and clips as a short film\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506467+00:00"
+    },
+    {
+      "id": "e2f2cee2b960",
+      "name": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "ask",
+        "email",
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ask once. Get a fresh CSV in Slack or email every week.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-25T12:20:38.506540+00:00"
+    },
+    {
+      "id": "d6b0beca4a07",
+      "name": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let AI agents sign in for you without seeing your passwords\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-24T11:51:33.811128+00:00"
     },
     {
       "id": "c51d8563b46f",
@@ -525,23 +753,6 @@
       "discovered_at": "2026-10-24T11:51:33.811370+00:00"
     },
     {
-      "id": "dfb993fdb380",
-      "name": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "source": "Product Hunt AI (feed)",
-      "category": "immagini",
-      "tags": [
-        "image",
-        "design",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn prompts into design-ready images you can edit\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811427+00:00"
-    },
-    {
       "id": "1280a54b6424",
       "name": "AgentValley",
       "url": "https://www.producthunt.com/products/agentvalley",
@@ -557,19 +768,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-24T11:51:33.811485+00:00"
-    },
-    {
-      "id": "ef8bc3e37f14",
-      "name": "Penta",
-      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A ’90s 5-disc CD changer on iPhone Duo \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811541+00:00"
     },
     {
       "id": "03f8656e456d",
