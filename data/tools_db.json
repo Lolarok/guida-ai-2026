@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T13:52:41.154067+00:00",
-  "total": 3553,
+  "updated_at": "2026-10-27T12:58:43.012552+00:00",
+  "total": 3573,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1ef06ce3f84e",
+      "name": "Orbit",
+      "url": "https://www.producthunt.com/products/orbit-app-blocker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Stop doomscrolling. Earn every app unlock.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.825972+00:00"
+    },
+    {
+      "id": "1811d511117e",
+      "name": "Off Grid AI",
+      "url": "https://www.producthunt.com/products/off-grid-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Private AI on your phone and computer. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826046+00:00"
+    },
+    {
+      "id": "c3664492abea",
+      "name": "OpenRadView",
+      "url": "https://www.producthunt.com/products/openradview",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, open-source viewer for your own CT, MRI and X-rays\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826132+00:00"
+    },
+    {
+      "id": "4492b1e6e93d",
+      "name": "TheySaid 4.0",
+      "url": "https://www.producthunt.com/products/theysaid",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "react"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how users will react, right where you build.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826206+00:00"
+    },
+    {
+      "id": "c59417f0a5fe",
+      "name": "NuPlay",
+      "url": "https://www.producthunt.com/products/nuplay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI transformation, run on one self-improving platform\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826263+00:00"
+    },
+    {
+      "id": "1035b0424f00",
+      "name": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Capture what matters and move your intentions forward\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826317+00:00"
+    },
+    {
+      "id": "336b5aa092b5",
+      "name": "Revix AI",
+      "url": "https://www.producthunt.com/products/revix-ai-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI code review that learns your repo's own rules\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826392+00:00"
+    },
+    {
+      "id": "4946a7a181d4",
+      "name": "Coachare",
+      "url": "https://www.producthunt.com/products/coachare",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your potential. Unlocked.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826445+00:00"
+    },
+    {
+      "id": "728c0b0218bb",
+      "name": "NINX",
+      "url": "https://www.producthunt.com/products/ninx-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "dev",
+        "workflow",
+        "connect"
+      ],
+      "pricing": "Free tier",
+      "description_it": "On-device AI, connected tools, and creative workflows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826517+00:00"
+    },
+    {
+      "id": "b228c4818094",
+      "name": "fswitcher",
+      "url": "https://www.producthunt.com/products/fswitcher",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "fswitcher replaces Command-Tab on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826569+00:00"
+    },
+    {
+      "id": "75ad2c71808a",
+      "name": "Nuvio 5.0",
+      "url": "https://www.producthunt.com/products/nuvio",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hand your financial admin to your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826636+00:00"
+    },
+    {
+      "id": "374ef5495422",
+      "name": "Notra",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notra is a GEO tool that helps you rank in AI Search.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826706+00:00"
+    },
+    {
+      "id": "f4b55a466886",
+      "name": "Overmind",
+      "url": "https://www.producthunt.com/products/overmind-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Open-source platform for continuous learning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826763+00:00"
+    },
+    {
+      "id": "ea523aee171c",
+      "name": "Paddock",
+      "url": "https://www.producthunt.com/products/paddock-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Computers and sandboxes for your agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826851+00:00"
+    },
+    {
+      "id": "f071b4cceb86",
+      "name": "Spacesheep",
+      "url": "https://www.producthunt.com/products/spacesheep",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Documents of the future, made by AI, read by your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826924+00:00"
+    },
+    {
+      "id": "758ebadfa0a4",
+      "name": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Click any UI bug on localhost. Your AI agent fixes it.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.826992+00:00"
+    },
+    {
+      "id": "b019c985065d",
+      "name": "ContextGem 1.0",
+      "url": "https://www.producthunt.com/products/contextgem",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Decision models join LLMs to extract data from documents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.827063+00:00"
+    },
+    {
+      "id": "bca0075f9598",
+      "name": "Arcade Controller Pro",
+      "url": "https://www.producthunt.com/products/bluetooth-snes-controller",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fight controller with no stick and its own screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.827134+00:00"
+    },
+    {
+      "id": "0444384c5b81",
+      "name": "iPad mini 8",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OLED, A20 Pro and IP67 in Apple's smallest iPad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.827201+00:00"
+    },
+    {
+      "id": "6bf93e9cf0b1",
+      "name": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "git",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source alternative to Git for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-27T12:58:42.827270+00:00"
     },
     {
       "id": "73a4f57b2dbc",
