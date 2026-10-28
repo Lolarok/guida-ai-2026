@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T12:58:43.012552+00:00",
-  "total": 3573,
+  "updated_at": "2026-10-28T13:49:47.461259+00:00",
+  "total": 3593,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,314 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1aeb048edaf1",
+      "name": "BotGauge",
+      "url": "https://www.producthunt.com/products/botgauge-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "rust",
+        "agent",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Trust Layer for Your Agents \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.213834+00:00"
+    },
+    {
+      "id": "70acf700b42b",
+      "name": "NotiKeep",
+      "url": "https://www.producthunt.com/products/notikeep",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notification history for iPhone, on your device\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.213937+00:00"
+    },
+    {
+      "id": "f36b97d25ca8",
+      "name": "AirPosture",
+      "url": "https://www.producthunt.com/products/airposture-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Now on Mac, with a voice coach in your AirPods\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214025+00:00"
+    },
+    {
+      "id": "f2f62d05b6d6",
+      "name": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Check if AI agents can use your website\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214097+00:00"
+    },
+    {
+      "id": "071a064d5aec",
+      "name": "Open For sales",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your next sales campaign is one prompt away\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214169+00:00"
+    },
+    {
+      "id": "7f9048952f54",
+      "name": "Congress Trades",
+      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how Congress members trade, and if copying them pays off\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214244+00:00"
+    },
+    {
+      "id": "bddefe89fd53",
+      "name": "Genie 4",
+      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn a prompt into a living world you can steer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214305+00:00"
+    },
+    {
+      "id": "86e0be3ef7c7",
+      "name": "Yardlet",
+      "url": "https://www.producthunt.com/products/yardlet-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Mac app for the coding agents you already use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214380+00:00"
+    },
+    {
+      "id": "d5316484f782",
+      "name": "Hob",
+      "url": "https://www.producthunt.com/products/hob-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "dev",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source, on device alternative to Claude and ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214455+00:00"
+    },
+    {
+      "id": "7d76fce363b3",
+      "name": "bytemail",
+      "url": "https://www.producthunt.com/products/bytemail",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Native Mac email: every inbox, in your notch, no trackers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214528+00:00"
+    },
+    {
+      "id": "ce38464d861f",
+      "name": "throxy (yc p25)",
+      "url": "https://www.producthunt.com/products/throxy-yc-p25",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Cold calls in your prospect's language. Pipeline delivered.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214584+00:00"
+    },
+    {
+      "id": "c1c4d0724408",
+      "name": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Six 2B-class models for phones, laptops and robots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214654+00:00"
+    },
+    {
+      "id": "3ee10ebcd679",
+      "name": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI ad fraud protection for Google and Meta ads\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214749+00:00"
+    },
+    {
+      "id": "e7c81f686c9d",
+      "name": "Store Screenshots",
+      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "coding",
+        "design",
+        "screenshot",
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your coding agent designs your app store screenshots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214825+00:00"
+    },
+    {
+      "id": "01352f97188a",
+      "name": "Zest",
+      "url": "https://www.producthunt.com/products/zest-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hold ⌥Space, flick, and an AI agent does the dev chore\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214919+00:00"
+    },
+    {
+      "id": "65eaa513cd02",
+      "name": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spotlight-style AI chat for your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.214987+00:00"
+    },
+    {
+      "id": "76633493e31f",
+      "name": "Basedash View",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Share dashboards with anyone. They can look, not edit.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.215043+00:00"
+    },
+    {
+      "id": "9f823b188336",
+      "name": "licenseal",
+      "url": "https://www.producthunt.com/products/licenseal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Catch incompatible dependency licenses before release\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.215098+00:00"
+    },
+    {
+      "id": "d4ffe0137024",
+      "name": "Agent Handshake by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agent-to-agent customer support that holds its answer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.215171+00:00"
+    },
+    {
+      "id": "04073367a1d7",
+      "name": "Mudroom",
+      "url": "https://www.producthunt.com/products/mudroom-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run coding agents in a VM, review changes like a PR\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-28T13:49:47.215241+00:00"
     },
     {
       "id": "1ef06ce3f84e",
