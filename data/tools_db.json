@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T13:49:47.461259+00:00",
-  "total": 3593,
+  "updated_at": "2026-10-29T13:57:14.751446+00:00",
+  "total": 3612,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,315 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "3703344362df",
+      "name": "Confetti",
+      "url": "https://www.producthunt.com/products/confetti-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Easiest way to build hardware gadgets using plain English\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492322+00:00"
+    },
+    {
+      "id": "cf817bb347cd",
+      "name": "Viggle JST",
+      "url": "https://www.producthunt.com/products/viggle-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "motion"
+      ],
+      "pricing": "Free tier",
+      "description_it": "JST-2: 3D scenes, characters and motion from one model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492402+00:00"
+    },
+    {
+      "id": "41fae8b87390",
+      "name": "Smart Jelly",
+      "url": "https://www.producthunt.com/products/smart-jelly",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your everyday AI tools and memory in one Mac app.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492468+00:00"
+    },
+    {
+      "id": "9de262aa33ef",
+      "name": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "You don't need an AI SRE. Give your agent Radar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492527+00:00"
+    },
+    {
+      "id": "c4fb08e0464f",
+      "name": "Reset Alerts",
+      "url": "https://www.producthunt.com/products/reset-alerts",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Codex Reset Alerts via Text (Use it Before You Lose It)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492588+00:00"
+    },
+    {
+      "id": "8a9f288034e3",
+      "name": "Gologin Cloud Browser",
+      "url": "https://www.producthunt.com/products/gologin",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloud browser for AI agents and tough sites \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492650+00:00"
+    },
+    {
+      "id": "421f70cf995a",
+      "name": "Empacer",
+      "url": "https://www.producthunt.com/products/empacer",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The voice-first assistant for small business owners\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492728+00:00"
+    },
+    {
+      "id": "24698f97f638",
+      "name": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The easiest way to automate anything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492788+00:00"
+    },
+    {
+      "id": "624048ad6f86",
+      "name": "Intrascope 2.0",
+      "url": "https://www.producthunt.com/products/intrascope-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "New AI agent, 1,650+ apps, Skills and smart model routing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492849+00:00"
+    },
+    {
+      "id": "9c0bb9c23731",
+      "name": "Suno MCP",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The music layerfor your AI stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492902+00:00"
+    },
+    {
+      "id": "76c58a98dfcc",
+      "name": "Enclave",
+      "url": "https://www.producthunt.com/products/enclave-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One hover, everything you need.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492941+00:00"
+    },
+    {
+      "id": "9889196a00b8",
+      "name": "ChatInbox",
+      "url": "https://www.producthunt.com/products/chatinbox-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email that groups your inbox by contact\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.492994+00:00"
+    },
+    {
+      "id": "ceb661516a0a",
+      "name": "Voxel51 Multimodal",
+      "url": "https://www.producthunt.com/products/voxel51",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "data",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Better data. Smarter robots. Repeat.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493054+00:00"
+    },
+    {
+      "id": "40fef9fcc592",
+      "name": "StoreLocale",
+      "url": "https://www.producthunt.com/products/storelocale",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Translate app UI in App Store & Google Play screenshots\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493111+00:00"
+    },
+    {
+      "id": "fc647e7aecb1",
+      "name": "Flatbread",
+      "url": "https://www.producthunt.com/products/flatbread",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Share the whole agent run, not a screenshot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493166+00:00"
+    },
+    {
+      "id": "8f3415277da9",
+      "name": "Notch Metrics",
+      "url": "https://www.producthunt.com/products/notch-metrics",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put your revenue and product analytics metrics in the notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493225+00:00"
+    },
+    {
+      "id": "ff988e377a93",
+      "name": "TopAgent",
+      "url": "https://www.producthunt.com/products/topmessage",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Drive B2B event attendance with an AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493280+00:00"
+    },
+    {
+      "id": "6364d49e1bdb",
+      "name": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GitHub and Linear issues, right inside your Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493334+00:00"
+    },
+    {
+      "id": "a62cd8842306",
+      "name": "AfterLid",
+      "url": "https://www.producthunt.com/products/afterlid",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Keep your Mac working. Check in from your phone.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493374+00:00"
+    },
+    {
+      "id": "700b47aaefe6",
+      "name": "AutoShelf 2.6",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Automate any folder on your Mac with if-this-then-that rules\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-29T13:57:14.493431+00:00"
     },
     {
       "id": "1aeb048edaf1",
@@ -44666,21 +44975,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-05-04T09:19:16.429569+00:00"
-    },
-    {
-      "id": "9de262aa33ef",
-      "name": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
-      "source": "Product Hunt AI (feed)",
-      "category": "marketing",
-      "tags": [
-        "ad"
-      ],
-      "pricing": "Free",
-      "description_it": "The missing open-source Kubernetes UI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-05-04T09:19:16.429649+00:00"
     },
     {
       "id": "f7fa6127eebd",
