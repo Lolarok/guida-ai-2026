@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T13:57:14.751446+00:00",
-  "total": 3612,
+  "updated_at": "2026-10-30T13:50:33.240009+00:00",
+  "total": 3631,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,305 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "d138123ed519",
+      "name": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Canva Brush: a vision-language model that edits your designs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101328+00:00"
+    },
+    {
+      "id": "bc6e329a57bd",
+      "name": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bug reports your coding agent can fix from one link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101425+00:00"
+    },
+    {
+      "id": "91bfb4dcf39c",
+      "name": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Now on Windows, with redaction and a real editor\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101505+00:00"
+    },
+    {
+      "id": "a057f94ec686",
+      "name": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The only voice AI harness that you'll ever need\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101582+00:00"
+    },
+    {
+      "id": "a2dbac6a63bb",
+      "name": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "your desktop in real 3D, live on your Quest\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101637+00:00"
+    },
+    {
+      "id": "1af61225b78f",
+      "name": "Kestrix",
+      "url": "https://www.producthunt.com/products/kestrix",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Repo-agnostic CI control plane with DAG-based triggers.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101692+00:00"
+    },
+    {
+      "id": "91fb7f88561d",
+      "name": "sitesolide",
+      "url": "https://www.producthunt.com/products/sitesolide",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Deploy your vibe-coded apps on your own server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101767+00:00"
+    },
+    {
+      "id": "d1cbc7f0d922",
+      "name": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "explore"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A new space to explore your music\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101837+00:00"
+    },
+    {
+      "id": "303c52a25e67",
+      "name": "fastbrowse",
+      "url": "https://www.producthunt.com/products/fastbrowse",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Fastest open source browser agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101904+00:00"
+    },
+    {
+      "id": "717e5239ab40",
+      "name": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build the systems your team runs on, now from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.101957+00:00"
+    },
+    {
+      "id": "e356fbf0faac",
+      "name": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Muscle-sensing sleeves for robot training\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102024+00:00"
+    },
+    {
+      "id": "8ee3a0026ae5",
+      "name": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Point at your app and your AI agent changes the code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102092+00:00"
+    },
+    {
+      "id": "60521c259206",
+      "name": "SpeakON Agent",
+      "url": "https://www.producthunt.com/products/speakon",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn natural speech into real work for an agent to complete\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102169+00:00"
+    },
+    {
+      "id": "467c26d03c4b",
+      "name": "Cluinn",
+      "url": "https://www.producthunt.com/products/cluinn",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "question"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Answers your questions during the call, not after. For Mac.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102280+00:00"
+    },
+    {
+      "id": "800fe128f849",
+      "name": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your MacBook notch, finally useful\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102338+00:00"
+    },
+    {
+      "id": "7d082d16be0c",
+      "name": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Instantly extract key details and analyze any webpage or PDF\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102415+00:00"
+    },
+    {
+      "id": "07e39d8375f5",
+      "name": "iSurge",
+      "url": "https://www.producthunt.com/products/isurge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An activity monitor, at your notch.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102466+00:00"
+    },
+    {
+      "id": "b745e6664ee2",
+      "name": "Chopstick",
+      "url": "https://www.producthunt.com/products/chopstick",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "action",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac activity and action widgets that write themselves\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102537+00:00"
+    },
+    {
+      "id": "e2a675d30980",
+      "name": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Chat with visitors from your website or link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102602+00:00"
+    },
+    {
+      "id": "193128d0d10a",
+      "name": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Give your AI your wiki's knowledge while keeping the control\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-30T13:50:33.102656+00:00"
     },
     {
       "id": "3703344362df",
@@ -23373,23 +23672,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-05T09:37:53.853526+00:00"
-    },
-    {
-      "id": "91bfb4dcf39c",
-      "name": "StepGrab",
-      "url": "https://www.producthunt.com/products/stepgrab",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "ask",
-        "task"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Turn any Mac task into a step-by-step guide\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-05T09:37:53.853741+00:00"
     },
     {
       "id": "94795b9a02d4",
