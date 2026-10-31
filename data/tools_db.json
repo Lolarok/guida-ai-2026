@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T13:50:33.240009+00:00",
-  "total": 3631,
+  "updated_at": "2026-10-31T13:18:03.218377+00:00",
+  "total": 3648,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,304 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "45f4fa368ec0",
+      "name": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Product observability for teams shipping fast with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974307+00:00"
+    },
+    {
+      "id": "d6893a617d27",
+      "name": "LumaFold: Screen Light",
+      "url": "https://www.producthunt.com/products/lumafold-screen-light",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Makeup Mirror & Color Effects for iPhone Duo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974395+00:00"
+    },
+    {
+      "id": "ea083c2bb622",
+      "name": "WinnerAdSpy",
+      "url": "https://www.producthunt.com/products/winneradspy",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "insight",
+        "ad",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn competitor ad insights into winning app campaigns\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974462+00:00"
+    },
+    {
+      "id": "3af9ec221d97",
+      "name": "Secret Key",
+      "url": "https://www.producthunt.com/products/secret-key",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Let your family unlock your passwords if you can't\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974505+00:00"
+    },
+    {
+      "id": "2c46b6fa660c",
+      "name": "GitHub Copilot Fusion",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "copilot",
+        "git",
+        "github",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GitHub's AI coding agent that picks and combines models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974562+00:00"
+    },
+    {
+      "id": "f6b49b492ed9",
+      "name": "Hemmed",
+      "url": "https://www.producthunt.com/products/hemmed",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hide Mac menu bar clutter and pin individual actions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974618+00:00"
+    },
+    {
+      "id": "88d24f80bf89",
+      "name": "telemetry.dev",
+      "url": "https://www.producthunt.com/products/telemetry-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "LLM observability for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974677+00:00"
+    },
+    {
+      "id": "0381c95745c8",
+      "name": "BaseTab AI",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your new tab into an AI-powered workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974721+00:00"
+    },
+    {
+      "id": "06e18dbdd659",
+      "name": "SKI",
+      "url": "https://www.producthunt.com/products/ski",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Voice-first coding harness \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974774+00:00"
+    },
+    {
+      "id": "33dcb4013eb1",
+      "name": "Seqora",
+      "url": "https://www.producthunt.com/products/seqora",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design your schema on a canvas. Seqora writes the SQL.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974829+00:00"
+    },
+    {
+      "id": "c24dd69cf5d2",
+      "name": "Backenly",
+      "url": "https://www.producthunt.com/products/backenly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "backend",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The autonomous backend for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974883+00:00"
+    },
+    {
+      "id": "9bdc4169b50c",
+      "name": "CubbyPad",
+      "url": "https://www.producthunt.com/products/cubbypad",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Launchpad is back on macOS 26, and it's smarter\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.974937+00:00"
+    },
+    {
+      "id": "fcf701789a0f",
+      "name": "Coding Wrapped",
+      "url": "https://www.producthunt.com/products/coding-wrapped",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See how you really vibe code with Claude Code & Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975009+00:00"
+    },
+    {
+      "id": "fc0eb6fea583",
+      "name": "ChainPoints",
+      "url": "https://www.producthunt.com/products/chainpoints",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Flight Prices in Your Points, on Google Flights\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975050+00:00"
+    },
+    {
+      "id": "fa3d568a6374",
+      "name": "AwaitIO",
+      "url": "https://www.producthunt.com/products/awaitio",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "typescript",
+        "screen",
+        "ad",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write a TypeScript function, get an admin screen\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975105+00:00"
+    },
+    {
+      "id": "04328bbc0370",
+      "name": "Godwit",
+      "url": "https://www.producthunt.com/products/godwit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "email"
+      ],
+      "pricing": "Free",
+      "description_it": "An open-source, AI-native email client\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975160+00:00"
+    },
+    {
+      "id": "783f30408737",
+      "name": "Pluto Door",
+      "url": "https://www.producthunt.com/products/pluto-door",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "SSH client with an AI agent and a desktop for every server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975218+00:00"
+    },
+    {
+      "id": "ac5aaf5093b7",
+      "name": "Agnos",
+      "url": "https://www.producthunt.com/products/agnos",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Clean documents for AI, and see what was removed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975271+00:00"
+    },
+    {
+      "id": "e8ae1e7ef20b",
+      "name": "SpaceO",
+      "url": "https://www.producthunt.com/products/spaceo",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give AI agents their own screen on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-10-31T13:18:02.975325+00:00"
     },
     {
       "id": "d138123ed519",
@@ -1945,19 +2243,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-25T12:20:38.505429+00:00"
-    },
-    {
-      "id": "45f4fa368ec0",
-      "name": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Product observability for teams shipping fast with AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-25T12:20:38.505484+00:00"
     },
     {
       "id": "8e25e22ef9ad",
@@ -25039,24 +25324,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-07-30T09:32:44.237442+00:00"
-    },
-    {
-      "id": "06e18dbdd659",
-      "name": "SKI",
-      "url": "https://www.producthunt.com/products/ski",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "coding",
-        "claude",
-        "voice"
-      ],
-      "pricing": "Free",
-      "description_it": "Free voice coding for Claude Code, Codex and more\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-07-30T09:32:44.237532+00:00"
     },
     {
       "id": "f8e8d0e3302f",
