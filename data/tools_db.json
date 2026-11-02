@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T14:02:28.143163+00:00",
-  "total": 3666,
+  "updated_at": "2026-11-02T16:49:50.421942+00:00",
+  "total": 3684,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,317 @@
       "featured": false
     },
     {
+      "id": "5fca054d0415",
+      "name": "Agent Inbox",
+      "url": "https://www.producthunt.com/products/agent-inbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your agent an email address, Slack and Telegram handle\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.205957+00:00"
+    },
+    {
+      "id": "d2878e368987",
+      "name": "beacon.sh",
+      "url": "https://www.producthunt.com/products/asymptotelabs",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Open-source self-improving memory for AI coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206039+00:00"
+    },
+    {
+      "id": "b836904c25b6",
+      "name": "UnleashX",
+      "url": "https://www.producthunt.com/products/unleashx",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI workforce that turns conversations into outcomes. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206103+00:00"
+    },
+    {
+      "id": "e909afa0d442",
+      "name": "CuriousLM",
+      "url": "https://www.producthunt.com/products/curiouslm",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private AI that runs on your device. No account.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206161+00:00"
+    },
+    {
+      "id": "8f1d51d83ecc",
+      "name": "Hera",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Creative Canvas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206197+00:00"
+    },
+    {
+      "id": "dc6b27a874cf",
+      "name": "Self",
+      "url": "https://www.producthunt.com/products/gretabyquestera",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build a website that can do its own SEO & AEO automatically\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206254+00:00"
+    },
+    {
+      "id": "e2af49d7be5f",
+      "name": "Xmind 2027",
+      "url": "https://www.producthunt.com/products/xmind",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your mind map is now an AI thinking partner\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206313+00:00"
+    },
+    {
+      "id": "7f2977c8730f",
+      "name": "Hyperresearch",
+      "url": "https://www.producthunt.com/products/hyperresearch",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Durable, verified agentic search\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206370+00:00"
+    },
+    {
+      "id": "ce948b6f6cd1",
+      "name": "diff",
+      "url": "https://www.producthunt.com/products/diff-tour",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ad",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI writes the code. Learn to read it like a senior engineer.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206429+00:00"
+    },
+    {
+      "id": "3be7f9d1fe89",
+      "name": "Help",
+      "url": "https://www.producthunt.com/products/help-381",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The app designed for targeted and transparent help\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206486+00:00"
+    },
+    {
+      "id": "fa3e461df3f0",
+      "name": "Display 1.0",
+      "url": "https://www.producthunt.com/products/display-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create docs and apps with any agent, in one workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206543+00:00"
+    },
+    {
+      "id": "a2cd3fbaac85",
+      "name": "Cedric AI for Meetings",
+      "url": "https://www.producthunt.com/products/cedric",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent",
+        "meeting",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The first AI agent to present your slides and attend for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206606+00:00"
+    },
+    {
+      "id": "f27e63ba5ec6",
+      "name": "redu.cloud",
+      "url": "https://www.producthunt.com/products/redu-cloud",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run machines at agent speed, not human speed.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206662+00:00"
+    },
+    {
+      "id": "c4a86febc9c4",
+      "name": "Widgeteer",
+      "url": "https://www.producthunt.com/products/widgeteer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Describe a widget, get a working one on your site\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206702+00:00"
+    },
+    {
+      "id": "0c81ef54376a",
+      "name": "Friday Work",
+      "url": "https://www.producthunt.com/products/friday-work",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "When Claude hits its limit, your task keeps going\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206760+00:00"
+    },
+    {
+      "id": "322cb789be61",
+      "name": "Clayzo",
+      "url": "https://www.producthunt.com/products/clayzo",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "coding",
+        "design",
+        "animation",
+        "motion",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create animations and motion design with your coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206813+00:00"
+    },
+    {
+      "id": "020bac3feb0a",
+      "name": "Looper",
+      "url": "https://www.producthunt.com/products/looper-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "If Grok Bot supported team collaboration and was Open Source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206871+00:00"
+    },
+    {
+      "id": "495ef462480c",
+      "name": "Linkly AI Clipper",
+      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save web as an Agent-friendly Markdown browser extension\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206941+00:00"
+    },
+    {
+      "id": "44316f5c7866",
+      "name": "Chorin: Ora et Labora",
+      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build a real medieval abbey, from 1258 to today\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.206981+00:00"
+    },
+    {
+      "id": "4c0b60c6e940",
+      "name": "CutCat",
+      "url": "https://www.producthunt.com/products/cutcat",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Skip or mute marked scenes while you watch Netflix\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-02T16:49:50.207018+00:00"
+    },
+    {
       "id": "5730ac2a430c",
       "name": "Precise Edit by Ideogram",
       "url": "https://www.producthunt.com/products/ideogram",
@@ -484,19 +795,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-01T14:02:27.869541+00:00"
-    },
-    {
-      "id": "4c0b60c6e940",
-      "name": "CutCat",
-      "url": "https://www.producthunt.com/products/cutcat",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Skip or mute marked scenes while you watch Netflix\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-01T14:02:27.869599+00:00"
     },
     {
       "id": "4a938f0e4dfb",
@@ -639,19 +937,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-01T14:02:27.870253+00:00"
-    },
-    {
-      "id": "44316f5c7866",
-      "name": "Chorin: Ora et Labora",
-      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Build a real medieval abbey, from 1258 to today\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-01T14:02:27.870307+00:00"
     },
     {
       "id": "ae30fcf86235",
