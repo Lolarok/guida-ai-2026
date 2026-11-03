@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T16:49:50.421942+00:00",
-  "total": 3684,
+  "updated_at": "2026-11-03T14:51:58.741518+00:00",
+  "total": 3703,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,289 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "db2a41163453",
+      "name": "AgentKit (by Scalekit)",
+      "url": "https://www.producthunt.com/products/scalekit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "MCP gateway for production agents that acts on your behalf\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.405991+00:00"
+    },
+    {
+      "id": "b2e28a3a9454",
+      "name": "Teamily AI",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal agent, agent teams & people in one messenger\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406072+00:00"
+    },
+    {
+      "id": "dd538a00786c",
+      "name": "LidCommit",
+      "url": "https://www.producthunt.com/products/lidcommit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Auto-commit when you close your laptop lid\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406111+00:00"
+    },
+    {
+      "id": "b3158cd2ebc2",
+      "name": "Remote Gaze",
+      "url": "https://www.producthunt.com/products/remote-gaze",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your Mac on your iPad and iPhone with no in-between server\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406162+00:00"
+    },
+    {
+      "id": "fbccbe463de6",
+      "name": "LifeVal",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenAI's benchmark for everyday life tasks with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406210+00:00"
+    },
+    {
+      "id": "5fd150fba2e1",
+      "name": "Videco",
+      "url": "https://www.producthunt.com/products/videco",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ide",
+        "video",
+        "content",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn every video into a content campaign with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406265+00:00"
+    },
+    {
+      "id": "1d6dd0317936",
+      "name": "NEXUPIRA",
+      "url": "https://www.producthunt.com/products/nexupira",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI teammates that hand back finished work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406300+00:00"
+    },
+    {
+      "id": "79e96ccb638d",
+      "name": "SUN Web & API",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn prompts and PDFs into audio, on the web or via API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406351+00:00"
+    },
+    {
+      "id": "ef283a6c500d",
+      "name": "Testifly",
+      "url": "https://www.producthunt.com/products/testifly-launch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Autonomous AI QA. Zero prompting. Zero maintenance. \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406386+00:00"
+    },
+    {
+      "id": "ecaa3ce6ef6c",
+      "name": "HoldTalk",
+      "url": "https://www.producthunt.com/products/holdtalk",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hold fn, speak, and the text appears in any Mac app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406432+00:00"
+    },
+    {
+      "id": "19d8afebc98e",
+      "name": "Beamfy",
+      "url": "https://www.producthunt.com/products/beamfy",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI vision assistant for blind people, live in 74 languages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406481+00:00"
+    },
+    {
+      "id": "de935cb211ed",
+      "name": "kwant",
+      "url": "https://www.producthunt.com/products/kwant",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI bots that check each other's work before saying \"done\"\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406537+00:00"
+    },
+    {
+      "id": "4d5c20627946",
+      "name": "Scrawl",
+      "url": "https://www.producthunt.com/products/scrawl-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Show your AI agent the problem with a visual frame\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406582+00:00"
+    },
+    {
+      "id": "7d80e64b2244",
+      "name": "Beaquaro Studio",
+      "url": "https://www.producthunt.com/products/beaquaro-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write once, post everywhere. Your link in bio, too.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406631+00:00"
+    },
+    {
+      "id": "94dc6f4077f2",
+      "name": "Infino AI",
+      "url": "https://www.producthunt.com/products/infino-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search, vectors and SQL over one Parquet copy, for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406680+00:00"
+    },
+    {
+      "id": "df1c5e13a189",
+      "name": "VinSage",
+      "url": "https://www.producthunt.com/products/vinsage",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free",
+      "description_it": "Free used-car check in Chrome's side panel, US & CA\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406728+00:00"
+    },
+    {
+      "id": "94cda438bd6e",
+      "name": "MagicaLCore",
+      "url": "https://www.producthunt.com/products/magical-core-image-classifier",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Six kinds of machine learning models, trained on your iPad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406776+00:00"
+    },
+    {
+      "id": "9946acced844",
+      "name": "Flockbay",
+      "url": "https://www.producthunt.com/products/flockbay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free AI game maker built on Godot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406806+00:00"
+    },
+    {
+      "id": "3f024529ca27",
+      "name": "EaseIn Health",
+      "url": "https://www.producthunt.com/products/easein-health",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track GLP-1 doses, symptoms and daily habits in one app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-03T14:51:58.406840+00:00"
     },
     {
       "id": "5fca054d0415",
