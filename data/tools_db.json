@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T14:51:58.741518+00:00",
-  "total": 3703,
+  "updated_at": "2026-11-04T15:04:21.575002+00:00",
+  "total": 3723,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,325 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "fe8bf4171c3c",
+      "name": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents an identity through email\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.422920+00:00"
+    },
+    {
+      "id": "800eaa4f9985",
+      "name": "Prelulu",
+      "url": "https://www.producthunt.com/products/prelulu",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Be the main character: chat & video roleplay any story\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423014+00:00"
+    },
+    {
+      "id": "0a40c0b350ff",
+      "name": "fileForensics",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "rust"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real or not? Check files before your AI trusts them.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423094+00:00"
+    },
+    {
+      "id": "6bad391a33a9",
+      "name": "Floot Payments",
+      "url": "https://www.producthunt.com/products/floot",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take payments in apps you build in ChatGPT and Claude\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423167+00:00"
+    },
+    {
+      "id": "57b7af606db8",
+      "name": "Mellow Kids",
+      "url": "https://www.producthunt.com/products/mellow-kids",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Personalized sleep and development app for parents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423241+00:00"
+    },
+    {
+      "id": "59b0c312d7e5",
+      "name": "Render Sandboxes",
+      "url": "https://www.producthunt.com/products/render",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A computer for every agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423305+00:00"
+    },
+    {
+      "id": "2b485e8cede4",
+      "name": "OpusClip 4.0",
+      "url": "https://www.producthunt.com/products/opusclip",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "cli",
+        "video",
+        "clip",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn raw footage into ready-to-publish videos with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423408+00:00"
+    },
+    {
+      "id": "083d1b452112",
+      "name": "kosa8",
+      "url": "https://www.producthunt.com/products/kosa8",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "erp"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Air-gapped microVM sandboxes for enterprise AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423482+00:00"
+    },
+    {
+      "id": "ce4dbaf0093c",
+      "name": "Wanaka Studio",
+      "url": "https://www.producthunt.com/products/wanaka-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Make and publish 3D games with the first AI game engine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423536+00:00"
+    },
+    {
+      "id": "dfab5e9c6179",
+      "name": "Sonari",
+      "url": "https://www.producthunt.com/products/sonari",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "instrument"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A hand-gesture instrument and MIDI controller for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423604+00:00"
+    },
+    {
+      "id": "738f41f9d7c8",
+      "name": "Hindsight Models and Inference API",
+      "url": "https://www.producthunt.com/products/vectorize",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Small, fast models for reranking, embeddings and decisions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423678+00:00"
+    },
+    {
+      "id": "b71059671314",
+      "name": "Zero Wire",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Check your exposure to critical CVEs with one agent prompt \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423747+00:00"
+    },
+    {
+      "id": "c694ebff9cf8",
+      "name": "PasteGuard for Mac",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Keep secrets and personal data out of AI chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423818+00:00"
+    },
+    {
+      "id": "6306e6f2598a",
+      "name": "TrackEdge",
+      "url": "https://www.producthunt.com/products/trackedge-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hidden AI buttons on your MacBook’s trackpad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423911+00:00"
+    },
+    {
+      "id": "16e4e29ca0fd",
+      "name": "Deployed Yet?",
+      "url": "https://www.producthunt.com/products/deployed-yet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See if your Vercel, Cloudflare and GitHub deploys shipped\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.423980+00:00"
+    },
+    {
+      "id": "a32adad18827",
+      "name": "Sendu",
+      "url": "https://www.producthunt.com/products/sendu",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Drop files easily across your local network\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.424030+00:00"
+    },
+    {
+      "id": "af5bbc64da67",
+      "name": "LiveReacting for ChatGPT",
+      "url": "https://www.producthunt.com/products/livereacting",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "react",
+        "chat",
+        "gpt",
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run 24/7 and pre-recorded live streams from ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.424102+00:00"
+    },
+    {
+      "id": "8830ea245c22",
+      "name": "QualityLayer",
+      "url": "https://www.producthunt.com/products/qualitylayer",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Plan, build and review software with your coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.424173+00:00"
+    },
+    {
+      "id": "551365c472e6",
+      "name": "Dessn",
+      "url": "https://www.producthunt.com/products/dessn-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The design canvas that runs your real code.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.424238+00:00"
+    },
+    {
+      "id": "063d3c146b5b",
+      "name": "Rungle",
+      "url": "https://www.producthunt.com/products/rungle",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "photo",
+        "clip",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your running photos and clips into share-ready Reels\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-04T15:04:21.424306+00:00"
     },
     {
       "id": "db2a41163453",
