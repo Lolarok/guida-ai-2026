@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T15:10:13.270987+00:00",
-  "total": 3740,
+  "updated_at": "2026-11-06T14:47:45.180177+00:00",
+  "total": 3759,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "137580d4f7fe",
+      "name": "Tobira Site Agent",
+      "url": "https://www.producthunt.com/products/tobira-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your website into an AI agent that sells to AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953569+00:00"
+    },
+    {
+      "id": "3e9de52dea50",
+      "name": "Rankfender v3.0",
+      "url": "https://www.producthunt.com/products/rankfender",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The SEO/GEO operating system, built for people and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953663+00:00"
+    },
+    {
+      "id": "1c5267e4596b",
+      "name": "AudioCentral",
+      "url": "https://www.producthunt.com/products/audiocentral",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Control every app’s audio from your Mac’s menu bar.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953745+00:00"
+    },
+    {
+      "id": "d4a42899ab2e",
+      "name": "Openroster",
+      "url": "https://www.producthunt.com/products/openroster",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Which \"Open\" companies are actually open source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953809+00:00"
+    },
+    {
+      "id": "bdbe9c8d1520",
+      "name": "Earth Stats",
+      "url": "https://www.producthunt.com/products/earth-stats",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Live planet statistics on a 3D globe, one number at a time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953875+00:00"
+    },
+    {
+      "id": "b1a5f37f0854",
+      "name": "Moatly",
+      "url": "https://www.producthunt.com/products/moatly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Measures your product's moat and the threats testing it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953923+00:00"
+    },
+    {
+      "id": "41728cf37303",
+      "name": "Make0 Brain OSS",
+      "url": "https://www.producthunt.com/products/make0-brain",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Sync context across all your agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.953986+00:00"
+    },
+    {
+      "id": "d0ca82fb2777",
+      "name": "Meshia",
+      "url": "https://www.producthunt.com/products/meshia",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your autonomous research lab\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954045+00:00"
+    },
+    {
+      "id": "53cd021125d7",
+      "name": "Kodivo",
+      "url": "https://www.producthunt.com/products/kodivo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn coding with AI and PHP through swipeable cards\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954105+00:00"
+    },
+    {
+      "id": "1f0690a468ef",
+      "name": "Cloptima",
+      "url": "https://www.producthunt.com/products/cloptima",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Gateway, Guardrails & LLM FinOps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954147+00:00"
+    },
+    {
+      "id": "72dcba2fe544",
+      "name": "BuildFerry",
+      "url": "https://www.producthunt.com/products/buildferry",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Install iOS test builds on any iPhone with one link\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954192+00:00"
+    },
+    {
+      "id": "5e59a36f0a66",
+      "name": "Turnstone",
+      "url": "https://www.producthunt.com/products/turnstone",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "Grok Bot alternative that runs on your AI, completely free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954256+00:00"
+    },
+    {
+      "id": "fe225e140074",
+      "name": "OrgSync",
+      "url": "https://www.producthunt.com/products/orgsync-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "code",
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Company brain for Claude, ChatGPT & Codex teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954313+00:00"
+    },
+    {
+      "id": "adf55049548e",
+      "name": "Pauta",
+      "url": "https://www.producthunt.com/products/pauta",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "conversation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your private memory for every conversation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954370+00:00"
+    },
+    {
+      "id": "5dd19b8b7424",
+      "name": "Plainmail",
+      "url": "https://www.producthunt.com/products/plainmail",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Real email on every domain you own, for $5 a month flat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954429+00:00"
+    },
+    {
+      "id": "e4c2ba59a2a0",
+      "name": "Codiclens",
+      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Local AI powerd Mac launcher and file finder\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954485+00:00"
+    },
+    {
+      "id": "6e76cc93a3c8",
+      "name": "chalk",
+      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "learn anything, anywhere\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954524+00:00"
+    },
+    {
+      "id": "7f8e33da8b1d",
+      "name": "Meadow",
+      "url": "https://www.producthunt.com/products/meadow-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "song",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hidden songs on your walk, chosen by people, not algorithms\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954583+00:00"
+    },
+    {
+      "id": "1b788e29df48",
+      "name": "TraceX",
+      "url": "https://www.producthunt.com/products/tracex",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI engineer for your production issues\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954624+00:00"
+    },
+    {
+      "id": "c39d510c832d",
+      "name": "Datastripes Data Stories",
+      "url": "https://www.producthunt.com/products/datastripes",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "spreadsheet",
+        "ad",
+        "story"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any spreadsheet into a data story in seconds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-06T14:47:44.954686+00:00"
     },
     {
       "id": "f9c16ca462db",
@@ -12522,21 +12819,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-25T12:34:00.759235+00:00"
-    },
-    {
-      "id": "5e59a36f0a66",
-      "name": "Turnstone",
-      "url": "https://www.producthunt.com/products/turnstone",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The AI workspace where every agent knows you\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-25T12:34:00.759308+00:00"
     },
     {
       "id": "2c0a7ae46e25",
