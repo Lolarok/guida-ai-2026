@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T14:47:45.180177+00:00",
-  "total": 3759,
+  "updated_at": "2026-11-07T13:45:12.976451+00:00",
+  "total": 3779,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,319 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a1741a9318f3",
+      "name": "LiveReview",
+      "url": "https://www.producthunt.com/products/livereview",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145180+00:00"
+    },
+    {
+      "id": "bca994d8826d",
+      "name": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "art",
+        "writing",
+        "write",
+        "novel"
+      ],
+      "pricing": "Freemium",
+      "description_it": "AI-Free Writing & Novel Planning Software\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145283+00:00"
+    },
+    {
+      "id": "ebc7ed8b2172",
+      "name": "ClarifierAI for Chrome",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Use AI for writing & translating in your Chrome\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145360+00:00"
+    },
+    {
+      "id": "7ea138697175",
+      "name": "Fleeep",
+      "url": "https://www.producthunt.com/products/fleeep",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The notes app for people who make things.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145427+00:00"
+    },
+    {
+      "id": "74c188e97ceb",
+      "name": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI SDR that books meetings in Japan, the US & SE Asia\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145496+00:00"
+    },
+    {
+      "id": "89b6f250be13",
+      "name": "PacerTrip",
+      "url": "https://www.producthunt.com/products/pacertrip",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Pick a marathon abroad. We plan the trip around race day.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145566+00:00"
+    },
+    {
+      "id": "296a99b74fe5",
+      "name": "Dino Kids",
+      "url": "https://www.producthunt.com/products/dino-kids",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, ad-free learning app for kids 3+ in five languages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145654+00:00"
+    },
+    {
+      "id": "f5b3e765225e",
+      "name": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "gemini",
+        "video"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145734+00:00"
+    },
+    {
+      "id": "0985f73802fe",
+      "name": "Standflow",
+      "url": "https://www.producthunt.com/products/standflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Sit, stand, perch, and move on a rhythm from your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145788+00:00"
+    },
+    {
+      "id": "b883f984a480",
+      "name": "ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create, edit, and animate images with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145855+00:00"
+    },
+    {
+      "id": "774c9ef67b05",
+      "name": "Capnot",
+      "url": "https://www.producthunt.com/products/capnot",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make Screen Demos Clear, Even on Mute\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145917+00:00"
+    },
+    {
+      "id": "a99e475bbd22",
+      "name": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Instagram's free desktop video editor with AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.145997+00:00"
+    },
+    {
+      "id": "441823273525",
+      "name": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gpt"
+      ],
+      "pricing": "Free tier",
+      "description_it": "OpenAI’s cyber model, with vetted access for defenders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146094+00:00"
+    },
+    {
+      "id": "b1c27ae4bbbe",
+      "name": "Sequence Tool",
+      "url": "https://www.producthunt.com/products/sequence-tool",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit with words: long recordings into polished stories\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146166+00:00"
+    },
+    {
+      "id": "05caf003b0ea",
+      "name": "Muse Realtime Avatar",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "avatar",
+        "video",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn voice chats with Muse into live video calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146234+00:00"
+    },
+    {
+      "id": "fc8606a417cd",
+      "name": "Duly",
+      "url": "https://www.producthunt.com/products/duly-life-organizer",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "organiz"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Press the orb, ramble, and everything gets organized\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146305+00:00"
+    },
+    {
+      "id": "15e9f848320a",
+      "name": "Exa Monitors v2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent",
+        "schedule"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Web search on a schedule that calls your agent, $2/1k runs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146376+00:00"
+    },
+    {
+      "id": "4d2376205c0f",
+      "name": "kayet",
+      "url": "https://www.producthunt.com/products/kayet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "the minimalistic text editor for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146442+00:00"
+    },
+    {
+      "id": "ae3d8fa93be4",
+      "name": "seam",
+      "url": "https://www.producthunt.com/products/seam-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn your Mac's notch into a Dynamic Island\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146490+00:00"
+    },
+    {
+      "id": "52ce6141fa88",
+      "name": "Sendoff",
+      "url": "https://www.producthunt.com/products/sendoff-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Say \"send it.\" to automatically email your list\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-07T13:45:11.146556+00:00"
     },
     {
       "id": "137580d4f7fe",
