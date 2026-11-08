@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T13:45:12.976451+00:00",
-  "total": 3779,
+  "updated_at": "2026-11-08T14:04:38.273235+00:00",
+  "total": 3796,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,296 @@
       "featured": false
     },
     {
+      "id": "65f62726aaae",
+      "name": "outages.live",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "A free live outage feed for your agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062243+00:00"
+    },
+    {
+      "id": "091576dbdff6",
+      "name": "Zigzag Browser",
+      "url": "https://www.producthunt.com/products/zigzag-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The polished, native Mac browser for life after Arc\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062329+00:00"
+    },
+    {
+      "id": "1565f21290da",
+      "name": "NotchX",
+      "url": "https://www.producthunt.com/products/notch-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your MacBook's notch into a hub for music and calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062405+00:00"
+    },
+    {
+      "id": "8a1850ce18e7",
+      "name": "Frameboy by World Labs",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Interactive world exploration with Atlas\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062461+00:00"
+    },
+    {
+      "id": "113bc65d384c",
+      "name": "Archie",
+      "url": "https://www.producthunt.com/products/archie-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "screenshot",
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac Screenshot Manager & Notch Shelf\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062529+00:00"
+    },
+    {
+      "id": "0a8e125958cf",
+      "name": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "GTM copilot for AI product founders: 1,200+ actions via MCP\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062599+00:00"
+    },
+    {
+      "id": "f8ea662720c8",
+      "name": "NotchIsland",
+      "url": "https://www.producthunt.com/products/notchisland-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Free, open-source Dynamic Island for the MacBook notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062659+00:00"
+    },
+    {
+      "id": "8310505eea38",
+      "name": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Command your Claude Code and Codex agents with gestures\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062732+00:00"
+    },
+    {
+      "id": "329dd3d2fd08",
+      "name": "Memorias",
+      "url": "https://www.producthunt.com/products/memorias-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "An AI biographer that turns your stories into a book\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062785+00:00"
+    },
+    {
+      "id": "252c83e3e62d",
+      "name": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A model that can see and refine what it builds\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062835+00:00"
+    },
+    {
+      "id": "139f23194dbf",
+      "name": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Which Meaning Owns the Word? \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062884+00:00"
+    },
+    {
+      "id": "ec6b62792fcd",
+      "name": "NoMac",
+      "url": "https://www.producthunt.com/products/nomac",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your AI agent's own Mac, billed per minute. No subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.062955+00:00"
+    },
+    {
+      "id": "b1b96a3b6eda",
+      "name": "Keypause",
+      "url": "https://www.producthunt.com/products/keypause",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turn off your Mac's keyboard while you clean it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063004+00:00"
+    },
+    {
+      "id": "7ef98a754778",
+      "name": "DocsAlot for customer support",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "answer",
+        "question",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Slack and Discord bot that answers your customers questions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063107+00:00"
+    },
+    {
+      "id": "cda718c05523",
+      "name": "Sage2 by Levanto Labs",
+      "url": "https://www.producthunt.com/products/sagecraft",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk",
+        "data",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn live talk into structured data and instant actions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063187+00:00"
+    },
+    {
+      "id": "049790035cd4",
+      "name": "Tilde ",
+      "url": "https://www.producthunt.com/products/tilde-for-mac",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Finder replacement & file manager for mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063271+00:00"
+    },
+    {
+      "id": "716d73863e96",
+      "name": "Textly",
+      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Capture Text & Tables from Anywhere on Your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063322+00:00"
+    },
+    {
+      "id": "4d2376205c0f",
+      "name": "kayet",
+      "url": "https://www.producthunt.com/products/kayet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "the minimalistic text editor for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063386+00:00"
+    },
+    {
+      "id": "74c188e97ceb",
+      "name": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI SDR that books meetings in Japan, the US & SE Asia\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063452+00:00"
+    },
+    {
+      "id": "0985f73802fe",
+      "name": "Standflow",
+      "url": "https://www.producthunt.com/products/standflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Sit, stand, perch, and move on a rhythm from your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-08T14:04:38.063502+00:00"
+    },
+    {
       "id": "a1741a9318f3",
       "name": "LiveReview",
       "url": "https://www.producthunt.com/products/livereview",
@@ -441,21 +731,6 @@
       "discovered_at": "2026-11-07T13:45:11.145427+00:00"
     },
     {
-      "id": "74c188e97ceb",
-      "name": "Deal Pilot",
-      "url": "https://www.producthunt.com/products/deal-pilot",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "meeting"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI SDR that books meetings in Japan, the US & SE Asia\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-07T13:45:11.145496+00:00"
-    },
-    {
       "id": "89b6f250be13",
       "name": "PacerTrip",
       "url": "https://www.producthunt.com/products/pacertrip",
@@ -501,19 +776,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-07T13:45:11.145734+00:00"
-    },
-    {
-      "id": "0985f73802fe",
-      "name": "Standflow",
-      "url": "https://www.producthunt.com/products/standflow",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "Sit, stand, perch, and move on a rhythm from your menu bar\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-07T13:45:11.145788+00:00"
     },
     {
       "id": "b883f984a480",
@@ -645,21 +907,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-07T13:45:11.146376+00:00"
-    },
-    {
-      "id": "4d2376205c0f",
-      "name": "kayet",
-      "url": "https://www.producthunt.com/products/kayet",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "editor"
-      ],
-      "pricing": "Free tier",
-      "description_it": "the minimalistic text editor for macOS\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-07T13:45:11.146442+00:00"
     },
     {
       "id": "ae3d8fa93be4",
