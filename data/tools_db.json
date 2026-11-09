@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T14:04:38.273235+00:00",
-  "total": 3796,
+  "updated_at": "2026-11-09T17:09:01.719517+00:00",
+  "total": 3816,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,320 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "846d858f1388",
+      "name": "Higgsfield Miracle",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "art",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Edit any part of a video without changing the rest\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554141+00:00"
+    },
+    {
+      "id": "bd2320bc4a54",
+      "name": "ProtoMap",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Stop wasting AI tokens rediscovering dependencies\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554229+00:00"
+    },
+    {
+      "id": "d2a5585eb499",
+      "name": "Watchflows",
+      "url": "https://www.producthunt.com/products/watchflows",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual automation for your Mac, with AI built in\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554288+00:00"
+    },
+    {
+      "id": "66c90262ae67",
+      "name": "Flic Cue",
+      "url": "https://www.producthunt.com/products/flic-cue",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "sdk",
+        "talk",
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI Voice Button: hold to talk, shake to undo, open SDKs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554349+00:00"
+    },
+    {
+      "id": "036e8ff2cea8",
+      "name": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "sound"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sound engineered for dogs, not humans\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554417+00:00"
+    },
+    {
+      "id": "fc0b2acaed34",
+      "name": "Terse",
+      "url": "https://www.producthunt.com/products/terse-durable-actors",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Infrastructure for Multiplayer AI Products\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554460+00:00"
+    },
+    {
+      "id": "8b144b750e56",
+      "name": "Egoist AI Passport",
+      "url": "https://www.producthunt.com/products/egoist-ai-passport",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Secure and share your personal data with AI tools.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554523+00:00"
+    },
+    {
+      "id": "d3b9e0294daa",
+      "name": "If You Read This",
+      "url": "https://www.producthunt.com/products/if-you-read-this",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A daily check-in app that works like a dead man's switch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554585+00:00"
+    },
+    {
+      "id": "e6f6b2034fbf",
+      "name": "Dageno AI 2.0",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See why AI recommends your competitors instead of you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554643+00:00"
+    },
+    {
+      "id": "52179d1c37ad",
+      "name": "ClipsPal",
+      "url": "https://www.producthunt.com/products/clipspal",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "editor",
+        "cli",
+        "talk",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI video editor that edits your talking-head videos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554694+00:00"
+    },
+    {
+      "id": "700039258763",
+      "name": "Arcjet AI security models",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A family of custom-trained security models for coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554756+00:00"
+    },
+    {
+      "id": "3bac1f6164ba",
+      "name": "MCP1",
+      "url": "https://www.producthunt.com/products/appwrite",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One URL for every MCP server.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554797+00:00"
+    },
+    {
+      "id": "46236c08d8e9",
+      "name": "Nörth",
+      "url": "https://www.producthunt.com/products/north-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Natural, peer-to-peer collaboration for remote work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554844+00:00"
+    },
+    {
+      "id": "359329ae1354",
+      "name": "Databox CLI",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "terminal",
+        "analyt",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your agentic analytics platform in the terminal\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554897+00:00"
+    },
+    {
+      "id": "307053807c00",
+      "name": "KIKUmap",
+      "url": "https://www.producthunt.com/products/kikumap",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A mind map for your Claude and ChatGPT chats\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554950+00:00"
+    },
+    {
+      "id": "bfff21626fbb",
+      "name": "Cue",
+      "url": "https://www.producthunt.com/products/cue-voice-keyboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI meeting notes, prep\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.554999+00:00"
+    },
+    {
+      "id": "4d80db829688",
+      "name": "Sign Language by Panda Video",
+      "url": "https://www.producthunt.com/products/panda-video",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "erp",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add a sign language interpreter to videos already online\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.555059+00:00"
+    },
+    {
+      "id": "4d46f34cb637",
+      "name": "CozyZip",
+      "url": "https://www.producthunt.com/products/cozyzip",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Zip and unzip without the surprises.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.555097+00:00"
+    },
+    {
+      "id": "8c864392bc58",
+      "name": "Cardboard AI",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Best way to edit videos with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.555149+00:00"
+    },
+    {
+      "id": "73a766733dfc",
+      "name": "GitHub New PR Overview",
+      "url": "https://www.producthunt.com/products/github",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "See what's blocking a PR before you scroll\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-09T17:09:01.555203+00:00"
     },
     {
       "id": "65f62726aaae",
