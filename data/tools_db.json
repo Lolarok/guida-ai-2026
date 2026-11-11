@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T15:25:39.176763+00:00",
-  "total": 3836,
+  "updated_at": "2026-11-11T14:55:12.512130+00:00",
+  "total": 3855,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,301 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "3c705cf788b7",
+      "name": "Reddit Reviews",
+      "url": "https://www.producthunt.com/products/reddit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Product pages that collect subreddit sentiment\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374023+00:00"
+    },
+    {
+      "id": "0898bcb9b45f",
+      "name": "Xolace",
+      "url": "https://www.producthunt.com/products/xolace",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "For the bad days you wouldn’t call a mental health problem\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374120+00:00"
+    },
+    {
+      "id": "ad372bc69c73",
+      "name": "Valin",
+      "url": "https://www.producthunt.com/products/valin",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your private memory for everything you save.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374167+00:00"
+    },
+    {
+      "id": "6006beac9b79",
+      "name": "Muse Ember by Meta",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "agent",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Meta's low-cost AI model for high-volume agent tasks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374229+00:00"
+    },
+    {
+      "id": "545885503727",
+      "name": "Mister Blocks",
+      "url": "https://www.producthunt.com/products/mister-blocks",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "picture"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Take a picture of your LEGO and AI will make a build\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374287+00:00"
+    },
+    {
+      "id": "408a9511f6c4",
+      "name": "Relay",
+      "url": "https://www.producthunt.com/products/relaytoai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "DocSend for AI agents: send and receive docs with context\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374346+00:00"
+    },
+    {
+      "id": "5849d26a3250",
+      "name": "Seedream 5.5 by ByteDance",
+      "url": "https://www.producthunt.com/products/seedream-4-0",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "ByteDance's AI image model built for 100-round editing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374411+00:00"
+    },
+    {
+      "id": "e4b10538db6d",
+      "name": "Skillbox",
+      "url": "https://www.producthunt.com/products/skillbox-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One library for your AI skills, synced to every agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374470+00:00"
+    },
+    {
+      "id": "24cbe0d00559",
+      "name": "Nod by n8n",
+      "url": "https://www.producthunt.com/products/n8n-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source personal agent with its own computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374528+00:00"
+    },
+    {
+      "id": "a0fd0eca47fc",
+      "name": "Scribe v3 by ElevenLabs",
+      "url": "https://www.producthunt.com/products/elevenlabs",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Speech to text with 27% fewer errors in 90+ languages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374588+00:00"
+    },
+    {
+      "id": "b25290a10d59",
+      "name": "Kippy AI",
+      "url": "https://www.producthunt.com/products/kippy-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Learn languages while having fun!\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374627+00:00"
+    },
+    {
+      "id": "a3464cf17bc4",
+      "name": "CALL",
+      "url": "https://www.producthunt.com/products/call-e",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The phone line for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374682+00:00"
+    },
+    {
+      "id": "338e69de19f2",
+      "name": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI ad fraud detection that protects your marketing budget \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374742+00:00"
+    },
+    {
+      "id": "a84dcf4293bd",
+      "name": "Earlybird",
+      "url": "https://www.producthunt.com/products/earlybird-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "29M-param speech-to-text that outputs words before they end\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374799+00:00"
+    },
+    {
+      "id": "a1d7e657838c",
+      "name": "Stiro",
+      "url": "https://www.producthunt.com/products/stiro",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI onboarding and customer success agent for SaaS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374853+00:00"
+    },
+    {
+      "id": "cc60d02db95a",
+      "name": "StableBar",
+      "url": "https://www.producthunt.com/products/stablebar",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "A native, open-source menu bar for macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374903+00:00"
+    },
+    {
+      "id": "5a96b081279e",
+      "name": "Shot.video",
+      "url": "https://www.producthunt.com/products/shot-video",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multi-camera videos with the phones you already own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.374959+00:00"
+    },
+    {
+      "id": "efafe6ade0ca",
+      "name": "MiniMax H3",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "image"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bringing 4K image generation into the 10-second era\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.375014+00:00"
+    },
+    {
+      "id": "07514abbf56c",
+      "name": "RigSpark",
+      "url": "https://www.producthunt.com/products/rigspark",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know which AI to run on your own computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.375053+00:00"
+    },
+    {
+      "id": "1197acb488da",
+      "name": "Mitra MCP",
+      "url": "https://www.producthunt.com/products/mitra-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents access to your personal phone line\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-11T14:55:12.375108+00:00"
     },
     {
       "id": "b48391c8a714",
@@ -27923,25 +28218,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-01T09:06:16.530224+00:00"
-    },
-    {
-      "id": "efafe6ade0ca",
-      "name": "MiniMax H3",
-      "url": "https://www.producthunt.com/products/minimax",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "ide",
-        "design",
-        "video",
-        "motion",
-        "brand"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Unified video generation for motion design and branding\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-01T09:06:16.530299+00:00"
     },
     {
       "id": "20a879745a16",
