@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T15:46:32.391857+00:00",
-  "total": 3875,
+  "updated_at": "2026-11-13T15:06:47.980021+00:00",
+  "total": 3895,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,326 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "75a9ed8e87a3",
+      "name": "Pocket Studio for Supabase",
+      "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Supabase dashboard & SQL editor for Android\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.793920+00:00"
+    },
+    {
+      "id": "9fd276a4eb22",
+      "name": "Willo",
+      "url": "https://www.producthunt.com/products/willo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A companion you talk to while you play WoW\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.793989+00:00"
+    },
+    {
+      "id": "adb5bdea66ed",
+      "name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "project"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Turn Webflow/Framer app into a Claude/Codex project for free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794046+00:00"
+    },
+    {
+      "id": "c180060c3132",
+      "name": "qorqbot",
+      "url": "https://www.producthunt.com/products/qorqbot",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Proactive agent for business work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794089+00:00"
+    },
+    {
+      "id": "6564d26c521c",
+      "name": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Spike alerts for your keywords in Telegram, Claude, ChatGPT\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794137+00:00"
+    },
+    {
+      "id": "b49cb62cfa58",
+      "name": "WHOOP Humans",
+      "url": "https://www.producthunt.com/products/whoop",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "WHOOP's social network built around real health data\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794184+00:00"
+    },
+    {
+      "id": "060484ec0cb6",
+      "name": "Kairos",
+      "url": "https://www.producthunt.com/products/kairos-18",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt"
+      ],
+      "pricing": "Free",
+      "description_it": "Personal analytics engine across health, finances, & social\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794237+00:00"
+    },
+    {
+      "id": "2d540ea8adb6",
+      "name": "Google Pixel Tag",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Google’s $30 Android-ready tracking tag\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794310+00:00"
+    },
+    {
+      "id": "53b44cb2fb5c",
+      "name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Powerful content editor for people who aren’t editors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794379+00:00"
+    },
+    {
+      "id": "97631b26bc8a",
+      "name": "Aven App Agent",
+      "url": "https://www.producthunt.com/products/aven-app-agent",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that guides users through your app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794423+00:00"
+    },
+    {
+      "id": "d31e1302ec8a",
+      "name": "StockRip",
+      "url": "https://www.producthunt.com/products/stockrip",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Trading cards, literally digital cards with tokenized stocks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794473+00:00"
+    },
+    {
+      "id": "1120b59484cf",
+      "name": "Paxper",
+      "url": "https://www.producthunt.com/products/paxper",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create cloud infrastructure visually and review every change\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794521+00:00"
+    },
+    {
+      "id": "d9e6530b6515",
+      "name": "Gemini 4 Hydrogen",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "dev",
+        "gemini",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast agentic development for coders\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794575+00:00"
+    },
+    {
+      "id": "ccad7c00e58b",
+      "name": "Hoverine",
+      "url": "https://www.producthunt.com/products/hoverine",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "animation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Rive animation templates you can drop into your app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794619+00:00"
+    },
+    {
+      "id": "899433b35be3",
+      "name": "Burnstate",
+      "url": "https://www.producthunt.com/products/burnstate",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Claude Code, Codex & Cursor limits, paced in your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794666+00:00"
+    },
+    {
+      "id": "e4b44048b165",
+      "name": "Trainn MCP",
+      "url": "https://www.producthunt.com/products/trainn",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Create product videos and courses from any AI chat\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794711+00:00"
+    },
+    {
+      "id": "1816000595b7",
+      "name": "Expo Simulators",
+      "url": "https://www.producthunt.com/products/expo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cloud simulators built for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794752+00:00"
+    },
+    {
+      "id": "782a1678384c",
+      "name": "Filament by Galaxy",
+      "url": "https://www.producthunt.com/products/galaxy",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "terminal",
+        "data",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Move data using your terminal or agent. Fast & open source.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794800+00:00"
+    },
+    {
+      "id": "ec7ef87c748d",
+      "name": "de:volt",
+      "url": "https://www.producthunt.com/products/de-volt",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A breadboard simulator with real physics, in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794844+00:00"
+    },
+    {
+      "id": "314022f90560",
+      "name": "Claude Meetings",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude",
+        "talk",
+        "art",
+        "meeting",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add Claude to your call and get work started as you talk\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-13T15:06:47.794889+00:00"
     },
     {
       "id": "a04239e1a7e6",
