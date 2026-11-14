@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:06:47.980021+00:00",
-  "total": 3895,
+  "updated_at": "2026-11-14T13:57:14.148859+00:00",
+  "total": 3914,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,313 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "5c9f3acb62a0",
+      "name": "HiringNow",
+      "url": "https://www.producthunt.com/products/hiringnow",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI job agent that finds & apply for jobs before anyone else.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023512+00:00"
+    },
+    {
+      "id": "d5ba043c9396",
+      "name": "Drops",
+      "url": "https://www.producthunt.com/products/drops-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "music",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover new music through moments your friends love\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023610+00:00"
+    },
+    {
+      "id": "a356dd93e428",
+      "name": "Replay",
+      "url": "https://www.producthunt.com/products/replay-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Mac meeting recorder with no bot. Pay once, no subscription\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023685+00:00"
+    },
+    {
+      "id": "ae3d12021a5b",
+      "name": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A blazing-fast, persistent, key-value AI workload database\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023758+00:00"
+    },
+    {
+      "id": "04db4a78df4f",
+      "name": "CodeMesh",
+      "url": "https://www.producthunt.com/products/codemesh-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cut AI coding costs by 90%\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023822+00:00"
+    },
+    {
+      "id": "db1c6c775db1",
+      "name": "Dynamic Edge",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The Dynamic Island for Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023882+00:00"
+    },
+    {
+      "id": "a1941f5b6db7",
+      "name": "Aboard Sign",
+      "url": "https://www.producthunt.com/products/aboard-sign",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Email a contract, CC sign@aboard.com and collect signatures\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.023963+00:00"
+    },
+    {
+      "id": "a32a919c4347",
+      "name": "ScreenGo",
+      "url": "https://www.producthunt.com/products/screengo",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "screen recorder for Mac with auto zooms and virtual webcam\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024038+00:00"
+    },
+    {
+      "id": "bc0f952ba7a0",
+      "name": "Tacie",
+      "url": "https://www.producthunt.com/products/tacie",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "bot",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Meeting notes on your Mac, with no bot in the call\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024107+00:00"
+    },
+    {
+      "id": "9ad2621c152a",
+      "name": "FreeFlow Dictation",
+      "url": "https://www.producthunt.com/products/freeflow-dictation",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "dev",
+        "claude",
+        "voice"
+      ],
+      "pricing": "Free",
+      "description_it": "On-device Mac dictation with a Claude Code voice hook\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024183+00:00"
+    },
+    {
+      "id": "c57655d09f1b",
+      "name": "Gemini Robotics 2.5",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "gemini",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gemini Robotics 2.5: Google’s most capable robot model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024280+00:00"
+    },
+    {
+      "id": "060b4a305062",
+      "name": "Uber Parking",
+      "url": "https://www.producthunt.com/products/uber",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find, compare and reserve parking inside the Uber app\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024368+00:00"
+    },
+    {
+      "id": "b222d3b9fc19",
+      "name": "VB Notes",
+      "url": "https://www.producthunt.com/products/vb-notes",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Markdown notes in your own folder, searched by meaning\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024439+00:00"
+    },
+    {
+      "id": "29a0a0f5f91e",
+      "name": "MAP & GO!",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See your day on the map\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024485+00:00"
+    },
+    {
+      "id": "55de40c8df2b",
+      "name": "AnyoneHiring.today",
+      "url": "https://www.producthunt.com/products/anyonehiring-today",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "A world map of jobs. “Anywhere” is now a plan.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024552+00:00"
+    },
+    {
+      "id": "b9244d51e142",
+      "name": "inread.app",
+      "url": "https://www.producthunt.com/products/inread-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "your newsletters, outside your inbox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024617+00:00"
+    },
+    {
+      "id": "7d949ddfdc13",
+      "name": "Restoration Scope",
+      "url": "https://www.producthunt.com/products/restoration-scope",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Field data and monitoring software for reforestation\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024689+00:00"
+    },
+    {
+      "id": "57b3f490dddf",
+      "name": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source UI components for your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024755+00:00"
+    },
+    {
+      "id": "d8a0ff9973fc",
+      "name": "Default Tamer",
+      "url": "https://www.producthunt.com/products/default-tamer",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Open every link in the right browser on macOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024805+00:00"
+    },
+    {
+      "id": "5874f8f2da53",
+      "name": "Dex Semantics",
+      "url": "https://www.producthunt.com/products/dex-by-exmergo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your agent build analytics with 25% fewer errors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-14T13:57:14.024873+00:00"
     },
     {
       "id": "75a9ed8e87a3",
@@ -20938,19 +21245,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-02T11:58:16.325947+00:00"
-    },
-    {
-      "id": "db1c6c775db1",
-      "name": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "The Dynamic Island for Windows\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-02T11:58:16.325999+00:00"
     },
     {
       "id": "8a235b9f34c7",
