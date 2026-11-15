@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T13:57:14.148859+00:00",
-  "total": 3914,
+  "updated_at": "2026-11-15T14:31:16.452205+00:00",
+  "total": 3931,
   "tools": [
     {
       "name": "Cursor",
@@ -378,6 +378,314 @@
       "featured": false
     },
     {
+      "id": "19fe013fdb3f",
+      "name": "Tulvo",
+      "url": "https://www.producthunt.com/products/tulvo",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Smart & adaptive workspace to manage all your work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.191790+00:00"
+    },
+    {
+      "id": "bbc8bb43a68d",
+      "name": "Rakazo",
+      "url": "https://www.producthunt.com/products/rakazo",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "The open source Grok Bot alternative you actually own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.191893+00:00"
+    },
+    {
+      "id": "46e45972fb1f",
+      "name": "Talyn",
+      "url": "https://www.producthunt.com/products/talyn",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run Claude Code and Codex in parallel cloud sandboxes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.191995+00:00"
+    },
+    {
+      "id": "ec1a13b63ea0",
+      "name": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design",
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agentic Design Canvas - A visual way to collaborate with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192078+00:00"
+    },
+    {
+      "id": "a3f8b06e225b",
+      "name": "Frevana Multiplayer",
+      "url": "https://www.producthunt.com/products/frevana-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI that grows your business alongside your team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192152+00:00"
+    },
+    {
+      "id": "9be87d5e6064",
+      "name": "Spiik",
+      "url": "https://www.producthunt.com/products/spiik",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "bot",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI note taker for meetings & lectures. No bot on your calls.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192224+00:00"
+    },
+    {
+      "id": "533e706c30d0",
+      "name": "TwoBucket",
+      "url": "https://www.producthunt.com/products/twobucket",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Beginner-friendly mobile detailing software for bookings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192283+00:00"
+    },
+    {
+      "id": "fd2b2bcbaf92",
+      "name": "Privacyboard",
+      "url": "https://www.producthunt.com/products/privacyboard",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Privacy compliance on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192335+00:00"
+    },
+    {
+      "id": "1eaa51e2c469",
+      "name": "Pixel Office",
+      "url": "https://www.producthunt.com/products/pixel-office-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run a team of AI agents from a pixel-art office\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192402+00:00"
+    },
+    {
+      "id": "da071501fbeb",
+      "name": "collecto.rs",
+      "url": "https://www.producthunt.com/products/collecto-rs",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "pitch"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Catalog any collection, from Pokémon to pitcher plants\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192478+00:00"
+    },
+    {
+      "id": "2e05749e1f9d",
+      "name": "Emayler",
+      "url": "https://www.producthunt.com/products/emayler",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Custom email on your domain, minus the headache\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192547+00:00"
+    },
+    {
+      "id": "0813c3dd4520",
+      "name": "Remindly",
+      "url": "https://www.producthunt.com/products/remindly-6",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Notes that remind you, on iPhone, iPad, Mac and web\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192620+00:00"
+    },
+    {
+      "id": "aa119a8de180",
+      "name": "Perit Marketplace",
+      "url": "https://www.producthunt.com/products/perit-marketplace",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "data",
+        "task"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Sell your data and RL tasks to frontier AI labs\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192689+00:00"
+    },
+    {
+      "id": "5fb58f1fdf9d",
+      "name": "Polylane for Security",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Catch exploitable vulnerabilities before they ship\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192742+00:00"
+    },
+    {
+      "id": "5e1a5547ec3c",
+      "name": "ByteAsk Cloud Agents",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ask",
+        "find",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find the fix in big codebases. Ship it from Slack.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192810+00:00"
+    },
+    {
+      "id": "b2eff49d441b",
+      "name": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast, native and smart email for Mac and iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192875+00:00"
+    },
+    {
+      "id": "4caae299ce88",
+      "name": "HuntMonitor",
+      "url": "https://www.producthunt.com/products/huntmonitor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Watch today's hunt live: points, speed, rank moves\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.192938+00:00"
+    },
+    {
+      "id": "b9244d51e142",
+      "name": "inread.app",
+      "url": "https://www.producthunt.com/products/inread-app",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "your newsletters, outside your inbox\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.193006+00:00"
+    },
+    {
+      "id": "079e4bae7e58",
+      "name": "CaptureFlow",
+      "url": "https://www.producthunt.com/products/captureflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source screen recorder with instant share links\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.193074+00:00"
+    },
+    {
+      "id": "57b3f490dddf",
+      "name": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source UI components for your AI agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-15T14:31:16.193141+00:00"
+    },
+    {
       "id": "5c9f3acb62a0",
       "name": "HiringNow",
       "url": "https://www.producthunt.com/products/hiringnow",
@@ -610,22 +918,6 @@
       "discovered_at": "2026-11-14T13:57:14.024552+00:00"
     },
     {
-      "id": "b9244d51e142",
-      "name": "inread.app",
-      "url": "https://www.producthunt.com/products/inread-app",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "your newsletters, outside your inbox\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-14T13:57:14.024617+00:00"
-    },
-    {
       "id": "7d949ddfdc13",
       "name": "Restoration Scope",
       "url": "https://www.producthunt.com/products/restoration-scope",
@@ -639,21 +931,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-14T13:57:14.024689+00:00"
-    },
-    {
-      "id": "57b3f490dddf",
-      "name": "Kokonut UI",
-      "url": "https://www.producthunt.com/products/kokonutui",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "Open-source UI components for your AI agent\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-14T13:57:14.024755+00:00"
     },
     {
       "id": "d8a0ff9973fc",
@@ -9823,23 +10100,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-13T14:48:24.233278+00:00"
-    },
-    {
-      "id": "b2eff49d441b",
-      "name": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "code",
-        "cli",
-        "email"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Native macOS mail app with one-click sign-in codes and AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-13T14:48:24.233353+00:00"
     },
     {
       "id": "422fde24c336",
