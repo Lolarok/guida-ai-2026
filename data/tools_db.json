@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T14:31:16.452205+00:00",
-  "total": 3931,
+  "updated_at": "2026-11-16T16:45:34.158227+00:00",
+  "total": 3949,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,316 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "a949be1ad9e6",
+      "name": "Zoom Slides",
+      "url": "https://www.producthunt.com/products/zoom",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "meeting",
+        "slide",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn your Zoom meetings into ready-to-present slides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.829919+00:00"
+    },
+    {
+      "id": "6b7359331050",
+      "name": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "One operating system for all your AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830028+00:00"
+    },
+    {
+      "id": "5bde29d910cc",
+      "name": "OffiAI",
+      "url": "https://www.producthunt.com/products/offiai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Office, with its last two letters swapped for AI.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830083+00:00"
+    },
+    {
+      "id": "87a415f7bf5d",
+      "name": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "design",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Describe a part in plain language to get a CAD design\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830157+00:00"
+    },
+    {
+      "id": "487a985f13a0",
+      "name": "Punchcutter",
+      "url": "https://www.producthunt.com/products/punchcutter",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn a sentence or your handwriting into a real font family\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830233+00:00"
+    },
+    {
+      "id": "300718bc6083",
+      "name": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grok Bot alternative: self-host, fully customize, any stack\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830303+00:00"
+    },
+    {
+      "id": "44f2b04064fa",
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your personal assistant that lives in email around the clock\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830384+00:00"
+    },
+    {
+      "id": "4907f86bf431",
+      "name": "Cal.com v7",
+      "url": "https://www.producthunt.com/products/cal",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "assistant",
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Cal.com now has events, discover, an assistant + more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830459+00:00"
+    },
+    {
+      "id": "51bbd971dacf",
+      "name": "OpenFrame",
+      "url": "https://www.producthunt.com/products/openframe-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI agents that run your IT. You approve every fix.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830527+00:00"
+    },
+    {
+      "id": "c50c59b57a74",
+      "name": "Pharen Hub",
+      "url": "https://www.producthunt.com/products/pharen-hub",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One AI workspace for your whole company\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830573+00:00"
+    },
+    {
+      "id": "d7d8eb699049",
+      "name": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The 100% free coding agent\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830634+00:00"
+    },
+    {
+      "id": "daeed114930e",
+      "name": "Findy",
+      "url": "https://www.producthunt.com/products/findy-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find Files on Your Mac by what you remember\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830699+00:00"
+    },
+    {
+      "id": "d7b58a9ba749",
+      "name": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Identity and inboxes for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830763+00:00"
+    },
+    {
+      "id": "e32c673f16b0",
+      "name": "Zode",
+      "url": "https://www.producthunt.com/products/zode",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The fastest, cheapest cloud VMs for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830828+00:00"
+    },
+    {
+      "id": "84db02b0787d",
+      "name": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "film"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source Cursor for AI filmmaking\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830909+00:00"
+    },
+    {
+      "id": "207bd557c9e8",
+      "name": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let ChatGPT agents buy things without seeing your card\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.830982+00:00"
+    },
+    {
+      "id": "459d15547d6f",
+      "name": "Flamigo",
+      "url": "https://www.producthunt.com/products/flamigo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "design",
+        "note",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn rough notes into beautifully designed slides\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.831049+00:00"
+    },
+    {
+      "id": "22fd884a0479",
+      "name": "Curates",
+      "url": "https://www.producthunt.com/products/curates",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The all-in-one platform for creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.831095+00:00"
+    },
+    {
+      "id": "a215475c3a6f",
+      "name": "Docsy",
+      "url": "https://www.producthunt.com/products/docsy-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "Open source docs for humans and coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.831158+00:00"
+    },
+    {
+      "id": "466be32fdeea",
+      "name": "Papyras",
+      "url": "https://www.producthunt.com/products/papyras",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "For people who still read the last page\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-16T16:45:33.831220+00:00"
     },
     {
       "id": "19fe013fdb3f",
@@ -8600,23 +8910,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-19T14:20:00.477394+00:00"
-    },
-    {
-      "id": "44f2b04064fa",
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "ide",
-        "assistant",
-        "ad"
-      ],
-      "pricing": "Free tier",
-      "description_it": "The senior personal assistant that works inside WhatsApp\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-19T14:20:00.477464+00:00"
     },
     {
       "id": "08dfe34731f9",
@@ -26273,24 +26566,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-08-14T08:14:49.040342+00:00"
-    },
-    {
-      "id": "d7d8eb699049",
-      "name": "Freebuff",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "coding",
-      "tags": [
-        "coding",
-        "dev",
-        "claude",
-        "agent"
-      ],
-      "pricing": "Free",
-      "description_it": "Free coding agents to kill Claude, Cursor, Replit, and Devin\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-14T08:14:49.040530+00:00"
     },
     {
       "id": "b4ce14ec3e0d",
