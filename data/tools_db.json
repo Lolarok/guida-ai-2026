@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T16:45:34.158227+00:00",
-  "total": 3949,
+  "updated_at": "2026-11-17T16:41:41.688463+00:00",
+  "total": 3967,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,329 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "7e6f478f019d",
+      "name": "AI Visibility by TruLata",
+      "url": "https://www.producthunt.com/products/trulata",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "gpt",
+        "ask",
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find out if ChatGPT names your business when buyers ask\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.398742+00:00"
+    },
+    {
+      "id": "6bca5cdcb5e8",
+      "name": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Pay-as-you-go SEO and AI Search execution layer for agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.398827+00:00"
+    },
+    {
+      "id": "48e96da4e680",
+      "name": "Agents API by Recall.ai",
+      "url": "https://www.producthunt.com/products/recall-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api",
+        "agent",
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Send your agent to meetings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.398890+00:00"
+    },
+    {
+      "id": "d040a351e496",
+      "name": "Creatify Max",
+      "url": "https://www.producthunt.com/products/creatify",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your ad teammate, from strategy to creation to launch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.398950+00:00"
+    },
+    {
+      "id": "c0e9911d8b43",
+      "name": "EkLine",
+      "url": "https://www.producthunt.com/products/ekline",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "api",
+        "seo"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI SEO for Developer Tools and API first companies! \n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399006+00:00"
+    },
+    {
+      "id": "9c2e297ef0e4",
+      "name": "BASE Studio",
+      "url": "https://www.producthunt.com/products/base-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "photo",
+        "automat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn product photos into 3D and AR, automatically\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399064+00:00"
+    },
+    {
+      "id": "dd4d34526473",
+      "name": "GatherHQ Agent Research",
+      "url": "https://www.producthunt.com/products/gatherhq-agent-research",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your agent take surveys for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399124+00:00"
+    },
+    {
+      "id": "9f8d26fa60ad",
+      "name": "VINC",
+      "url": "https://www.producthunt.com/products/vinc",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "film"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Bring your filmmaking vision to life.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399180+00:00"
+    },
+    {
+      "id": "8cef1f4d136c",
+      "name": "OnlineCompiler.io",
+      "url": "https://www.producthunt.com/products/onlinecompiler-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "compiler",
+        "api",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run and grade code in 46 languages, by API or embed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399238+00:00"
+    },
+    {
+      "id": "1b06f6cc105f",
+      "name": "Superhands",
+      "url": "https://www.producthunt.com/products/stencil-by-superhands",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "design"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Design the system, not every output.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399291+00:00"
+    },
+    {
+      "id": "459a900dd8fb",
+      "name": "TheBold",
+      "url": "https://www.producthunt.com/products/thebold",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn execution into meetings with investors\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399346+00:00"
+    },
+    {
+      "id": "180f275837b1",
+      "name": "superlog",
+      "url": "https://www.producthunt.com/products/superlog",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Finds the production bugs your monitoring never sees\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399404+00:00"
+    },
+    {
+      "id": "4585d7158e7f",
+      "name": "3BCAD",
+      "url": "https://www.producthunt.com/products/3bcad",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source parametric CAD with built-in 3D print prep\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399460+00:00"
+    },
+    {
+      "id": "f4642a8a985e",
+      "name": "Lasso",
+      "url": "https://www.producthunt.com/products/lasso-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Draw on your Mac screen, then let AI agents see it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399525+00:00"
+    },
+    {
+      "id": "a0a451b63c18",
+      "name": "Ballet",
+      "url": "https://www.producthunt.com/products/ballet",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "automat",
+        "workflow"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Deterministic AI workflow automation for Ops teams\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399578+00:00"
+    },
+    {
+      "id": "cdf52ffd61e9",
+      "name": "Pinecall",
+      "url": "https://www.producthunt.com/products/pinecall",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "The open-source platform for voice AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399631+00:00"
+    },
+    {
+      "id": "a00c39652e4e",
+      "name": "Inbox Hero",
+      "url": "https://www.producthunt.com/products/inbox-hero-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your replies drafted in your voice, scams quarantined\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399686+00:00"
+    },
+    {
+      "id": "5b5a76160d4d",
+      "name": "Versine",
+      "url": "https://www.producthunt.com/products/versine",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your AI send and receive money. We're Venmo for agents.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399741+00:00"
+    },
+    {
+      "id": "34bd4229bfc9",
+      "name": "Retriever",
+      "url": "https://www.producthunt.com/products/retriever-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "ide",
+        "photo",
+        "video",
+        "search",
+        "document"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Search your phone's photos, documents and videos privately\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399793+00:00"
+    },
+    {
+      "id": "789c0877c267",
+      "name": "DearInside",
+      "url": "https://www.producthunt.com/products/dearinside",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your body has a social network. You're the only human.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-17T16:41:41.399846+00:00"
     },
     {
       "id": "a949be1ad9e6",
@@ -27085,22 +27408,6 @@
       "discovered_at": "2026-08-12T08:15:27.704785+00:00"
     },
     {
-      "id": "a0a451b63c18",
-      "name": "Ballet",
-      "url": "https://www.producthunt.com/products/ballet",
-      "source": "Product Hunt AI (feed)",
-      "category": "agent",
-      "tags": [
-        "agent",
-        "workflow"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Agentic workflows that deliver the same outcome every time\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-08-12T08:15:27.704916+00:00"
-    },
-    {
       "id": "c3ef329e3d1d",
       "name": "Media Sharing",
       "url": "https://www.producthunt.com/products/argos",
@@ -42646,21 +42953,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-06-03T11:57:36.323561+00:00"
-    },
-    {
-      "id": "180f275837b1",
-      "name": "superlog",
-      "url": "https://www.producthunt.com/products/superlog",
-      "source": "Product Hunt AI (feed)",
-      "category": "ricerca",
-      "tags": [
-        "find"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Autonomous observability tool that finds & fixes bugs\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-06-03T11:57:36.323650+00:00"
     },
     {
       "id": "0aabf8c24241",
