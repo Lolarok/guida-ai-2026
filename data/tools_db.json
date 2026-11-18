@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T16:41:41.688463+00:00",
-  "total": 3967,
+  "updated_at": "2026-11-18T16:10:40.071391+00:00",
+  "total": 3987,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,306 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "803944802324",
+      "name": "Orken",
+      "url": "https://www.producthunt.com/products/orken",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Tell it your time and gear. Get a workout built for you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.956768+00:00"
+    },
+    {
+      "id": "3c8b5fec53af",
+      "name": "Stringman",
+      "url": "https://www.producthunt.com/products/stringman",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Turns your room into a crane game\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.956839+00:00"
+    },
+    {
+      "id": "4c7925993a4b",
+      "name": "Happo animation testing",
+      "url": "https://www.producthunt.com/products/happo-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "animation"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual regression testing, now for animations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.956905+00:00"
+    },
+    {
+      "id": "04e860517644",
+      "name": "Microsoft IQ",
+      "url": "https://www.producthunt.com/products/microsoft-365",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give AI agents a shared understanding of your business\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.956965+00:00"
+    },
+    {
+      "id": "222a0e3cb214",
+      "name": "Diagramly 2.0",
+      "url": "https://www.producthunt.com/products/diagramly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Type a diagram. Get it reviewed. Present it as the deck.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957024+00:00"
+    },
+    {
+      "id": "5bbe7bb6778c",
+      "name": "SoreQen Code",
+      "url": "https://www.producthunt.com/products/soreqen-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The coding agent that checks its own work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957079+00:00"
+    },
+    {
+      "id": "7ad4e231f647",
+      "name": "AssemblyAI",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "recording",
+        "voice",
+        "speech",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Speech-to-Text for live calls, voice agents, and recordings\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957144+00:00"
+    },
+    {
+      "id": "e347e4bb6af7",
+      "name": "Beacon",
+      "url": "https://www.producthunt.com/products/beacon-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agent the browser you're already signed into\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957205+00:00"
+    },
+    {
+      "id": "383c2f4ea278",
+      "name": "Kino",
+      "url": "https://www.producthunt.com/products/kino-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Store, edit and review video with Claude Code and Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957263+00:00"
+    },
+    {
+      "id": "81a172f793f2",
+      "name": "dusk bot",
+      "url": "https://www.producthunt.com/products/dusk-bot",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "bot"
+      ],
+      "pricing": "Free",
+      "description_it": "free open source Grok bot alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957319+00:00"
+    },
+    {
+      "id": "35325d7fb662",
+      "name": "OX212",
+      "url": "https://www.producthunt.com/products/ox212",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Don't predict the market, predict the trader\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957372+00:00"
+    },
+    {
+      "id": "af1076ce5c97",
+      "name": "Bluedot Phone Calls",
+      "url": "https://www.producthunt.com/products/bluedot-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI note taker for phone calls\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957428+00:00"
+    },
+    {
+      "id": "51b17f2795b7",
+      "name": "kwatch",
+      "url": "https://www.producthunt.com/products/kwatch",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Kubernetes alerts that name the root cause\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957469+00:00"
+    },
+    {
+      "id": "dd4666b4d407",
+      "name": "ICONS",
+      "url": "https://www.producthunt.com/products/icons-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "icon",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Where brands book creators, or license their AI likeness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957534+00:00"
+    },
+    {
+      "id": "86446b65cbb7",
+      "name": "Ody Ai Business Phone",
+      "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Shared workspace + manageable AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957589+00:00"
+    },
+    {
+      "id": "24c846b81a6e",
+      "name": "Dippr",
+      "url": "https://www.producthunt.com/products/dippr",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A data platform served to your agents, with one prompt\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957643+00:00"
+    },
+    {
+      "id": "c5dfed278dc5",
+      "name": "Qwen4",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Qwen's new flagship for long-running agent work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957695+00:00"
+    },
+    {
+      "id": "6e23e603b262",
+      "name": "Introzy",
+      "url": "https://www.producthunt.com/products/introzy",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Track referrals from intro to commission\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957735+00:00"
+    },
+    {
+      "id": "452b3d85734a",
+      "name": "lepoly",
+      "url": "https://www.producthunt.com/products/lepoly",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One place for all your 3D assets\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957772+00:00"
+    },
+    {
+      "id": "3f49459cc567",
+      "name": "canfit",
+      "url": "https://www.producthunt.com/products/canfit",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The top command for people running local LLMs and apps\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-18T16:10:39.957811+00:00"
     },
     {
       "id": "7e6f478f019d",
