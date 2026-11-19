@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:10:40.071391+00:00",
-  "total": 3987,
+  "updated_at": "2026-11-19T16:17:51.500821+00:00",
+  "total": 4006,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,302 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "07ec0f61ea32",
+      "name": "The Calm Creator Mastermind",
+      "url": "https://www.producthunt.com/products/the-calm-creator-mastermind",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "For solopreneurs who are tired of being solo.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220191+00:00"
+    },
+    {
+      "id": "4817f07ab6f6",
+      "name": "Fieldwork Code",
+      "url": "https://www.producthunt.com/products/fieldwork-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI coding on your laptop or in the cloud, from your phone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220262+00:00"
+    },
+    {
+      "id": "c851e8525b9f",
+      "name": "Manufact",
+      "url": "https://www.producthunt.com/products/manufact",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Ship and test your MCP to every plugin marketplace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220297+00:00"
+    },
+    {
+      "id": "dd6f6cb79a66",
+      "name": "Tabstack by Mozilla",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Give your model the web without giving up your privacy\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220331+00:00"
+    },
+    {
+      "id": "3716ea2966ac",
+      "name": "Source",
+      "url": "https://www.producthunt.com/products/source-public-beta",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The attribution data layer for your agents to drive pipeline\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220379+00:00"
+    },
+    {
+      "id": "6e69dbc4dc01",
+      "name": "Netlify Server",
+      "url": "https://www.producthunt.com/products/netlify",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run WebSockets, multiplayer apps, and long-running agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220427+00:00"
+    },
+    {
+      "id": "d43fe55321bb",
+      "name": "Verse Engine by Ctruh",
+      "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Blender, Unity or Unreal to a live 3D link in one click\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220479+00:00"
+    },
+    {
+      "id": "3bce51e46bad",
+      "name": "Stripo Email Widgets",
+      "url": "https://www.producthunt.com/products/stripo-email",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put a game, quiz or survey in your next email. No coding\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220530+00:00"
+    },
+    {
+      "id": "854b96fe7220",
+      "name": "Spellar for Chrome",
+      "url": "https://www.producthunt.com/products/spellar",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "bot",
+        "note",
+        "meeting"
+      ],
+      "pricing": "Free",
+      "description_it": "Free, no-bot meeting notes with memory, now in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220581+00:00"
+    },
+    {
+      "id": "6c6a2cc6114c",
+      "name": "Impractical",
+      "url": "https://www.producthunt.com/products/impractical",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make launch videos in the style of Framer, Notion, and more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220628+00:00"
+    },
+    {
+      "id": "1892d783c926",
+      "name": "Noteshell",
+      "url": "https://www.producthunt.com/products/noteshell",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "note"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI teammates that build and run your workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220673+00:00"
+    },
+    {
+      "id": "28aa7bbff9ba",
+      "name": "Jet",
+      "url": "https://www.producthunt.com/products/tooljet",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Vibe-coded business apps that pass the security review\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220720+00:00"
+    },
+    {
+      "id": "9ba5fdb1ef6e",
+      "name": "Adside",
+      "url": "https://www.producthunt.com/products/adside",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A team of specialized AI agents that manage paid ads for you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220765+00:00"
+    },
+    {
+      "id": "c866faf718db",
+      "name": "Ableten Hybrid AI Travel Planner",
+      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Get your group on the same map.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220796+00:00"
+    },
+    {
+      "id": "2a329eaaf844",
+      "name": "Tecla",
+      "url": "https://www.producthunt.com/products/tecla-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A proactive AI agent whose interface is a TODO list\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220839+00:00"
+    },
+    {
+      "id": "21ff31d16899",
+      "name": "Cleared",
+      "url": "https://www.producthunt.com/products/cleared-quit-nicotine",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Your personal plan to give up vapes, pouches and cigarettes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220870+00:00"
+    },
+    {
+      "id": "133d1796c232",
+      "name": "TestSprite 4.0",
+      "url": "https://www.producthunt.com/products/testsprite",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fix one thing, break another? This agent checks it all\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220915+00:00"
+    },
+    {
+      "id": "d73b265f1f92",
+      "name": "OfinTech Desk",
+      "url": "https://www.producthunt.com/products/ofintech-desk",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Finance AI where every figure traces to its source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220946+00:00"
+    },
+    {
+      "id": "66f80e95a4a6",
+      "name": "Teaflask",
+      "url": "https://www.producthunt.com/products/teaflask",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "copilot",
+        "backend",
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Self-improving AI copilot for your app. No backend changes.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.220989+00:00"
+    },
+    {
+      "id": "00438c0a7b7b",
+      "name": "Play That Back",
+      "url": "https://www.producthunt.com/products/play-that-back",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A pro camera built for iPhone Duo\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-19T16:17:51.221017+00:00"
     },
     {
       "id": "803944802324",
@@ -22711,24 +23007,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-01T12:22:56.532472+00:00"
-    },
-    {
-      "id": "6c6a2cc6114c",
-      "name": "Impractical",
-      "url": "https://www.producthunt.com/products/impractical",
-      "source": "Product Hunt AI (feed)",
-      "category": "video",
-      "tags": [
-        "ide",
-        "design",
-        "video",
-        "motion"
-      ],
-      "pricing": "Free tier",
-      "description_it": "AI Motion Design - Every feature deserves an amazing video. \n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-01T12:22:56.532547+00:00"
     },
     {
       "id": "6c421d04655e",
