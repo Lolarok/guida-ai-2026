@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:17:51.500821+00:00",
-  "total": 4006,
+  "updated_at": "2026-11-20T15:55:37.688821+00:00",
+  "total": 4026,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,297 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "6816620eb31b",
+      "name": "Direct by Instagram",
+      "url": "https://www.producthunt.com/products/instagram",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Instagram DMs, without the feed or Instagram account\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540051+00:00"
+    },
+    {
+      "id": "66093b29b1e6",
+      "name": "Memanto Cloud",
+      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A companion memory for agents to improve as you work\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540151+00:00"
+    },
+    {
+      "id": "6251d9d34c55",
+      "name": "Interview Coach",
+      "url": "https://www.producthunt.com/products/interview-coach-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Practice job interviews out loud\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540208+00:00"
+    },
+    {
+      "id": "2bb30c68122f",
+      "name": "tensorViz",
+      "url": "https://www.producthunt.com/products/tensorviz",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Let your coding agent see inside your PyTorch model\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540283+00:00"
+    },
+    {
+      "id": "1f536a98c640",
+      "name": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "research"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Understand research, test it yourself, publish your own\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540355+00:00"
+    },
+    {
+      "id": "d678df9d941a",
+      "name": "Andromon",
+      "url": "https://www.producthunt.com/products/andromon",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "Your Android phone, on your computer. Free.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540408+00:00"
+    },
+    {
+      "id": "2ee41f18bfbc",
+      "name": "Saparo",
+      "url": "https://www.producthunt.com/products/saparo",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Muse for shopping with deals stacks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540480+00:00"
+    },
+    {
+      "id": "00688a1ded1a",
+      "name": "Salus",
+      "url": "https://www.producthunt.com/products/salus",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "discover"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover benefits and public support in the Czech Republic\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540556+00:00"
+    },
+    {
+      "id": "f64b62bc04f2",
+      "name": "tripps",
+      "url": "https://www.producthunt.com/products/tripps",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan a group trip with one link, no account needed\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540609+00:00"
+    },
+    {
+      "id": "8dae27258129",
+      "name": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Free AI + human code review for open source & nonprofits\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540679+00:00"
+    },
+    {
+      "id": "74808bc4914f",
+      "name": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Draft Apple Mail replies with your local AI agent CLI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540748+00:00"
+    },
+    {
+      "id": "45afbfb9f8f9",
+      "name": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Ctrl+Z button for autonomous AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540818+00:00"
+    },
+    {
+      "id": "2db133804311",
+      "name": "Volcano",
+      "url": "https://www.producthunt.com/products/volcano-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The self-healing agent cloud by Kong\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540880+00:00"
+    },
+    {
+      "id": "9b320c4896c8",
+      "name": "aiteam.space",
+      "url": "https://www.producthunt.com/products/aiteam-space",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI team where every agent has its own computer\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.540948+00:00"
+    },
+    {
+      "id": "2d3b36b96141",
+      "name": "Fack’d",
+      "url": "https://www.producthunt.com/products/fack-d",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fact checks right on YouTube as it plays, with sources\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541036+00:00"
+    },
+    {
+      "id": "b413369775e3",
+      "name": "Scam Link Check",
+      "url": "https://www.producthunt.com/products/scam-link-check",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Paste a suspicious text or link, get a plain-English verdict\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541090+00:00"
+    },
+    {
+      "id": "45f338e7b55c",
+      "name": "Nexuro AI",
+      "url": "https://www.producthunt.com/products/nexuro-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "chatbot",
+        "bot",
+        "content"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build AI chatbots from your own content in minutes\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541157+00:00"
+    },
+    {
+      "id": "3185b3c6d2ea",
+      "name": "Zethos",
+      "url": "https://www.producthunt.com/products/zethos",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The ledger you and your AI work from\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541205+00:00"
+    },
+    {
+      "id": "950dccaf992b",
+      "name": "Rox",
+      "url": "https://www.producthunt.com/products/rox-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI companion for living with chronic illness\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541253+00:00"
+    },
+    {
+      "id": "2fa1a42aea1b",
+      "name": "NetSieve",
+      "url": "https://www.producthunt.com/products/netsieve",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Block ads, trackers and scam sites in every app on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-20T15:55:37.541321+00:00"
     },
     {
       "id": "07ec0f61ea32",
