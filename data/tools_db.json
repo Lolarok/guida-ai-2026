@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T15:55:37.688821+00:00",
-  "total": 4026,
+  "updated_at": "2026-11-21T15:05:35.128353+00:00",
+  "total": 4046,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,319 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "13d4efc47146",
+      "name": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A fast Mac email app with AI that never leaves your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.026988+00:00"
+    },
+    {
+      "id": "a7036259dc73",
+      "name": "OpenVorld",
+      "url": "https://www.producthunt.com/products/openvorld",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Give your AI agents a home you can see\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027064+00:00"
+    },
+    {
+      "id": "7aef48b6618b",
+      "name": "AlterContacts",
+      "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "assistant",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI client relationship assistant that thinks and does ahead\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027127+00:00"
+    },
+    {
+      "id": "b6c0faa72149",
+      "name": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Memory you control, synced to every agent, tool and team\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027202+00:00"
+    },
+    {
+      "id": "cacd41cc0d35",
+      "name": "Doddle",
+      "url": "https://www.producthunt.com/products/doddle-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Draw on what your videos for 3D effects\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027255+00:00"
+    },
+    {
+      "id": "fa1997d51299",
+      "name": "Shipyard",
+      "url": "https://www.producthunt.com/products/shipyard",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "code",
+        "claude",
+        "automat",
+        "integration"
+      ],
+      "pricing": "Free tier",
+      "description_it": "MCP for Claude, Cursor and Codex to Automate Integrations\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027312+00:00"
+    },
+    {
+      "id": "23861872ef17",
+      "name": "Exa Websets V2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Build custom datasets from the live web, 4x faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027370+00:00"
+    },
+    {
+      "id": "f5fcdf1151d9",
+      "name": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Google’s AI agent that ships fixes and watches the metric\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027447+00:00"
+    },
+    {
+      "id": "dc86af747160",
+      "name": "Smorza",
+      "url": "https://www.producthunt.com/products/smorza",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Every Mac app gets its own volume and output\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027485+00:00"
+    },
+    {
+      "id": "a4f768da1473",
+      "name": "AnyProfile",
+      "url": "https://www.producthunt.com/products/anyprofile",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Free open-source antidetect browser for Mac & Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027539+00:00"
+    },
+    {
+      "id": "19da930576d1",
+      "name": "Prompt Puncher",
+      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The AI CEO Fighting Game\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027574+00:00"
+    },
+    {
+      "id": "3cbfaf27d652",
+      "name": "gitroots",
+      "url": "https://www.producthunt.com/products/gitroots",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "git",
+        "github",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Path-level GitHub access for developers and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027625+00:00"
+    },
+    {
+      "id": "7362ea8b048d",
+      "name": "Backspin",
+      "url": "https://www.producthunt.com/products/backspin",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learn to DJ in your browser, on real vinyl decks\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027675+00:00"
+    },
+    {
+      "id": "a677a73fae72",
+      "name": "Codemany",
+      "url": "https://www.producthunt.com/products/codemany",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "git",
+        "github",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run GitHub Actions 3x faster\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027722+00:00"
+    },
+    {
+      "id": "5d97e89ff9b5",
+      "name": "WaitFeed",
+      "url": "https://www.producthunt.com/products/waitfeed-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Tech feed inside agent wait time\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027770+00:00"
+    },
+    {
+      "id": "355da36edd43",
+      "name": "LoudFlow",
+      "url": "https://www.producthunt.com/products/loudflow",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "speech"
+      ],
+      "pricing": "Free tier",
+      "description_it": "We taught text to speech to think\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027816+00:00"
+    },
+    {
+      "id": "39c85b2d1404",
+      "name": "SuperMailbox",
+      "url": "https://www.producthunt.com/products/supermailbox",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your email in one inbox, ready for AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027863+00:00"
+    },
+    {
+      "id": "de62189d8f5d",
+      "name": "Beat Watcher",
+      "url": "https://www.producthunt.com/products/beat-watcher",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "beat"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Fast Apple Watch heart rate alerts you can share with family\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027928+00:00"
+    },
+    {
+      "id": "4453791fa885",
+      "name": "Hollr",
+      "url": "https://www.producthunt.com/products/hollr-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Push-to-talk for your family, on iPhone and Apple Watch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.027979+00:00"
+    },
+    {
+      "id": "d81cd93b702b",
+      "name": "Publicit",
+      "url": "https://www.producthunt.com/products/publicit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Omnichannel ad infrastructure for marketers and AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-21T15:05:35.028034+00:00"
     },
     {
       "id": "6816620eb31b",
