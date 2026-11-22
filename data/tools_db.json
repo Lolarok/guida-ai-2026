@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T15:05:35.128353+00:00",
-  "total": 4046,
+  "updated_at": "2026-11-22T15:02:46.994118+00:00",
+  "total": 4065,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,308 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "1262b413fe5b",
+      "name": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Personal Knowledge Base & Bookmark Manager for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.890817+00:00"
+    },
+    {
+      "id": "4e0535907c54",
+      "name": "Daymaker",
+      "url": "https://www.producthunt.com/products/daymaker",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "meeting"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Gifts so personal, your prospects take the meeting.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.890907+00:00"
+    },
+    {
+      "id": "4ac478a85f24",
+      "name": "Yoroll",
+      "url": "https://www.producthunt.com/products/yoroll",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Build playable stories without a game engine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.890955+00:00"
+    },
+    {
+      "id": "91cc7ae9f46e",
+      "name": "Creavit Studio 4.0",
+      "url": "https://www.producthunt.com/products/creavit-studio",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Screen recording, iPhone camera and cinematic demos for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891022+00:00"
+    },
+    {
+      "id": "9b4cd738ab6d",
+      "name": "Mockreel",
+      "url": "https://www.producthunt.com/products/mockreel",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen",
+        "recording"
+      ],
+      "pricing": "Free",
+      "description_it": "your screen recording, but in a 3D phone. free, no signup\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891086+00:00"
+    },
+    {
+      "id": "34a30bb8ddea",
+      "name": "Leapdeck",
+      "url": "https://www.producthunt.com/products/leapdeck",
+      "source": "Product Hunt AI (feed)",
+      "category": "presentazioni",
+      "tags": [
+        "deck"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Leap to any Mac Space from a key or your iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891147+00:00"
+    },
+    {
+      "id": "054082897982",
+      "name": "Copy Haste",
+      "url": "https://www.producthunt.com/products/copy-haste",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "cli",
+        "clip",
+        "copy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Your clipboard, sorted into Text, Code, Links, Media & more\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891216+00:00"
+    },
+    {
+      "id": "933c57655f87",
+      "name": "Webless Agents",
+      "url": "https://www.producthunt.com/products/webless",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Agents you want to put in front of customers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891279+00:00"
+    },
+    {
+      "id": "057082c03f88",
+      "name": "Ulika",
+      "url": "https://www.producthunt.com/products/ulika",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "editor",
+        "claude",
+        "visual"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Visual editor for sites built with Claude, Cursor, or Codex\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891342+00:00"
+    },
+    {
+      "id": "3b774fedea33",
+      "name": "DeNotch",
+      "url": "https://www.producthunt.com/products/denotch",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Hide the MacBook notch and tame your menu bar\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891399+00:00"
+    },
+    {
+      "id": "608fd3d3115b",
+      "name": "MeshLive",
+      "url": "https://www.producthunt.com/products/meshlive",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "ide",
+        "video",
+        "stream"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Offline video calls and livestreams over Bluetooth mesh\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891459+00:00"
+    },
+    {
+      "id": "93cffa070b41",
+      "name": "Wispim",
+      "url": "https://www.producthunt.com/products/wispim-online-teleprompter",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The teleprompter that follows your voice\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891518+00:00"
+    },
+    {
+      "id": "3240619abfb9",
+      "name": "Raccoon Kids",
+      "url": "https://www.producthunt.com/products/raccoon-kids",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Gamify Chores for Kids: no more nagging, just a cute raccoon\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891574+00:00"
+    },
+    {
+      "id": "2450453e93f2",
+      "name": "Pushback",
+      "url": "https://www.producthunt.com/products/pushback-flight-tracker",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The flight tracker that knows which lounge you can use\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891618+00:00"
+    },
+    {
+      "id": "735c83e4aecf",
+      "name": "Omi CLI",
+      "url": "https://www.producthunt.com/products/omi-cli",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "cli",
+        "terminal",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI coding agent in your terminal, on 13 models\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891676+00:00"
+    },
+    {
+      "id": "0702fb793584",
+      "name": "TeaserKit",
+      "url": "https://www.producthunt.com/products/teaserkit",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "ide",
+        "video",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "your coding agent directs your launch video\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891734+00:00"
+    },
+    {
+      "id": "36b2615ef5a3",
+      "name": "Squint",
+      "url": "https://www.producthunt.com/products/squint",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Explains whatever you're looking at, now on Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891776+00:00"
+    },
+    {
+      "id": "230c1e3a24c2",
+      "name": "Slotify",
+      "url": "https://www.producthunt.com/products/slotify-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "schedule"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Schedule game nights without leaving Discord\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891832+00:00"
+    },
+    {
+      "id": "e73554e8d868",
+      "name": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your own team of AI on your desktop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891872+00:00"
+    },
+    {
+      "id": "d9c4b6627380",
+      "name": "Rankhog",
+      "url": "https://www.producthunt.com/products/rankhog",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Get customers from Reddit on autopilot\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-22T15:02:46.891913+00:00"
     },
     {
       "id": "13d4efc47146",
@@ -20550,19 +20852,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-09-13T12:32:30.027702+00:00"
-    },
-    {
-      "id": "1262b413fe5b",
-      "name": "Resurf",
-      "url": "https://www.producthunt.com/products/resurf-2",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A Personal Context App\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-09-13T12:32:30.027783+00:00"
     },
     {
       "id": "ee605a0cde95",
