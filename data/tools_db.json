@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T15:02:46.994118+00:00",
-  "total": 4065,
+  "updated_at": "2026-11-23T18:59:04.409133+00:00",
+  "total": 4084,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,303 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "9159ba6172eb",
+      "name": "Ashwa",
+      "url": "https://www.producthunt.com/products/ashwa",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AI companion that never forgets what you say\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097063+00:00"
+    },
+    {
+      "id": "9b66efb9d3f6",
+      "name": "Chat with Work",
+      "url": "https://www.producthunt.com/products/chat-with-work",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "chat",
+        "bot"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI bots in Europe. They work. You decide.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097160+00:00"
+    },
+    {
+      "id": "9a16b3afcc01",
+      "name": "LeanTake",
+      "url": "https://www.producthunt.com/products/leantake",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "screen"
+      ],
+      "pricing": "Free tier",
+      "description_it": "4.1 MB native Mac screen recorder — zero export wait\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097260+00:00"
+    },
+    {
+      "id": "2889e71a6541",
+      "name": "Tesla Self",
+      "url": "https://www.producthunt.com/products/tesla",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "art",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Upgrading every part of the end-to-end driving network\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097343+00:00"
+    },
+    {
+      "id": "fc04647ce898",
+      "name": "Journalistic Tech",
+      "url": "https://www.producthunt.com/products/journalistic-tech",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Async interviews that get you published on HackerNoon\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097402+00:00"
+    },
+    {
+      "id": "18279316847a",
+      "name": "Orpheus",
+      "url": "https://www.producthunt.com/products/orpheus-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run all your Claude subscriptions from one place\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097478+00:00"
+    },
+    {
+      "id": "a28d7bc73322",
+      "name": "Replit Missions",
+      "url": "https://www.producthunt.com/products/replit",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Set a budget, coordinate teams of AI agents,\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097555+00:00"
+    },
+    {
+      "id": "4c54c55350e5",
+      "name": "Branchery",
+      "url": "https://www.producthunt.com/products/branchery",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "cli"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Branchery, a Git client for Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097642+00:00"
+    },
+    {
+      "id": "22482cbc97df",
+      "name": "Jot",
+      "url": "https://www.producthunt.com/products/jot-15",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One key for everything you do with text\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097697+00:00"
+    },
+    {
+      "id": "07fba2840bfa",
+      "name": "Snowly",
+      "url": "https://www.producthunt.com/products/snowly-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Freemium",
+      "description_it": "Plan ski trips with friends. Remember every run.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097751+00:00"
+    },
+    {
+      "id": "30203036cfdb",
+      "name": "Dog Translator SuperTranslator",
+      "url": "https://www.producthunt.com/products/dog-translator-supertranslator",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "talk"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Dogs talking in English (real)\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097823+00:00"
+    },
+    {
+      "id": "36b3202fe8d4",
+      "name": "Hydrilla",
+      "url": "https://www.producthunt.com/products/hydrilla",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Generate production-ready 3D assets with AI\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097890+00:00"
+    },
+    {
+      "id": "fcfa23b9173e",
+      "name": "Letter Visitors",
+      "url": "https://www.producthunt.com/products/visitors",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "See website visitors on your website itself\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.097942+00:00"
+    },
+    {
+      "id": "7d771be904d4",
+      "name": "Gauth Personal Study Agent",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "An AI study agent that remembers where you struggle\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098020+00:00"
+    },
+    {
+      "id": "75a8489d12b9",
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "Plango lets your AI agents work all night - safely\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098089+00:00"
+    },
+    {
+      "id": "7e5c5e2f1268",
+      "name": "Modem",
+      "url": "https://www.producthunt.com/products/modem",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "find"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Find, fix, and follow up on every customer concern\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098156+00:00"
+    },
+    {
+      "id": "2341a675445e",
+      "name": "Inkling 2 Mini",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "26B looped model for coding on your laptop\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098223+00:00"
+    },
+    {
+      "id": "966a5a41d050",
+      "name": "naturefunding.org",
+      "url": "https://www.producthunt.com/products/naturefunding-org",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "project"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Grants for nature projects, checked against funder pages\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098297+00:00"
+    },
+    {
+      "id": "1ee24df88350",
+      "name": "Strict",
+      "url": "https://www.producthunt.com/products/strict",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Run GitHub Actions on any spare Mac or Linux machine\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098365+00:00"
+    },
+    {
+      "id": "95268d2a9b5d",
+      "name": "Kopyo",
+      "url": "https://www.producthunt.com/products/kopyo",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "clip"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The Mac clipboard manager that remembers everything\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-23T18:59:04.098433+00:00"
     },
     {
       "id": "1262b413fe5b",
@@ -9244,19 +9541,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-24T11:51:33.811825+00:00"
-    },
-    {
-      "id": "75a8489d12b9",
-      "name": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Freemium",
-      "description_it": "Use AI to defend against AI\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-24T11:51:33.811863+00:00"
     },
     {
       "id": "bd16532313dc",
