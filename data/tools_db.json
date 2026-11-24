@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T18:59:04.409133+00:00",
-  "total": 4084,
+  "updated_at": "2026-11-24T18:38:24.266013+00:00",
+  "total": 4103,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,292 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "e142d4d21638",
+      "name": "Rotara",
+      "url": "https://www.producthunt.com/products/rotara",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Mac workspaces, one flick away\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015154+00:00"
+    },
+    {
+      "id": "dfdc22db0e29",
+      "name": "Prates",
+      "url": "https://www.producthunt.com/products/prates",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Learns how you write, then writes exactly as you would\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015265+00:00"
+    },
+    {
+      "id": "b8596d975887",
+      "name": "Ohhai",
+      "url": "https://www.producthunt.com/products/ohhai",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Type messy, send clean: an AI keyboard for iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015320+00:00"
+    },
+    {
+      "id": "f94a387cc043",
+      "name": "Finer Screenshot",
+      "url": "https://www.producthunt.com/products/finer-screenshot",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "background",
+        "screenshot",
+        "screen",
+        "automat",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Add text that automatically stays readable on any background\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015402+00:00"
+    },
+    {
+      "id": "ecb230350fac",
+      "name": "Wellbreak",
+      "url": "https://www.producthunt.com/products/wellbreak",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your wellbeing buddy in Mac's notch\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015453+00:00"
+    },
+    {
+      "id": "987bbf0a7447",
+      "name": "Tendor",
+      "url": "https://www.producthunt.com/products/tendor",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Write it or ask it, from anywhere on Windows\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015532+00:00"
+    },
+    {
+      "id": "02fae12c2ff2",
+      "name": "Umami Manager",
+      "url": "https://www.producthunt.com/products/umami-manager",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Umami reports, widgets & links – native on iPhone & iPad\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015628+00:00"
+    },
+    {
+      "id": "bb00e391cc6a",
+      "name": "Hourly Journal",
+      "url": "https://www.producthunt.com/products/hourly-journal",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Journal your hours, understand your days\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015682+00:00"
+    },
+    {
+      "id": "3128b808ab4d",
+      "name": "Juncts",
+      "url": "https://www.producthunt.com/products/juncts",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Superhuman for your DMs, with AI that triages and drafts\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015733+00:00"
+    },
+    {
+      "id": "a83342fe6223",
+      "name": "Astrolabio",
+      "url": "https://www.producthunt.com/products/astrolabio",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your AIs pick up right where you left off, on your Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015782+00:00"
+    },
+    {
+      "id": "08b350ee3be7",
+      "name": "Claude Ship",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "write"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Ship code as fast as you can write it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015846+00:00"
+    },
+    {
+      "id": "26aa4d407517",
+      "name": "distribution.dev",
+      "url": "https://www.producthunt.com/products/distribution-dev",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "developer",
+        "dev",
+        "ad",
+        "campaign"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Advertise to developers on many sites with one campaign\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015917+00:00"
+    },
+    {
+      "id": "8d5c795523d0",
+      "name": "SparrowDesk Phone Calls",
+      "url": "https://www.producthunt.com/products/sparrowdesk",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "chat",
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Phone support in the same inbox as email, chat & WhatsApp\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.015989+00:00"
+    },
+    {
+      "id": "72de34b9864b",
+      "name": "Kodak SlideTag",
+      "url": "https://www.producthunt.com/products/kodak-slidetag",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "film",
+        "slide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A 1935 film-slide E-Ink frame that tracks like an AirTag\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016063+00:00"
+    },
+    {
+      "id": "2be765f3e010",
+      "name": "Viktor Code",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Coding agents know your repo. Viktor knows your company.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016130+00:00"
+    },
+    {
+      "id": "b1c343560141",
+      "name": "Cullman",
+      "url": "https://www.producthunt.com/products/cullman",
+      "source": "Product Hunt AI (feed)",
+      "category": "audio",
+      "tags": [
+        "voice",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Faster voice agent evals, from simulation to production\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016215+00:00"
+    },
+    {
+      "id": "e50df2ca1dca",
+      "name": "Granular.Build",
+      "url": "https://www.producthunt.com/products/granular-build",
+      "source": "Product Hunt AI (feed)",
+      "category": "immagini",
+      "tags": [
+        "visual",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Put your AI agents to work in a visual workspace\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016284+00:00"
+    },
+    {
+      "id": "11b098c87088",
+      "name": "Astor",
+      "url": "https://www.producthunt.com/products/astor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Thesis Investing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016329+00:00"
+    },
+    {
+      "id": "2fa0767dbefb",
+      "name": "Willow iOS 2.0",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "No switching apps while you dictate\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-24T18:38:24.016376+00:00"
     },
     {
       "id": "9159ba6172eb",
