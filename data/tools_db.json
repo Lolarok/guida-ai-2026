@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T17:31:37.907562+00:00",
-  "total": 4143,
+  "updated_at": "2026-11-27T17:14:00.967813+00:00",
+  "total": 4160,
   "tools": [
     {
       "name": "Cursor",
@@ -378,19 +378,285 @@
       "featured": false
     },
     {
-      "id": "d99e94c62e14",
-      "name": "Meboki",
-      "url": "https://www.producthunt.com/products/meboki",
+      "id": "4067acf0dcb6",
+      "name": "RightFont 2026",
+      "url": "https://www.producthunt.com/products/rightfont",
       "source": "Product Hunt AI (feed)",
-      "category": "scrittura",
-      "tags": [
-        "grammar"
-      ],
-      "pricing": "Free",
-      "description_it": "Offline grammar checker for any Mac app. Open source\n          \n          \n            Discussion\n            |\n            Link",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The right font, right now.\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-11-26T17:31:37.771925+00:00"
+      "discovered_at": "2026-11-27T17:14:00.734644+00:00"
+    },
+    {
+      "id": "fdfd9aae0d84",
+      "name": "Wizstar R1",
+      "url": "https://www.producthunt.com/products/wizstar",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide",
+        "video"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Seedance 2.0-level product videos at a lower cost\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.734746+00:00"
+    },
+    {
+      "id": "31c52cc675c5",
+      "name": "slay",
+      "url": "https://www.producthunt.com/products/slay-3",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "ide"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI composition guide camera app for iPhone\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.734815+00:00"
+    },
+    {
+      "id": "fec1b824c3cf",
+      "name": "Depost AI",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "brand"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The LinkedIn AI agent that learns what works for your brand\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.734891+00:00"
+    },
+    {
+      "id": "e45f643c27d7",
+      "name": "Prosed AI 2.0 + MCP",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Your company's words, assembled into a book\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.734940+00:00"
+    },
+    {
+      "id": "41c8198399a7",
+      "name": "Form Action Store",
+      "url": "https://www.producthunt.com/products/form-action-store",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "discover",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Discover, create and grow with powerful digital tools.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735011+00:00"
+    },
+    {
+      "id": "17a486e3b49b",
+      "name": "snibl",
+      "url": "https://www.producthunt.com/products/snibl",
+      "source": "Product Hunt AI (feed)",
+      "category": "chat",
+      "tags": [
+        "ask"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Save highlighted text from any app, then ask AI about it\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735083+00:00"
+    },
+    {
+      "id": "f2d617dbda15",
+      "name": "Remove Silence",
+      "url": "https://www.producthunt.com/products/remove-silence",
+      "source": "Product Hunt AI (feed)",
+      "category": "musica",
+      "tags": [
+        "audio"
+      ],
+      "pricing": "Free",
+      "description_it": "Cut the silence from audio in your browser, free\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735155+00:00"
+    },
+    {
+      "id": "ccd1e03a303e",
+      "name": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "AI Canvas where thinking becomes tangible\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735201+00:00"
+    },
+    {
+      "id": "c4433cb2a7f8",
+      "name": "Ploid",
+      "url": "https://www.producthunt.com/products/ploid",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "search",
+        "agent"
+      ],
+      "pricing": "Freemium",
+      "description_it": "People search for AI agents, across 2B+ profiles\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735313+00:00"
+    },
+    {
+      "id": "05cc14b85257",
+      "name": "Spark AI",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "data"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI-native permitting & diligence services for data centers\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735389+00:00"
+    },
+    {
+      "id": "e980ec1dff58",
+      "name": "ChickyTutor",
+      "url": "https://www.producthunt.com/products/chickytutor",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A language tutor that knows you better daily. Now on iOS\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735438+00:00"
+    },
+    {
+      "id": "1e42026a5c4f",
+      "name": "Onset",
+      "url": "https://www.producthunt.com/products/onset",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "youtube"
+      ],
+      "pricing": "Free tier",
+      "description_it": "AI reviews, titles and thumbnails for YouTube creators\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735503+00:00"
+    },
+    {
+      "id": "cc3d6610f0cc",
+      "name": "Espresso 27",
+      "url": "https://www.producthunt.com/products/espresso-27",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "editor"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The web editor for people who love the Mac\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735571+00:00"
+    },
+    {
+      "id": "f80dc3ebc50c",
+      "name": "gpyou",
+      "url": "https://www.producthunt.com/products/gpyou",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "The OpenRouter for compute for the cheapest GPU in stock\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735618+00:00"
+    },
+    {
+      "id": "a73673e13d44",
+      "name": "Contral",
+      "url": "https://www.producthunt.com/products/contral",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "The AI coding agent that checks its work and teaches you\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735697+00:00"
+    },
+    {
+      "id": "54bd21081e36",
+      "name": "Pushary Calls",
+      "url": "https://www.producthunt.com/products/pushary",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Miss your AI agent’s ping? Pushary calls you.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735786+00:00"
+    },
+    {
+      "id": "9297e38e45d3",
+      "name": "Periscope",
+      "url": "https://www.producthunt.com/products/periscope-4",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "api"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Turn any work into an API\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735845+00:00"
+    },
+    {
+      "id": "185f1b4d2250",
+      "name": "Kagi Mail",
+      "url": "https://www.producthunt.com/products/kagi",
+      "source": "Product Hunt AI (feed)",
+      "category": "produttività",
+      "tags": [
+        "email"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Private email that puts people who need you first\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-27T17:14:00.735912+00:00"
     },
     {
       "id": "7c179097ca07",
@@ -406,7 +672,22 @@
       "description_it": "✦ Open bar databases, storage buckets & AI keys for agents\n          \n          \n            Discussion\n            |\n            Link",
       "rating": 2,
       "featured": false,
-      "discovered_at": "2026-11-26T17:31:37.772057+00:00"
+      "discovered_at": "2026-11-27T17:14:00.735995+00:00"
+    },
+    {
+      "id": "d99e94c62e14",
+      "name": "Meboki",
+      "url": "https://www.producthunt.com/products/meboki",
+      "source": "Product Hunt AI (feed)",
+      "category": "scrittura",
+      "tags": [
+        "grammar"
+      ],
+      "pricing": "Free",
+      "description_it": "Offline grammar checker for any Mac app. Open source\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-26T17:31:37.771925+00:00"
     },
     {
       "id": "07b63eb7504b",
@@ -518,21 +799,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-11-26T17:31:37.772576+00:00"
-    },
-    {
-      "id": "185f1b4d2250",
-      "name": "Kagi Mail",
-      "url": "https://www.producthunt.com/products/kagi",
-      "source": "Product Hunt AI (feed)",
-      "category": "produttività",
-      "tags": [
-        "email"
-      ],
-      "pricing": "Free tier",
-      "description_it": "Private email that puts people who need you first\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-11-26T17:31:37.772648+00:00"
     },
     {
       "id": "0abe0778d8dd",
@@ -15174,19 +15440,6 @@
       "rating": 2,
       "featured": false,
       "discovered_at": "2026-10-08T14:22:57.919792+00:00"
-    },
-    {
-      "id": "e980ec1dff58",
-      "name": "ChickyTutor",
-      "url": "https://www.producthunt.com/products/chickytutor",
-      "source": "Product Hunt AI (feed)",
-      "category": "altro",
-      "tags": [],
-      "pricing": "Free tier",
-      "description_it": "A private language tutor that knows you better every day.\n          \n          \n            Discussion\n            |\n            Link",
-      "rating": 2,
-      "featured": false,
-      "discovered_at": "2026-10-08T14:22:57.919848+00:00"
     },
     {
       "id": "df647a0c3d6f",
