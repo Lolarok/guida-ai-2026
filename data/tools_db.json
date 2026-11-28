@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T17:14:00.967813+00:00",
-  "total": 4160,
+  "updated_at": "2026-11-28T15:58:26.388444+00:00",
+  "total": 4179,
   "tools": [
     {
       "name": "Cursor",
@@ -376,6 +376,293 @@
       "description_it": "Genera presentazioni da un prompt. Scegli lo stile, l'AI crea slide professionali. Alternativa AI a PowerPoint.",
       "rating": 3,
       "featured": false
+    },
+    {
+      "id": "96d7d8936d55",
+      "name": "NOVA",
+      "url": "https://www.producthunt.com/products/nova-26",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "dev",
+        "deploy"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Development to deployment, and everything after.\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.202689+00:00"
+    },
+    {
+      "id": "46b1abd5f7a2",
+      "name": "airoom",
+      "url": "https://www.producthunt.com/products/airoom",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "claude",
+        "agent"
+      ],
+      "pricing": "Free",
+      "description_it": "An open-source control room for your Claude Code agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.202776+00:00"
+    },
+    {
+      "id": "4ea230a33b40",
+      "name": "Dex Telemetry",
+      "url": "https://www.producthunt.com/products/dex-by-exmergo",
+      "source": "Product Hunt AI (feed)",
+      "category": "ricerca",
+      "tags": [
+        "analyt",
+        "data",
+        "ad"
+      ],
+      "pricing": "Free",
+      "description_it": "Open-source Datadog for analytics\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.202838+00:00"
+    },
+    {
+      "id": "33043589d77c",
+      "name": "RankTheSearch",
+      "url": "https://www.producthunt.com/products/rankthesearch",
+      "source": "Product Hunt AI (feed)",
+      "category": "video",
+      "tags": [
+        "tiktok",
+        "search",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Make the TikTok posts your buyers are already searching for\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.202907+00:00"
+    },
+    {
+      "id": "365b17cd81a1",
+      "name": "gutcheck",
+      "url": "https://www.producthunt.com/products/gutcheck-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "code",
+        "ide",
+        "claude"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Check your gut against the internet, inside Claude Code\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.202968+00:00"
+    },
+    {
+      "id": "3ed606381237",
+      "name": "Cognition SWE",
+      "url": "https://www.producthunt.com/products/cognition-swe-2-1",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A long-horizon coding model with a 10x faster Ultrafast mode\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203031+00:00"
+    },
+    {
+      "id": "6e163d65fc00",
+      "name": "Slopie",
+      "url": "https://www.producthunt.com/products/slopie",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "A free 3D map of every ski resort, in your browser\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203076+00:00"
+    },
+    {
+      "id": "f8b0eea68457",
+      "name": "GrayPass",
+      "url": "https://www.producthunt.com/products/graypass",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "action"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Verify who’s in control before agents make sensitive actions\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203172+00:00"
+    },
+    {
+      "id": "fe4337171f16",
+      "name": "RetainIQ",
+      "url": "https://www.producthunt.com/products/retainiq-2",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Know which customers need attention, why & what to do next\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203217+00:00"
+    },
+    {
+      "id": "c6983435f1b2",
+      "name": "overads.io",
+      "url": "https://www.producthunt.com/products/overads-io",
+      "source": "Product Hunt AI (feed)",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "ad"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Marketing and GTM that run while you sleep\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203273+00:00"
+    },
+    {
+      "id": "e2bd72568a26",
+      "name": "Bento",
+      "url": "https://www.producthunt.com/products/bento-11",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Runnable lessons and interactive maps of GitHub repos\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203344+00:00"
+    },
+    {
+      "id": "5f2c7ed02bd7",
+      "name": "Tano",
+      "url": "https://www.producthunt.com/products/tano",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Korean vocabulary app that skips the words you know\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203384+00:00"
+    },
+    {
+      "id": "c16a9f5d9059",
+      "name": "Microsoft",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1-1",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "Microsoft's decision model: calibrated, 2x faster, now GA\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203424+00:00"
+    },
+    {
+      "id": "c1c24f7d1e98",
+      "name": "DearDarling",
+      "url": "https://www.producthunt.com/products/deardarling",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "A couples messenger with a mutual friend, Pip\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203465+00:00"
+    },
+    {
+      "id": "5bcb16d701aa",
+      "name": "Superrelay",
+      "url": "https://www.producthunt.com/products/superrelay",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free tier",
+      "description_it": "One inbox for every app you ship, never priced per ticket\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203505+00:00"
+    },
+    {
+      "id": "f27b8be87c1c",
+      "name": "Stacktrace",
+      "url": "https://www.producthunt.com/products/stacktrace",
+      "source": "Product Hunt AI (feed)",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Real-time steering and guardrails for AI agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203561+00:00"
+    },
+    {
+      "id": "68eb6b1743b6",
+      "name": "OpenCrawl",
+      "url": "https://www.producthunt.com/products/opencrawl",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "coding",
+        "agent"
+      ],
+      "pricing": "Free tier",
+      "description_it": "Multiplayer for your coding agents\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203610+00:00"
+    },
+    {
+      "id": "795f219b0a7b",
+      "name": "Tallhorn",
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "source": "Product Hunt AI (feed)",
+      "category": "coding",
+      "tags": [
+        "cli",
+        "ask",
+        "agent",
+        "writing"
+      ],
+      "pricing": "Free tier",
+      "description_it": "A native MongoDB® client where AI agents ask before writing\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203671+00:00"
+    },
+    {
+      "id": "c7c88a2294fa",
+      "name": "Wender Desktop",
+      "url": "https://www.producthunt.com/products/wender",
+      "source": "Product Hunt AI (feed)",
+      "category": "altro",
+      "tags": [],
+      "pricing": "Free",
+      "description_it": "A 100% free Paper alternative\n          \n          \n            Discussion\n            |\n            Link",
+      "rating": 2,
+      "featured": false,
+      "discovered_at": "2026-11-28T15:58:26.203709+00:00"
     },
     {
       "id": "4067acf0dcb6",
